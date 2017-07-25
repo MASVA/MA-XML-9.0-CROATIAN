@@ -47,10 +47,8 @@
         <item>Sumaglica</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Teme</item>
-        <item>Widgeti</item>
         <item>Pozadina</item>
-        <item>Efekti</item>
-		<item>Postavke</item>
+        <item>Widgeti</item>
+	<item>Postavke</item>
     </string-array>
 </resources> 
