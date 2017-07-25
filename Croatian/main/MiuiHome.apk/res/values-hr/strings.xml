@@ -161,17 +161,22 @@
   <string name="lock_screen_success_message">Postavljeno za pozadinu zaklj. zaslona</string>
   <string name="lock_screen_wallpaper">Pozadina zaklj. zaslona</string>
   <string name="menu_add">Dodaj</string>
+  <string name="menu_auto_fill">Autom. popuni</string>
   <string name="menu_back_desktop">Natrag na Početni zaslon</string>
+  <string name="menu_cell_setting">Postavke zaslona</string>
   <string name="menu_customize">Postavke</string>
   <string name="menu_edit">Uredi Početni zaslon</string>
   <string name="menu_exit_scene">Izlaz iz MiSpacea</string>
   <string name="menu_item_add_item">Dodaj na Početni zaslon</string>
   <string name="menu_launcher_setting">Postavke Pokretača</string>
+  <string name="menu_lock">Zaklj. zaslon</string>
+  <string name="menu_more">Više</string>
   <string name="menu_picktheme">Odaberite temu</string>
   <string name="menu_reset_scene">Vraćanje na zadane postavke</string>
   <string name="menu_search">Pretraži</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_sort">Poredaj aplikacije</string>
+  <string name="menu_trans_effect">Efekat prijelaza</string>
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregledi Početnih zaslona</string>
   <string name="mi_wallpaper">MIUI Trgovina Tema</string>
@@ -279,4 +284,5 @@
   <string name="widget_favorite_contacts_style">Promjena veličine</string>
   <string name="widget_gadget_player">Glazba</string>
   <string name="widget_global_search">Traženje</string>
+  <string name="widget_quick_function">Brza radnja</string>
 </resources>

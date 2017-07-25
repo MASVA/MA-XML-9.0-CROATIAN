@@ -85,6 +85,8 @@
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_label">"UI Sustava"</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
+  <string name="as_important">Važno</string>
+  <string name="as_unimportant">Nevažno</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj zvuk</string>
   <string name="audio_effect_settings">Odaberi vrstu slušalica</string>
@@ -175,9 +177,10 @@
   <string name="camera_key_action_shortcut_title">Prečac</string>
   <string name="camera_key_action_shortcut_wake">Zaključaj/Probudi uređaj</string>
   <string name="camera_key_action_toggle_title">Promjena stanja prečaca</string>
-  <string name="category_personal">Personal</string>
-  <string name="category_work">Work</string>
-  <string name="charge_length_format">%1$s ago</string>
+  <string name="cancel">Odustani</string>
+  <string name="category_personal">Osobno</string>
+  <string name="category_work">Radno</string>
+  <string name="charge_length_format">prije %1$s</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
@@ -298,6 +301,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
+  <string name="important_desc">Sve važne obavijesti prikazat će se izravno u Panelu obavijesti.</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
@@ -470,7 +474,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="screenshot_dlg_cancel">Odustani</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
-  <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu, ili to ne dopušta aplikacija ili vaša organizacija."</string>
+  <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu ili to ne dopušta aplikacija."</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
@@ -588,6 +592,9 @@ Povucite dolje za zaključavanje"</string>
   <string name="tts_status_ok">%1$s je u potpunosti podržan</string>
   <string name="tts_status_requires_network">%1$s zahtijeva mrežnu vezu</string>
   <string name="tts_status_title">Status zadanog jezika</string>
+  <string name="un_important_notifications">Nevažne obavijesti</string>
+  <string name="unimportant_desc">Sve nevažne obavijesti pojavit će se u zasebnoj mapi.</string>
+  <string name="unimportant_title">Nevažno</string>
   <string name="unknown">Nepoznato</string>
   <string name="usb_accessory_confirm_prompt">Otvoriti %1$s kada je uključen ovaj USB dodatak?</string>
   <string name="usb_accessory_permission_prompt">Dopustiti aplikaciji %1$s pristup USB dodatku?</string>

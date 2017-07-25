@@ -95,6 +95,8 @@
   <string name="incompatible_dialog_message">Ova tema nije u potpunosti kompatibilna sa MIUI 8. Neki elementi mogu biti prikazani na pogrešan način.</string>
   <string name="incompatible_dialog_ok">Shvaćam</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
+  <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
+  <string name="internal_online_precust_gorgeous_color_name">Prekrasna boja</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="live_wallpaper">Animirana pozadina</string>
   <string name="loading">Učitavam…</string>
@@ -123,7 +125,7 @@
   <string name="no_data">"Ne mogu se povezati na mrežu"</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
-  <string name="present_local_themes">Preuzete</string>
+  <string name="present_local_themes">Moji resursi</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
   <string name="provision_default_theme_title">Zadano</string>
   <string name="provision_loading_tips">Samo trenutak…</string>

@@ -152,6 +152,8 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="add_fingerprint_success_msg">Uspješno dodano</string>
   <string name="add_fingerprint_text">Dodaj otisak prsta</string>
   <string name="add_fingerprint_toast_text">Stavite prst na senzor</string>
+  <string name="add_new">Dodaj</string>
+  <string name="add_rule">Dodaj pravila</string>
   <string name="add_virtual_keyboard">Dodaj virtualnu tipkovnicu</string>
   <string name="adding_profile_owner_warning">"Ako nastavite, vašim će korisnikom upravljati administrator, koji može i pohranjivati povezane podatke, kao i vaše osobne podatke.Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s ovim Kkorisnikom te njima upravljati, uključujući mrežnu aktivnost i podatke o lokaciji vašeg uređaja."</string>
   <string name="additional_permissions">Dodatna dopuštenja</string>
@@ -180,6 +182,8 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="alarm_ringtone_title">Zadana melodija zvona za alarm</string>
   <string name="alarm_sound_dialog_title">Odaberite zvuk alarma</string>
   <string name="alarm_sound_title">Zvuk Alarma</string>
+  <string name="alarm_stop">Zvuk alarma može prekinuti bešumni način</string>
+  <string name="alarm_stop_info">Ako alarm zazvoni prije kraja postavke, bešumno može biti prekinuto</string>
   <string name="alarm_volume_option_title">Alarm</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Prikaz čuvara zaslona troši više bateriju.</string>
@@ -196,6 +200,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
   <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
   <string name="alpha_build">" | Alpha"</string>
+  <string name="always">Uvijek</string>
   <string name="always_allow_bind_appwidgets_text">Odlučili ste dopustiti ovoj aplikaciji izradu widgeta i pristupanje njihovim podacima.</string>
   <string name="always_running">Uvijek se izvodi (%s)</string>
   <string name="amber_alerts_summary">Primanje biltena o otmicama djece</string>
@@ -341,6 +346,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširi postavke za aplikaciju</string>
   <string name="ask_compatibility">Pitaj pri pokretanju</string>
+  <string name="ask_for_delete">Jeste li sigurni da želite izbrisati pravilo?</string>
   <string name="assist_access_context_summary">Dopustite aplikaciji pomoćnika da pristupi sadržaju zaslona kao tekstu</string>
   <string name="assist_access_context_title">Koristi tekst sa zaslona</string>
   <string name="assist_access_screenshot_summary">Dopustite aplikaciji pomoćnika da pristupi slici na zaslonu</string>
@@ -380,6 +386,8 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="auto_replace_summary">Ispravi pogrešno napisane riječi</string>
   <string name="auto_restore_summary">Pri ponovnoj instalaciji aplikacije vratiti postavke i podatke za koje su stvorene sigurnosne kopije</string>
   <string name="auto_restore_title">Automatska obnova</string>
+  <string name="auto_rule">Pravilo po rasporedu</string>
+  <string name="auto_silent">Autom. utišaj</string>
   <string name="auto_startup_application_manage">Automatsko pokretanje</string>
   <string name="auto_startup_count">Dopušteno automatsko pokretanje aplik.: %d</string>
   <string name="auto_upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
@@ -634,6 +642,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_enter_pin_msg_hs">Uređaj zahtijeva pristupni kôd od 16 znakova Visoke sigurnosti</string>
   <string name="bluetooth_enter_pin_other_device">Možda biste također trebali unijeti ovaj PIN i na drugi uređaj.</string>
   <string name="bluetooth_error_title"/>
+  <string name="bluetooth_filter_device_display">Prikaži sve</string>
+  <string name="bluetooth_filter_device_filter">Samo tipično</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
@@ -862,6 +872,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_alert">Odbaciti nespremljene promjene?</string>
+  <string name="cancel_button">Odustani</string>
   <string name="cancel_all_caps">ODUSTANI</string>
   <string name="cancel_download_buton_text">Odustani</string>
   <string name="cant_sync_dialog_message">Sinkronizacija za tu stavku trenutačno je onemogućena. Da biste promijenili tu postavku, privremeno uključite pozadinske podatke i automatsku sinkronizaciju.</string>
@@ -945,6 +956,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
   <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
+  <string name="close_sdcard_optimization_title">Zatvori emuliranu optimizaciju SD kartice</string>
+  <string name="close_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
   <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
   <string name="cloud_restore_section_summary">Vrati aplikacije, izgled Poč. zaslona i postavke sustava</string>
@@ -1238,6 +1251,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="date_time_set_timezone">Odabir vrem. zone</string>
   <string name="date_time_set_timezone_title">Vremenska zona</string>
   <string name="date_time_settings">Datum &amp; vrijeme</string>
+  <string name="day_of_week">Dan u tjednu</string>
   <string name="debug_app">Aplikacija za uklanjanje pogrešaka</string>
   <string name="debug_app_not_set">Nema aplikacije za uklanjanje pogrešaka</string>
   <string name="debug_app_set">Aplikacija za uklanjanje pogrešaka: %1$s</string>
@@ -1268,6 +1282,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_keyboard_layout">Zadano</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
+  <string name="default_rule_name">Pravilo po rasporedu 1</string>
   <string name="default_sound">Zadani zvuk</string>
   <string name="default_spell_checker">Zadana provjera pravopisa</string>
   <string name="default_usb_mode">USB veza</string>
@@ -1276,6 +1291,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="delete_fingerprint_text">Ukloni</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati ovaj otisak prsta?</string>
+  <string name="delete_rule">Ukloni pravila</string>
   <string name="delete_saved_network">Izbriši spremljene mreže</string>
   <string name="demo_mode">Demo način</string>
   <string name="deny">Odbij</string>
@@ -1533,6 +1549,9 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="edge_mode_screenshot">Snimka zaslona</string>
   <string name="edge_mode_screenshot_summary">Dvaput dodirnite oba ruba telefona da napravite snimak zaslona</string>
   <string name="edge_touch_volume">Prilagodi glasnoću na Edge Touch</string>
+  <string name="edit_rule">Uredi pravila</string>
+  <string name="edit_rules">Uredi</string>
+  <string name="eighthours">8 sati</string>
   <string name="emergency_info_title">Informacije u hitnom slučaju</string>
   <string name="emergency_tone_alert">Upozorenje</string>
   <string name="emergency_tone_silent">Bešumno</string>
@@ -1707,6 +1726,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_unlock_set_unlock_pin">Otisak prsta i PIN</string>
   <string name="fingerprint_usage_category_title">Koristi otisak prsta za</string>
   <string name="finish_application">Prisilno zaustavi</string>
+  <string name="finish_button">Dovršeno</string>
   <string name="finish_button_label">Dovršeno</string>
   <string name="firmware_version">Android verzija</string>
   <string name="floating_window_switch_label">Uključi skočne prozore</string>
@@ -1767,6 +1787,7 @@ Gradom je šetalo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni
   <string name="forget_privacy_password_summary">Koristite Mi Račun za poništavanje vaše zaporke</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
+  <string name="fourhours">2 sata</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na Poč. zaslon</string>
   <string name="free_memory">Dostupno</string>
   <string name="free_wifi_agreement_remind_never">"Ne prikazuj ponovno"</string>
@@ -2557,6 +2578,13 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_lab_feature_off">Isključi</string>
+  <string name="miui_lab_feature_on">Uključi</string>
+  <string name="miui_lab_features">MIUI laboratorijske značajke</string>
+  <string name="miui_lab_settings">MIUI laboratorij</string>
+  <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
+  <string name="miui_lab_taplus_desc">Pritisnite i držite da biste pokrenuli prečace</string>
+  <string name="miui_lab_taplus_title">Pokreni aplikacije</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
@@ -2577,6 +2605,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
+  <string name="mode_disable">Onemogućeno</string>
+  <string name="mode_enable">Omogućeno</string>
   <string name="model_number">Model uređaja</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>
   <string name="modem_tool_log_start">Započni</string>
@@ -2869,6 +2899,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="oem_radio_info_label">Informacije/postavke koje se posebno odnose na OEM</string>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="ok_rules">Dovršeno</string>
   <string name="okay">U redu</string>
   <string name="oldman_mode_confirm_title">Sada ponovno pokrenuti?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Vaš uređaj će se ponovno pokrenuti za izlaz iz Lite načina</string>
@@ -2882,6 +2913,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="one_cacrt">jedan CA certifikat</string>
   <string name="one_usercrt">jedan korisnički certifikat</string>
   <string name="one_userkey">jedan korisnički ključ</string>
+  <string name="onehour">30 minuta</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online izvori</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
@@ -2895,6 +2927,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Smart asistent i primati njegova ažuriranja. Isključiti sada?"</string>
   <string name="open_personal_assistant_dialog_title">Isključi Smart assistant</string>
   <string name="open_personal_assistant_title">Uključi Smart assistant</string>
+  <string name="open_sdcard_optimization_title">Otvori emuliranu optimizaciju SD kartice</string>
+  <string name="open_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Povezan na %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
@@ -3551,6 +3585,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="remove_from_frequently_fragment">Ukloniti %s iz Brzih postavki?</string>
   <string name="remove_managed_profile_label">Ukloni radni profil</string>
   <string name="repeat">Ponovi</string>
+  <string name="repeat_call">Ponavlja se podsjetnik pozivatelja</string>
+  <string name="repeat_call_info">U bešumnom načinu, ako je ista osoba uputila u 15 minuta dva poziva, dopuštaju se podsjetnici</string>
   <string name="repeat_title">Ponovi</string>
   <string name="reset_aaid">Resetiraj identifikator oglašavanja</string>
   <string name="reset_app_preferences">Poništi postavke apl.</string>
@@ -3622,6 +3658,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="roaming_warning_multiuser">"Kada dopustite podatkovni roaming, mogu nastati značajni troškovi roaminga!
 
 Ova postavka utječe na sve korisnike na ovom telefonu."</string>
+<string name="rule_name">Naziv pravila</string>
   <string name="running_frequency">Učestalost</string>
   <string name="running_process_item_removed_user_label">Uklonjeni korisnik</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
@@ -3782,8 +3819,13 @@ Za prikvačivanje zaslona:
   <string name="sd_memory">USB memorija</string>
   <string name="sd_mount">Uključi memoriju USB</string>
   <string name="sd_mount_summary"/>
-  <string name="sdcard_changes_instructions">Promijene stupaju na snagu kod ponovnog priključivanja USB kabela.</string>
-  <string name="sdcard_format">Izbriši memoriju USB</string>
+  <string name="sdcard_changes_instructions">Promjene stupaju na snagu kod ponovnog priključivanja USB kabela.</string>
+  <string name="sdcard_format">Izbriši USB memoriju</string>
+  <string name="sdcard_optimization">Optimizacija emulirane SD kartice</string>
+  <string name="sdcard_optimization_cancel">Odustani</string>
+  <string name="sdcard_optimization_close">Isključi &amp; ponovno pokreni</string>
+  <string name="sdcard_optimization_open">Uključi</string>
+  <string name="sdcard_optimization_summary">Brže čitanje i pisanje na SD karticu</string>
   <string name="sdcard_setting">Memorija USB</string>
   <string name="sdcard_settings_available_bytes_label">Dostupni bajtovi:</string>
   <string name="sdcard_settings_bad_removal_status">USB memorija uklonjena je dok se upotrebljavala!</string>
@@ -4177,7 +4219,13 @@ Za prikvačivanje zaslona:
   <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li vaš uređaj ima internetsku vezu."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
   <string name="shuting_down_find_device">Isključivanje Pronađi uređaj…</string>
+  <string name="silent_mode">Bešumni način</string>
   <string name="silent_mode_title">Bešumni način</string>
+  <string name="silent_off">Isključi</string>
+  <string name="silent_settings">Bešumni način</string>
+  <string name="silent_standard">Bešumno</string>
+  <string name="silent_time">Trajanje Bešumnog načina</string>
+  <string name="silent_total">DND</string>
   <string name="sim_absent">Nema SIM/RUIM</string>
   <string name="sim_bad_pin">PIN mora biti 4-8 brojeva dugačak</string>
   <string name="sim_call_back_title">Uzvratni poziv sa zadanog SIM-a</string>
@@ -4330,6 +4378,10 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="ssl_ca_cert_warning">Mreža se možda nadzire</string>
   <string name="ssl_ca_cert_warning_message">"Treća je strana u mogućnosti pratiti vašu mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. To je moguće zbog pouzdane vjerodajnice instalirane na vašem uređaju."</string>
   <string name="stable_build">" | Stabilna"</string>
+  <string name="standard">Bešumno</string>
+  <string name="standard_info">Pozivi i obavijesti su zabranjeni, ali će alarm i glazba biti dostupni</string>
+  <string name="start_silent_mode">Uključi Bešumni način</string>
+  <string name="start_vip_mode">Omogući VIP način</string>
   <string name="starting_android">Pokretanje Androida</string>
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
@@ -4682,6 +4734,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="theme_settings_title">Teme</string>
   <string name="time_picker_title">Vrijeme</string>
   <string name="time_zone_auto_stub">Odabir Vremenske zone</string>
+  <string name="timed_titlei">Pravilo po rasporedu %d</string>
   <string name="timer_switch_settings_title">Planirano uključivanje/isključivanje</string>
   <string name="timezone_settings">Vremenska zona</string>
   <string name="title_color_calibration">Način Korekcija boja</string>
@@ -4699,6 +4752,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
   <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
+  <string name="total">DND</string>
+  <string name="total_info">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="total_memory">Ukupna memorija</string>
   <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>
@@ -4789,6 +4844,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="turn_on_security_lock">Odaberite Zaklj. zaslona</string>
   <string name="turn_on_wifi_dialog_text">WLAN je isključen kada je Prijenosni hotspot aktivan. Da uključite WLAN, isključite Prijenosni hotspota.</string>
   <string name="turn_on_wifi_dialog_title">Uključi WLAN</string>
+  <string name="twohours">1 sat</string>
   <string name="uicc_eject">Isključi UICC memoriju</string>
   <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>
   <string name="uicc_format">Izbriši UICC memoriju</string>
@@ -5090,6 +5146,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na upravljač igrama kada su povezani.</string>
   <string name="vibrate_on_touch_title">Vibracija na dodir</string>
   <string name="vibrate_when_ringing_title">Vibracija i za pozive</string>
+  <string name="vip_list">VIP popis</string>
+  <string name="vip_mode_info">U bešumnom načinu, o pozivima i SMS porukama sa VIP popisa kontakata ćete biti obavješteni</string>
   <string name="view_install_log">Prikaži zapis</string>
   <string name="virtual_keyboard_category">Virtualna tipkovnica</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
@@ -5369,6 +5427,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_eap_ca_cert">CA certifikat</string>
   <string name="wifi_eap_domain">Domena</string>
   <string name="wifi_eap_identity">Identitet</string>
+   <string name="wifi_eap_info_reconnect">Provjera autentičnosti nije uspjela, pokušajte ponovo!</string>
   <string name="wifi_eap_method">EAP metoda</string>
   <string name="wifi_eap_sim_simcard">Odaberi SIM karticu</string>
   <string name="wifi_eap_user_cert">Korisnički certifikat</string>
@@ -5397,6 +5456,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_hotspot_message">%1$s zahtijeva prijavu na webu za povezivanje s mrežom.</string>
   <string name="wifi_hotspot_title">Želite li se prijaviti radi povezivanja?</string>
   <string name="wifi_in_airplane_mode">U Zrakoplovnom načinu</string>
+  <string name="wifi_info_reconnect">Pogreška zaporke, pokušajte ponovo!</string>
   <string name="wifi_install_credentials">Instaliranje certifikata</string>
   <string name="wifi_ip_address">IP adresa</string>
   <string name="wifi_ip_settings">IP postavke</string>

@@ -531,6 +531,7 @@ Razlog: \"%s\""</string>
   <string name="hybrid_network_unavaliable">"Ne mogu se povezati na mrežu"</string>
   <string name="hybrid_service_unavailiable">Usluga nije dostupna</string>
   <string name="hybrid_try_again">Pokušajte ponovno</string>
+  <string name="hybrid_webpage_not_available">Web stranica nije dostupna</string>
   <string name="ic_menu_back">"Natrag"</string>
   <string name="ic_menu_done">Gotovo</string>
   <string name="imLabelsGroup">IM</string>
