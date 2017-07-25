@@ -1,6 +1,7 @@
-# ![logo](http://imgur.com/a/mRW3g)
+<dl><dd><img src="http://i.imgur.com/JCMdFeD.png" border="0" alt="MIUI9_logo"></a></dd></dl>
 
-MA-XML-9.0-CROATIAN-master
+
+MA-XML-9.0-CROATIAN
 ==========================
 
 CROATIAN Translation For Xiaomi MIUI V9 Android Based OS
