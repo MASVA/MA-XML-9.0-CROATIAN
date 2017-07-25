@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvorite Wallpaper Carousel</string>
+  <string name="click_to_enter_text">Dodirnite za pregled</string>
+  <string name="confirm_pin_msg">Unesite PIN ponovno</string>
+  <string name="custom_lock_wallpaper_enter">Uđi</string>
+  <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
+  <string name="delete">Izbriši</string>
+  <string name="emergency_call_string">SOS</string>
+  <string name="experimental_try_string">Pokušaj</string>
+  <string name="experimental_validate">Provjera</string>
+  <string name="experimental_validate_fail">"Ne mogu provjeriti"</string>
+  <string name="experimental_validate_password">Zaporka</string>
+  <string name="experimental_validate_progress">Prijava…</string>
+  <string name="experimental_validate_thanks">Hvala!</string>
+  <string name="experimental_validate_username">Korisničko ime</string>
+  <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
+  <string name="find_device_turn_off_flight_mode">Isključite Zrakoplovni način</string>
+  <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>
+  <string name="fingerprint_add_title">Dodajte otisak prsta</string>
+  <string name="fingerprint_again_identified_msg">Otisak prsta je sada aktivan. Koristite ga za otključavanje uređaja ili unesite zaporku.</string>
+  <string name="fingerprint_enter_second_psw_msg">Unesite zaporku Drugog prostora nakon ponovnog pokretanja uređaja da biste mogli koristiti prepoznavanje otiska prsta</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Ne mogu ući u Drugi prostor za vrijeme Lite načina"</string>
+  <string name="fingerprint_enter_second_psw_title">Unesite zaporku Drugog prostora</string>
+  <string name="fingerprint_lockout_msg">Pričekajte minutu, zatim ponovno pokušajte otključati sa vašim otiskom prsta</string>
+  <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku sada ili pokušajte koristiti otisak prsta za %d sek.”</string>
+  <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
+  <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
+  <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
+  <string name="forget_password_string">Zaboravljena zaporka</string>
+  <string name="incorrect_pincode">Netočan PIN</string>
+  <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>
+  <string name="incorrect_pukcode">Netočan PUK</string>
+  <string name="incorrect_pukcode_remaining_attempts">Netočan PUK, preostalo pokušaja %d</string>
+  <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
+  <string name="input_password_hint_text">Unesite zaporku</string>
+  <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
+  <string name="input_pin_code">Unesite PIN</string>
+  <string name="input_puk_code">Unesite PUK</string>
+  <string name="invalid_confirm_pin_hint">"PIN-ovi se ne podudaraju"</string>
+  <string name="invalid_sim_pin_hint">PIN treba imati od 4 do 8 brojeva</string>
+  <string name="invalid_sim_puk_hint">PUK kod treba imati 8 brojeva ili više</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Temperatura baterije</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Oko %d hr do pune baterije</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Oko %d min do pune baterije​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Oko %d hr %d min do pune baterije</string>
+  <string name="keyguard_charging_info_charging_text">Punjenje</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Napon</string>
+  <string name="keyguard_charging_info_click_to_detail">Prikaži detalje</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Preostalo oko %d hr</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Preostalo oko %d min</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Preostalo oko %d hr %d min</string>
+  <string name="keyguard_charging_info_current_now_text">Nadzor u stvarnom vremenu</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Potrošeno</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Napunjeno</string>
+  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Danas %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Jučer %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Napunjeno</string>
+  <string name="keyguard_charging_info_tip_text1">Držite bateriju vašeg uređaja napunjenom barem na 10% cijelo vrijeme kako bi produžili vijek trajanja baterije.</string>
+  <string name="keyguard_charging_info_tip_text2">"Nemojte prepuniti bateriju. Višestruka kraća punjenja su bolja od noćnih punjenja."</string>
+  <string name="keyguard_charging_info_tip_text3">Izbjegavajte punjenje baterije uređaja kada je okolna temperatura niža od 0 °C.</string>
+  <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
+  <string name="keyguard_charging_info_tip_text5">Baterija kada se dulje puni postaje toplija nego obično.</string>
+  <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Brzo punjenje, dodirni za prikaz</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Brzo punjenje</string>
+  <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
+  <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
+  <string name="lock_screen_date_12">EE, dd.MM.</string>
+  <string name="lock_wallpaper_enter">Uđi</string>
+  <string name="lock_wallpaper_see_more">Više</string>
+  <string name="lock_wallpaper_learn_more">Više</string>
+  <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
+  <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
+  <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
+  <string name="lockscreen_access_pattern_start">Uzorak započet</string>
+  <string name="lockscreen_charging_msg">Punjenje</string>
+  <string name="lockscreen_emergency_call">Hitan poziv</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš Mi Račun kako bi otključali telefon .
+	
+Pokušajte ponovo za %d sek."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
+  <string name="lockscreen_glogin_checking_password">Provjera…</string>
+  <string name="lockscreen_glogin_invalid_input">Netočno korisničko ime ili zaporka.</string>
+  <string name="lockscreen_glogin_password_hint">Zaporka</string>
+  <string name="lockscreen_glogin_submit_button">Prijava</string>
+  <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na www.mi.com/micloud.</string>
+  <string name="missed_call_text">Propuštenih poziva %d</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
+  <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
+  <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
+  <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
+  <string name="phone_locked_foget_password">Zaboravljena zaporka?</string>
+  <string name="phone_locked_foget_password_content">"Možete se prijaviti na i.mi.com pomoću Mi Računa koji je povezan s ovim uređajem i izbrisati sve podatke.
+To će izbrisati sve osobne podatke pohranjene na ovom uređaju. Nakon toga, možete ponovno pokrenuti uređaj i vratiti kontakte, poruke, fotografije i druge stavke iz Mi Clouda.
+
+Nećete biti u mogućnosti to učiniti osim ako ste prijavljeni na svoj Mi Račun na ovom uređaju. u protivnom, morati ćete ponovno flashati uređaj."</string>
+  <string name="phone_locked_foget_password_footer">"Koraci:
+  
+Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i pritisnite "Izbriši uređaj"."</string>
+  <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
+  <string name="phone_locked_foget_password_ok">Shvaćam</string>
+  <string name="phone_locked_string">Telefon je zaključan</string>
+  <string name="phone_locked_timeout_minutes_string">Pokušajte ponovno za %d min.</string>
+  <string name="phone_locked_timeout_seconds_string">Pokušajte ponovno za %d sek.</string>
+  <string name="set_lock_wallpaper_failed">Nema novih slika pozadine</string>
+  <string name="unlock_sim_string">Otključaj SIM</string>
+  <string name="unlock_string">Otključaj</string>
+  <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
+  <string name="unlockscreen_low_battery">Priključite sada punjač</string>
+  <string name="unlockscreen_quick_charging_message">Brzo punjenje %d%%</string>
+  <string name="unlockscreen_recharge_completed">Baterija napunjena</string>
+  <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
+  <string name="wrong_password">Netočna zaporka</string>
+</resources>

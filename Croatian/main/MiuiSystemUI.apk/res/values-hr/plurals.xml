@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d nedavnih aplikacija</item>
+        <item quantity="one">1 nedavna aplikacija</item>
+    </plurals>
+	<plurals name="accessibility_recent_task_enter">
+         <item quantity="other">Nedavno otvoreno, dostupno aplikacija: %d.</item>
+         <item quantity="one">Nedavno otvoreno, dostupno aplikacija: 1.</item>
+     </plurals>
+     <plurals name="accessibility_recent_task_first_enter_tips">
+         <item quantity="other">Nedavno otvoreno, dostupno aplikacija: %d. Povuci gore za uklanjanje, dolje za zaključavanje.</item>
+         <item quantity="one">Nedavno otvoreno, dostupno aplikacija: 1. Povuci gore za uklanjanje, dolje za zaključavanje.</item>
+     </plurals>
+     <plurals name="settings_toggle_position_divider_page">
+         <item quantity="other">Broj aktivnih prečaca iznad ove trake: %1$d</item>
+         <item quantity="one">Broj aktivnih prečaca iznad ove trake: 1</item>
+     </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Sakriti obavijesti %d aplik.?"</item>
+        <item quantity="one">"Sakriti obavijest ove aplik.?"</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+         <item quantity="other">Skrivanje obavijesti od %1$s &amp; %2$d aplikacija.</item>
+         <item quantity="one">Skrivanje obavijesti od %1$s &amp; 1 aplikacije.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Vedro</item>
+        <item quantity="one">Sunčano</item>
+    </plurals>
+</resources>
