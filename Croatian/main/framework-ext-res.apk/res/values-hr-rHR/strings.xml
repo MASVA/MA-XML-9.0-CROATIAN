@@ -127,7 +127,7 @@
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
   <string name="standard">Bešumno</string>
-  <string name="standard_description">[Bešumno] Melodije zvona za dolazne pozive i obavijesti</string>
+  <string name="standard_description">[Bešumno] Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="standard_title">Bešumno.</string>
   <string name="start_security_permission_verify_text">Provjerite dopuštenja sa svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
