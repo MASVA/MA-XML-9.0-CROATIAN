@@ -544,10 +544,10 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite."</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
+  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Poboljšaj podudaranje lica</string>
   <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka prilikom otključavanja</string>
   <string name="biometric_weak_liveliness_title">Provjera živosti</string>
-  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="ble_scan_notify_text">Radi poboljšanja preciznosti lokacije aplikacije i usluge sustava i dalje mogu otkriti Bluetooth uređaje. To možete promijeniti u LINK_BEGINpostavkama traženjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezani uređaji</string>
   <string name="block_list_diaglog_cancle">Odustani</string>
@@ -872,8 +872,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_alert">Odbaciti nespremljene promjene?</string>
-  <string name="cancel_button">Odustani</string>
   <string name="cancel_all_caps">ODUSTANI</string>
+  <string name="cancel_button">Odustani</string>
   <string name="cancel_download_buton_text">Odustani</string>
   <string name="cant_sync_dialog_message">Sinkronizacija za tu stavku trenutačno je onemogućena. Da biste promijenili tu postavku, privremeno uključite pozadinske podatke i automatsku sinkronizaciju.</string>
   <string name="cant_sync_dialog_title">Ne mogu ručno sinkronizrati</string>
@@ -1294,6 +1294,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="delete_rule">Ukloni pravila</string>
   <string name="delete_saved_network">Izbriši spremljene mreže</string>
   <string name="demo_mode">Demo način</string>
+  <string name="demo_mode_summary">Prikaži ikone određene statusne trake za demo</string>
   <string name="deny">Odbij</string>
   <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>
@@ -1623,13 +1624,13 @@ Time se štite podaci na izgubljenim ili ukradenim uređajima."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Osim otključavanja uređaja otiskom prsta, možete još više zaštititi uređaj zahtijevanjem unosa PIN-a da bi se uređaj pokrenuo. Dok se ne pokrene, uređaj ne može primati pozive, poruke ili obavijesti, uključujući alarme.
 
 Na taj se način štite podaci na izgubljenim ili ukradenim uređajima."</string>
+  <string name="encryption_progress_summary">"Šifriranje, nemojte ponovno pokrenuti uređaj."</string>
   <string name="enforce_read_external_confirm_message">"Kad je USB pohrana zaštićena, aplikacije moraju tražiti dozvolu za čitanje podataka s vanjske pohrane.
 
 Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</string>
   <string name="enforce_read_external_confirm_title">Zaštititi USB pohranu?</string>
   <string name="enforce_read_external_summary">Aplikacije moraju tražiti dopuštenje za čitanje USB pohrane</string>
   <string name="enforce_read_external_title">Zaštiti USB pohranu</string>
-  <string name="encryption_progress_summary">"Šifriranje, nemojte ponovno pokrenuti uređaj."</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podataka radi poboljšanja glasovnih značajki i komunikacije (preporučeno)</string>
   <string name="enhanced_4g_lte_mode_title">Poboljšan 4G LTE način</string>
   <string name="enter_password">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
@@ -2578,9 +2579,12 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_lab_feature_applied">Postavljeno</string>
   <string name="miui_lab_feature_off">Isključi</string>
   <string name="miui_lab_feature_on">Uključi</string>
   <string name="miui_lab_features">MIUI laboratorijske značajke</string>
+  <string name="miui_lab_gallery_search_desc">Poboljšano pretraživanje slika</string>
+  <string name="miui_lab_gallery_search_title">Pronađi fotografije u Galeriji</string>
   <string name="miui_lab_settings">MIUI laboratorij</string>
   <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
   <string name="miui_lab_taplus_desc">Pritisnite i držite da biste pokrenuli prečace</string>
@@ -2649,8 +2653,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP funkcija je aktivna</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
-  <string name="music_app_unavailable">Ovisno o aplikaciji za glazbu, provjerite je li dostupna</string>
   <string name="music_HiFi_title">Hi-Fi audio</string>
+  <string name="music_app_unavailable">Ovisno o aplikaciji za glazbu, provjerite je li dostupna</string>
   <string name="music_audio_effect_optimize">Postavke zvuka</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalice i ostale postavke zvuka</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvuk, slušalice i ostale postavke zvuka</string>
@@ -3355,16 +3359,16 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
+  <string name="privacy_applock">Zaklj.  aplik.</string>
+  <string name="privacy_childmode">Dječji način</string>
   <string name="privacy_close_dlg_button_ok">Isključi</string>
   <string name="privacy_close_dlg_msg">Kada je Zaporka zaštite privatnosti isključena, vaše stavke više neće biti zaštićene.</string>
   <string name="privacy_close_dlg_title">Pažnja</string>
-  <string name="privacy_applock">Zaklj.  aplik.</string>
   <string name="privacy_delete_space_dlg_message">Da biste promijenili zaporku Drugog prostora, trebali biste izbrisati trenutni Drugi prostor i izraditi novi.</string>
   <string name="privacy_dlg_button_cancel">Odustani</string>
   <string name="privacy_factory_reset_dlg_button_text">Resetiraj</string>
   <string name="privacy_factory_reset_dlg_message">"Ako zaboravite zaporku, morati ćete izvršiti vraćanje na tvorničke postavke da biste postavili novu."</string>
   <string name="privacy_factory_reset_dlg_title">Izradite Sig. kopiju podataka</string>
-  <string name="privacy_childmode">Dječji način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_mms">Poruke</string>
@@ -3528,6 +3532,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="radio_info_cellinfo_label">Informacije o ćeliji:</string>
   <string name="radio_info_current_network_label">Trenutna mreža:</string>
   <string name="radio_info_data_attempts_label">Pokušaji za podatke:</string>
+  <string name="radio_info_data_connection_disable">Onemogući podatkovnu vezu</string>
+  <string name="radio_info_data_connection_enable">Omogući podatkovnu vezu</string>
+  <string name="radio_info_data_network_type_label">Vrsta podatkovne mreže:</string>
   <string name="radio_info_data_successes_label">Podatkovni uspjesi:</string>
   <string name="radio_info_dcrtinfo_label">Informacije o DcRt:</string>
   <string name="radio_info_gprs_service_label">GPRS usluga:</string>
@@ -3544,6 +3551,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="radio_info_ppp_received_label">Primljeni PPP:</string>
   <string name="radio_info_ppp_resets_label">Broj PPP poništavanja od pokretanja:</string>
   <string name="radio_info_ppp_sent_label">PPP poslan:</string>
+  <string name="radio_info_radio_power">Energija mob. radija</string>
   <string name="radio_info_radio_resets_label">Poništavanje radija:</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Postavite željenu vrstu mreže:</string>
@@ -3658,7 +3666,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="roaming_warning_multiuser">"Kada dopustite podatkovni roaming, mogu nastati značajni troškovi roaminga!
 
 Ova postavka utječe na sve korisnike na ovom telefonu."</string>
-<string name="rule_name">Naziv pravila</string>
+  <string name="rule_name">Naziv pravila</string>
   <string name="running_frequency">Učestalost</string>
   <string name="running_process_item_removed_user_label">Uklonjeni korisnik</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
@@ -5146,9 +5154,9 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="vibrate_input_devices_summary">Preusmjeri vibraciju na upravljač igrama kada su povezani.</string>
   <string name="vibrate_on_touch_title">Vibracija na dodir</string>
   <string name="vibrate_when_ringing_title">Vibracija i za pozive</string>
+  <string name="view_install_log">Prikaži zapis</string>
   <string name="vip_list">VIP popis</string>
   <string name="vip_mode_info">U bešumnom načinu, o pozivima i SMS porukama sa VIP popisa kontakata ćete biti obavješteni</string>
-  <string name="view_install_log">Prikaži zapis</string>
   <string name="virtual_keyboard_category">Virtualna tipkovnica</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Pouzdana međunarodna roaming usluga</string>
@@ -5427,7 +5435,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_eap_ca_cert">CA certifikat</string>
   <string name="wifi_eap_domain">Domena</string>
   <string name="wifi_eap_identity">Identitet</string>
-   <string name="wifi_eap_info_reconnect">Provjera autentičnosti nije uspjela, pokušajte ponovo!</string>
+  <string name="wifi_eap_info_reconnect">Provjera autentičnosti nije uspjela, pokušajte ponovo!</string>
   <string name="wifi_eap_method">EAP metoda</string>
   <string name="wifi_eap_sim_simcard">Odaberi SIM karticu</string>
   <string name="wifi_eap_user_cert">Korisnički certifikat</string>

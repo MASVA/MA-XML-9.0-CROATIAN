@@ -185,6 +185,11 @@
   <string name="michat_wait_for_a_moment">Samo trenutak, pomoć je na putu!</string>
   <string name="michat_webview_title">Prikaži detalje</string>
   <string name="min_error">Vaš %1$s bi trebao biti duži.</string>
+  <string name="mobile_data_note_dialog_cancel">Pričekaj WLAN</string>
+  <string name="mobile_data_note_dialog_confirm">Pošalji</string>
+  <string name="mobile_data_note_dialog_content">Korištenje mobilnih podataka za prijenos zapisa može generirati dodatne naknade.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Prijenos zapisa putem mobilne podatkovne veze zahtijeva %sMB podataka.</string>
+  <string name="mobile_data_note_dialog_title">Upozorenje uporabe podataka</string>
   <string name="modem_tool_log">Snimi modem logove</string>
   <string name="modem_tool_log_start">Start</string>
   <string name="modem_tool_log_start_toast">"Spremanje zapisa modema u %s</string>

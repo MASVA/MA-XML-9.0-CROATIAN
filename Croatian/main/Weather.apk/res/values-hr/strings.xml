@@ -18,18 +18,24 @@
   <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_update_time">Ažurirano %1$s</string>
+  <string name="activity_main_update_time_expire">Podaci su istekli</string>
   <string name="activity_main_update_time_right_now">Upravo sada</string>
+  <string name="activity_minute_rain_location_fail_msg">Lociranje nije uspjelo, zadana lokacija na karti je Peking</string>
   <string name="activity_weathermain_locationg">Lociranje…</string>
   <string name="activity_weathermain_locationg_error">"Ne mogu locirati"</string>
-  <string name="activity_main_update_time_expire">Podaci su istekli</string>
   <string name="add_city">Dodaj</string>
   <string name="alert_detail_title">Pojedinosti upozorenja</string>
   <string name="alert_warning">Upozorenja vremena</string>
+  <string name="already_voted">Glasano</string>
   <string name="app_name">Vrijeme</string>
   <string name="aqi_data_source">Powered by Colorful Clouds</string>
   <string name="aqi_detail_24_hours">24-satna prognoza</string>
   <string name="aqi_detail_5_days">5-dnevna prognoza</string>
   <string name="aqi_detail_unit">Jedinica: µg/m³ (CO: mg/m³)</string>
+  <string name="aqi_publish_source">Ažurirano u %1$s sa CNEMC</string>
+  <string name="aqi_publish_time">Ažurirano %1$s</string>
+  <string name="aqi_quality_detail_15_days">15-dnevna prognoza</string>
+  <string name="aqi_quality_detail_48_hours">48-satna prognoza</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
@@ -51,10 +57,10 @@
   <string name="daily_forcast_whirl_wind">Vihor</string>
   <string name="daily_forecast_detail">Pojedinosti prognoze</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
 Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="data_provided_by">Podaci dobiveni od</string>
+  <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>
   <string name="feedback_heavy_rain">Pljusak</string>
@@ -74,6 +80,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
+  <string name="index_item_experience_now">Instaliraj sada</string>
   <string name="index_item_install_now">Instaliraj sada</string>
   <string name="index_item_installing">Instaliranje</string>
   <string name="indices_desc_feel">Osjećaj %1$s°C</string>
@@ -104,6 +111,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VJETAR</string>
+  <string name="it_is_going_to_rain">Padati će kiša</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_management">Lokacije</string>
@@ -126,7 +134,10 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="more_details">Više detalja</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
+  <string name="night_not_disturb_settings_summary">Neće primati sve vremenske obavijesti od 23:00 do 07:00 idućeg dana nakon otvaranja</string>
+  <string name="night_not_disturb_settings_title">Ne ometaj noću</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
+  <string name="no_vote_ratio">Protiv %1$s%%</string>
   <string name="open">Otvori</string>
   <string name="open_browser">Otvori u Pregledniku</string>
   <string name="open_now">Otvori</string>
@@ -183,6 +194,9 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="unit">Jedinica</string>
   <string name="unit_temperature">Jedinica temperature</string>
   <string name="unit_wind">Jedinica brzine vjetra</string>
+  <string name="update_night_setting_summary_text">Neće se ažurirati automatski 23:00-07: 00 nakon zatvaranja</string>
+  <string name="update_night_setting_title_text">Ažuriraj automatski noću</string>
+  <string name="update_setting_title_text">Postavke ažuriranja</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
@@ -194,4 +208,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="wind_direction_no_data">Vjetar</string>
   <string name="xiaomi_weather_description_content">Aplikacija Vrijeme pruža točne informacije o vremenskoj prognozi. Bez ove aplikacije, traka statusa i widget Vrijeme na početnom zaslonu neće raditi ispravno. Prije nego deinstalirate aplikaciju, nemojte raditi bez tih značajki.</string>
   <string name="xiaomi_weather_description_title">O aplikaciji</string>
+  <string name="yes_vote_ratio">Za %1$s%%</string>
+  <string name="your_location">Vaša lokacija</string>
 </resources>

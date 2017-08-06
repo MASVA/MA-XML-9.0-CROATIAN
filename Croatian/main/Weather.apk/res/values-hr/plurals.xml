@@ -24,4 +24,16 @@
          <item quantity="other">%1$s sek. nakon povratne informacije</item>
          <item quantity="one">%1$s sek. nakon povratne informacije</item>
      </plurals>
+	      <plurals name="no_vote_num">
+        <item quantity="other">%1$s osoba| </item>
+        <item quantity="one">%1$s osoba| </item>
+     </plurals>
+     <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba je glasalo"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba je glasala"</item>
+     </plurals>
+     <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s osoba</item>
+        <item quantity="one"> | %1$s osoba</item>
+     </plurals>
 </resources>

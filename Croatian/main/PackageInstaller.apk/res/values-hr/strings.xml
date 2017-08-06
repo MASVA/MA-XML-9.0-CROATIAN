@@ -177,6 +177,8 @@
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="default_permission_description">izvesti nepoznatu radnju</string>
+  <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
+  <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
   <string name="development_settings_enable">Omogući opcije za razvojne programere</string>

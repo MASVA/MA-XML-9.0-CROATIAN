@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_find_device_success">Pronađi uređaj je aktiviran.</string>
   <string name="activity_title_ad">Reklama</string>
   <string name="activity_title_apk">Paketi</string>
   <string name="activity_title_brightness_image">Ispod i preeksponirano</string>
@@ -106,6 +107,8 @@
   <string name="clipboard">Međuspremnik</string>
   <string name="close">Zatvori</string>
   <string name="close_debug_mode">Kliknite %1$d da zatvorite debug prekidač</string>
+  <string name="cloud_find_device_off">Isključi</string>
+  <string name="cloud_find_device_on">Uključi</string>
   <string name="confirm_auto_cleaner">U redu</string>
   <string name="conn_of_function_safe">Mrežno povezivanje za sigurnost</string>
   <string name="connecting">Povezivanje…</string>
@@ -189,6 +192,12 @@
   <string name="engine_tm">Tencent</string>
   <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka nije pronađena</string>
+  <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške. "</string>
+  <string name="find_device_pref_alert_content">"Pronađi uređaj povezan je s vašim Mi Računom. Morate postaviti zaporku ili unijeti zaporku koju ste postavili. Pazite da uvijek zapamtite svoj ID Mi Računa i zaporku. Odlazna SMS poruka može biti potrebna za aktivaciju ove usluge. Vaš će vam davatelj usluga naplatiti za ovu poruku. Kada promjenite SIM kartice, automatski će se poslati poruka za ponovno aktiviranje ove značajke."</string>
+  <string name="find_device_pref_alert_negtive">Ne hvala</string>
+  <string name="find_device_pref_alert_positive">U redu</string>
+  <string name="find_device_pref_alert_title">Zapamtite svoj ID Mi Računa i zaporku</string>
+  <string name="find_device_pref_initializing">Pokretanje…</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="function_app_lock_title">%d aplik. sadrži rizik privatnosti​</string>
   <string name="garbage_clean_detail">Detalji</string>
@@ -296,6 +305,21 @@
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Instaliraj ovu aplikaciju</string>
   <string name="menu_view">Prikaži u mapi</string>
+  <string name="micloud_find_device_close_alert_content">"Ako isključite tu značajku, nećete moći pronaći uređaj ako je izgubljen."</string>
+  <string name="micloud_find_device_close_alert_negtive">Isključi svejedno</string>
+  <string name="micloud_find_device_close_alert_positive">Ostavi uključeno</string>
+  <string name="micloud_find_device_close_alert_title">Isključiti Pronađi uređaj?</string>
+  <string name="micloud_find_device_close_fail">"Ne mogu isključiti Pronađi uređaj"</string>
+  <string name="micloud_find_device_close_progress">Isključivanje Pronađi uređaj…</string>
+  <string name="micloud_find_device_guide_alert_content">"Pronađi uređaj povezan je s vašim Mi Računom. Morate postaviti zaporku ili unijeti zaporku koju ste postavili. Pazite da uvijek zapamtite svoj ID Mi Računa i zaporku."</string>
+  <string name="micloud_find_device_guide_alert_negtive">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_positive">U redu</string>
+  <string name="micloud_find_device_guide_alert_title">Zapamtite svoj ID Mi Računa i zaporku</string>
+  <string name="micloud_find_device_verify_button">Ponovno aktiviraj Pronađi uređaj</string>
+  <string name="micloud_find_device_verify_close">Isključi Pronađi uređaj</string>
+  <string name="micloud_find_device_verify_fail">"Ne mogu ponovno aktivirati Pronađi uređaj"</string>
+  <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Pronađi uređaj…</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Provjera za ažuriranja…</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnje ažuriranje nepoznato</string>
@@ -321,8 +345,8 @@
   <string name="open">Uključi</string>
   <string name="open_app">Otvori</string>
   <string name="open_browser">Otvori u pregledniku</string>
-  <string name="open_file_error">"Ne mogu pronaći aplikaciju koja otvara ovu datoteku"</string>
   <string name="open_debug_mode">Kliknite %1$d da otvorite debug prekidača</string>
+  <string name="open_file_error">"Ne mogu pronaći aplikaciju koja otvara ovu datoteku"</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="output_videos">Izvoz videozapisa</string>
@@ -381,10 +405,10 @@
   <string name="recommend_news">Preporučeni izvori</string>
   <string name="recommend_the_following">Izvršite sljedeće radnje da bi dobili najviše iz vašeg uređaja</string>
   <string name="recommended">Istaknuto</string>
-  <string name="safety_check_detail">%1$d puta, dobiveno %2$d poena</string>
-  <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se još datoteka može izbrisati. Oslobodite više prostora.&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predmemorije. Oslobodite više prostora.&lt;/Data&gt;" "</string>
+  <string name="safety_check_detail">%1$d puta, dobiveno %2$d poena</string>
+  <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
   <string name="sc_allow_network_dialog_button">Dopusti</string>
   <string name="sc_allow_network_dialog_message">Dopustiti ovoj aplikaciji povezivanje na internet za primanje ažuriranja?</string>
   <string name="scanning">Skeniranje…</string>

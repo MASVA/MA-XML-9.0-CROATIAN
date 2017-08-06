@@ -125,4 +125,10 @@
          <item>Uporaba podataka</item>
          <item>Stanje računa</item>
     </string-array>
+	     <string-array name="title_app_info">
+        <item>Izvor instalacije</item>
+        <item>Vrijeme instalacije</item>
+        <item>Izvor posljednjeg ažuriranja</item>
+        <item>Vrijeme posljednjeg ažuriranja</item>
+     </string-array>
 </resources>

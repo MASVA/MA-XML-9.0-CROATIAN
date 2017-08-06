@@ -10,6 +10,7 @@
     <string-array name="alert_reminder_interval_entries">
         <item>Jedanput</item>
         <item>Svake 2 minute</item>
+		<item>Svakih 5 minuta</item>
         <item>Svakih 15 minuta</item>
         <item>Isključeno</item>
     </string-array>

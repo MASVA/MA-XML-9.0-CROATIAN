@@ -10,7 +10,7 @@
         <item>Brzina animacije 10x</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Standardna ograničenje</item>
+        <item>Standardno ograničenje</item>
         <item>Nema pozadinskih procesa</item>
         <item>Najviše 1 proces</item>
         <item>Najviše 2 procesa</item>

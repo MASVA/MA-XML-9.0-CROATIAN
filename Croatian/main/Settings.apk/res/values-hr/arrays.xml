@@ -209,7 +209,7 @@
     <string-array name="app_ops_summaries">
         <item>približna lokacija</item>
         <item>precizna lokacija</item>
-        <item>gps</item>
+        <item>GPS</item>
         <item>vibriranje</item>
         <item>čitanje kontakata</item>
         <item>izmjena kontakata</item>
@@ -217,7 +217,7 @@
         <item>izmjena zapisnika poziva</item>
         <item>čitanje kalendara</item>
         <item>izmjena kalendara</item>
-        <item>skeniranje WLAN-a</item>
+        <item>skeniranje Wi-Fi-ja</item>
         <item>obavijest</item>
         <item>skeniranje ćelije</item>
         <item>poziv na telefon</item>
@@ -252,21 +252,25 @@
         <item>praćenje lokacije s visokom potrošnjom energije</item>
         <item>dohvaćanje statistike o upotrebi</item>
         <item>isključivanje/uključivanje mikrofona</item>
-        <item>toast prozora</item>
+        <item>prikaz poruke</item>
         <item>projiciranje medija</item>
-        <item>aktiviraj VPN</item>
-        <item>izmjena wlana</item>
-        <item>izmjena bluetooth</item>
-        <item>slanje MMS-a</item>
-        <item>čitanje MMS-a</item>
-        <item>pisanje MMS-a</item>
-        <item>auto start</item>
-        <item>izmjena nfc-a</item>
-        <item>brisanje SMS-a</item>
-        <item>brisanje MMS-a</item>
-        <item>brisanje kontakata</item>
-        <item>brisanje zapisnika poziva</item>
-        <item>izmjena podataka</item>
+        <item>aktiviranje VPN-a</item>
+        <item>pozadinska slika za pisanje</item>
+        <item>pomoćna struktura</item>
+        <item>pomoćna snimka zaslona</item>
+        <item>čitanje stanja telefona</item>
+        <item>dodavanje govorne pošte</item>
+        <item>upotreba SIP-a</item>
+        <item>obrada odlaznog poziva</item>
+        <item>otisak prsta</item>
+        <item>biometrijski senzori</item>
+        <item>čitanje emitiranja na mobitele</item>
+        <item>lažiranje lokacije</item>
+        <item>čitanje pohrane</item>
+        <item>pisanje u pohranu</item>
+        <item>uključivanje zaslona</item>
+        <item>dohvaćanje računa</item>
+        <item>izvođenje u pozadini</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Lokacija</item>
@@ -312,23 +316,27 @@
         <item>Zadrži u aktivnom stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
-        <item>Dohvati statistike o upotrebi</item>
-        <item>Isključi/uključi mikrofon</item>
-        <item>Toast prozor</item>
-        <item>Projiciraj medij</item>
+        <item>Dohvaćanje statistike o upotrebi</item>
+        <item>Isključivanje/uključivanje mikrofona</item>
+        <item>Prikaži poruku</item>
+        <item>Projiciraj medijske sadržaje</item>
         <item>Aktiviraj VPN</item>
-        <item>Izmjeni WLAN</item>
-        <item>Izmjeni Bluetooth</item>
-        <item>Pošalji MMS</item>
-        <item>Čitaj MMS</item>
-        <item>Piši MMS</item>
-        <item>Auto start</item>
-        <item>Izmjeni Nfc</item>
-        <item>Izbriši SMS</item>
-        <item>Izbriši MMS</item>
-        <item>Izbriši kontakte</item>
-        <item>Izbriši zapisnik poziva</item>
-        <item>Izmjeni podatke</item>
+        <item>Pozadinska slika za pisanje</item>
+        <item>Pomoćna struktura</item>
+        <item>Pomoćna snimka zaslona</item>
+        <item>Pročitaj stanje telefona</item>
+        <item>Dodaj govornu poštu</item>
+        <item>Koristi SIP</item>
+        <item>Obradi odlazni poziv</item>
+        <item>Otisak prsta</item>
+        <item>Biometrijski senzori</item>
+        <item>Pročitaj emitiranje na mobitele</item>
+        <item>Lažiraj lokaciju</item>
+        <item>Pročitaj pohranu</item>
+        <item>Piši u pohranu</item>
+        <item>Uključi zaslon</item>
+        <item>Dohvati račune</item>
+        <item>Izvodi u pozadini</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kratko</item>
@@ -1030,6 +1038,7 @@
         <item>Dodir - radnja dvostruki dodir</item>
         <item>Povlačenje - radnja povlačenja</item>
         <item>Dodir - radnja dodir</item>
+		<item>Dodir - radnja dugog dodira</item>
       </string-array>
      <string-array name="color_mode_descriptions">
         <item>Poboljšane boje</item>
@@ -1040,5 +1049,55 @@
         <item>Živopisno (zadano)</item>
         <item>Prirodno</item>
         <item>Standardno</item>
+     </string-array>
+	      <string-array name="select_logd_size_lowram_titles">
+        <item>Isključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Isključeno</item>
+        <item>64 KB po međusprem. zapisnika</item>
+        <item>256 KB po međusprem. zapisnika</item>
+        <item>1 MB po međusprem. zapisnika</item>
+        <item>4 MB po međusprem. zapisnika</item>
+        <item>16 MB po međusprem. zapisnika</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Isključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Kapacitet baterije</item>
+        <item>Stražnja kamera</item>
+        <item>Veličina zaslona</item>
+        <item>Rezolucija</item>
+        <item>Android verzija</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 835</item>
+        <item>3350mAh(tip)</item>
+        <item>12MP + 12MP</item>
+        <item>5.15"</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Punjenje</item>
+        <item>MTP (protokol za prijenos medija)</item>
+        <item>PTP (protokol za prijenos fotografija)</item>
+        <item>RNDIS (USB ethernet)</item>
+        <item>Audioizvor</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Prednost ima WLAN mreža</item>
+        <item>Prednost ima mob. mreža</item>
      </string-array>
 </resources>

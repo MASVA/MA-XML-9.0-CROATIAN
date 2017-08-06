@@ -90,6 +90,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
 izraz lica koji će biti sintetiziran u fotografiju"</string>
+  <string name="hibernate_hint">Dodirnite zaslon da biste probudili kameru</string>
   <string name="find_other_qrcode">Pronađite QR kod</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Instaliraj</string>
@@ -413,6 +414,8 @@ s jasnijim glavnim tijelom i ljepšim portretom"</string>
   <string name="pref_watermark_style_title">Dodaj oznaku vremena na fotografiju</string>
   <string name="preparing_sd">Provjera unutarnje pohrane…</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
+  <string name="screen_on_proximity_sensor_hint">Da isključite ovu značajku, istovremeno pritisnite tipke "Natrag" i "Glasnoća +".</string>
+  <string name="screen_on_proximity_sensor_summary">"Nemojte pokrivati područje slušalica"</string>
   <string name="see_qrcode_detals">Prikaži detalje QR koda</string>
   <string name="setting_top_text">Načini snimanja</string>
   <string name="simple_mode_button_asd_flash">Isključi</string>  

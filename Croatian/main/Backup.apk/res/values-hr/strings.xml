@@ -116,6 +116,7 @@
   <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
+  <string name="feature_title_antispam">Lista blokiranih</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>

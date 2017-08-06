@@ -34,6 +34,7 @@
 Štednja baterije će tretirati važne aplikacija selektivno."</string>
   <string name="config_suggest_suffix_title">MIUI Štednja baterije (preporuka)</string>
   <string name="config_suggest_title">MIUI Štednja baterije</string>
+  <string name="confirm">Potvrdi</string>
   <string name="disable_hide_mode">Onemogući MIUI Uštedu baterije</string>
   <string name="disable_hide_mode_warning">Onemogućivanje MIUI Uštede baterije može uzrokovati veću potrošnju energije</string>
   <string name="disabled">Isklj.</string>
@@ -55,6 +56,7 @@
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
+  <string name="important_warning">Upozorenje</string>
   <string name="location_disable_description">Aplikacije u pozadini mogu pristupiti samo uslugama lociranja za kratko vrijeme, dok je kontinuirani pristup ograničen</string>
   <string name="location_disable_title">Ograniči</string>
   <string name="location_enable_description">Aplikacije mogu koristiti usluge lociranja u pozadini</string>
@@ -200,4 +202,5 @@
   <string name="vip_feedback_apply_msg">Molimo kontaktirajte qiufeng@xiaomi.com da primjenite Vip Feedback</string>
   <string name="vip_feedback_enable">Omogući Vip Auto Feedback</string>
   <string name="warm_configure">Konfiguriraj kontrolu topline</string>
+  <string name="warm_performance_tip">U scenarijima s velikim opterećenjem, temperatura mobilnog telefona veća je od zadanog načina rada</string>
 </resources>

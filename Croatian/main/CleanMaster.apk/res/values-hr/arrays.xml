@@ -16,6 +16,7 @@
         <item>Svaki dan</item>
         <item>Svaka 3 dana</item>
         <item>Svakih 7 dana</item>
+		<item>Svakih 15 dana</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>

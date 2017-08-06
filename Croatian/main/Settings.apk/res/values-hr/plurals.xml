@@ -214,4 +214,24 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>
      </plurals>
+	      <plurals name="auto_startup_count">
+        <item quantity="other">Dopušteno automatsko pokretanje aplik.: %d</item>
+        <item quantity="one">Dopušteno automatsko pokretanje aplik.: %d</item>
+     </plurals>
+     <plurals name="free_wifi_connected_count">
+        <item quantity="other">Povezano %1$d osoba</item>
+        <item quantity="one">%1$d osoba povezana</item>
+     </plurals>
+     <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN mora sadržavati %d znamenaka</item>
+        <item quantity="one">PIN mora sadržavati %d znamenku</item>
+     </plurals>
+     <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Pronađeno rizika: %d</item>
+        <item quantity="one">Pronađeno rizika: %d</item>
+     </plurals>
+     <plurals name="wifi_share_count">
+        <item quantity="other">Podijeljeno %d mreža</item>
+        <item quantity="one">Podijeljena %d mreža</item>
+     </plurals>
 </resources> 

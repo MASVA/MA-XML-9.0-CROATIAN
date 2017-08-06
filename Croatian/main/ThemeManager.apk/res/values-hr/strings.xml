@@ -124,6 +124,8 @@
   <string name="my_gifts_received">Primljeni</string>
   <string name="no_data">"Ne mogu se povezati na mrežu"</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="online_precust_dreams">Snovi</string>
+  <string name="online_precust_midnight">Ponoć</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="present_local_themes">Moji resursi</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>

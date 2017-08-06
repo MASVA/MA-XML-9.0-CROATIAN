@@ -226,6 +226,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
+  <string name="demo_mode">Demo način</string>
   <string name="description_direction_left">"Kliznite lijevo za %s."</string>
   <string name="description_direction_up">"Kliznite gore za %s."</string>
   <string name="description_target_search">"Pretraži"</string>
@@ -475,6 +476,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu ili to ne dopušta aplikacija."</string>
+  <string name="screenshot_insert_failed">Ne mogu učitati snimak zaslona, odaberite novu ili pregledajte sliku u albumu</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
@@ -500,6 +502,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
+  <string name="show_demo_mode">Prikaži demo način</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
   <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>

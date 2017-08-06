@@ -164,6 +164,7 @@ Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
   <string name="close_button_text">Zatvori</string>
   <string name="common_name">Zajednički naziv:</string>
   <string name="condition_provider_service_binding_label">Davatalj uvjeta</string>
+  <string name="conference_call">Konferencijski poziv</string>
   <string name="configure_input_methods">Odaberi tipkovnice</string>
   <string name="contentServiceSync">Sinkronizacija</string>
   <string name="contentServiceSyncNotificationTitle">Sinkronizacija</string>
@@ -219,6 +220,12 @@ koristeći %s"</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Izbrisan je broj %1$s</string>
+  <string name="demo_restarting_message">Vraćanje uređaja na zadano…</string>
+  <string name="demo_starting_message">Pokretanje demo-načina…</string>
+  <string name="demo_user_inactivity_timeout_countdown">Sve će se promjene izbrisati, a demonstracija će se ponovo pokrenuti za %1$s s…</string>
+  <string name="demo_user_inactivity_timeout_left_button">Odustani</string>
+  <string name="demo_user_inactivity_timeout_right_button">Vrati na zadano sada</string>
+  <string name="demo_user_inactivity_timeout_title">Želite li vratiti uređaj na zadano?</string>
   <string name="deny">Odbij</string>
   <string name="deny_button">Odbij</string>
   <string name="description_direction_down">Kliznite prema dolje za %s.</string>

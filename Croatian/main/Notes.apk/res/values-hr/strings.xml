@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Mi Računom?</string>
+  <string name="action_folder_description">Prikaži mape</string>
+  <string name="action_mode_switcher_grid_description">Rešetka</string>
+  <string name="action_mode_switcher_list_description">Popis</string>
+  <string name="action_settings_description">Otvori Postavke</string>
   <string name="alarm_bar_title">Podsjetnik</string>
   <string name="alert_action_edit_anyway">Nastavi uređivati</string>
   <string name="alert_edit_action_delete">Ukloni</string>

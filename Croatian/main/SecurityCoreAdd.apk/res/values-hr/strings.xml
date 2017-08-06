@@ -184,6 +184,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>
+  <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Otisak prsta za Drugi prostor</string>
   <string name="second_space_finger_printf_desc">Dodajte otisak prsta koji će se posebno koristiti za ulazak u Drugi prostor</string>
