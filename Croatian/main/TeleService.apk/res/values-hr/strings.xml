@@ -499,7 +499,6 @@
   <string name="config_helpIntentExtraKey"/>
   <string name="config_helpIntentNameKey"/>
   <string name="config_helpPackageNameKey"/>
-  <string name="config_helpPackageNameValue"/>
   <string name="config_world_mode"/>
   <string name="confirm">Potvrdi</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
