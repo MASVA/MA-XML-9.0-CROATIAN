@@ -116,7 +116,6 @@
         <item></item>
         <item></item>
     </string-array>	
-	     <string-array name="wfcOperatorErrorAlertMessages">
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Da biste telefonirali i slali pozive putem Wi-Fi-ja, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite Wi-Fi pozive u Postavkama.</item>
     </string-array>
