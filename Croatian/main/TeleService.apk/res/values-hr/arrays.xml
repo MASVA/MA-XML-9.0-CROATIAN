@@ -230,21 +230,6 @@
         <item>Sakrij broj</item>
         <item>Prikaži broj</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>Globalno</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Samo EvDo</item>
-        <item>CDMA bez EvDo-a</item>
-        <item>Automatski CDMA/EvDo</item>
-        <item>Automatski GSM/WCDMA</item>
-        <item>Samo WCDMA</item>
-        <item>Samo GSM</item>
-        <item>Preferirano GSM/WCDMA</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Samo matično</item>
         <item>Automatski</item>
