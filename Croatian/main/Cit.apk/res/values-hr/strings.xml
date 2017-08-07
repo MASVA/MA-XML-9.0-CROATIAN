@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="FpTest">Pokreni FpTest</string>
+  <string name="FpTest_result">FpTest rezultat:</string>
   <string name="SDCard">SD Kartica</string>
   <string name="SD_INTERNAL_SDCard_mounted">Otkrivanje unutarnje SD kartice</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Unutarnja SD kartica nije dostupna</string>
@@ -7,12 +9,40 @@
   <string name="SD_SDCard_mounted">Otkrij SD karticu</string>
   <string name="SD_SDCard_total_size">Ukupna veličina</string>
   <string name="SD_SDCard_unmounted">SD kartica nije dostupna</string>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="action_example">Primjer radnje</string>
+  <string name="action_nothing">Čekaj na test</string>
+  <string name="add_fingerprint">Dodaj otisak prsta</string>
   <string name="baterry_percent">"Napunjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
   <string name="begin_to_save_finger_data">Početak spremanja podataka otiska prsta</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_ok">U redu</string>
+  <string name="camera_capture">Snimi</string>
+  <string name="camera_done">Gotovo</string>
+  <string name="camera_zoom">Zoom</string>
   <string name="camerainfo">Informacije o Kameri</string>
+  <string name="cancel_test">TEST OTKAZAN</string>
+  <string name="capacitance_test">TEST KAPACITETA</string>
+  <string name="checkerboard_test">TEST TABELE</string>
   <string name="cit_OTG_plugin_check_summary">Kada je OTG uređaj umetnut, tekst \"USB OTG uređaj otkriven\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_OTG_plugin_check_title">OTG (otkrivanje)</string>
   <string name="cit_OTG_plugout_check_summary">Kada je OTG uređaj uklonjen, tekst \"USB OTG uređaja uklonjen\" bi trebao biti prikazan u nastavku.</string>
@@ -46,7 +76,10 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvučnika</string>
   <string name="cit_audio_calibrating">Kalibriranje u tijeku…</string>
+  <string name="cit_audio_check_summary">Audio Info.</string>
+  <string name="cit_audio_check_title">Audio Info</string>
   <string name="cit_audio_get_temp_fail">Dobivanje podataka Neuspješno!</string>
+  <string name="cit_audio_hdset_plug">"Broj priključivanja slušalica: "</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. prednjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
@@ -84,9 +117,13 @@ Okrenite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Pričajte
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Testiranje smanjenja okolne buke
 
 Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi čuti vaš glas sa smanjenom bukom u pozadini reproduciran putem prijemnika."</string>
+  <string name="cit_audio_rcv_type">"Dobavljač audio prijamnika: "</string>
+  <string name="cit_audio_rcv_usetime">"Vrijeme korištenja audio prijemnika: "</string>
   <string name="cit_audio_right_caldata">"Podaci Desno PA kalibriranja:
 "</string>
   <string name="cit_audio_right_calfail">Desno PA kalibriranje nije uspjelo!</string>
+  <string name="cit_audio_spk_type">"Dobavljač audio prijamnika: "</string>
+  <string name="cit_audio_spk_usetime">"Vrijeme korištenja audio prijemnika: "</string>
   <string name="cit_aux_camera_action">Zoom</string>
   <string name="cit_aux_camera_check_summary">"Instrukcije testiranje:
 
@@ -132,9 +169,12 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_charger_plugout_check_title">Punjač (nije priključen)</string>
   <string name="cit_charger_waiting_in">Priključite punjač</string>
   <string name="cit_charger_waiting_out">Isključite punjač</string>
+  <string name="cit_dial_emergencycall">Biraj 112</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_continue">Dodirnite zaslon za početak testiranje</string>
+  <string name="cit_emergencycall_check_summary">Pritisnite Biraj 112 za biranje broja 112 kako biste provjerili može li se 112 birati.</string>
+  <string name="cit_emergencycall_check_title">Žurni poziv</string>
   <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
   <string name="cit_exit_test_title">Zaustavi testiranje</string>
   <string name="cit_external_sd_check_summary">Ovo testiranje će provjeriti status SD kartice</string>
@@ -158,6 +198,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_fpc_selftest">SELF-TEST</string>
   <string name="cit_fpc_sensor_check_summary">Testiranje FPC senzora, pritisnete tipku i odgovarajući tekst na zaslonu bi trebao postati zelene boje.</string>
   <string name="cit_fpc_sensor_check_title">FPC senzor otiska prsta</string>
+  <string name="cit_fptest_summary">Pritisnite tipku FpTest za testiranje otiska prsta</string>
+  <string name="cit_fptest_title">Testiranje otiska prsta FpTest</string>
   <string name="cit_front_camera_check_summary">"Upute za testiranje:
 
 1. Dodirnite tipku kamere za otvaranje sučelja fotoaparata
@@ -550,17 +592,43 @@ Okrenite uređaj, govorite u mikrofon u položaju prijemnika, trebali bi čuti g
 Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje gornjeg mikrofona zvučnika</string>
   <string name="cit_yellow_torch_on">Uključite svjetiljku žute boje</string>
+  <string name="error">Pogreška</string>
   <string name="error_app_internal">Interna pogreška aplikacije</string>
   <string name="error_app_unsupported">Nepodržani format</string>
+  <string name="error_failed_to_get_data">Ne mogu dobiti podatke</string>
+  <string name="error_file_not_found">Ne mogu pronaći podatke</string>
+  <string name="error_getting_sensor_info">Pogreška u dobivanju informacija o senzoru</string>
+  <string name="error_initializing_sensor">Pogreška prilikom iniciranja senzora: %1$s</string>
   <string name="error_sdcard_access">Nije moguće pristupiti sustavu prostora!</string>
+  <string name="error_unknown_error">Nepoznata pogreška</string>
+  <string name="failed_to_test">TEST NIJE USPIO</string>
+  <string name="fpc_app_name">Sensor Test Tool</string>
+  <string name="fpc_ok">U redu</string>
+  <string name="fpc_pn_calibration">Snimite i spremite PN sliku</string>
+  <string name="get_sensor_info">DOBIVANJE INFO. O SENZORU</string>
+  <string name="hint">To bi moglo potrajati dugo, pričekajte.</string>
+  <string name="image_quality_test">TEST KVALITETE SLIKE</string>
+  <string name="info">Info</string>
+  <string name="init">Pokretanje</string>
   <string name="keyboard">KEY</string>
+  <string name="last_time_test_result">REZULTAT TESTA ZADNJEG PUTA</string>
   <string name="lcminfo">LCM informacija</string>
   <string name="magnetic_info_hint">Okrećite uređaju u obliku broja 8</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC i SPK</string>
+  <string name="navigation_drawer_close">Zatvori ladicu za navigaciju</string>
+  <string name="navigation_drawer_open">Otvori ladicu za navigacijur</string>
+  <string name="next">Dalje</string>
+  <string name="noise">Buka:</string>
+  <string name="none">N/A</string>
   <string name="remove_headset_and_starttest">Uklonite slušalice i pritisnite start za testiranje</string>
-  <string name="speak_from_mic">Govorite u mikrofon, trebali bi čuti glas u zvučniku.</string>
+  <string name="resetpixel_test">RESETIRAJ TEST PIXELA</string>
+  <string name="run">Pokreni</string>
+  <string name="sample_data">Uzorak podataka</string>
+  <string name="sample_hint">Izdvoji %1$s uzoraka za jedan prst</string>
+  <string name="sample_progress_hint">Čekanje na izdvajanje uzoraka podataka</string>
+  <string name="search_menu_title">Traži</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_automatic">Odaberi automatski</string>
@@ -569,6 +637,7 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="selftest">SELF TEST</string>
   <string name="sensor_information">Informacije senzora</string>
   <string name="show_log">Prikaži zapis</string>
+  <string name="speak_from_mic">Govorite u mikrofon, trebali bi čuti glas u zvučniku.</string>
   <string name="start">Start</string>
   <string name="start_extract_sample">Započni izdvajati uzorke</string>
   <string name="start_extract_template">Započni izdvajati predloške</string>
@@ -587,6 +656,9 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="template_data">Podaci predložaka</string>
   <string name="template_hint">Izdvojeno predložaka %1$s za jedan prst</string>
   <string name="template_progress_hint">Pričekajte izdvajanje podataka predloška</string>
+  <string name="test_cases">Test maskice</string>
+  <string name="test_result">TEST RESULT</string>
+  <string name="test_spi_chip_id">Chip ID:</string>
   <string name="testagain">Možete pritisnuti tipku POČETNA da biste ponovno testirali</string>
   <string name="testing">Pokretanje AutoTesta…</string>
   <string name="title_about">O</string>
@@ -596,5 +668,6 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="touch_auto">Samotestiranje zaslona osjetljiva na dodir u tijeku, molimo pričekajte…</string>
   <string name="tp_color">TP Boja:</string>
   <string name="tp_version">TP Verzija:</string>
+  <string name="wait_test">Čekanje testa</string>
   <string name="waiting">Pričekajte 4s.</string>
 </resources>

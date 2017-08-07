@@ -74,6 +74,13 @@
   <string name="app_install">Instaliraj na Mi TV</string>
   <string name="app_install_count">%1$s instalirano</string>
   <string name="app_installing">Instaliranje…</string>
+  <string name="app_install_dialog_install_complete">Uspješno instalirano</string>
+  <string name="app_install_dialog_install_failed">"Ne mogu instalirati"</string>
+  <string name="app_install_dialog_installing">Instaliranje…</string>
+  <string name="app_install_dialog_negative_text">Odustani</string>
+  <string name="app_install_dialog_positive_text">Instaliraj</string>
+  <string name="app_install_dialog_search_failed">"Ne mogu pronaći aplikacije"</string>
+  <string name="app_install_dialog_searching">Traženje aplikacija…</string>
   <string name="app_lastest">Najnoviji</string>
   <string name="app_listitem_installing">Installiranje</string>
   <string name="app_listitem_waiting">Čekanje na instalaciju</string>
@@ -129,6 +136,32 @@
   <string name="cancel_timer">Otkaži timer</string>
   <string name="cannot_be_used_in_current_mode">Ne mogu koristiti %1$s u trenutnom načinu rada</string>
   <string name="carrier_data">Operator</string>
+  <string name="catalyst_debugjs">Debug u Chrome</string>
+  <string name="catalyst_debugjs_off">Zaustavi Chrome Debugging</string>
+  <string name="catalyst_element_inspector">Prikaži Inspector</string>
+  <string name="catalyst_element_inspector_off">Sakrij Inspector</string>
+  <string name="catalyst_hot_module_replacement">Omogući zamjenu Hot Modula</string>
+  <string name="catalyst_hot_module_replacement_off">Onemogući zamjenu Hot Modula</string>
+  <string name="catalyst_jsload_error">"Nije moguće preuzeti JS paket sa dev poslužitelja.
+
+Pokušajte sljedeće kako biste riješili problem:
+• Provjerite je li pakiratelj poslužitelja pokrenut
+• Provjerite je li uređaj / emulator povezan s vašim uređajem i omogućeno USB ispravljanje pogrešaka - pokrenite 'adb devices' da biste vidjeli popis povezanih uređaja
+• Ako ste na fizičkom uređaju povezani na isti stroj, pokrenite 'adb reverse tcp:8081 tcp:8081' da proslijedite zahtjeve s vašeg uređaja
+• Ako je vaš uređaj na istoj Wi-Fi mreži, postavite 'Domaćina poslužitelja za ispravljanje pogrešaka &; port za uređaj' u 'Dev postavkama' na IP adresu vašeg uređaja i na priključak lokalnog dev poslužitelja - npr. 10.0.1.1:8081"</string>
+  <string name="catalyst_jsload_message">Dohvaćanje JS paketa</string>
+  <string name="catalyst_jsload_title">Pričekajte…</string>
+  <string name="catalyst_live_reload">Omogući Live Reload</string>
+  <string name="catalyst_live_reload_off">Onemogući Live Reload</string>
+  <string name="catalyst_perf_monitor">Omogući Perf Monitor</string>
+  <string name="catalyst_perf_monitor_off">Onemogući Perf Monitor</string>
+  <string name="catalyst_reloadjs">Ponovno učitaj JS</string>
+  <string name="catalyst_remotedbg_error">Ne mogu se povezati s udaljenim programom za ispravljanje pogrešaka</string>
+  <string name="catalyst_remotedbg_message">Povezivanje s udaljenim programom za ispravljanje pogrešaka</string>
+  <string name="catalyst_settings">Dev postavke</string>
+  <string name="catalyst_settings_title">Catalyst Dev postavke</string>
+  <string name="catalyst_start_profile">Pokreni Profil</string>
+  <string name="catalyst_stop_profile">Zaustavi Profil</string>
   <string name="change_to_channel">Promijeni na [%1$s] %2$s</string>
   <string name="channel">Kanal</string>
   <string name="channel_added_to_fav">%1$s dodan u favorite</string>
@@ -165,7 +198,8 @@
   <string name="create_shortcut_cancel">Ne hvala</string>
   <string name="create_shortcut_confirm">Napravi</string>
   <string name="create_shortcut_done">Uspješno napravljeno</string>
-  <string name="current_place">Trenutna lokacija: </string>
+  <string name="create_shortcut_failed">"Ne mogu dodati prečac. Uvjerite se da Mi Remote ima potrebna dopuštenja."</string>
+  <string name="current_place">"Trenutna lokacija: "</string>
   <string name="current_play">Reproducira se: </string>
   <string name="current_stb">"Trenutno: "</string>
   <string name="current_version_frame">Trenutna verzija %s</string>
@@ -186,6 +220,19 @@
   <string name="device_model">Model</string>
   <string name="device_responsed">Uređaj je odgovorio</string>
   <string name="device_type">Uređaj</string>
+  <string name="devicetype1">TV</string>
+  <string name="devicetype10">Projektor</string>
+  <string name="devicetype10001">Mi TV/Mi Box</string>
+  <string name="devicetype11">Satellite TV</string>
+  <string name="devicetype12">Box</string>
+  <string name="devicetype13">DSLR</string>
+  <string name="devicetype14">Light bulb</string>
+  <string name="devicetype2">Set-top box</string>
+  <string name="devicetype3">AC</string>
+  <string name="devicetype4">DVD</string>
+  <string name="devicetype5">IPTV</string>
+  <string name="devicetype6">Fan</string>
+  <string name="devicetype8">A/V prijemnik</string>
   <string name="diagnose">Testiraj daljinski</string>
   <string name="diagnosis_intro">Testiraj mrežu za probleme s povezivanjem</string>
   <string name="dialog_install_assistant_content">Instalirajte Mi Emitiranje zaslona da dobijete najviše od vašeg Mi TV-a ili Mi Box-a.</string>
@@ -293,10 +340,18 @@
   <string name="fan_speed">Brzina</string>
   <string name="faq">FAQ</string>
   <string name="fav">Favoriti</string>
+  <string name="favorite_channel">Nedavni kanali</string>
   <string name="feedback">Pov. informacija</string>
+  <string name="feedback_desc_default">"Neke tipke ne rade"</string>
+  <string name="feedback_desc_hint">Opišite problem</string>
   <string name="feedback_error">Prijavite grešku</string>
   <string name="feedback_error_success_tip">Uspješno poslano</string>
   <string name="feedback_error_tips">Imate problema s korištenjem ovog daljinskog, dodirnite da prijavite problem</string>
+  <string name="feedback_input_desc">Opišite ovdje problem.</string>
+  <string name="feedback_issue_desc">Opišite problem</string>
+  <string name="feedback_keys">Pov. informacije</string>
+  <string name="feedback_keys_success">Hvala vam na povratnim informacijama!</string>
+  <string name="feedback_keys_tips">"Ako gumbi ne funkcioniraju, pošaljite nam povratne informacije"</string>
   <string name="find_adb_frame">Otkriveno %1$d ADB uređaja</string>
   <string name="find_milink_frame">Otkriveno %1$d uređaja</string>
   <string name="fix_keys">Popravi Tipke</string>
@@ -319,6 +374,9 @@
   <string name="guid_two">· Uređaji će biti otkriveni i prikazani na ovoj stranici</string>
   <string name="guid_zero">". Vaš uređaj ne podržava infracrvene uređaje, ali podržava WLAN daljinske upravljače."</string>
   <string name="guide">Vodič</string>
+  <string name="guide_title_one">Vaš telefon ne podržava infracrvenu vezu, ne možete daljinski upravljati infracrvenim uređajima</string>
+  <string name="guide_title_three">Upute</string>
+  <string name="guide_title_two">Ali možete kontrolirati Mi TV i Mi Box putem WLAN mreže</string>
   <string name="has_installed">Instalirano</string>
   <string name="hd_channel_preferred">Preferiraj HD video</string>
   <string name="help">Pomoć</string>
@@ -375,6 +433,7 @@
   <string name="ir_device_sound">Zvučnici</string>
   <string name="ir_device_stb">STB</string>
   <string name="ir_device_tv">TV</string>
+  <string name="ir_device_water_heater">Kuhalo za vodu</string>
   <string name="ir_device_wifi">WLAN daljinski</string>
   <string name="ir_not_supported_devices">"* Pojedini Mi TV/Box-ovi ne podržavaju IR. Probajte koristiti Bežični daljinski."</string>
   <string name="jump_to_mivideo">Pogledaj na mobilnom uređaju</string>
@@ -394,6 +453,7 @@
   <string name="loading_more">Samo trenutak…</string>
   <string name="locate_current_place">Pronađi trenutnu lokaciju</string>
   <string name="location_select">Preimenuj uređaj</string>
+  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Prijavi se</string>
   <string name="login_directly">Prijavi se izravno</string>
   <string name="login_done">Prijavljeno</string>
@@ -523,6 +583,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="my_room">Moja soba</string>
   <string name="my_room_underline">Moja soba</string>
   <string name="my_setting">Postavke</string>
+  <string name="nearby">U blizini</string>
   <string name="network_diagnosis">Testiraj mrežu</string>
   <string name="network_no_connection">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="network_ok">Nema otkrivenih problema</string>
@@ -564,6 +625,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="oscillation">Oscilacija</string>
   <string name="other">Ostalo</string>
   <string name="outdoor_temp_unknown">Nepoznato</string>
+  <string name="pair_server_data_only">Preporučujemo upotrebu mrežnih podataka za nove daljinske uređaje</string>
   <string name="partner">Podrška</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">Email ili broj telefona</string>
@@ -728,6 +790,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="please_select_stb">Odaberi set-top box</string>
   <string name="please_select_tv">Odaberi TV</string>
   <string name="pm_2.5">PM2.5:</string>
+  <string name="pm_2.5_out">Vani PM2.5:</string>
   <string name="popup_installed_app_no_app">Dobivanje aplikacija, pričekajte minutu i pokušajte ponovno</string>
   <string name="popup_installed_app_title">Odaberi aplikaciju koju želite otvoriti na TV-u</string>
   <string name="popup_select_device">Odaberi bežični daljinski</string>
@@ -838,6 +901,7 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="search_history">Povijest pretraživanja</string>
   <string name="search_history_clear">Izbriši povijest</string>
   <string name="search_history_empty">Nema povijesti</string>
+  <string name="search_menu_title">Traži</string>
   <string name="search_more_failed">Nije uspjelo učitavanje</string>
   <string name="search_no_result">Nema rezultata.</string>
   <string name="search_page_all_app_result">Pogledaj sve</string>
@@ -853,6 +917,7 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="select_dvb_carrier">Odaberi operatera</string>
   <string name="select_screenshot_topic">Odaberi snimku zaslona</string>
   <string name="select_stb">Odaberi set-top box</string>
+  <string name="select_stb_tips">Upari set-top box</string>
   <string name="service_info">Servisne informacije</string>
   <string name="setting_airkan">BEŽIČNI ZASLON</string>
   <string name="setting_common">OPĆENITO</string>
@@ -938,7 +1003,7 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="stop_diagnosis">Zaustavi</string>
   <string name="study_room">Učionica</string>
   <string name="submit">Pošalji</string>
-  <string name="submit_fail_retry">Slanje nije uspjelo, pokušajte ponovno</string>
+  <string name="submit_fail_retry">"Ne mogu poslati informacije o uređaju. Pričekajte trenutak ili dva i pokušajte ponovo."</string>
   <string name="succeed_content">Upareno %3$s %4$s uspješno.</string>
   <string name="succeed_finish">Završeno</string>
   <string name="succeed_title">Upareno</string>
@@ -947,11 +1012,13 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="supporting_soon">Dolazi uskoro</string>
   <string name="swipe_loading">Samo trenutak…</string>
   <string name="switch_place">Promjeni</string>
-  <string name="technical_support"/>
+  <string name="tab_live">Live</string>
+  <string name="tab_store">Mi Store</string>
+  <string name="technical_support">Tehnička podrška</string>
   <string name="temperature">Temp.</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Aplikaciju nije moguće pokrenuti</string>
-  <string name="time_error">Pogreška vremena</string>
+  <string name="time_error">Izgleda da je vrijeme pogrešno</string>
   <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Isključi timer</string>
@@ -1045,6 +1112,8 @@ Za promjenu, dugo pritisnite tipku za uključivanje TV prijemnika"</string>
   <string name="voice_record_start">Snimi glas</string>
   <string name="voice_resolving">Prepoznavanje glasa…</string>
   <string name="volume">Glasnoća</string>
+  <string name="volume_dec">Glasnoća-</string>
+  <string name="volume_inc">Glasnoća+</string>
   <string name="weather_out">Vanjska temperatura:</string>
   <string name="wechat_account">WeChat račun</string>
   <string name="wifi_rc_create_help">Kako dodati Bežčni RC?</string>
