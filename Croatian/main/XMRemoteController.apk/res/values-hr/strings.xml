@@ -146,9 +146,9 @@
 
 Pokušajte sljedeće kako biste riješili problem:
 • Provjerite je li pakiratelj poslužitelja pokrenut
-• Provjerite je li uređaj / emulator povezan s vašim uređajem i omogućeno USB ispravljanje pogrešaka - pokrenite 'adb devices' da biste vidjeli popis povezanih uređaja
+• Provjerite je li uređaj/emulator povezan s vašim uređajem i omogućeno USB ispravljanje pogrešaka - pokrenite 'adb devices' da biste vidjeli popis povezanih uređaja
 • Ako ste na fizičkom uređaju povezani na isti stroj, pokrenite 'adb reverse tcp:8081 tcp:8081' da proslijedite zahtjeve s vašeg uređaja
-• Ako je vaš uređaj na istoj Wi-Fi mreži, postavite 'Domaćina poslužitelja za ispravljanje pogrešaka &; port za uređaj' u 'Dev postavkama' na IP adresu vašeg uređaja i na priključak lokalnog dev poslužitelja - npr. 10.0.1.1:8081"</string>
+• Ako je vaš uređaj na istoj Wi-Fi mreži, postavite 'Domaćina poslužitelja za ispravljanje pogrešaka &amp; port za uređaj' u 'Dev postavkama' na IP adresu vašeg uređaja i na priključak lokalnog dev poslužitelja - npr. 10.0.1.1:8081"</string>
   <string name="catalyst_jsload_message">Dohvaćanje JS paketa</string>
   <string name="catalyst_jsload_title">Pričekajte…</string>
   <string name="catalyst_live_reload">Omogući Live Reload</string>
