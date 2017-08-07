@@ -110,7 +110,7 @@
   <string name="go_on_download">Preuzmi</string>
   <string name="important_suggestion">Pravila o privatnosti su promijenjene</string>
   <string name="install">Instaliraj</string>
-  <string name="install_desc">"Uređaj će se ponovno pokrenuti u recovery i instalirati odabranu datoteku: %1$s
+  <string name="install_desc">"Uređaj će se ponovno pokrenuti u TWRP i instalirati odabranu datoteku: %1$s
 Podaci neće biti izbrisani."</string>
   <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
@@ -123,10 +123,10 @@ Podaci neće biti izbrisani."</string>
   <string name="log_share">Podijeli</string>
   <string name="menu_more_button">Izbornik</string>
   <string name="menu_title_apply_for_alpha">Prijavite se u program testiranja Beta verzije</string>
-  <string name="menu_title_current_version_log">Što ima novo</string>
+  <string name="menu_title_current_version_log">Informacije o ažuriranjima</string>
   <string name="menu_title_download_current_rom">Preuzmi ažuriranje</string>
-  <string name="menu_title_pick_rom_file">Odaberite paket ažuriranja</string>
-  <string name="menu_title_recovery">Ponovno pokretanje u Recovery mode</string>
+  <string name="menu_title_pick_rom_file">Odaberite ZIP iz pohrane</string>
+  <string name="menu_title_recovery">Ponovno pokretanje u TWRP recovery</string>
   <string name="miui_BBS">" &lt;a href=http://bbs.miui.com&gt;Idi na MIUI forum&lt;/a&gt; "</string>
   <string name="miui_summary_has_new_version">" Dostupno je ažuriranje "</string>
   <string name="miui_summary_no_new_version">Nema dostupnih ažuriranja</string>
@@ -184,12 +184,12 @@ Podaci neće biti izbrisani."</string>
   <string name="open_now">Da</string>
   <string name="particular_build">Osobito</string>
   <string name="pause">Pauza</string>
-  <string name="permdesc_cache_filesystem">Aplikaciji omogućuje pisanje datoteka u /predmemoriju.</string>
+  <string name="permdesc_cache_filesystem">Aplikaciji omogućuje pisanje datoteka u / cache.</string>
   <string name="permdesc_reboot">Aplikaciji omogućuje ponovno pokretanje uređaja.</string>
-  <string name="permlab_cache_filesystem">Pristup predmemoriji</string>
+  <string name="permlab_cache_filesystem">Pristup cache</string>
   <string name="permlab_reboot">Pristup ponovnom pokretanju</string>
   <string name="pick_not_found">Nije pronađen odgovarajući upravitelj datoteka.</string>
-  <string name="pick_title">Odaberi pomoću:</string>
+  <string name="pick_title">Odaberi:</string>
   <string name="pm_root_acquired_button">ROOT pristup</string>
   <string name="pm_root_acquired_notification_title">Dobivanje ROOT pristupa</string>
   <string name="pm_root_acquired_rooting">Dobivanje ROOT pristupa %s</string>
@@ -214,7 +214,7 @@ Podaci neće biti izbrisani."</string>
   <string name="provision_toast_server_error">Povezivanje s poslužiteljem nije uspjelo. Pričekajte trenutak ili dva i pokušajte ponovno.</string>
   <string name="provision_toast_timeout">Veza je istekla. Provjerite mrežne postavke.</string>
   <string name="reboot">Ponovno pokreni</string>
-  <string name="recovery_desc">Uređaj će se sada ponovno pokrenuti u Recovery. Ako niste upoznati s tim načinom otkažite buduće radnje. Nastaviti?</string>
+  <string name="recovery_desc">Uređaj će se sada ponovno pokrenuti u TWRP Recovery. Nastaviti?</string>
   <string name="recovery_failed_button">U redu</string>
   <string name="recovery_failed_msg">"Vaš uređaj nema dovoljno memorije za ulaz u Recovery i ažuriranje vašg sustava. Pokušajte pomoću Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
@@ -241,6 +241,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_network_title">Poveži se na WLAN mrežu</string>
   <string name="set_only_wifi">Koristi samo WLAN</string>
   <string name="share">Podijeli</string>
+  <string name="share_desc">MIUI verzija ažurirana je na %1$s, pogledajte popis promjena na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
   <string name="share_qq">Objavi preko Tencent Weibo</string>
   <string name="share_sina">Objavi preko Sina Weibo</string>
   <string name="share_title">Podijeli sa</string>
