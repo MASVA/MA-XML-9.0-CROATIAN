@@ -19,7 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Ako se problem ponovi, tražite pomoć od razvojnog programera.</string>  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Ako se problem ponovi, tražite pomoć od razvojnog programera.</string>  
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="app_name">Mi Video</string>
   <string name="load_more_and_more">Učitaj više…</string>
   <string name="over_load_more">Učitaj više</string>
