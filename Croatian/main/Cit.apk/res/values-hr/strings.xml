@@ -31,6 +31,8 @@
   <string name="action_example">Primjer radnje</string>
   <string name="action_nothing">Čekaj na test</string>
   <string name="add_fingerprint">Dodaj otisak prsta</string>
+  <string name="audio_spk_cal_wait">Kalibriranje, pričekajte…</string>
+  <string name="audio_spk_def">Kalibriranje zvučnika</string>
   <string name="baterry_percent">"Napunjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
   <string name="begin_to_save_finger_data">Početak spremanja podataka otiska prsta</string>

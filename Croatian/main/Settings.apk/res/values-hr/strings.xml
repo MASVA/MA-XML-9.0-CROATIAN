@@ -4843,6 +4843,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="turn_off_common_password_confirm_msg">Zaklj. zaslona će također biti isključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Neke sigurnosne značajke neće funkcionirati bez vaše zaporke."</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Zatvaranje zaporke</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta nakon isključivanja zaporke.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta."</string>
   <string name="turn_off_radio">Isključi radio</string>
@@ -4852,6 +4853,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="turn_on_security_lock">Odaberite Zaklj. zaslona</string>
   <string name="turn_on_wifi_dialog_text">WLAN je isključen kada je Prijenosni hotspot aktivan. Da uključite WLAN, isključite Prijenosni hotspota.</string>
   <string name="turn_on_wifi_dialog_title">Uključi WLAN</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Izmjena zaporke</string>
   <string name="twohours">1 sat</string>
   <string name="uicc_eject">Isključi UICC memoriju</string>
   <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>
