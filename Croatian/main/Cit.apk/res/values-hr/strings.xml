@@ -316,7 +316,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_reset_se_nfc_closed">Nije uspjelo: NFC treba biti omogućen.</string>
   <string name="cit_reset_se_start">Resetiranje eSE…</string>
   <string name="cit_reset_test">Testiranje</string>
-  <string name="cit_sar_sensor_check_summary">U nastavku se trebaju prikazati vrijednosti kanala senzora, pokrivanje tipke telefona, ako su podaci promijenjeni, funkcija je dobra</string>
+  <string name="cit_sar_sensor_check_summary">U nastavku se trebaju prikazati vrijednosti kanala senzora, pokrijte tipke telefona, ako se podaci promijene, funkcija je dobra ali nemojte raditi kalibraciju s priključenim USB kabelom!</string>
   <string name="cit_sar_sensor_check_title">SAR senzor</string>
   <string name="cit_sd_fail">Došlo je do pogreške.</string>
   <string name="cit_sd_mount">Učitavanje SD kartice</string>
