@@ -146,6 +146,8 @@ Podaci neće biti izbrisani."</string>
   <string name="no_log">Nema dostupnih sažetaka</string>
   <string name="no_network">Nema mrežnog pristupa.</string>
   <string name="no_update">Sve je ažurno!</string>
+  <string name="no_xioamieu">"Ne koristite MIUI ROM izrađen od strane Xiaomi.eu tima!
+Ažuriranja nisu dostupna za vas!"</string>
   <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na WLAN za preuzimanje ažuriranja."</string>
   <string name="no_wifi_title">Poveži se na WLAN</string>
   <string name="not_open">Ne</string>
