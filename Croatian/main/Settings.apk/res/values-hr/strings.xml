@@ -2239,9 +2239,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_notifications_interstitial_title_profile">Obavijesti profila</string>
   <string name="lock_screen_notifications_summary_disable">Uopće ne prikazuj obavijesti</string>
   <string name="lock_screen_notifications_summary_disable_profile">Uopće ne prikazuj obavijesti radnog profila</string>
-  <string name="lock_screen_notifications_summary_hide">Sakrij osjetljiv sadržaj obavijesti</string>
+  <string name="lock_screen_notifications_summary_hide">Prikaži sve obavijesti ali sakrij sadržaj</string>
   <string name="lock_screen_notifications_summary_hide_profile">Sakrij osjetljiv sadržaj obavijesti radnog profila</string>
-  <string name="lock_screen_notifications_summary_show">Prikaži sav sadržaj obavijesti</string>
+  <string name="lock_screen_notifications_summary_show">Prikaži sve obavijesti i njihov sadržaj</string>
   <string name="lock_screen_notifications_summary_show_profile">Prikaži sav sadržaj obavijesti radnog profila</string>
   <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
@@ -2812,6 +2812,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_updates_warning2">"Opustite se, obavijestiti ćemo vas ako bude dostupno ažuriranje."</string>
   <string name="no_vr_listeners">Nijedna instalirana aplikacija nije zatražila da se pokrene kao pomoćna usluga za virtualnu stvarnost.</string>
   <string name="noise_suppression">Utišavanje okolne buke</string>
+  <string name="normal">Normalna</string>
+  <string name="normal_info">Sve je glasnoća normalna</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>
@@ -4227,10 +4229,11 @@ Za prikvačivanje zaslona:
   <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li vaš uređaj ima internetsku vezu."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
   <string name="shuting_down_find_device">Isključivanje Pronađi uređaj…</string>
+  <string name="silent_duration">Trajanje</string>
   <string name="silent_mode">Bešumni način</string>
   <string name="silent_mode_title">Bešumni način</string>
   <string name="silent_off">Isključi</string>
-  <string name="silent_settings">Bešumni način</string>
+  <string name="silent_settings">Bešumni način/DND</string>
   <string name="silent_standard">Bešumno</string>
   <string name="silent_time">Trajanje Bešumnog načina</string>
   <string name="silent_total">DND</string>
