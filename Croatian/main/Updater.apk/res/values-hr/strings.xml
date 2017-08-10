@@ -337,4 +337,5 @@ Ne mogu poslati Povratnu informaciju"</string>
   <string name="welcom_message">Spremni ste da rasturite</string>
   <string name="welcom_title">Dobrodošli u MIUI 7</string>
   <string name="worst_update">Najgore ažuriranje do sad</string>
+  <string name="wifi_recommended">Nema WLAN veze za sigurno preuzimanje!</string>
 </resources>
