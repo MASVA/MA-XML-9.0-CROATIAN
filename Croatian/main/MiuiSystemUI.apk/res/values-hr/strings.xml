@@ -56,7 +56,7 @@
   <string name="accessibility_recents_item_dismissed">%s odbačeno.</string>
   <string name="accessibility_recents_item_launched">Pokretanje %s.</string>
   <string name="accessibility_recents_item_open_app_info">Otvori %s informacije o aplikaciji.</string>
-  <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Odbaci %s.</string>
   <string name="accessibility_remove_notification">Očisti obavijest.</string>
   <string name="accessibility_ringer_silent">"Bešumno."</string>
   <string name="accessibility_ringer_vibrate">Vibracija.</string>

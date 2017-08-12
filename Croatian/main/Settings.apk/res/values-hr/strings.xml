@@ -2372,6 +2372,7 @@ Za uređaj i radni profil možete postaviti novo zaključavanje zaslona, ali će
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Spriječi unos odgovora ili drugog teksta u obavijesti kada je uređaj zaključan</string>
   <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
@@ -2813,7 +2814,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_vr_listeners">Nijedna instalirana aplikacija nije zatražila da se pokrene kao pomoćna usluga za virtualnu stvarnost.</string>
   <string name="noise_suppression">Utišavanje okolne buke</string>
   <string name="normal">Normalna</string>
-  <string name="normal_info">Sve je glasnoća normalna</string>
+  <string name="normal_info">Sva je glasnoća normalna</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>

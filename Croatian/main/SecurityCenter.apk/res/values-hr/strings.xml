@@ -2210,6 +2210,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="start_game">Start</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="start_tc_button">Kalibriraj</string>
+  <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Zaustavi</string>
   <string name="suffix_pay_risk_count_bottom">rizika</string>
   <string name="suffix_pay_risk_count_top">plaćanje</string>
@@ -2596,6 +2597,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="uninstall_app_dialog_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Deinstalirati sada?</string>
   <string name="uninstall_app_done">Uspješno deinstalirano</string>
+  <string name="uninstall_danagerous_btn">Deinstaliraj</string>
+  <string name="uninstall_danagerous_desc">\"%s\" može vaš oštetiti uređaj</string>
+  <string name="uninstall_danagerous_msg">\"%s\" može vaš oštetiti uređaj, smanjiti njegovu učinkovitost ili uzrokovati ponovno pokretanje.</string>
+  <string name="uninstall_danagerous_title">Deinstaliraj zlonamjerne aplikacije</string>
   <string name="unlike">Ne hvala</string>
   <string name="unlock_pattern">&lt;u&gt;Obrazac&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Unesite zaporku za aktivaciju otiska prsta</string>
