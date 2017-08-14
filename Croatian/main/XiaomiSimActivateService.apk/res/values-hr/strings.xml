@@ -10,6 +10,7 @@
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_live_talk">Paket nadoplate</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
+  <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mx">Mi Poruka</string>
   <string name="activate_feature_mx_and_voip">Mi Poruka i Glas</string>
   <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>

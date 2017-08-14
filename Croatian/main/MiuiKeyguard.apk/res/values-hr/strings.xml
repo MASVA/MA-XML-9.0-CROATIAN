@@ -108,6 +108,10 @@ Pokušajte ponovo za %d sek."</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
   <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
   <string name="phone_locked_foget_password">Zaboravljena zaporka?</string>
+  <string name="phone_locked_foget_password_mehod_back">Natrag</string>
+  <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
+  <string name="phone_locked_foget_password_method_content">Morate <font color="#a5220e">izbrisati sve podatke </font> na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_next">Dalje</string>
   <string name="phone_locked_foget_password_content">"Možete se prijaviti na i.mi.com pomoću Mi Računa koji je povezan s ovim uređajem i izbrisati sve podatke.
 To će izbrisati sve osobne podatke pohranjene na ovom uređaju. Nakon toga, možete ponovno pokrenuti uređaj i vratiti kontakte, poruke, fotografije i druge stavke iz Mi Clouda.
 
@@ -116,7 +120,11 @@ Nećete biti u mogućnosti to učiniti osim ako ste prijavljeni na svoj Mi Raču
   
 Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i pritisnite "Izbriši uređaj"."</string>
   <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
+  
   <string name="phone_locked_foget_password_ok">Shvaćam</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite <font color="#a5220e">Tipku za uključivanje</font> i <font color="#a5220e">Glasnoća + </font>istovremeno dok ne vidite MI.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite <font color="#a5220e">\"Izbriši &amp; resetiraj\"</font> i pričekajte dok se uređaj ne ponovo pokrene.</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
   <string name="phone_locked_timeout_minutes_string">Pokušajte ponovno za %d min.</string>
   <string name="phone_locked_timeout_seconds_string">Pokušajte ponovno za %d sek.</string>

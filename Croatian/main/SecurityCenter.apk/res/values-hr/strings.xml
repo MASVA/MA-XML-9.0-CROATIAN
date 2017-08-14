@@ -2061,8 +2061,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
-  <string name="sp_network_privacy_dialog_message">"Aplikacija Sigurnost ne može provjeriti plaćanja jer ste joj ograničili povezivanje s internetom. Dopustiti aplikaciji Sigurnost povezivanje s internetom?"</string>
-  <string name="sp_network_privacy_dialog_title">"Ne mogu provjeriti plaćanjas"</string>
+  <string name="sp_network_privacy_dialog_message">"Aplikacija Sigurnost ne može raditi ispravno jer ste joj ograničili povezivanje s internetom. Dopustiti aplikaciji Sigurnost povezivanje s internetom?"</string>
+  <string name="sp_network_privacy_dialog_title">"Ne mogu koristiti sigurnosno skeniranje"</string>
   <string name="sp_safe_score_text">Plaćanje je sigurno</string>
   <string name="sp_scan_item_monitor">Nadziranje plaćanja</string>
   <string name="sp_scan_item_url_antispam">Zaštita od zlonamjernih poveznica</string>
@@ -2088,6 +2088,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
   <string name="sponsored_sec_fb">Sponzorirano</string>
+  <string name="ss_activity_main_support_text">Powered by %s</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Dodaj lokacije</string>
   <string name="st_antispam_bw_adress_add">Dodaj lokacije</string>

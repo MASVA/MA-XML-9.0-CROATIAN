@@ -45,6 +45,7 @@
   <string name="document_ocr_tip_msg">Čitanje…</string>
   <string name="document_ocr_vendor_info">OCR powered by Kingsoft</string>
   <string name="document_recognize_fail_tip">"Ne mogu pročitati dokumenat"</string>
+  <string name="document_recognize_null_tip">Dokumenat je prazan</string>
   <string name="document_rectify">Podesi</string>
   <string name="document_rectify_tip_msg">Podešavanje…</string>
   <string name="document_save_succeed_tip">Dokument spremljen u %1$s</string>

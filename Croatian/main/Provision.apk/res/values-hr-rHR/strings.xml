@@ -3,6 +3,7 @@
   <string name="agree">Slažem se</string>
   <string name="agree_terms">"Pročitao sam i slažem se s Uvjeti Pružanja Usluge i Pravila o Privatnosti"</string>
   <string name="app_name">Odredbe</string>
+  <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="back">Natrag</string>
   <string name="cm_terms_content">"U cilju poboljšanja usluge koje vam pruža operater mobilne mreže po vašem izboru može učitati Vaše osobne podatke i informacije o ovom uređaju na svoje poslužitelje koji koriste WLAN mreže ili mobilnu podatkovnu vezu. Ove će se informacije koristiti isključivo u statističke svrhe, kako bi se poboljšala kvaliteta usluga i pruži vam se više personaliziranih sadržaja. Ti se podaci neće koristiti za vašu osobnu identifikaciju i neće biti dani na uvid trećim osobama."</string>
   <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>

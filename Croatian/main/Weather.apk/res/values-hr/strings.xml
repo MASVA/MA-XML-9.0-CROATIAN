@@ -134,7 +134,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="more_details">Više detalja</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
-  <string name="night_not_disturb_settings_summary">Neće primati sve vremenske obavijesti od 23:00 do 07:00 idućeg dana nakon otvaranja</string>
+  <string name="night_not_disturb_settings_summary">Ne obavještavaj od 23:00 do 07:00</string>
   <string name="night_not_disturb_settings_title">Ne ometaj noću</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="no_vote_ratio">Protiv %1$s%%</string>
@@ -194,8 +194,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="unit">Jedinica</string>
   <string name="unit_temperature">Jedinica temperature</string>
   <string name="unit_wind">Jedinica brzine vjetra</string>
-  <string name="update_night_setting_summary_text">Neće se ažurirati automatski 23:00-07: 00 nakon zatvaranja</string>
-  <string name="update_night_setting_title_text">Ažuriraj automatski noću</string>
+  <string name="update_night_setting_summary_text">Ne ažuriraj u vremenu od 23:00-07: 00</string>
+  <string name="update_night_setting_title_text">Ažuriraj tijekom noći</string>
   <string name="update_setting_title_text">Postavke ažuriranja</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
