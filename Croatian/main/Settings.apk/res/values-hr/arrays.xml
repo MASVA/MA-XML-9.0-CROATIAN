@@ -1081,11 +1081,11 @@
      </string-array>
      <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
-        <item>Kapacitet baterije</item>
-        <item>Stražnja kamera</item>
-        <item>Veličina zaslona</item>
+        <item>Baterija</item>
+        <item>Kamera</item>
+        <item>Zaslon</item>
         <item>Rezolucija</item>
-        <item>Android verzija</item>
+        <item>Android</item>
      </string-array>
      <string-array name="standard_configuration_version_description_secondary">
         <item>Snapdragon 835</item>
