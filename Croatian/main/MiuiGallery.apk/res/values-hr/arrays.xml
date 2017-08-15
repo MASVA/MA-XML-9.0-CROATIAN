@@ -36,4 +36,18 @@
          <item>Prijatelj</item>
          <item>Negrupirano</item>
     </string-array>
+	<string-array name="collage_month">
+         <item>Sij</item>
+         <item>Velj</item>
+         <item>Ožu</item>
+         <item>Tra</item>
+         <item>Svi</item>
+         <item>Lip</item>
+         <item>Srp</item>
+         <item>Kol</item>
+         <item>Ruj</item>
+         <item>Lis</item>
+         <item>Stu</item>
+         <item>Pro</item>
+     </string-array>
 </resources> 

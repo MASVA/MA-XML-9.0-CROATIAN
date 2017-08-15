@@ -1229,6 +1229,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="strequentList">Favoriti</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
+  <string name="t9_search_empty_create_contact">Novi kontakt</string>
+  <string name="t9_search_empty_edit_contact">Dodaj kontaktu</string>
+  <string name="t9_search_empty_send_sms">Pošalji poruku</string>
+  <string name="t9_search_empty_video_call">Video poziv</string>
   <string name="t9_search_guide_pinyin_title1">Unesite brojeve da biste pronašli kontakte</string>
   <string name="t9_search_guide_pinyin_title2">Unesite 6 i 2 za traženje Mario MASVA</string>
   <string name="t9_search_guide_zhuyin_title1">Unesite brojeve da biste pronašli kontakte</string>

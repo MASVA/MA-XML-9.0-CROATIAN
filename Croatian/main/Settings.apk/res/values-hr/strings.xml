@@ -3375,6 +3375,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_factory_reset_dlg_title">Izradite Sig. kopiju podataka</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
+  <string name="privacy_header_text_less_than_half">Premalo prostora za ovu aplikaciju. Povucite separator dalje.</string>
   <string name="privacy_mms">Poruke</string>
   <string name="privacy_mode_dialog_message">Sakriti poruke, bilješke, fotografije, postavke i dolazne pozive?</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>

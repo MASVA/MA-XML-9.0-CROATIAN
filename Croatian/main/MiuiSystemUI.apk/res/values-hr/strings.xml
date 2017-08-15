@@ -251,6 +251,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dlg_error_title">"Radnja USB-a nije uspjela"</string>
   <string name="dlg_ok">"U redu"</string>
   <string name="dock_forced_resizable">Aplikacija možda neće raditi s podijeljenim zaslonom.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">Aplikacija KeyGuard ne podržava podijeljeni zaslon, izlaz iz načina pod. zaslona.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon</string>
   <string name="drive_mode_tip">"Vi ste u automobilskom načinu"</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
