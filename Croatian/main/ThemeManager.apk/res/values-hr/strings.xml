@@ -25,11 +25,16 @@
   <string name="both_all_apply_failured">"Ne mogu postaviti sliku pozadine"</string>
   <string name="both_all_apply_success">Slika pozadine postavljena</string>
   <string name="browser_local_resource">Lokalni izvori</string>
+  <string name="can_not_apply">Ne mogu postaviti</string>
+  <string name="card_data_request_error">Izuzetak zahtjeva za podatke, pokušajte ponovo kasnije~</string>
+  <string name="card_loading">Učitavanje…</string>
+  <string name="card_no_network">Nema mreže, povežite se i pokušajte ponovno ~</string>
+  <string name="card_retry">Pokušaj ponovno</string>
   <string name="change_host_hint">Promijeni domaćina</string>
   <string name="change_wallpaper">Slika pozadine</string>
   <string name="choose_new_themes">Teme</string>
   <string name="close">Zatvori</string>
-  <string name="component_backup_preference_title">Izradi Sig.kopiju teme</string>
+  <string name="component_backup_preference_title">Izradi Sig. kopiju teme</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_title_ringtone">Melodije</string>
@@ -54,6 +59,7 @@
   <string name="fail_to_add_account">"Ne mogu dodati račun"</string>
   <string name="favorite_list">Omiljene</string>
   <string name="favorite_list_format">Omiljena %1$s</string>
+  <string name="find_more_wallpapers">Pronađi više</string>
   <string name="forcetouch_featured">Istaknuti</string>
   <string name="forcetouch_free_themes">Besplatne teme</string>
   <string name="forcetouch_offline">Izvanmrežno</string>
@@ -92,7 +98,8 @@
   <string name="gift_used">Poslano</string>
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
-  <string name="incompatible_dialog_message">Ova tema nije u potpunosti kompatibilna sa MIUI 8. Neki elementi mogu biti prikazani na pogrešan način.</string>
+  <string name="in_the_end">Nema više</string>
+  <string name="incompatible_dialog_message">Ova tema nije u potpunosti kompatibilna sa MIUI 9. Neki elementi mogu biti prikazani na pogrešan način.</string>
   <string name="incompatible_dialog_ok">Shvaćam</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
@@ -101,7 +108,8 @@
   <string name="live_wallpaper">Animirana pozadina</string>
   <string name="loading">Učitavam…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
-  <string name="loading_resource_detail_info">Učitavam…</string>
+  <string name="loading_resource_detail_info">Samo trenutak…</string>
+  <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
   <string name="lockscreen_apply_failured">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">"Slika pozadine Poč. zaslona postavljena. Ne mogu postaviti sliku pozadine zaklj. zaslona."</string>
@@ -137,6 +145,7 @@
   <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">Stare teme</string>
+  <string name="recently_used">Nedavno korišteno</string>
   <string name="reload">Pokušaj ponovno</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
@@ -332,12 +341,14 @@
   <string name="resource_user_know">U redu</string>
   <string name="resource_waiting_download">Čekam…</string>
   <string name="resource_waiting_pause">Pauza</string>
+  <string name="ringtone_set_success">Uspješno postavljeno</string>
   <string name="sdcard_not_mounted_dialog_message">"SD kartica nedostupna, 
   umetnite je odmah."</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
   <string name="search_hint_header_text">Popularno</string>
   <string name="selected_resource_file_invalid">"Ne mogu koristiti odabrane resurse datoteke"</string>
   <string name="settings">Postavke</string>
+  <string name="system_precust">Sistem</string>
   <string name="the_picture_is_not_support">Slika nije podržana</string>
   <string name="the_picture_is_too_small">Slika je premalena</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
@@ -427,6 +438,10 @@
   <string name="uid_change_dialog_message">"Izbrisali ste ažuriranja. Ponovno pokrenite uređaj da bi mogli koristiti teme."</string>
   <string name="uid_change_dialog_ok">Shvaćam</string>
   <string name="uid_change_dialog_title">Ponovni pokreni</string>
+  <string name="wallpaper_apply">Postavi</string>
+  <string name="wallpaper_settings_loading_text">Učitavanje...</string>
+  <string name="wallpaper_settings_no_history">Nema povijesti</string>
+  <string name="wallpaper_settings_pad_more_page_title">Više pozadina</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
