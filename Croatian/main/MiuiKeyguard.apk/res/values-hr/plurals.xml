@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <plurals name="new_notifications_msg">
    <plurals name="incorrect_pukcode_remaining_attempts">
          <item quantity="other">Netočan PUK kod, preostalo vam je još %d pokušaja</item>
          <item quantity="one">Netočan PUK kod, preostao vam je još %d pokušaj</item>
@@ -17,20 +16,21 @@
          <item quantity="other">Pričekajte %d min. i pokušajte ponovno</item>
          <item quantity="one">Pričekajte %d min. i pokušajte ponovno</item>
      </plurals>
+	 <plurals name="new_notifications_msg">
         <item quantity="other">Nove obavijesti: %d</item>
         <item quantity="one">%d nova obavijest</item>
     </plurals>
 	<plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-         <item quantity="other">Još %d min do pune baterije​​</item>
-         <item quantity="one">Još %d min do pune baterije​​</item>
+         <item quantity="other">Još %d min. do pune baterije​​</item>
+         <item quantity="one">Još %d min. do pune baterije​​</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-         <item quantity="other">Još %d hr %d min do pune baterije</item>
-         <item quantity="one">Još %d hr %d min do pune baterije</item>
+         <item quantity="other">Još %d hr %d min. do pune baterije</item>
+         <item quantity="one">Još %d hr %d min. do pune baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_time__text">
-         <item quantity="other">Još %d hr %d min do pune baterije</item>
-         <item quantity="one">Još %d hr %d min do pune baterije</item>
+         <item quantity="other">Još %d hr %d min. do pune baterije</item>
+         <item quantity="one">Još %d hr %d min. do pune baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_min_time_text">
          <item quantity="other">Preostalo oko %d min</item>
