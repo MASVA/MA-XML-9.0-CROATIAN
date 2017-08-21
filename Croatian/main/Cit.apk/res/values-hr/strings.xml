@@ -51,7 +51,7 @@
   <string name="cit_OTG_plugout_check_title">OTG (uklanjanje)</string>
   <string name="cit_OTG_waiting_in">Umetnite USB OTG uređaj</string>
   <string name="cit_OTG_waiting_out">Uklonite USB OTG uređaj</string>
-  <string name="cit_abnormal_reboot_summary">Pričekajte...Čitanje podataka o stabilnosti na ovom uređaju.</string>
+  <string name="cit_abnormal_reboot_summary">Pričekajte…Čitanje podataka o stabilnosti na ovom uređaju.</string>
   <string name="cit_abnormal_reboot_title">Podaci o stabilnosti uređaja</string>
   <string name="cit_ac_charger_in">AC Punjač je priključen</string>
   <string name="cit_ac_charger_out">AC Punjač je isključen</string>
@@ -231,6 +231,8 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_hall_near">Blizu</string>
   <string name="cit_hall_test_summary">Kada se magnet približi zelenom području, tekst bi se trebao približiti, inače bi tekst trebao biti daleko.</string>
   <string name="cit_hall_test_title">Dvorana</string>
+  <string name="cit_hardware_info_summary">Pričekajte… Prikupljanje informacija o hardveru ovog uređaja</string>
+  <string name="cit_hardware_info_title">Informacije o hardveru</string>
   <string name="cit_headset_button_check_summary">Kad su priključene slušalice, pritisnite tipke na slušalicama (često se nalaze na kabelu). Odgovarajući tekst na zaslonu bi trebao postati zelene boje.</string>
   <string name="cit_headset_button_check_title">Tipke slušalica</string>
   <string name="cit_headset_button_click">Pritisnete tipke na slušalicama</string>
@@ -352,7 +354,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
   <string name="cit_tfcard_support_summary">Provjerite je li TF Kartica podržana na ovom uređaju</string>
   <string name="cit_tfcard_support_title">Uređaj podržava TF Karticu</string>
-  <string name="cit_thermal_history_summary">Pričekajte ... Čitanje toplinskih podataka na ovom uređaju.</string>
+  <string name="cit_thermal_history_summary">Pričekajte … Čitanje toplinskih podataka na ovom uređaju.</string>
   <string name="cit_thermal_history_title">Povijest topline</string>
   <string name="cit_tool">Dodatni alati</string>
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>

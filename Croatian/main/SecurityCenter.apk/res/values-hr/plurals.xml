@@ -149,6 +149,10 @@
         <item quantity="other">%d stavki može biti optimizirano</item>
         <item quantity="one">%d stavka može biti optimizirana</item>
     </plurals>
+	<plurals name="title_virus_clean">
+         <item quantity="other">Izbrisano %d virusa</item>
+         <item quantity="one">Izbrisan %d virus</item>
+     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">Aplikacija (%d) s Autom. pokretanjem</item>
         <item quantity="one">Aplikacija (%d) s Autom. pokretanjem</item>

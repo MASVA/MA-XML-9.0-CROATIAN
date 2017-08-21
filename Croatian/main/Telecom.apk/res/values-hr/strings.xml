@@ -97,6 +97,7 @@
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
   <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
+  <string name="callFailed_simError">Pogreška SIM kartice</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne mogu uputiti videopoziv dok je glasovni poziv u tijeku"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="category_personal">Osobno</string>
@@ -110,6 +111,7 @@
   <string name="charge_length_format">Prije %1$s</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
+  <string name="close">Zatvori</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
@@ -194,7 +196,9 @@
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">"Nije moguće upućivanje poziva."</string>
-  <string name="incoming_call_failed_low_battery">Incoming Call is failed due to low battery.</string>
+  <string name="incall_error_power_off">Za uspostavu poziva, prvo isključite Zrakoplovni način.</string>
+  <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
+  <string name="incoming_call_failed_low_battery">Dolazni poziv nije uspio zbog slabe baterije.</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="launch_defaults_none">Nema zadanih postavki</string>

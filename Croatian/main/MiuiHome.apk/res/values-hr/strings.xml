@@ -183,6 +183,7 @@
   <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje</string>
   <string name="no_detail_page">Nema detalja stranice</string>
+  <string name="no_space_toast">Nema prostora</string>
   <string name="normal_wallpaper">Slika pozadine</string>
   <string name="notification_installed">Uspješno instalirano</string>
   <string name="notification_open_button">Otvori</string>

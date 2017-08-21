@@ -234,4 +234,24 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Podijeljeno %d mreža</item>
         <item quantity="one">Podijeljena %d mreža</item>
      </plurals>
+	  <plurals name="lockpassword_pin_too_short">
+         <item quantity="other">PIN mora sadržavati %d znamenaka</item>
+         <item quantity="one">PIN mora sadržavati %d znamenku</item>
+     </plurals>
+     <plurals name="lockpassword_pin_too_long">
+         <item quantity="other">PIN mora sadržavati %d znamenaka</item>
+         <item quantity="one">PIN mora sadržavati %d znamenaka</item>
+     </plurals>
+     <plurals name="lockpattern_recording_incorrect_too_short">
+         <item quantity="other">Povežite najmanje %d točke. Pokušajte ponovno.</item>
+         <item quantity="one">Povežite najmanje %d točku. Pokušajte ponovno.</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+         <item quantity="other">Previše netočnih pokušaja. Pokušajte ponovno za %d sek.</item>
+         <item quantity="one">Previše netočnih pokušaja. Pokušajte ponovno za %d sek.</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+         <item quantity="other">Pričekajte %d sek. i pokušajte ponovno.</item>
+         <item quantity="one">Pričekajte %d sek. i pokušajte ponovno.</item>
+     </plurals>
 </resources> 

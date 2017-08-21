@@ -44,24 +44,15 @@
   <string name="invalid_sim_puk_hint">PUK kod treba imati 8 brojeva ili više</string>
   <string name="keyguard_charging_info_battery_temperature_text">Temperatura baterije</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Oko %d hr do pune baterije</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Oko %d min do pune baterije​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Oko %d hr %d min do pune baterije</string>
   <string name="keyguard_charging_info_charging_text">Punjenje</string>
   <string name="keyguard_charging_info_charging_voltage_text">Napon</string>
   <string name="keyguard_charging_info_click_to_detail">Prikaži detalje</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Preostalo oko %d hr</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Preostalo oko %d min</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Preostalo oko %d hr %d min</string>
   <string name="keyguard_charging_info_current_now_text">Nadzor u stvarnom vremenu</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
   <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_data_v">%sV</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
-  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Potrošeno</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
   <string name="keyguard_charging_info_finished_charging_text">Napunjeno</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Danas %s</string>
@@ -110,7 +101,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="phone_locked_foget_password">Zaboravljena zaporka?</string>
   <string name="phone_locked_foget_password_mehod_back">Natrag</string>
   <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
-  <string name="phone_locked_foget_password_method_content">Morate <font color="#a5220e">izbrisati sve podatke </font> na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_content">Morate <font color="#a5220e">izbrisati sve podatke</font> na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
   <string name="phone_locked_foget_password_content">"Možete se prijaviti na i.mi.com pomoću Mi Računa koji je povezan s ovim uređajem i izbrisati sve podatke.
 To će izbrisati sve osobne podatke pohranjene na ovom uređaju. Nakon toga, možete ponovno pokrenuti uređaj i vratiti kontakte, poruke, fotografije i druge stavke iz Mi Clouda.
@@ -126,8 +117,6 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite <font color="#a5220e">\"Izbriši &amp; resetiraj\"</font> i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
-  <string name="phone_locked_timeout_minutes_string">Pokušajte ponovno za %d min.</string>
-  <string name="phone_locked_timeout_seconds_string">Pokušajte ponovno za %d sek.</string>
   <string name="set_lock_wallpaper_failed">Nema novih slika pozadine</string>
   <string name="unlock_sim_string">Otključaj SIM</string>
   <string name="unlock_string">Otključaj</string>
