@@ -47,7 +47,6 @@
   <string name="game_net_title">Optimiziraj brzinu veze</string>
   <string name="game_setting">Postavke igre</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
-  <string name="gamebooster_network_dialog_title">Internet povezivanje</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gb_alipays_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
   <string name="gb_weixinpay_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
