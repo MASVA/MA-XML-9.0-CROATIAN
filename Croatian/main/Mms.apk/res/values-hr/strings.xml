@@ -629,6 +629,8 @@
   <string name="sp_conversation_title">Obavijesti</string>
   <string name="sp_mark_as_read">Označiti sve poruke pročitanima?</string>
   <string name="sp_mark_as_read_menu_title">Označi kao pročitano</string>
+  <string name="sqlite_disk_full">Baza podataka ili Disk je pun</string>
+  <string name="sqlite_low_memory">Malo memorije</string>
   <string name="sp_mark_as_read_progress">Obrada…</string>
   <string name="sp_mark_as_read_title">Označiti sve obavijesti kao pročitanima?</string>
   <string name="status_failed">Neuspješno</string>
