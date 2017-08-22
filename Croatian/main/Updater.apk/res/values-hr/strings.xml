@@ -4,7 +4,7 @@
   <string name="battery_islow">Priključite punjač</string>
   <string name="battery_islow_desc">Baterija je preslaba za instalaciju nove verzije ROM-a, priključite punjač i pokušajte ponovo kasnije!</string>
   <string name="btn_changelog">Popis promjena</string>
-  <string name="btn_download">Preuzmi</string>
+  <string name="btn_download">Preuzmi (%1$s)</string>
   <string name="btn_install">Instaliraj</string>
   <string name="btn_no">Odustani</string>
   <string name="btn_ok">U redu</string>
