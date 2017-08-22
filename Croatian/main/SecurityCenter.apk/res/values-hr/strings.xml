@@ -46,7 +46,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activate_fingerprint_dialog_message">"Ovaj otisak prsta nije aktivan. Unesite zaporku da biste aktivirali ovaj otisak prsta."</string>
   <string name="activate_fingerprint_dialog_title">Unesite zaporku</string>
   <string name="activity_title_antispam">AntiSpam</string>
-  <string name="activity_title_antivirus">Sigurnosno skeniranje</string>
+  <string name="activity_title_antivirus">Sigurnost</string>
   <string name="activity_title_apps_manager">Aplik.</string>
   <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
   <string name="activity_title_create_shortcut">Prečac</string>
@@ -140,7 +140,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_privacy_dialog_title">Pravila o Privatnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji povezivanje na internet?"</string>
   <string name="antivirus_sec_support">Powered by %s</string>
-  <string name="antivirus_toast_already_update">Sve je ažurino</string>
+  <string name="antivirus_toast_already_update">Sve je ažurno</string>
   <string name="antivirus_toast_network_unavailable">Ne mogu se povezati na mrežu</string>
   <string name="antivirus_toast_update_failed">Ne mogu ažurirati</string>
   <string name="antivirus_toast_update_success">Uspješno ažurirano</string>
@@ -259,14 +259,14 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_stop_wp_dialog_cancel">Odustani</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Deinstaliraj</string>
   <string name="app_manager_system_mobile_disable">Isključi podatke</string>
-  <string name="app_manager_title">Upravljaj aplikacijama</string>
+  <string name="app_manager_title">Aplikacije</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
   <string name="app_manager_unstall_application">Deinstaliraj</string>
   <string name="app_manager_update_label_text">Novo</string>
   <string name="app_manager_usage_record_title">Korištenje aplikacije</string>
-  <string name="app_manager_wake_path_card_title">Lančani početak povijesti (2 dana)</string>
+  <string name="app_manager_wake_path_card_title">Povijest lančanog pokretanja (2 dana)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Shvaćam</string>
   <string name="app_manager_wakepath_dialog_summary">Lančano se pokretanje događa kada neka aplikacija pokrene drugu aplikaciju u pozadini. To može istrošiti bateriju i smanjiti performanse sustava. MIUI bi normalno blokirao lančano pokretanje.</string>
   <string name="app_manager_wakepath_dialog_title">O lančanom pokretanju</string>
@@ -539,11 +539,13 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="card_main_deepclean_action">Očisti</string>
   <string name="card_main_deepclean_qq_title">QQ čistač</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
-  <string name="card_main_deepclean_title">Dubinsko čišćenje</string>
+  <string name="card_main_deepclean_title">Full čišćenje</string>
   <string name="card_main_gamebooster_summary">Poboljšajte brzinu &amp; unaprijedite doživljaj igranja</string>
-  <string name="card_main_gamebooster_title">Poboljšajte brzinu igranja</string>
+  <string name="card_main_gamebooster_title">Ubrzaj igre</string>
+  <string name="card_main_hbassistant_summary">Ubrzajte i poboljšajte reakciju igara</string>
+  <string name="card_main_hbassistant_title">Ubrzaj igre</string>
   <string name="card_main_monthreport_action">Prikaži</string>
-  <string name="card_main_monthreport_summary">Prikaži mjesećna izvješća</string>
+  <string name="card_main_monthreport_summary">Prikaži mjesečna izvješća</string>
   <string name="card_main_monthreport_title">Sigurnosna statistika</string>
   <string name="card_main_netcheck_action">Test</string>
   <string name="card_main_netcheck_summary">Testiraj vezu za probleme s mrežom</string>
@@ -842,6 +844,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
   <string name="foreground_traffic">Prednja strana %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
+  <string name="forget_password_button_text_normal">Zaboravljena zaporka</string>
   <string name="forget_pattern">&lt;u&gt;Zaboravljen uzorak?&lt;/u&gt;</string>
   <string name="free_send_net_booster">Besplatno povećanje brzine mreže</string>
   <string name="free_send_net_booster_tip">Uživajte u glatkom igranju s besplatnim povećanjem brzine mreže.</string>
@@ -1225,7 +1228,7 @@ podatkovnu vezu"</string>
   <string name="menu_restore">Vrati u inbox</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
-  <string name="menu_text_antivirus">Sigurnosno skeniranje</string>
+  <string name="menu_text_antivirus">Sigurnost</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
   <string name="menu_text_garbage_cleanup_danger">%s premašeno</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
@@ -1257,7 +1260,7 @@ podatkovnu vezu"</string>
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_up">Sakrij</string>
   <string name="name">Ime</string>
-  <string name="net_booster">Network speed boost</string>
+  <string name="net_booster">Povećaj brzinu mreže</string>
   <string name="net_booster_expire_notification">Sesija povećanja brzine mreže uskoro će završiti</string>
   <string name="net_booster_expire_notification_tip">Preostalo %d d prije završetka sesije. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</string>
   <string name="net_booster_overdue_notification">Sesija povećanja brzine mreže uskoro će završiti</string>
@@ -1511,7 +1514,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_activity_title">Optimiziraj bateriju</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
-  <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
+  <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>

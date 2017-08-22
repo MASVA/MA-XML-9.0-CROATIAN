@@ -6,7 +6,7 @@
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
   <string name="anti_disturb_msg_title">DND</string>
-  <string name="app_name">Plugin Usluge Sigurnosti</string>
+  <string name="app_name">Ubrzaj igre</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
   <string name="application_item_already_permission">Dopušteno</string>
   <string name="application_item_disable">Ograničeno</string>
@@ -34,7 +34,7 @@
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Idite na službenu MIUI web stranicu da preuzmete alat za otključavanje.</string>
   <string name="function_close">Isključi</string>
-  <string name="game_booster">Ubrzavanje brzine igranja</string>
+  <string name="game_booster">Ubrzaj igre</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_title">Ubrzanje</string>
   <string name="game_booster_total">Brzina ubrzana %1$s puta, dodano %2$s vremena igranja</string>
@@ -103,6 +103,7 @@
   <string name="no_network_btn">Pokušaj ponovo</string>
   <string name="ok_button">U redu</string>
   <string name="open_browser">Otvori u pregledniku</string>
+  <string name="open_game">Otvori</string>
   <string name="other">Ostale postavke</string>
   <string name="pc_activity_title">Optimiziraj bateriju</string>
   <string name="pm_lable_name">O ROOT pristupu</string>
@@ -125,6 +126,7 @@
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Podijeli poveznicu</string>
+  <string name="top_game">Najbolje igre</string>
   <string name="top_load_fail_detail">Ne mogu učitati, dodirni za ponovni pokušaj</string>
   <string name="top_no_network_detial">Ne mogu učitati, provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="try_game">Isprobaj</string>
