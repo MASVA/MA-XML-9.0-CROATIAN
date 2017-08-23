@@ -3252,6 +3252,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="pointer_settings_category">Miš/dodirna površina</string>
   <string name="pointer_speed">Brzina pokazivača</string>
+  <string name="popup_window">Dopusti skočne prozore</string>
   <string name="power_autorun_apps_empty">Prazno</string>
   <string name="power_autorun_empty">Prazno</string>
   <string name="power_bluetooth">Bluetooth</string>
