@@ -25,8 +25,8 @@
          <item quantity="one">Još %d min. do pune baterije​​</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-         <item quantity="other">Još %d hr %d min. do pune baterije</item>
-         <item quantity="one">Još %d hr %d min. do pune baterije</item>
+         <item quantity="other">Još %d hr do pune baterije</item>
+         <item quantity="one">Još %d hr do pune baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_time__text">
          <item quantity="other">Još %d hr %d min. do pune baterije</item>
