@@ -49,6 +49,9 @@
   <string name="commercial">Komercijalno</string>
   <string name="common_loading_text">Samo trenutak…</string>
   <string name="connect_fail">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije."</string>
+  <string name="content_desc_activity_main_add_city">Dodaj grad</string>
+  <string name="content_desc_activity_main_add_city_manage">Upravljaj gradom</string>
+  <string name="content_desc_activity_main_more_settings">Više postavki</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Povjetarac</string>
@@ -60,6 +63,7 @@
   <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
 Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="data_provided_by">Podaci dobiveni od</string>
+  <string name="dislike_alert_dialog_title">Zašto ne želite vidjeti ovaj sadržaj?</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>
@@ -74,6 +78,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="feedback_sunny">Sunčano</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
+  <string name="forecast_vedio_visible_setting_string">Videozapis vremena</string>
   <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Sakrij</string>
@@ -142,6 +147,10 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="open_browser">Otvori u Pregledniku</string>
   <string name="open_now">Otvori</string>
   <string name="other">Ostalo</string>
+  <string name="other_warning_settings">Ostale postavke</string>
+  <string name="particulate_matter_exceeded">Visoko</string>
+  <string name="particulate_matter_not_exceeded">Normalno</string>
+  <string name="particulate_matter_serious_exceeded">Previsoko</string>
   <string name="precipitation_degree_five">oluja</string>
   <string name="precipitation_degree_four">pljusak</string>
   <string name="precipitation_degree_one">bez kiše</string>
@@ -149,10 +158,14 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="precipitation_degree_two">lagano</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="radar_cloud_image_title">Mapa Radara</string>
+  <string name="rainfall_settings_summary">Postavke padalina</string>
+  <string name="rainfall_settings_title">Upozorenje padalina</string>
+  <string name="realtime_aqi_title">Indeks kvalitete zraka</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vjetar</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
+  <string name="reminder_from_xiaomi_weather_app">Podsjetnik od Xiaomi Vrijeme</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="search_weather">Vrijeme</string>
   <string name="set">Postavke</string>
@@ -171,6 +184,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="sunrise">Izlazak sunca</string>
   <string name="sunset">Zalazak sunca</string>
   <string name="temperature_unit">%1$s°</string>
+  <string name="thanku_for_feedback">Hvala na povratnim informacijama, možete ponovo otvoriti videozapis vremena na stranici s postavkama</string>
   <string name="title_share_link">Podijeli URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>

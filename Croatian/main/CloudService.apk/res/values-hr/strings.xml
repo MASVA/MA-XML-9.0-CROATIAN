@@ -230,7 +230,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_find_device_guide_title">"Prijavite se u %s da pronađete, zaključate ili izbrišete svoj uređaj."</string>
   <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
   <string name="micloud_find_device_opened">Pronađi uređaj uključen</string>
-  <string name="micloud_find_device_opened_content">Pronađite svoj uređaj na %s</string>
+  <string name="micloud_find_device_opened_content">Prijavite se u %s da pronađete svoj uređaj</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
@@ -286,7 +286,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
   <string name="micloud_main_sync_need_charge">Napunite bateriju svog uređaja</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Priključite punjač i isključite zaslon da sinkronizirate</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Priključite punjač i isključite zaslon</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>

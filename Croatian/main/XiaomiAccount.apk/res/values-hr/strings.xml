@@ -75,6 +75,7 @@
   <string name="barcode_add_account_prompt">Da dodate račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
   <string name="bind_facebook">Dodaj Facebook račun</string>
   <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Dodajte siguran telefon za sljedeću prijavu</string>
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
   <string name="bind_sns_description">Prijavite se s %s.</string>
@@ -293,6 +294,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_input_password_hint">Unesite zaporku</string>
   <string name="passport_input_phone_hint">Unesite broj telefona</string>
   <string name="passport_input_vcode_hint">Unesite kod za provjeru</string>
+  <string name="passport_instant_login">Prijavi se</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se</string>
@@ -392,6 +394,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_user_agreement">Korisnički Sporazum</string>
   <string name="passport_user_agreement_p1">Suglasni ste s </string>
   <string name="passport_user_agreement_p2">Korisnički Sporazum</string>
+  <string name="passport_user_reg_region">Zemlja/Regija</string>
+  <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
   <string name="passport_user_agreement_p3">i</string>
   <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_vcode_notice">Kod</string>

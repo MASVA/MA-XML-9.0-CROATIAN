@@ -320,6 +320,7 @@
   <string name="micloud_find_device_verify_close">Isključi Pronađi uređaj</string>
   <string name="micloud_find_device_verify_fail">"Ne mogu ponovno aktivirati Pronađi uređaj"</string>
   <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Pronađi uređaj…</string>
+  <string name="micloud_main_save_battery_on">Način rada za uštedu energije je uključen. Može uzrokovati prekid sinkronizacije.</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Provjera za ažuriranja…</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnje ažuriranje nepoznato</string>

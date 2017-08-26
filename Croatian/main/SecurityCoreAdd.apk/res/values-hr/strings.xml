@@ -43,15 +43,16 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="confirm_main_space_password">Potvrdite zaporku Prvog prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Kontakti</string>
-  <string name="contact_us">Kontaktirajte nas</string>
-  <string name="continueButton">Nastavi</string>
   <string name="contact_sub_titile_text">Podaci poruka će se dijeliti između dva prostora</string>
   <string name="contact_titile_text">"Prikaži privatne poruke u Drugom prostoru
  da ih možete vidjeti u bilo koje vrijeme"</string>
+  <string name="contact_us">Kontaktirajte nas</string>
+  <string name="continueButton">Nastavi</string>
   <string name="createANewSpace">Napravite zaseban prostor na svom telefonu.</string>
   <string name="createUserFail">"Ne mogu napraviti"</string>
   <string name="create_app_icon_failed">"Ne mogu napraviti ikonu"</string>
   <string name="create_app_icon_success">Ikona uspješno napravljena</string>
+  <string name="create_second_space">Uspješno izrađeno</string>
   <string name="create_space_loading">Izrada Drugog prostora…</string>
   <string name="create_work_space">Izradi Radni prostor</string>
   <string name="creating_app_icon">Izrada ikone…</string>
@@ -68,6 +69,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
   <string name="dir_switch_out_all_photos">Galerija Drugog prostora</string>
   <string name="disable">Isključi</string>
+  <string name="do_not_ask">"Ne pitaj ponovno"</string>
   <string name="dont_import">Ne sada</string>
   <string name="downloading_space">Preuzimanje…</string>
   <string name="enable">Uključi</string>
@@ -89,8 +91,13 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="finger_print_of_use">Upotrijebi otisak prsta</string>
   <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
   <string name="function_not_support">Nije podržano na ovom uređaju</string>
+  <string name="gms_message">Izrada dvojnih aplikacija zahtijeva rad s Googleovim uslugama. Izraditi dvojnu aplikaciju za Google usluge?</string>
+  <string name="gms_open_button">Uključi</string>
+  <string name="gms_title">Uključite Googleove usluge</string>
   <string name="goToSecondSpacce">Idi u Drugi prosotor</string>
   <string name="go_on_import">Nastavi s uvozom</string>
+  <string name="gpg_message">Izrada dvojnih aplikacija zahtijeva rad s Google Play igrama. Izraditi dvojnu aplikaciju za Google Play igre?</string>
+  <string name="gpg_title">Dvojna aplikacija za Google Play igre</string>
   <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
 Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>
@@ -99,6 +106,10 @@ Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
 Uđite u Drugi prostor sa zaključanog zaslona"</string>
   <string name="guide_setting_guide_title">Upravljaj Drugim prosotorom</string>
+  <string name="guide_start_ads_text">Potpuno nova razina sigurnosti</string>
+  <string name="guide_start_text">Dva prostora. Jedan uređaj.</string>
+  <string name="has_created_second_space">"Dva prostora. Jedan uređaj.
+Upravljajte privatnim i osjetljivim stavkama zasebno."</string>
   <string name="hidden_app">Drugi prostor</string>
   <string name="imageData">Fotografije</string>
   <string name="import_application">Uvezi aplikacije</string>
@@ -112,6 +123,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="import_photo">Uvezi fotografije</string>
   <string name="import_photo_desc">Prikaži dijeljene stavke u Drugom prostoru</string>
   <string name="import_photo_suc">Uvezene fotografije</string>
+  <string name="input_space_finger">Postavi sada</string>
+  <string name="input_space_password">Postavi sada</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
   <string name="list_empty_text">Prazno</string>
   <string name="loading">Samo trenutak…</string>
@@ -129,8 +142,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="need_set_second_space_desc">Dodajte zaporku Drugog prostora prije dodavanja otiska prsta Drugog prostora</string>
   <string name="need_set_second_space_pwd_first">Postavite prvo zaporku Drugog prostora</string>
   <string name="newSecondSpace">Uključi Drugi prostor</string>
-  <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>
   <string name="next_setp">Dalje</string>
+  <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_air_space">"Ova značajka nije podržana na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Višestruki prostori nisu podržani"</string>
@@ -184,6 +197,8 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>
+  <string name="sdcardfs_dialog_message">Isključite \"Optimizacija emulirane SD kartice\" u Opcijama za razvojne programere prije ulaska u Drugi prostor.</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Otisak prsta za Drugi prostor</string>
@@ -196,6 +211,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="setSecondSpacePasswordGuideDes">Koristite ovu zaporku za ulazak u Drugi prostor sa Zaključanog zaslona</string>
   <string name="setSpacePasswordGuide">Koristite različite zaporke za ulazak u oba prostora sa Zaključanog zaslona</string>
   <string name="setSuccess">Zaporka uspješno postavljena</string>
+  <string name="set_space_finger">Postavi otisak prsta</string>
+  <string name="set_space_finger_sub_text_suc">Otisak prsta uspješno postavljen</string>
+  <string name="set_space_password">Postavi zaporku</string>
   <string name="set_space_pwd_detail">Možete ući u Drugi prostor pomoću zaporke</string>
   <string name="set_space_pwd_suc">Zaporka Drugog prostora dodana</string>
   <string name="setting_finger_print_sub_title">Uvjerite se da je otisak prsta različit od onog u Prvom prostoru</string>
@@ -213,12 +231,17 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="settings_switch_shortcut_summary">Prikaži prečac Poč. zaslona u Prvom prostoru</string>
   <string name="settings_switch_shortcut_title">Dodirnite prečac za promjenu</string>
   <string name="show_normal_content">"Ne prikazuj privatne stavke"</string>
+  <string name="show_noti_from_owner">Obavijesti Prvog prostora</string>
+  <string name="show_noti_quick_switch_icon">Prečac za prebacivanje između prostora</string>
+  <string name="show_noti_setting">Prikaži Drugi prostor u panelu obavijesti</string>
   <string name="show_private_content">Prikaži privatne stavke</string>
   <string name="show_private_msg">Prikaži privatne poruke</string>
   <string name="show_private_msg_summary">Prikaži privatne poruke u Drugom prostoru</string>
+  <string name="skip">Preskoči</string>
   <string name="spaceSetting">Postavke</string>
   <string name="space_deleted">Ovaj prostor je izbrisan</string>
   <string name="space_des_default">Izolirani prostor sa šifriranim podacima</string>
+  <string name="space_finger_sub_text">Postavite otisak prsta za Drugi prostor za bržu promjenu</string>
   <string name="space_name_default">Radni prostor</string>
   <string name="startSet">Postavi</string>
   <string name="startTransfer">Premjesti</string>

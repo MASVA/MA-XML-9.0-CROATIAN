@@ -29,6 +29,7 @@
   <string name="ac_firstUseApplock_title">Postavite zaporku da zaštitite vaše aplikacije</string>
   <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
   <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
+  <string name="access_control_app_is_launching">Aplikacija se pokreće</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Zaporka će biti potrebna za otvaranje aplikacija</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta."</string>
   <string name="access_control_need_password">"%s uspješno dodano
@@ -90,7 +91,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. 
   
-          Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
+    Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
   <string name="add_whitelist">Dodaj u iznimke</string>
@@ -382,6 +383,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back">Natrag</string>
+  <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="battery_capacity_title">Kapacitet baterije</string>
@@ -493,6 +495,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_text_disconnect_now">Prekini vezu</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_fix_now">Popravi</string>
+  <string name="button_text_forbid_now">Zabrani</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Zanemariti ovo upozorenje?</string>
   <string name="button_text_known">U redu</string>
@@ -568,7 +571,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="card_sms_report">Prijavi putem SMS-a</string>
   <string name="card_tc_failed">"Ne mogu kalibrirati"</string>
-  <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se          mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
+  <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se    mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Zadnje punjenje "</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
@@ -799,6 +802,10 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="examination_score_80_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
+  <string name="exception_dialog_message">"Ne mogu izračunati statistiku uporabe podataka zbog pogreške. Bez točne statistike aplikacija Sigurnost neće moći pratiti uporabu podataka. Ponovno pokrenuti da vratite tu značajku?"</string>
+  <string name="exception_dialog_ok_button">Ponovno pokreni</string>
+  <string name="exception_notify_message">"Ne mogu izračunati statističke podatke zbog pogreške. Ponovno pokrenite uređaj radi vraćanja."</string>
+  <string name="exception_titile">Dogodila se pogreška</string>
   <string name="exit">Izlaz</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
@@ -1101,12 +1108,15 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
 podatkovnu vezu"</string>
   <string name="main_bill_remained">Stanje računa</string>
+  <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
+  <string name="main_button_mi_sim_open">Prikaz detalja</string>
   <string name="main_button_usage_adjust">Sinkr. uporabe podataka</string>
   <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_adjusting_bill">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
+  <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
   <string name="main_month_total_used">Iskorišteno ovaj mjesec</string>
   <string name="main_month_used">Mob. podaci</string>
@@ -1225,6 +1235,7 @@ podatkovnu vezu"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Ažurirano na %s</string>
   <string name="menu_mark">Prijavi broj</string>
   <string name="menu_remove">Izbriši</string>
+  <string name="menu_report">Prijavi pogrešku</string>
   <string name="menu_restore">Vrati u inbox</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
@@ -1857,6 +1868,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="preferred_app_entries_music">Glazba</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti Pružanja Usluge</string>
+  <string name="privacy_dialog_message">"Kada se povežete s internetom, ta će poruka, zajedno s informacijama o mobilnom operateru, biti šifrirana i poslana na Mi poslužitelje kako bismo poboljšali nadzor nad uporabom podataka."</string>
   <string name="privacy_mode_dialog_title">Gost način</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaš broj telefona i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi se ažurirale informacije uporabe podataka."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg mobilnog operatera na Mi poslužitelje kako bi dobili statistiku o uporabi podataka vašeg mobilnog operatera.</string>
@@ -1885,9 +1897,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="reach_daily_limit_value_body_open_traffic_saving">Dodirnite za uključivanje Uštede podataka.</string>
   <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>
   <string name="read_all_sms">Pročitaj sve</string>
-  <string name="receive_now">Primi</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
+  <string name="receive_now">Primi</string>
   <string name="recently_reject_message">Odbijeno (%1$s) instalacija i drugih aplikacija (%2$d)</string>
   <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>
   <string name="recommend_app">Preporučene aplikacije</string>
@@ -2059,10 +2071,12 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="skin_change_close_toast">Promjene će biti primijenjene kada sljedeći put pokrenete aplik. Sigurnost</string>
   <string name="sms_address">Lista blokiranih predbrojeva</string>
   <string name="sms_blacklist">Lista blokiranih SMS-a</string>
-  <string name="sms_contact_block">Blokiraj SMS od kontakata</string>
   <string name="sms_cloud_block">Cloud Lista blokiranih</string>
+  <string name="sms_contact_block">Blokiraj SMS od kontakata</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s tog broja?</string>
   <string name="sms_delete_title">Izbriši poruke</string>
+  <string name="sms_detail_fragment_title_bill">Stanje računa</string>
+  <string name="sms_detail_fragment_title_traffic">Preostali podaci</string>
   <string name="sms_filter">Smart Filter</string>
   <string name="sms_keywords">Lista blokiranih ključnih riječi</string>
   <string name="sms_malicious_url">Blokiraj SMS sa zlonamjernim URL-ovima</string>
@@ -2365,14 +2379,14 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_get_sms_successs">Uporaba podataka SMS formata ažurirana</string>
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan
-        i pošaljite ga nama."</string>
+     i pošaljite ga nama."</string>
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje izvješća SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Idi u-&gt; Sigurnost-&gt; Uporaba podataka i pokušajte ponovno ručno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
   <string name="tc_sms_report_notify_get_failure_body">Ne mogu poslati izvješće o uporabi podataka. Provjerite da li ste spojeni
-         na mobilnu mrežu.</string>
+      na mobilnu mrežu.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
@@ -2427,8 +2441,8 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_consume_power_rank">Korištenje baterije</string>
   <string name="title_data_flow">Nadziri uporabu podataka</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podataka je uključen</string>
-  <string name="title_dev_model_off">"Opcije Raz. programera isključene"</string>
   <string name="title_default_app">"MIUI %s nije postavljena kao zadana aplikacija"</string>
+  <string name="title_dev_model_off">"Opcije Raz. programera isključene"</string>
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
   <string name="title_dev_yes">Opcije Raz. programera isključene</string>
   <string name="title_device_not_root">"ROOT pristup nije odobren"</string>
@@ -2453,9 +2467,9 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_network_switch">Povezivanje s mrežom</string>
   <string name="title_of_app_manage">Aplikacije</string>
   <string name="title_of_auto_launch_manage">Autom. pokretanja</string>
-  <string name="title_payment_protection">Plaćanje je sigurno</string>
   <string name="title_of_operators_set">Postavke davatelja usluge</string>
   <string name="title_of_package_set">Postavke plana podataka</string>
+  <string name="title_payment_protection">Plaćanje je sigurno</string>
   <string name="title_payment_risk">Pronađeni rizici plaćanja</string>
   <string name="title_permission_no">Upravitelj dopuštenja isključen</string>
   <string name="title_permission_root">ROOT pristupa</string>
@@ -2511,19 +2525,19 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
 Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"
 Kupili ste dodatnog interneta od %1$s ovaj mjesec. 
-        To se razlikuje od %2$s što ste dodali ručno."</string>
+     To se razlikuje od %2$s što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
 Kupili ste dodatnog interneta od %s ovaj mjesec. 
-        To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
+     To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
   <string name="traffic_config_alert_body_leisure">"
 Vaše mjesečno ograničenje uporabe podataka je %1$s. 
-        To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
+     To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
-         Niste postavili ograničenje maks. podataka."</string>
+      Niste postavili ograničenje maks. podataka."</string>
   <string name="traffic_config_alert_body_normal">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
-        To se razlikuje od %2$s što ste postavili ručno."</string>
+     To se razlikuje od %2$s što ste postavili ručno."</string>
   <string name="traffic_config_alert_package">"
 Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>
@@ -2610,6 +2624,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
+  <string name="traffic_setting_fragment_city">Grad</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Niste sigurni koji operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovno"</string>
@@ -2663,10 +2678,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usb_adb_input_apply_step_3">"Dopustiti sada?"</string>
   <string name="usb_install_desc">Instalirati ovu aplikaciju putem USB-a?</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. 
-         Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
+      Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. 
-         Provjerite internetsku vezu vašeg računala."</string>
+      Provjerite internetsku vezu vašeg računala."</string>
   <string name="use_immediately">Upotrijebi</string>
   <string name="user_define_title">Dodaj pravila</string>
   <string name="virus_ad_icon_text">Oglas</string>
@@ -2681,6 +2696,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="virus_update_tips_title">Poveži se na WLAN</string>
   <string name="virus_wait_network_dialog_message">Ažuriranja su velika. Povežite se na WLAN da ih preuzmete</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
+  <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>
   <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>
   <string name="warning_open_mi_sim">Uključi Mi SIM</string>
   <string name="website">Web stranica</string>

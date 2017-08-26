@@ -880,6 +880,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">Poziv nije poslan.</string>
   <string name="incall_error_cannot_add_call">Poziv trenutačno nije moguć.</string>
+  <string name="incall_error_ecm_emergency_only">Isključite način hitnih poziva da biste uputili poziv koji nije hitan.</string>
   <string name="incall_error_emergency_only">Nije registrirano na mreži.</string>
   <string name="incall_error_local_low_battery">Poziv nije uspio zbog slabe baterije!!!.</string>
   <string name="incall_error_low_battery">Poziv nije uspio zbog slabe baterije daljinskog uređaja!!!.</string>
@@ -1593,6 +1594,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="rates_correspond">Odgovarajuće cijene.</string>
   <string name="rc_unlock_failed">RUIM  korporativno otključavanje nije uspjelo.</string>
   <string name="rc_unlock_success">RUIM korporativno otključavanje bilo je uspješno.</string>
+  <string name="rcs_not_supported">"Rcs nije podržan"</string>
   <string name="reading_settings">Čitanje postavki…</string>
   <string name="refueling_package_a">Paket A</string>
   <string name="refueling_package_b">Paket B</string>
@@ -1729,6 +1731,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="settings_label">Postavke mreže</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
   <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
+  <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
+  <string name="show_cpu_usage_summary">Postav. element sa trenutnom upotrebom procesora</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
   <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>

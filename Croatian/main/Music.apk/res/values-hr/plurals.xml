@@ -144,4 +144,13 @@
          <item quantity="other">Preskočeno je %d pjesama. Uključite online usluge u postavkama da biste ih slušali.</item>
          <item quantity="one">Preskočena je %d pjesma. Uključite online usluge u postavkama da biste je slušali.</item>
      </plurals>
+	 <resources>
+     <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Isključuje optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst %d pjesama?</item>
+        <item quantity="one">Isključuje optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst %d pjesme?</item>
+     </plurals>
+     <plurals name="songs_count">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">%d pjesma</item>
+     </plurals>
 </resources> 

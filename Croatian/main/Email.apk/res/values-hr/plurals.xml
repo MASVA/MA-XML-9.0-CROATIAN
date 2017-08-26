@@ -176,4 +176,11 @@
          <item quantity="other">%d mjeseci</item>
          <item quantity="one">%d mjesec</item>
      </plurals>
+	 <plurals name="confirm_delete_draft">
+        <item quantity="other">Izbrisati skice: %1$d</item>
+     </plurals>
+     <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d osoba</item>
+        <item quantity="one">… %1$d osoba</item>
+     </plurals>
 </resources>

@@ -14,9 +14,8 @@
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
   <string name="bugreport_dump_start_notification_title">Stvaranje izvješća grešaka…</string>
   <string name="bugreport_feedback_from">Šalje: %s</string>
-  <string name="bugreport_tool_log">Izradi izvješće o pogrešci</string>
-  <string name="bugreport_tool_log_toast">Izvješće spremljeno u %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Izrada izvješća o pogrešci (traje oko minutu)</string>
+  <string name="bugreport_tool_log_dumping_desc">Potraje oko minutu</string>
+  <string name="bugreport_tool_log_dumping_title">Izrada izvješća o pogrešci</string>
   <string name="cta_cancel">Odustani</string>
   <string name="close_feedback_main">Sakrij</string>
   <string name="cta_confirm">U redu</string>
@@ -192,11 +191,10 @@
   <string name="mobile_data_note_dialog_content">Korištenje mobilnih podataka za prijenos zapisa može generirati dodatne naknade.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Prijenos zapisa putem mobilne podatkovne veze zahtijeva %sMB podataka.</string>
   <string name="mobile_data_note_dialog_title">Upozorenje uporabe podataka</string>
-  <string name="modem_tool_log">Snimi modem logove</string>
-  <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">"Spremanje zapisa modema u %s</string>
-  <string name="modem_tool_log_stop">Stop</string>
-  <string name="modem_tool_log_stop_toast">"Zaustavljeno spremanje zapisa modema u %s"</string>
+  <string name="modem_tool_log_dumping_desc">Kliknite ikonu za zaustavljanje</string>
+  <string name="modem_tool_log_dumping_title">Prikupljanje zapisa modema</string>
+  <string name="modem_tool_log_finish_desc">Zapis se sprema kao %s</string>
+  <string name="modem_tool_log_finish_title">Zapis  modema prikupljen</string> 
   <string name="module_communication">Komunikacija</string>
   <string name="module_data">Prostor za pohranu &amp; Dvojne aplik.</string>
   <string name="module_desktop">Početni zaslon &amp; Postavke</string>
@@ -297,6 +295,7 @@
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
   <string name="toast_report_sent_failed">"Ne mogu poslati izvješće"</string>
   <string name="toast_report_sent_succeed">Izvješće je poslano</string>
+  <string name="toast_screenshot_too_large">"Ne mogu učitati datoteke veće od 100MB."</string>
   <string name="toast_third_packagename_required">Unesi naziv aplikacije</string>
   <string name="toast_title_required">Opišite svoj problem</string>
   <string name="topic_author">1#</string>

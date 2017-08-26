@@ -30,6 +30,7 @@
   <string name="label_pages">Stranice</string>
   <string name="label_paper_size">Veličina papira</string>
   <string name="label_paper_size_summary">Veličina papira:</string>
+  <string name="legacy_dhcp_client_summary">Koristite DHCP klijent iz Lollipop-a umjesto novog Android DHCP klijenta.</string>
   <string name="more_options_button">Više opcija</string>
   <string name="no_connection_to_printer">Nema veze s pisačem</string>
   <string name="page_description_template">Stranica %1$d od %2$d</string>
@@ -72,6 +73,8 @@
   <string name="savetopdf_button">Spremanje u PDF</string>
   <string name="search">Pretraživanje</string>
   <string name="select_to_add_printers">Odaberite da biste dodali pisač</string>
+  <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
+  <string name="show_cpu_usage_summary">Postav. element sa trenutnom upotrebom procesora</string>
   <string name="summary_template">Sažetak, kopije %1$s, veličina papira %2$s</string>
   <string name="template_all_pages">Sve stranice (%1$s)</string>
   <string name="template_page_range">Raspon od %1$s</string>

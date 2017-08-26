@@ -30,12 +30,12 @@ Podaci neće biti izbrisani."</string>
   <string name="menu_title_download_current_rom">Preuzmi ažuriranje</string>
   <string name="menu_title_pick_rom_file">Odaberite ZIP iz pohrane</string>
   <string name="menu_title_recovery">Ponovno pokretanje u TWRP recovery</string>
-  <string name="new_version">Dostupna je nova verzija!</string>
+  <string name="new_version">Dostupna je nova MIUI verzija!</string>
   <string name="next">Dalje</string>
   <string name="no_log">Nema dostupnih sažetaka</string>
   <string name="no_info">Informacije nisu dostupne</string>
   <string name="no_network">Nema mrežnog pristupa.</string>
-  <string name="no_update">Trenutna verzija je najnovija!</string>
+  <string name="no_update">Trenutna MIUI verzija je najnovija!</string>
   <string name="no_xioamieu">"Ne koristite MIUI ROM izrađen od strane Xiaomi.eu tima!
 Ažuriranja nisu dostupna za vas!"</string>
   <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na WLAN za preuzimanje ažuriranja."</string>
@@ -44,8 +44,8 @@ Ažuriranja nisu dostupna za vas!"</string>
   <string name="notif_cancel">Odustani</string>
   <string name="notif_install">Instaliraj</string>
   <string name="notif_new_summary">Dodirni za dobivanje pojedinosti</string>
-  <string name="notif_new_title">Dostupna je nova verzija!</string>
-  <string name="notifications_switch">Upozori na novu verziju</string>
+  <string name="notif_new_title">Dostupna je nova MIUI verzija!</string>
+  <string name="notifications_switch">Upozori na novu MIUI verziju</string>
   <string name="permdesc_cache_filesystem">Aplikaciji omogućuje pisanje datoteka u / cache.</string>
   <string name="permdesc_reboot">Aplikaciji omogućuje ponovno pokretanje uređaja.</string>
   <string name="permlab_cache_filesystem">Pristup cache</string>

@@ -10,6 +10,7 @@
     <string name="enable_touch_assistant">Uključi Izbornik Prečaca</string>
 	<string name="enabled_for_pad_hint">Radi kada je \"Blokiraj navigacijske tipke u vodoravnom položaju\" uključeno</string>
     <string name="function_settings">Postavke prečaca</string>
+    <string name="handy_mode_default_to_close_whether_open">Rad jednom rukom isključen je prema zadanim postavkama. Uključiti Rad jednom rukom?</string>
     <string name="hide_touch_assistant">Sakrij automatski</string>
     <string name="hide_touch_assistant_intro">Sakrij Izbornik Prečaca u odabranim aplikacijama.</string>
 	<string name="hide_when_fullscreen">Pomakni u stranu kod cijelog zaslona</string>
@@ -35,6 +36,7 @@
     <string name="name_screenshot">Snimka zaslona</string>
 	<string name="name_trans_cards">Transportna kartica</string>
     <string name="name_wechat_payment_code">WeChat plaćanja</string>
+	<string name="open">Uključi</string>
 	<string name="open_panel">Uključi Izbornik Prečaca</string>
     <string name="name_wechat_scan">WeChat skener</string>
 	<string name="nfc_all_mipay_card_not_in_use">"Mi Pay nije aktiviran"</string>
@@ -51,4 +53,5 @@
     <string name="restore_intro">"Vrati postavke na zadane vrijednosti, uključujući prečace i njihov redoslijed. Podaci aplikacija na vašem uređaju neće biti pogođeni."</string>
     <string name="show_on_keyguard">Prikaži na Zaklj. zaslonu</string>
 	<string name="theme_manager_not_supported">Theme manager nije podržan.</string>
+    <string name="three_seconds_auto_hide">Držite se ruba nakon 3 sekunde neaktivnosti</string>
 </resources>

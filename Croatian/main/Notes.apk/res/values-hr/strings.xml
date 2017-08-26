@@ -208,6 +208,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_notes_unhidden_count">%1$s otriven uspješno</string>
   <string name="toast_privacy_mode">Ne mogu to učiniti za skrivene bilješke</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
+  <string name="toast_reach_text_limit_checkbox">"Nije moguće dodati potvrdni okvir jer je bilješka predugačka"</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen na kraju.</string>
   <string name="toolbar_check_description">Dodaj potvrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši ovu bilješku</string>

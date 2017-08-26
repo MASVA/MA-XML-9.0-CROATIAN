@@ -237,6 +237,7 @@
   <string name="onscreen_rcs_text">Poruke</string>
   <string name="onscreen_swap_calls_text">Zamijeni</string>
   <string name="onscreen_switch_camera">Promjeni</string>
+  <string name="package_not_available">\"%s\" nije dostupan</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Javni telefon</string>

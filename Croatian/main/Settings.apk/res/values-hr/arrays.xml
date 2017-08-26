@@ -511,10 +511,11 @@
         <item>Dopusti uvijek</item>
     </string-array>
     <string-array name="ram_states">
-        <item>uobičajeno</item>
-        <item>umjereno</item>
-        <item>nisko</item>
-        <item>kritično</item>
+        <item>Uobičajeno</item>
+        <item>Umjereno</item>
+        <item>Nisko</item>
+        <item>Kritično</item>
+		<item>\?</item>
     </string-array>
     <string-array name="entries_zen_mode">
         <item>Isključeno</item>
@@ -813,13 +814,24 @@
         <item>Ultrahigh (2K)</item>
         <item>Normalno (720P)</item>
     </string-array>
-	     <string-array name="wifi_ssid_type_entries">
+	<string-array name="wifi_ssid_type_entries">
         <item>Poveži automatski</item>
         <item>Poveži ručno</item>
     </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Automatski poveži</item>
+        <item>Ručno poveži</item>
+        <item>Uvijek pitaj</item>     
+	</string-array>
+	<string-array name="status_bar_show_carrier_entries">
+        <item>Prikaži samo na Zaklj. zaslonu i panelu obavijesti</item>
+        <item>Uvijek prikaži naziv operatera</item>
+        <item>Nikad ne prikazuj ime operatera</item>
+     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>WLAN preferirano</item>
         <item>Mreža preferirano</item>
+		<item>WLAN samo</item>
     </string-array>
 	<string-array name="screen_key_position_action">
         <item>Tipka Izbornik lijevo, Tipka Natrag desno</item>
