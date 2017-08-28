@@ -38,7 +38,7 @@
   <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetliti."</string>
   <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i uređaja optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
-  <string name="face_unlock_by_notification_screen_on_msg">You can unlock the device using face data whenever the screen lights up for incoming notifications. This may drain the battery faster.</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Možete otključati uređaj pomoću lica kada se zaslon uključi za dolazne obavijesti. To brže troši bateriju.</string>
   <string name="face_unlock_by_notification_screen_on_title">Dopusti Otključavanje licem kada se zaslon uključi</string>
   <string name="face_unlock_check_failed">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_close_screen">Približite se zaslonu</string>
@@ -153,11 +153,11 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
   <string name="phone_locked_foget_password_mehod_back">Natrag</string>
   <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
-  <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na va&amp;#353;em ure&amp;#273;aju, uklju&amp;#269;uju&amp;#263;i fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
   <string name="phone_locked_foget_password_ok">Shvaćam</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uklju&amp;#269;ivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasno&amp;#263;a + &lt;/font&gt;istovremeno dok ne vidite MI.</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbri&amp;#353;i &amp;amp; resetiraj\"&lt;/font&gt; i pri&amp;#269;ekajte dok se ure&amp;#273;aj ne ponovo pokrene.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća + &lt;/font&gt;istovremeno dok ne vidite MI.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; resetiraj\"&lt;/font&gt; i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
   <string name="set_lock_wallpaper_failed">Nema novih slika pozadine</string>

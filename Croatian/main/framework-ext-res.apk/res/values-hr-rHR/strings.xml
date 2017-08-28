@@ -133,7 +133,7 @@
   <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
   <string name="standard">Bešumno</string>
   <string name="standard_description">[Bešumno] Utišaj melodije zvona za dolazne pozive i obavijesti</string>
-  <string name="standard_title">Bešumno.</string>
+  <string name="standard_title">Bešumno..</string>
   <string name="start_security_permission_verify_text">Provjerite dopuštenja sa svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
@@ -169,9 +169,12 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="switch_brand_desc_tv">Sigurnosne usluge pruža Graphite</string>
+  <string name="switch_desc_tv">Dva prostora. Jedan uređaj.</string>
+  <string name="switching_tv">Promjena…</string>
   <string name="total">DND</string>
   <string name="total_description">[DND] Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
-  <string name="total_title">DND.</string>
+  <string name="total_title">DND..</string>
   <string name="translation_more">Više</string>
   <string name="translation_query_error">"Ne mogu pronaći rezultate"</string>
   <string name="translation_query_error_network">"Ne mogu se povezati na mrežu. Provjerite postavke i pokušajte ponovo"</string>

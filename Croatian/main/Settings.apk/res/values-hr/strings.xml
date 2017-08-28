@@ -1523,7 +1523,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="domain_urls_title">Veze aplikacija</string>
   <string name="done">Gotovo</string>
   <string name="done_button">Završeno</string>
-  <string name="double_click_power_key">Double Click Power Key</string>
+  <string name="double_click_power_key">Dvoklik tipke Power</string>
   <string name="download_current_rom">Nabavite najnoviju MIUI verziju</string>
   <string name="downloading_description">Preuzimanje…</string>
   <string name="doze_summary">Aktiviraj zaslon prilikom podizanja uređaja ili primanja obavijesti</string>

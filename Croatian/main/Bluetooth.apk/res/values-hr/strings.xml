@@ -72,7 +72,7 @@
   <string name="download_succ_ok">"Otvori"</string>
   <string name="download_success">%1$s Primljeno u potpunosti.</string>
   <string name="download_title">Prijenos datoteka</string>
-  <string name="empty_file_notification_sent">Bluetooth dijeljenje: Daljinski odbijena datoteku nulte duljine %1$s</string>
+  <string name="empty_file_notification_sent">Bluetooth dijeljenje: Daljinski odbijena datoteka nulte duljine %1$s</string>
   <string name="enabling_progress_content">Uključivanje Bluetootha…</string>
   <string name="enabling_progress_title">Pričekajte…</string>
   <string name="goto_package">Otvori %1$s</string>
