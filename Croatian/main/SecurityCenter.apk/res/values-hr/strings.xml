@@ -180,6 +180,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_apps_generatioin">Ažuriranja</string>
   <string name="app_manager_apps_generation_summary">Ažurirajte da koristite najnovije značajke</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
+  <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dopuštenja</string>
   <string name="app_manager_clear_data_dlg_message">Svi podaci aplikacije bit će trajno izbrisani. To uključuje sve datoteke, postavke, račune, baze podataka itd.</string>
@@ -2718,7 +2719,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="wifi_optizition_tip">Uključite povećanje brzine mreže kako bi napravili WLAN vezu stabilnijom. Biti će upotrijebljena mala količina mobilnih podataka.</string>
   <string name="wifi_optizition_title">Povećaj WLAN brzinu</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
-  <string name="wlan_booster">Povećaj WLAN brzinu</string>
+  <string name="wlan_booster">WLAN optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>
   <string name="wlan_change_protection_title">Spriječi promjenu mreža</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
