@@ -374,8 +374,8 @@
   <string name="need_download">Sinkroniziram…</string>
   <string name="network_error">Mrežna pogreška</string>
   <string name="networking_allow_continue">U redu</string>
-  <string name="networking_allow_desc">"Smart poruke omogućuju vam slanje besplatnih poruka i glasa, prepoznati nepoznate brojeve, filtrirati neželjene poruke, itd. Korištenjem ove usluge slažete se Xiaomi %1$s i %2$s. Morate uključiti Yellow Pages i povezati se s internetom za korištenje ove usluge."</string>
-  <string name="networking_allow_desc_without_mx">"Smart poruke omogućuju vam prepoznavanje nepoznatih brojeva, filtrirati neželjene poruke, itd. Korištenjem ove usluge slažete se Xiaomi %1$s i %2$s. Morate uključiti Yellow Pages i povezati se s internetom za korištenje ove usluge."</string>
+  <string name="networking_allow_desc">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi pružili besplatne tekstualne i govorne usluge, prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
   <string name="networking_allow_title">Pažnja</string>
   <string name="new_message">Nova poruka</string>
   <string name="new_message_arrived">Primljena nova poruka</string>

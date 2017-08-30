@@ -65,7 +65,7 @@
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_tools">Alati</string>
-  <string name="default_screen_preview_title">Postavke zadanog zaslona</string>
+  <string name="default_screen_preview_title">Početni zaslon</string>
   <string name="delete">Izbriši</string>
   <string name="delete_screen">Izbriši tipku zaslona</string>
   <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
@@ -158,15 +158,15 @@
   <string name="loading_wallpaper">Samo trenutak…</string>
   <string name="local_wallpaper">Preuzeto</string>
   <string name="lock_screen">Zaklj. zaslon</string>
-  <string name="lock_screen_failed_message">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
-  <string name="lock_screen_success_message">Postavljeno za pozadinu zaklj. zaslona</string>
-  <string name="lock_screen_wallpaper">Pozadina zaklj. zaslona</string>
+  <string name="lock_screen_failed_message">"Ne mogu postaviti pozadinu Zaklj. zaslona"</string>
+  <string name="lock_screen_success_message">Postavljeno za pozadinu Zaklj. zaslona</string>
+  <string name="lock_screen_wallpaper">Pozadina Taklj. zaslona</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_auto_fill">Autom. popuni</string>
   <string name="menu_back_desktop">Natrag na Početni zaslon</string>
   <string name="menu_cell_setting">Postavke zaslona</string>
   <string name="menu_customize">Postavke</string>
-  <string name="menu_default_screen_preview">Postavke zadanog zaslona</string>
+  <string name="menu_default_screen_preview">Početni zaslon</string>
   <string name="menu_edit">Uredi Početni zaslon</string>
   <string name="menu_exit_scene">Izlaz iz MiSpacea</string>
   <string name="menu_item_add_item">Dodaj na Početni zaslon</string>
@@ -210,7 +210,7 @@
   <string name="pref_icon_shadow_summary">Prikaži učinak refleksije sjene ikona i ladice favorita</string>
   <string name="pref_icon_shadow_title">Sjena ikona</string>
   <string name="pref_keep_in_memory_summary">Držite Pokretač pokrenut kada je memorija niska</string>
-  <string name="pref_keep_in_memory_title">Zaključaj MIUI u memoriji</string>
+  <string name="pref_keep_in_memory_title">Zaključaj MIUI u memoriju</string>
   <string name="pref_keep_layout_summary">"Promjena izgleda Početnog zaslona neće utjecati na međusobni položaj ikona"</string>
   <string name="pref_keep_layout_title">Zaključaj položaj ikona</string>
   <string name="pref_render_in_truecolor_summary">Isključivanje ove opcije će poboljšati učinkovitost crtanja</string>

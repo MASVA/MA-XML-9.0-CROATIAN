@@ -13,7 +13,7 @@
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
   <string name="alert_message_restore">"Ne mogu otvoriti ovu bilješku. Obnovite je da možete urediti njen sadržaj."</string>
-  <string name="alert_title_delete">Izbrisati bilješku?</string>
+  <string name="alert_title_delete">Izbriši bilješku</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="alert_title_hidden_note">Primljen podsjetnik skrivene bilješke</string>
   <string name="alert_title_restore">Obnovi bilješku</string>
