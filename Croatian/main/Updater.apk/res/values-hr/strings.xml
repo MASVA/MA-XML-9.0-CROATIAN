@@ -11,6 +11,10 @@
   <string name="btn_share">Podijeli</string>
   <string name="btn_yes">Da</string>
   <string name="check_new_version">Provjeri</string>
+  <string name="dialog_3g_desc">Preuzimanje nove MIUI verzije putem mobilnih podataka može povećati mjesečnu naknadu. Preporučuje se povezivanje s WLAN mrežom.</string>
+  <string name="dialog_3g_title">Upozorenje!</string>
+  <string name="dialog_btn_3g">Nastavi svejedno</string>
+  <string name="dialog_btn_wifi">Promjeni na WLAN</string>
   <string name="download_cancel">Odustani</string>
   <string name="download_done">Uspješno preuzeto!</string>
   <string name="download_fail">Pogreška prilikom preuzimanja!</string>

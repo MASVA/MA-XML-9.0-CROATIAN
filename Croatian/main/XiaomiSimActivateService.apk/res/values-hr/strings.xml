@@ -24,11 +24,11 @@
   <string name="activate_history_success_overview">SIM kartica uspješno aktivirana. Aktivirano značajkom \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice otkazano</string>
-  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s otkazano</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %d otkazano</string>
   <string name="activate_phone_failed_notif_title">"Ne mogu aktivirati SIM karticu"</string>
-  <string name="activate_phone_failed_notif_title_msim">"Ne mogu aktivirati SIM karticu %s"</string>
+  <string name="activate_phone_failed_notif_title_msim">"Ne mogu aktivirati SIM karticu %d"</string>
   <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
-  <string name="activate_phone_success_notif_title_msim">SIM kartica %s aktivirana</string>
+  <string name="activate_phone_success_notif_title_msim">SIM kartica %d aktivirana</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Pokušaj ponovno</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Pokušaj ponovno</string>
   <string name="activate_popup_confirm_error_device_id">Pokušaj ponovno</string>
@@ -104,7 +104,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_wait_for_sms_fail">"Nije bilo moguće primiti SMS aktivacije s poslužitelja"</string>
   <string name="activate_status_desc_wait_for_sms_success">Primljen SMS aktivacije s poslužitelja</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice…</string>
-  <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
+  <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %d…</string>
   <string name="agree">Slažem se</string>
   <string name="app_name">Aktivacija SIM kartice</string>
   <string name="explain_send_sms_permission_button">Provjeri</string>
