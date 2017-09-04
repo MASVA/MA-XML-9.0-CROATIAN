@@ -13,8 +13,8 @@
          <item quantity="one">Nedavno otvoreno, dostupno aplikacija: 1. Povuci gore za uklanjanje, dolje za zaključavanje.</item>
      </plurals>
      <plurals name="settings_toggle_position_divider_page">
-         <item quantity="other">Broj aktivnih prečaca iznad ove trake: %1$d</item>
-         <item quantity="one">Broj aktivnih prečaca iznad ove trake: 1</item>
+         <item quantity="other">%1$d prečaca će biti prikazano u Panelu obavijesti</item>
+         <item quantity="one">%1$d prečac će biti prikazan u Panelu obavijesti</item>
      </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">"Sakriti obavijesti %d aplik.?"</item>
@@ -29,7 +29,7 @@
         <item quantity="one">Sunčano</item>
     </plurals>
 	<plurals name="fold_tips_title">
-         <item quantity="other">%d obavijesti su preklopljene</item>
-         <item quantity="one">%d obavijest je preklopljena</item>
+         <item quantity="other">%d nevažnih obavijesti</item>
+         <item quantity="one">%d nevažna obavijest</item>
      </plurals>
 </resources>

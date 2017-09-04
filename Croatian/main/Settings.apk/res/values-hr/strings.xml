@@ -4900,7 +4900,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="turn_off_common_password_confirm_msg">Zaklj. zaslona će također biti isključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Neke sigurnosne značajke neće funkcionirati bez vaše zaporke."</string>
-  <string name="turn_off_keyguard_password_wait_dialog">Zatvaranje zaporke</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Isključivanje zaporke…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta nakon isključivanja zaporke.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete moći otključati uređaj pomoću otiska prsta."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete moći otključati uređaj pomoću otiska prsta."</string>
@@ -4911,15 +4911,15 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="turn_on_keyguard_password_alert_choose">"Zapamtite vašu zaporku. Ako je zaboravite, morati ćete izbrisati sve podatke na uređaju da postavite novu."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ne sada</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Shvaćam</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok_time">Shvaćam(%d sek.)</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Shvaćam (%d sek.)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Zapamtite zaporku za zaključavanje zaslona. Ako je zaboravite, morati ćete izbrisati sve podatke na uređaju, uključujući fotografije i kontakte, a zatim postaviti novu."</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">"Ako je zaboravite, nećete je moći vratiti."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Zapamtite vašu zaporku</string>
   <string name="turn_on_radio">Uključi radio</string>
   <string name="turn_on_security_lock">Odaberite Zaklj. zaslona</string>
   <string name="turn_on_torch">Uključi svjetiljku</string>
   <string name="turn_on_wifi_dialog_text">WLAN je isključen kada je Prijenosni hotspot aktivan. Da uključite WLAN, isključite Prijenosni hotspot.</string>
   <string name="turn_on_wifi_dialog_title">Uključi WLAN</string>
-  <string name="turn_update_keyguard_password_wait_dialog">Izmjena zaporke</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Izmjena zaporke…</string>
   <string name="twohours">1 sat</string>
   <string name="uicc_eject">Isključi UICC memoriju</string>
   <string name="uicc_eject_summary">Isključite UICC memoriju, tako da je možete ukloniti na siguran način</string>

@@ -175,7 +175,7 @@
   <string name="expire_on">Ističe: %s</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>
   <string name="fail_to_add_attachment">"Ne mogu dodati privitak"</string>
-  <string name="fail_to_view_attachment">Privitak nije dostupan</string>
+  <string name="fail_to_view_attachment">"Privitak nije dostupan"</string>
   <string name="failed_to_add_media">U svoju poruku ne možete dodati ovaj naziv: %1$s.</string>
   <string name="failed_to_resize_image">Nije promijenjena veličina slike.</string>
   <string name="fake_cell_alert_hint">Izgleda da je ova poruka poslana s broja telefona koji se razlikuje od onog prikazanog. Budite oprezni prema SMS-u koji sadrži financijske zahtjeve.</string>
@@ -373,9 +373,9 @@
   <string name="mx_type_guide">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka troškova</string>
   <string name="need_download">Sinkroniziram…</string>
   <string name="network_error">Mrežna pogreška</string>
-  <string name="networking_allow_continue">U redu</string>
-  <string name="networking_allow_desc">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
-  <string name="networking_allow_desc_without_mx">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi pružili besplatne tekstualne i govorne usluge, prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
+  <string name="networking_allow_continue">Dopusti</string>
+  <string name="networking_allow_desc">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi pružili besplatne tekstualne i govorne usluge, prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Poruka treba se povezati s internetom radi normalnog rada. Da bi prepoznali nepoznate brojeve, filtrirali neželjenu poštu i omogućili druge značajke, Mi Poruka treba koristiti Yellow pages. Dopustiti da se Yellow pages povezuju s internetom, dobiju podatke o lokaciji i čitaju vaše kontakte?"</string>
   <string name="networking_allow_title">Pažnja</string>
   <string name="new_message">Nova poruka</string>
   <string name="new_message_arrived">Primljena nova poruka</string>
