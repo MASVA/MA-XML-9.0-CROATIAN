@@ -380,6 +380,7 @@
   <string name="error_connect_timeout_msg">Povežite se s drugom mrežom i pokušajte ponovo.</string>
   <string name="error_connect_timeout_tip">Veza je istekla.</string>
   <string name="error_decode_tip">"Format datoteke nije podržan ili su datoteke oštećene."</string>
+  <string name="error_download_tip">"Ne mogu preuzeti"</string>
   <string name="error_external_sdcard_write_action">Promjeni pohranu</string>
   <string name="error_external_sdcard_write_msg">Idite u Postavke &gt; Pohrana, promjenite pohranu i pokušajte ponovo.</string>
   <string name="error_external_sdcard_write_tip">"Nije moguće spremiti stavke na SD karticu."</string>

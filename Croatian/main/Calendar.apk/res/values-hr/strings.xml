@@ -22,6 +22,8 @@
   <string name="account_and_calendar_to_display">Događaji u kalendaru</string>
   <string name="accounts">Računi &amp; sinkronizacija</string>
   <string name="acct_not_synced">Ovaj se račun ne sinkronizira pa vaši kalendari možda nisu ažurni.</string>
+  <string name="acessibility_selected_marker_description">Odabrani događaj</string>
+  <string name="action_bar_more_menu_view_description">Više</string>
   <string name="acessibility_cal_notification">Obavijesti Kalendara</string>
   <string name="acessibility_selected_marker_description">Odabrani događaj</string>
   <string name="acessibility_snooze_notification">Odgodi obavijest</string>

@@ -169,6 +169,8 @@ Također, možete ih preuzeti zasebno."</string>
   Inače nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona."</string>
   <string name="privacyContactsSummary">Prikaži privatne stavke u Drugom prostoru</string>
   <string name="privacyContactsTitle">Privatne poruke i kontakti</string>
+  <string name="privacy_password_fingerprint_dialog_message">Stavite prst na senzor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Skenirajte otisak prsta</string>
   <string name="private_sms_show_sub_title">Podaci poruka će se dijeliti između dva prostora​</string>
   <string name="private_sms_show_title">Privatne poruke su prikazane u Drugom prostoru</string>
   <string name="private_space_setting">Upravljaj</string>
@@ -230,7 +232,13 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="settings_status_icon_title">Ikona Drugog prostora</string>
   <string name="settings_switch_shortcut_summary">Prikaži prečac Poč. zaslona u Prvom prostoru</string>
   <string name="settings_switch_shortcut_title">Dodirnite prečac za promjenu</string>
+  <string name="show_decktop_quick_switch_icon">Prečac Poč. zaslona</string>
+  <string name="show_decktop_quick_switch_icon_detail">Prikaži prečac za promjenu prostora na Poč. zaslonu u Prvom prostoru</string>
   <string name="show_normal_content">"Ne prikazuj privatne stavke"</string>
+  <string name="show_noti_from_owner">Obavijesti iz Drugog prostora</string>
+  <string name="show_noti_from_owner_detail">Primaj obavijesti u trenutačnom prostoru kada dođu iz drugog prostora</string>
+  <string name="show_noti_quick_switch_icon">Prečac panela obavijesti</string>
+  <string name="show_noti_quick_switch_icon_detail">Prikaži prečac za promjenu prostora u Panelu obavijesti</string>
   <string name="show_noti_from_owner">Obavijesti Prvog prostora</string>
   <string name="show_noti_quick_switch_icon">Prečac za prebacivanje između prostora</string>
   <string name="show_noti_setting">Prikaži Drugi prostor u panelu obavijesti</string>

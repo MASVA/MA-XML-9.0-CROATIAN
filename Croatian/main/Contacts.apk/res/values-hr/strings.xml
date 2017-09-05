@@ -1182,6 +1182,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="sim_error_password_error">Unesena zaporka je neispravna</string>
   <string name="sim_error_storage_full">"Prostor za pohranu je pun"</string>
   <string name="sim_error_text_too_long">Ime je predugačko</string>
+  <string name="sim_export_error">SIM nije spreman, pokušajte ponovo kasnije</string>
   <string name="sim_export_loading">Čitanje SIM kartice…</string>
   <string name="sim_indexed_contact_not_exist">Pozicija %1$d na SIM kartici je nevaljana: mora biti između %2$d i %3$d.</string>
   <string name="sim_no_contact">"Nema kontakata na SIM kartici"</string>
