@@ -239,8 +239,6 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="show_noti_from_owner_detail">Primaj obavijesti u trenutačnom prostoru kada dođu iz drugog prostora</string>
   <string name="show_noti_quick_switch_icon">Prečac panela obavijesti</string>
   <string name="show_noti_quick_switch_icon_detail">Prikaži prečac za promjenu prostora u Panelu obavijesti</string>
-  <string name="show_noti_from_owner">Obavijesti Prvog prostora</string>
-  <string name="show_noti_quick_switch_icon">Prečac za prebacivanje između prostora</string>
   <string name="show_noti_setting">Prikaži Drugi prostor u panelu obavijesti</string>
   <string name="show_private_content">Prikaži privatne stavke</string>
   <string name="show_private_msg">Prikaži privatne poruke</string>
