@@ -6,6 +6,7 @@
   <string name="activity_not_found_uri">Nijedna aplikacija ne može podržati ovu radnju</string>
   <string name="addBlackList">Dodaj na listu blokiranih</string>
   <string name="add_attachment">Dodaj privitak</string>
+  <string name="add_miui_contact">Mi Card</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_festival">Brzi odogovori</string>
   <string name="add_music">Dodaj glazbu</string>
@@ -428,9 +429,11 @@
   <string name="pref_show_sms_template_entry_summary">Otkrij jednokratne zaporke u SMS-u</string>
   <string name="pref_show_sms_template_in_summary">Automatski otkrij OTP u SMS porukama</string>
   <string name="pref_show_sms_template_summary">Uključite da koristite pametne značajke Mi Poruka, poput kopiranja kodova, provjera stanja računa, itd.</string>
+  <string name="pref_sms_storage_title">Prostor za pohranu</string>
   <string name="pref_smart_messages_settings">Pametne poruke</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
+  <string name="pref_summary_auto_delete">Izbriši stare poruke kada se dosegne ograničenje</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
   <string name="pref_summary_delivery_ringtone">Primi zvučne obavijesti za isporučene poruke.</string>
@@ -453,6 +456,7 @@
   <string name="pref_time_auto_group_title">Grupne poruke</string>
   <string name="pref_title_about_smart_sms">O partneru Smart poruka</string>
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push poruke (SI/SL)</string>
+  <string name="pref_title_auto_delete">Izbriši stare poruke</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
   <string name="pref_title_festival_networking">Obavijest o povezivanju</string>
@@ -463,6 +467,8 @@
   <string name="pref_title_mms_auto_retrieval">Preuzmi sadržaj MMS-a automatski</string>
   <string name="pref_title_mms_delete">Ograničenje multimedijske poruke</string>
   <string name="pref_title_mms_read_reports">Čitaj izvješća</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Preuzmi sadržaj MMS-a u Roamingu</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Preuzmi sadržaj MMS-a u Roamingu</string>
   <string name="pref_title_mms_retrieval_during_roaming">Preuzmi sadržaj MMS-a u Roamingu</string>
   <string name="pref_title_mms_validity_period">Valjanost MMS-a</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na zaklj. zaslonu</string>

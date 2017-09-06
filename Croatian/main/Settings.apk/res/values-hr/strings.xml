@@ -3965,6 +3965,7 @@ Za prikvačivanje zaslona:
   <string name="search_handy_mode">Rad jednom rukom;Rad jednom rukom;Rad jednom rukom;Jedna ruka</string>
   <string name="search_hint">"Postavke pretraživanja"</string>
   <string name="search_home_key">Početna;Tipka Početna;Tipka Početna</string>
+  <string name="search_input_hint">Postavke pretraživanja</string>
   <string name="search_key">Tipke;Tipke</string>
   <string name="search_lab_functions_title">Beta značajke;Lab funkcije</string>
   <string name="search_label">Postavke</string>
@@ -5533,7 +5534,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_hotspot_message">%1$s zahtijeva prijavu na webu za povezivanje s mrežom.</string>
   <string name="wifi_hotspot_title">Želite li se prijaviti radi povezivanja?</string>
   <string name="wifi_in_airplane_mode">U Zrakoplovnom načinu</string>
-  <string name="wifi_info_reconnect">Pogreška zaporke, pokušajte ponovo!</string>
+  <string name="wifi_info_reconnect">Povezivanje nije uspjelo, pokušajte ponovo!</string>
   <string name="wifi_install_credentials">Instaliranje certifikata</string>
   <string name="wifi_ip_address">IP adresa</string>
   <string name="wifi_ip_settings">IP postavke</string>
