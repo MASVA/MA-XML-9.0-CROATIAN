@@ -925,6 +925,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="charging_sounds_title">Zvukovi punjenja</string>
   <string name="check_find_device_status_failure_confirm">U redu</string>
+  <string name="check_importance">Provjeri važne</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
   <string name="checking_decryption">Provjeravanje…</string>
@@ -4542,6 +4543,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
   <string name="status_write_success">Uspjeli ste!</string>
+  <string name="statusbar_permission_desc">Dopuštenja su dostupna samo za važne obavijesti</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Audiozapisi</string>
   <string name="storage_detail_cached">Podaci iz predmemorije</string>
@@ -4937,6 +4939,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC memorija će biti isključena.</string>
   <string name="under_keyguard">Na isključenom zaslonu</string>
+  <string name="unimportant">Nevažne</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="uninstall_device_admin">Deinstaliraj aplikaciju</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
