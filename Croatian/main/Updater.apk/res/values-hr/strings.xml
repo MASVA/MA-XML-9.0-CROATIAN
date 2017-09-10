@@ -15,6 +15,8 @@
   <string name="dialog_3g_title">Upozorenje!</string>
   <string name="dialog_btn_3g">Nastavi svejedno</string>
   <string name="dialog_btn_wifi">Promjeni na WLAN</string>
+  <string name="dialog_stop_desc">Jeste li sigurni da želite zaustaviti preuzimanje? Sav napredak će biti izgubljen, bez mogućnosti nastavka. Sljedeći pokušaj preuzimanja počet će od početka.</string>
+  <string name="dialog_stop_title">Zaustaviti preuzimanje?</string>
   <string name="download_cancel">Odustani</string>
   <string name="download_done">Uspješno preuzeto!</string>
   <string name="download_fail">Pogreška prilikom preuzimanja!</string>
