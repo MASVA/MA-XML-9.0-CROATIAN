@@ -488,12 +488,13 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS-a samo preko WLAN-a</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinkr.</string>
-  <string name="sync_dspt_entrance_provision">"Sinkronizirajte vaše fotografije, kontakte, povijest poziva i poruke između svih vaših uređaja. Pristupite stavkama sinkronizacije s bilo kojeg preglednika na %s."</string>
+  <string name="sync_dspt_entrance_provision">"Mi Cloud vam pomaže sinkronizirati fotografije, kontakte i više na svim uređajima. Možete pristupiti stvarima koje sinkronizirate s bilo kojeg preglednika na %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_network">Ova se aplikacija mora povezati s internetom da radi normalno. Da sinkr. podatke, morate biti povezani na podatkovnu ili WLAN mrežu.</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ovaj korak</string>
   <string name="sync_dspt_provision">"Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>

@@ -1335,6 +1335,7 @@ podatkovnu vezu"</string>
   <string name="network_speed_for_apps_others">Ostalo</string>
   <string name="network_speed_for_apps_title">Veza</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
+  <string name="network_test_speed">Testiraj brzinu WLAN-a</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
   <string name="never">Jedanput</string>
@@ -2625,6 +2626,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
+  <string name="traffic_setting_fragment_default">Zadano</string>
   <string name="traffic_setting_fragment_city">Grad</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Niste sigurni koji operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
@@ -2633,6 +2635,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
   <string name="traffic_setting_fragment_operator">Operater</string>
+  <string name="traffic_setting_fragment_operator_setting">Operater</string>
+  <string name="traffic_setting_fragment_province">Pokrajina</string>
   <string name="traffic_setting_fragment_send_num">Broj telefona mobilnog operatera</string>
   <string name="traffic_setting_fragment_send_num_tips">Unesite broj telefona</string>
   <string name="traffic_setting_fragment_sms_content">Sadržaj poruke</string>
