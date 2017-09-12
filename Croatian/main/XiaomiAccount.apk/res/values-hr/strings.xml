@@ -309,6 +309,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_with_email_or_id">Prijavite se adresom E-pošte ili ID Mi Računa</string>
   <string name="passport_message_dialog_title">SMS s kodovima provjere</string>
   <string name="passport_next">Dalje</string>
+  <string name="passport_no">Ništa</string>
   <string name="passport_notification_title">Pogreška prijave za %1$s</string>
   <string name="passport_password">Unesite zaporku</string>
   <string name="passport_password_phone_login">Prijavite se s Mi Računom</string>
@@ -326,6 +327,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_quick_login_dialog_title">Provjera zaporke</string>
   <string name="passport_quick_login_step2_title">Provjera u 2 koraka</string>
   <string name="passport_quick_login_title">Unesite vašu zaporku</string>
+  <string name="passport_quick_register">Prijavi se</string>
   <string name="passport_quick_register_notice">&lt;u&gt;"Nemate Mi račun? Izradite ga."&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Nabavite kôd ponovno</string>
   <string name="passport_re_register">Prijavite se ponovno</string>
@@ -410,6 +412,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_password">Pogrešna zaporka</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
+  <string name="passport_yes">Da</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="push_notification_content">Nabavite kôd</string>
