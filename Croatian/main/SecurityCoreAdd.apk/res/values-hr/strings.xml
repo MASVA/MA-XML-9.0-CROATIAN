@@ -108,8 +108,8 @@ Uđite u Drugi prostor sa zaključanog zaslona"</string>
   <string name="guide_setting_guide_title">Upravljaj Drugim prosotorom</string>
   <string name="guide_start_ads_text">Potpuno nova razina sigurnosti</string>
   <string name="guide_start_text">Dva prostora. Jedan uređaj.</string>
-  <string name="has_created_second_space">"Dva prostora. Jedan uređaj.
-Upravljajte privatnim i osjetljivim stavkama zasebno."</string>
+  <string name="has_created_second_space">"Sada možete otvoriti Drugi prostor.
+Dva prostora. Jedan uređaj."</string>
   <string name="hidden_app">Drugi prostor</string>
   <string name="imageData">Fotografije</string>
   <string name="import_application">Uvezi aplikacije</string>
@@ -299,9 +299,10 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="tryNow">Isprobajte sada</string>
   <string name="wating">Samo trenutak…</string>
   <string name="xpsace_guide_button">Izradi</string>
+  <string name="xspace_account">Računi dvojne aplikacije</string>
   <string name="xspace_chocie">Podrška za Dvojne aplikacije</string>
   <string name="xspace_creating">Izrada dvojne aplikacije…</string>
-  <string name="xspace_description">Izradite dvojne aplikacije da ih koriste odvojeno. Dvojne aplikacije će imati određene ikone Početnog zaslona.</string>
+  <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Koristi 2 računa bez mijenjanja</string>
   <string name="xspace_guide_title">Izradi Dvojnu aplikaciju za %s</string>
   <string name="xspace_header">Dvojne aplikacije</string>
@@ -311,6 +312,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_introduce">Preporučeno</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Učitavanje aplikacija…</string>
+  <string name="xspace_setting_label">Postavke dvojne aplikacije</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspješno deinstalirana</string>
   <string name="xspace_uninstall_dialog_content">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Deinstaliraj dvojnu aplikaciju</string>

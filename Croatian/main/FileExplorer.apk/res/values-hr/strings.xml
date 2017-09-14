@@ -172,7 +172,7 @@
   <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovno"</string>
   <string name="data_consumption_confirm">U redu</string>
   <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem WLAN-a za normalan rad.</string>
-  <string name="data_consumption_message1">Videozapisi i Naljepnice trebaju povezivanje s internetom putem WLAN-a za normalan rad.</string>
+  <string name="data_consumption_message1">Aplikacija Datoteke treba se povezati s internetom kako bi popularni videozapisi i naljepnice bili dostupni.</string>
   <string name="data_consumption_title">Povezivanje s internetom</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
@@ -718,7 +718,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
   <string name="remote_video_server_error">"Ne mogu se povezati na poslužitelj."</string>
   <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti otvoriti je."</string>
-  <string name="rename_alert2">Datoteka će biti skrivena.</string>
+  <string name="rename_alert2">Datoteka će biti skrivena nakon što promijenite njenu ekstenziju.</string>
   <string name="rename_description">Promjena naziva…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
   <string name="repair_done">Obnovljeno</string>

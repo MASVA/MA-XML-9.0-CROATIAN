@@ -1071,4 +1071,15 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Nema datoteka.</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Upotrijebi vezu trenutne mreže</string>
+  <string name="default_signature_2">Poslano s mog %s</string>
+  <string name="oauth_login_usr_proxy">Proxy prijava</string>
+  <string name="open_calendar_and_contacts_permission">Omogućite dopuštenja korištenja Kalendara i kontakata u postavkama</string>
+  <string name="open_external_storage_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara i pohrane u postavkama</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara,kontakata i pohrane u postavkama</string>
+  <string name="open_external_storage_and_contacts_permission">Omogućite dopuštenja korištenja kontakata u postavkama</string>
+  <string name="sync_contacts_fail_per_content">Omogućite dopuštenja za kontakte</string>
+  <string name="sync_contacts_fail_per_title">Sinkronizacija kontakta nije uspjela</string>
+  <string name="sync_contacts_fail_permission">Sinkronizacija kontakta nije uspjela. Omogućite dopuštenja kontakata u postavkama.</string>
+  <string name="sync_contacts_req_per_ignored">Sinkronizacija kontakta nije uspjela</string>
 </resources>

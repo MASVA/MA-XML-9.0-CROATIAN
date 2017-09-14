@@ -256,7 +256,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
   <string name="pref_camera_flashmode_entry_torch">Bljeskalica</string>
   <string name="pref_camera_flashmode_title">Način bljeskalice</string>
-  <string name="pref_camera_focus_shoot_summary">Nakon fokusiranja, dodinite tipku kako biste snimili fotografiju</string>
+  <string name="pref_camera_focus_shoot_summary">Dodirnite zaslon da fokusiranje i ponovno dodirnite za snimanje.</string>
   <string name="pref_camera_focus_shoot_title">Fokus &amp; snimi</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_infinity">Beskonačno</string>
@@ -521,8 +521,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="tap_to_focus">Dodirni za fokusiranje</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu veličinu videa za time-lapse snimanja"</string>
   <string name="title_snap_double_confirm">Potvrdite ponovno</string>
-  <string name="toast_burst_snap_finished_end">fotografija</string>
-  <string name="toast_burst_snap_finished_start">Brzo uzastopno snimanje</string>
+  <string name="toast_burst_snap_finished_summary">Brzo uzastopno snimanje gotovo, snimljeno fotografija: %1$s</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Brzo uzastopno snimanje nije podržano kada je snimanje zvuka uključeno."</string>
   <string name="toast_saving">Spremanje fotografija…</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>

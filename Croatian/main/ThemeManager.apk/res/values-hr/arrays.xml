@@ -5,6 +5,13 @@
          <item>Pejzaž</item>
          <item>Zvjezdano nebo</item>
          <item>Botanika</item>
-        <item>Životinje</item>
+         <item>Životinje</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_cover_name">
+         <item>Zabava</item>
+         <item>Pejzaž</item>
+         <item>Zvjezdano nebo</item>
+         <item>Botanika</item>
+         <item>Životinje</item>
+     </string-array>
 </resources>

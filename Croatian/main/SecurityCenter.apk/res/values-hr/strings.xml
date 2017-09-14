@@ -104,7 +104,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Ažurirano prije 2 dana</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Ažurirano jučer u %s</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
-  <string name="after_the_lock_screen">"Aplikacija se zaključava zajedno sa zaslonom, možete to promijeniti u postavkama zaključavanja aplikacija."</string>
+  <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
@@ -289,11 +289,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
   <string name="applock_add_account_setting">Račun &amp; privatnost</string>
-  <string name="applock_bind_account_title">Resetiranje vaše zaporke</string>
+  <string name="applock_bind_account_title">Zaboravljena zaporka</string>
   <string name="applock_close_dialog_summary">Aplikacije više neće biti zaštićene i vaša će se zaporka izbrisati nakon isključivanja Zaklj. aplikacija.</string>
   <string name="applock_close_dialog_title">Isključiti Zaklj. aplikacija?</string>
   <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
-  <string name="applock_header_text_less_than_half">Premalo prostora za ovu aplikaciju. Povucite separator dalje.</string>
+  <string name="applock_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="applock_not_add_account">Ne sada</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
@@ -822,7 +822,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacija</string>
   <string name="firewall_allow_all">Dopustite svim aplikacijama povezivanje pomoću sljedeće metode</string>
   <string name="firewall_allow_data">Dopusti uporabu mobilnih podataka</string>
-  <string name="firewall_allow_network">Dopušteno</string>
+  <string name="firewall_allow_network">Dopusti</string>
   <string name="firewall_allow_wlan">Dopusti korištenje WLAN veze</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -2377,8 +2377,8 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_get_sms_again">Osvježi SMS</string>
   <string name="tc_sms_report_get_sms_bill">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms_calltime">Dobivanje SMS-a</string>
-  <string name="tc_sms_report_get_sms_failure">"Ne mogu dobiti podatke o uporabi u SMS formatu"</string>
-  <string name="tc_sms_report_get_sms_successs">Uporaba podataka SMS formata ažurirana</string>
+  <string name="tc_sms_report_get_sms_failure">"Ne mogu dobiti informacije o uporabi podataka"</string>
+  <string name="tc_sms_report_get_sms_successs">Informacije o uporabi podataka uspješno ažurirane</string>
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan
      i pošaljite ga nama."</string>

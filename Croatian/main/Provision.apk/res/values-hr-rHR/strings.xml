@@ -28,9 +28,9 @@
   <string name="input_method_setting">Odaberite tipkovnicu</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="item_fingerprint">Otisak prsta</string>
-  <string name="item_lock_screen_password">Samo zaključavanje zaporkom</string>
-  <string name="language_picker_other_languages_title">Ostali jezici</string>
-  <string name="language_picker_popular_languages_title">Još jezika</string>
+  <string name="item_lock_screen_password">Samo Zaklj. zaslona</string>
+  <string name="language_picker_other_languages_title">Više jezika</string>
+  <string name="language_picker_popular_languages_title">Odaberi jezik</string>
   <string name="language_settings">Postavke jezika</string>
   <string name="locale_picker_title">Odaberite vašu regiju</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
