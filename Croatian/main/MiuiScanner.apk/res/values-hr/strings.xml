@@ -76,6 +76,8 @@
   <string name="impunity_declaration_negative_text">Izlaz</string>
   <string name="impunity_declaration_positive_text">Dopusti</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>
+  <string name="label_choose_picture">Odaberi sliku</string>
+  <string name="label_flash_light">Svjetiljka</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
