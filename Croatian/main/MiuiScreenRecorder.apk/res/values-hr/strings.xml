@@ -44,8 +44,9 @@
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošalji</string>
+  <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Možete započeti drugo snimanje ako želite nastaviti.</string>
   <string name="quit_recording">Izlaz iz Snimača zaslona</string>
-  <string name="recording_failure">Zadnje snimanje nije uspjeloo, ponovno pokrenite snimanje zaslona</string>
+  <string name="recording_failure">Zadnje snimanje nije uspjelo, ponovno pokrenite snimanje zaslona</string>
   <string name="resolution">Rezolucija</string>
   <string name="resolution_summary">Videozapisi sa većom rezolucijom izgledaju oštrije</string>
   <string name="screen_orientation">Orijentacija</string>
