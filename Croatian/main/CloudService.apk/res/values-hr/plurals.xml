@@ -56,6 +56,10 @@
          <item quantity="other">%d unosa liste blokiranja</item>
          <item quantity="one">%d unos liste blokiranja</item>
     </plurals>
+	<plurals name="dirty_secretphoto_count">
+         <item quantity="other">"%d skrivenih fotografija nije sinkronizirano. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+         <item quantity="one">"%d skrivena fotografija nije sinkronizirana. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+    </plurals>
 	<plurals name="micloud_main_resume_sync_hour">
          <item quantity="other">Nastavi sinkr. nakon sati: %d</item>
          <item quantity="one">Nastavi sinkr. nakon %d sata</item>
