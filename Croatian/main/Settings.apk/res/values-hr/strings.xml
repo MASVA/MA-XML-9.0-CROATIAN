@@ -2554,7 +2554,6 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Uporaba memorije</string>
   <string name="memory_usage_apps">Memorija korištena od strane aplikacija</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="menu_cancel">"Odbaci"</string>
   <string name="menu_check">Iskustvo</string>
@@ -2614,7 +2613,6 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miracast_wifi_off">Za korištenje Miracasta, omogućite WLAN</string>
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">odabrano %1$d od %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
   <string name="miui_allow_alarm">Alarmi</string>
   <string name="miui_allow_light">Svjetlo obavijesti</string>
   <string name="miui_allow_music">Glazba</string>
@@ -2806,7 +2804,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_how_it_works_got_it">Shvaćam</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
-  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
   <string name="nfc_payment_default">Zadano plaćanje</string>
   <string name="nfc_payment_default_not_set">Nije postavljeno</string>
   <string name="nfc_payment_favor_default">Uvijek</string>
@@ -2828,7 +2825,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_se_wallet_title">Zadani novčanik</string>
   <string name="night_mode_auto">Automatska</string>
   <string name="night_mode_no">Svijetla</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Tamna</string>
   <string name="no">"Ne"</string>
@@ -2939,8 +2935,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notifications_sensitive">Skriven osjetljivi sadržaj</string>
   <string name="notifications_silenced">Onemogućeno</string>
   <string name="notifications_summary_divider"> / </string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="notify_connect">CMCC WLAN upit</string>
   <string name="notify_connect_summary">Podsjeti me kod pristupa na CMCC WLAN</string>
   <string name="now">Sada</string>
@@ -2996,7 +2990,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="overlay_settings">Povlačenje preko drugih aplik.</string>
   <string name="owner_info_settings_edit_text_hint">Na primjer  MASVIN Android.</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
   <string name="owner_info_settings_title">Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
@@ -3474,7 +3467,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacija</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
@@ -4193,7 +4185,6 @@ Za prikvačivanje zaslona:
   <string name="service_foreground_processes">%1$s up.</string>
   <string name="service_manage">Postavi</string>
   <string name="service_manage_description">%1$s: trenutno u upotrebi. Dodirnite Postavke za upravljanje.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Ponovno pokretanje</string>
   <string name="service_started_by_app">Pokrenula aplikacija.</string>
   <string name="service_stop">"Zaustavi"</string>
@@ -4384,7 +4375,6 @@ Možda je PIN netočan."</string>
   <string name="sim_reenter_new">Ponovo unesite novi PIN</string>
   <string name="sim_select_card">Odabir SIM kartice</string>
   <string name="sim_selection_required_pref">Potreban je odabir</string>
-  <string name="sim_settings_summary">%1$s – %2$s</string>
   <string name="sim_settings_title">SIM kartice</string>
   <string name="sim_setup_wizard_title">SIM kartice</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4748,7 +4738,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Sinkronizacija u tijeku…</string>
   <string name="sync_is_failing">Sinkronizacija trenutačno ima problema. Uskoro će nastaviti s radom.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Otkaži sinkronizaciju</string>
   <string name="sync_menu_sync_now">Sinkroniziraj sada</string>
   <string name="sync_now">Sinkroniziraj</string>
@@ -5954,7 +5943,6 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="zen_mode_rule_name_hint">Unesite naziv pravila</string>
   <string name="zen_mode_rule_name_warning">Naziv pravila već se upotrebljava</string>
   <string name="zen_mode_rule_not_found_text">Pravilo nije pronađeno.</string>
-  <string name="zen_mode_rule_summary_combination">%1$s/%2$s</string>
   <string name="zen_mode_rule_summary_enabled_combination">Uključeno/%1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
