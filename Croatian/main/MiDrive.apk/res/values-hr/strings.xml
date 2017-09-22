@@ -26,7 +26,6 @@
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati ovoliko (%1$d) mapa?</string>
   <string name="delete_success">Datoteka izbrisana</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="downloading">Preuzimanje…</string>
@@ -34,7 +33,6 @@
   <string name="downloading_in_wifi">Preuzimanje…</string>
   <string name="empty_file_download">"Prazne datoteke nisu podržane."</string>
   <string name="empty_file_upload">"Prazne datoteke nisu podržane."</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_change_btn_download">Preuzmi datoteku</string>
   <string name="file_change_btn_upload">Učitaj datoteku</string>

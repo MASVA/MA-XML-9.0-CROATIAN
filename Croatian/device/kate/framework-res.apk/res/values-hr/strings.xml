@@ -278,7 +278,6 @@ koristeći %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Kôd značajke je potpun.</string>
   <string name="fcError">Problem s vezom ili nevažeći kôd značajke.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Pronađi</string>
   <string name="find_next">Nađi sljedeće</string>
   <string name="find_on_page">Pronađi na stranici</string>
@@ -1308,6 +1307,5 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="zen_mode_feature_name">Ne ometaj</string>
   <string name="zen_mode_forever">Dok ne isključite</string>
   <string name="zen_mode_forever_dnd">Dok ne isključite \"Ne uznemiravaj\"</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
 </resources>

@@ -117,7 +117,6 @@
   <string name="bind_stb_dlg">Poveži set top box za prebacivanje kanala</string>
   <string name="bind_stb_dlg_2">Poveži set top box</string>
   <string name="bind_stb_dlg_agree">Upari</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Odaberi proizvođača</string>
   <string name="brand_title_all">Sve</string>
   <string name="brand_title_hot">Popularno</string>
@@ -169,7 +168,6 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="channel_list">Popis kanala</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s uklonjen iz favorita</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Provjeri za ažuriranja</string>
   <string name="choose_ac">Odaberi daljinski</string>
   <string name="choose_address_title">Odaberi lokaciju</string>
@@ -390,7 +388,6 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="hot_videos">Novosti</string>
   <string name="hour">sati</string>
   <string name="humidity">Vlaga:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Povećaj</string>
   <string name="input_complete">Završeno</string>
   <string name="input_dialogue_cancel_button">Odustani</string>
@@ -453,7 +450,6 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="loading_more">Samo trenutak…</string>
   <string name="locate_current_place">Pronađi trenutnu lokaciju</string>
   <string name="location_select">Preimenuj uređaj</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Prijavi se</string>
   <string name="login_directly">Prijavi se izravno</string>
   <string name="login_done">Prijavljeno</string>
@@ -479,7 +475,6 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="match_data">Pojedinosti uparivanja</string>
   <string name="match_data_error_tips">"Ne mogu dobiti informacije
 Vratite se za nastavak"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Da li navigacijske tipke rade?</string>
   <string name="match_dvd_intro_pause">Otpusti kada se DVD reprodukcija pauzira</string>
   <string name="match_dvd_intro_play">Otpusti kada započne DVD reprodukcija</string>
@@ -862,8 +857,6 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="scaning">Traženje…</string>
   <string name="scanning_milink">Traženje uređaja…</string>
   <string name="scene_default">Zadano</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Presretanje na zaslonu TV-a</string>
   <string name="screen_shot_delete">Izbriši</string>
   <string name="screen_shot_delete_warning">Sigurno želite izbrisati?</string>
@@ -996,7 +989,6 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="start_match">Upari</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
-  <string name="stb_detail_title_frame">%1$s - Br. %2$d</string>
   <string name="stb_power">STB uklj/isklj.</string>
   <string name="steps">Pokušaj #%d</string>
   <string name="stop_auto_tune">Zaustavi autom. podešavanje</string>
@@ -1019,7 +1011,6 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Aplikaciju nije moguće pokrenuti</string>
   <string name="time_error">Izgleda da je vrijeme pogrešno</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Isključi timer</string>
   <string name="timer_turn_on">Uključi timer</string>

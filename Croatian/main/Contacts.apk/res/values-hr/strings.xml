@@ -97,7 +97,6 @@
   <string name="call_sim_menu_title_suffix">(Primarno)</string>
   <string name="call_telex">"Nazovi teleks"</string>
   <string name="call_tty_tdd">"Nazovi TTY/TDD"</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">USD</string>
   <string name="call_work">Nazovi poslovni</string>
   <string name="call_work_mobile">"Nazovi poslovni mobitel"</string>
@@ -494,7 +493,6 @@ Razlog: \"%s\""</string>
   <string name="foundTooManyContacts">Pronađeno je više od (%d) kontakata</string>
   <string name="fraud_more_indemnity">Više odšteta</string>
   <string name="frequentList">Često</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Ime</string>
   <string name="gallery">Galerija</string>
   <string name="generic_no_account_prompt">Sačuvajte sigurnost svojih kontakata čak i ako izgubite telefon, sinkronizirajte ih mrežnom uslugom.</string>
@@ -577,7 +575,6 @@ Razlog: \"%s\""</string>
   <string name="import_weibo_fetch_followers">Dohvaćanje kontakata…</string>
   <string name="import_weibo_notification_title_done">Ažuriranih kontakata: %s</string>
   <string name="import_weibo_progress_name">Usklađivanje \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">"Uvoz kontakata sa SIM kartice…"</string>
   <string name="importing_sim_contacts_miui_prepare">Priprema kontakata…</string>
   <string name="importing_vcard_canceled_title">"Uvoz datoteke %s je otkazan"</string>
@@ -1189,7 +1186,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="sim_unloaded">"SIM kartica nije umetnuta"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Nema članova grupe</string>
-  <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Tvrtke</string>
   <string name="smart_group_company_unavailable">Nema detalja tvrtke</string>
   <string name="smart_group_frequency_1">Unutar prethodnog mjeseca</string>
@@ -1330,7 +1326,6 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">VoIP videopoziv</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>

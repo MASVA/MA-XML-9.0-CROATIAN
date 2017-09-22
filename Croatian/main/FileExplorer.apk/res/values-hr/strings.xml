@@ -620,7 +620,6 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; pridružio se zajednici</string>
@@ -712,7 +711,6 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="recommend_popup_title">Preporuke</string>
   <string name="recommend_topic">Preporučene teme</string>
   <string name="recommend_user">Preporučeni profili</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="remote_video_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
@@ -1127,7 +1125,6 @@ oslobodili prostor.</string>
   <string name="video_upload_hint">Učitajte promovirane videozapise da zaradite više bodova.</string>
   <string name="video_upload_btn_hint_span">"Ne možete pronaći svoj videozapis?"</string>
   <string name="video_upload_item_more">Još (%1$s)</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Učitajte KuaiShou videozapise da biste dobili više obožavatelja.</string>
   <string name="video_upload_retry_confirm">Pokušajte ponovno</string>
   <string name="video_upload_retry_message">"Ne mogu učitati, pokušati ponovno?"</string>

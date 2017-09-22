@@ -201,7 +201,6 @@
   <string name="file_size">"Veličina: "</string>
   <string name="file_title">"Naziv: "</string>
   <string name="file_width_height">"Veličina: "</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Nove poruka</string>
   <string name="follow_finished">Broj praćenja</string>
   <string name="follow_forbidden">"Ne mogu pratiti ovaj broj"</string>
@@ -591,7 +590,6 @@
   <string name="send_sms">Pošalji poruku</string>
   <string name="send_to">Prima: </string>
   <string name="send_to_count">Poslano: %1$s</string>
-  <string name="send_to_index_contact"> %1$s/%2$s</string>
   <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
   <string name="service_message_not_found">Poruka je istekla ili nije dostupna.</string>

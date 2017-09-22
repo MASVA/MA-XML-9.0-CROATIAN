@@ -343,7 +343,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="nav_guide_message">Koristite geste da se sakrijete/prikažete tipke zaslona.</string>
    <string name="nav_guide_ok">Postavljanje</string>
    <string name="nav_guide_title">Sakrij tipke zaslona</string>
-   <string name="network_speed_suffix">%1$s%2$s</string>
    <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string> 
    <string name="no_application">Ništa</string>
    <string name="no_notification_tips">Nema obavijesti.</string>
@@ -592,7 +591,6 @@ Povucite dolje za zaključavanje"</string>
    <string name="vpn_title_long">Povezivanje na VPN koristeći %s</string>
    <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
    <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
-   <string name="weather_description_no_aqi">%1$s</string>
    <string name="weather_publish_time">Ažurirano %1$s</string>
    <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN na mob. mrežu</string>
    <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>

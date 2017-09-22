@@ -775,7 +775,6 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="calendar_sound_title">Zvuk kalendara</string>
   <string name="call_manager_enable_summary">Dopusti usluzi upravljanje načinom uspostavljanja poziva.</string>
   <string name="call_manager_enable_title">Omogući Upravitelj poziva</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Upravitelj poziva</string>
   <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
@@ -1289,7 +1288,6 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dndm_auto_button_title">Ponovi \"Ne ometaj“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automatski isključi \"Ne ometaj“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -1643,7 +1641,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_picker_title">Odaberi gadget</string>
   <string name="gadget_state_off">isključeno</string>
   <string name="gadget_state_on">uključeno</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">isključivanje</string>
   <string name="gadget_state_turning_on">uključivanje</string>
   <string name="gadget_sync">Sinkronizacija</string>
@@ -1924,7 +1921,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lift_to_wake_title">Aktivacija podizanjem</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Brzina veze:</string>
   <string name="loading_notification_apps">Učitavanje aplikacija…</string>
   <string name="local_auto_backup_off">Isključi</string>
@@ -2880,7 +2876,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="phone_info_label">Informacije o uređaju</string>
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
@@ -3858,7 +3853,6 @@ Možda je PIN pogrešan."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
@@ -4154,8 +4148,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="suggestions_title">Prijedlozi (%1$d)</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>
@@ -5296,7 +5288,6 @@ WLAN Assistant"</string>
   <string name="zen_mode_summary_alarms_only_by_time">Promijeni na \"Samo alarmi\" do %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Promijeni na \"Samo alarmi\" na neodređeno vrijeme</string>
   <string name="zen_mode_summary_always">Promijeni na \"Uvijek prekidaj\"</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Blokiranje vizualnih ometanja</string>
   <string name="zen_mode_when">Automatski uključi</string>
   <string name="zen_mode_when_every_night">Svake noći</string>

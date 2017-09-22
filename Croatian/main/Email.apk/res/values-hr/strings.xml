@@ -476,7 +476,6 @@
   <string name="folder_trash_name_en2">Izbrisana poruka</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Dalje</string>
   <string name="forward_attachment">Proslijedi</string>
   <string name="forward_attribution">---------- Proslijeđena poruka ----------&lt;br&gt;Šalje: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Predmet: %3$s&lt;br&gt;Prima: %4$s&lt;br&gt;</string>
@@ -957,7 +956,6 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="silent_ringtone">Bešumno</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Provjera autentičnosti nije uspjela, provjerite da nije antivirusni softver blokirao SMS poruku</string>
   <string name="smtp_password_error">Pogrešna zaporka odlaznog poslužitelja</string>
   <string name="sort_attachment">Poredaj po</string>

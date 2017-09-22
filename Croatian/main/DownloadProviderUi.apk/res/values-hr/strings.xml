@@ -22,7 +22,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s preuzimanja</string>
   <string name="app_label">Preuzimanja</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Račun</string>
   <string name="auth_fail">"Ne mogu dobiti autorizaciju"</string>
   <string name="bind_xunlei_account">Dodan Xunlei Račun %1$s</string>
@@ -107,7 +106,6 @@
   <string name="download_list_title_browser">Preuzimanja</string>
   <string name="download_no_application">Nema aplikacija koje podržavaju ovaj format</string>
   <string name="download_no_application_title">Datoteka se ne može otvoriti</string>
-  <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Preuzimanje pauzirano</string>
   <string name="download_pending">Preuzimanje na čekanju</string>
   <string name="download_queued">Na čekanju</string>

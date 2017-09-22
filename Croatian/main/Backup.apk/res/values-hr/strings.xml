@@ -382,11 +382,8 @@ i Mi Mover uključen"</string>
   <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
   <string name="user_notice_title">Pažnja</string>
   <string name="wifi_title">Postavke WLAN-a</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s

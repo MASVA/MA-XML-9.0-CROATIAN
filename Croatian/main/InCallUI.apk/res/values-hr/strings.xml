@@ -4,7 +4,6 @@
   <string name="add_vm_number_str">Dodaj broj</string>
   <string name="antispam_local_marked">Lokalno obilježen</string>
   <string name="antispam_marked_count">Prijavilo %1$d MIUI korisnika</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
   <string name="areacode_set_default">Postavi kao zadano</string>
