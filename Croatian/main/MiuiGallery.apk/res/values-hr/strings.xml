@@ -91,7 +91,7 @@
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
   <string name="and"> i </string>
-  <string name="app_is_launching">%s %s se pokreće…</string>
+  <string name="app_is_launching">%s se pokreće…</string>
   <string name="app_is_launching_common">Pokretanje aplikacije…</string>
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliku</string>
