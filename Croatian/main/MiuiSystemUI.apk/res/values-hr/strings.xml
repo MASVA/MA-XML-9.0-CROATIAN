@@ -440,13 +440,13 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="recents_drag_hint_message">Povucite stavke ovdje</string>
   <string name="recents_empty_message">Nema nedavnih stavki</string>
   <string name="recents_empty_message_dismissed_all">Uklonili ste sve stavke</string>
-  <string name="recents_empty_message_multi_window">Idi na Početna za otvaranje aplikacija</string>
+  <string name="recents_empty_message_multi_window">Otvorite aplikacije s Početnog zaslona</string>
   <string name="recents_exit_multi_window_mode">Izlaz</string>
   <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
-  <string name="recents_launch_disabled_message">%s je onemogućen u sigurnom načinu rada.</string>
+  <string name="recents_launch_disabled_message">%s se ne može pokrenuti u sigurnom načinu rada.</string>
   <string name="reject_call">Poziv odbijen</string>
   <string name="recents_launch_error_message">"Ne mogu pokrenuti %s."</string>
-  <string name="recents_lock_to_app_button_label">Popravi zaslon</string>
+  <string name="recents_lock_to_app_button_label">Prikvači zaslon</string>
   <string name="recents_multi_window_mode">Podijeljeni zaslon</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Vlastito</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Podijeli vodoravno</string>

@@ -132,7 +132,7 @@
   <string name="comment_added">Uspješno dodano</string>
   <string name="comment_added_tip">"Dodajete puno komentara. Pratiti ovu osobu?"</string>
   <string name="close">Zatvori</string>
-  <string name="comment_delete_message">Oprez: ova se operacija ne može poništiti!</string>
+  <string name="comment_delete_message">Komentar će biti trajno izbrisan.</string>
   <string name="comment_delete_title">Izbriši komentar</string>
   <string name="comment_fail">"Ne mogu objaviti komentar, pokušajte ponovo"</string>
   <string name="comment_fail_banned_forever">"Trajno ste suspendirani zbog neprimjerenih komentara. Za više informacija, kontaktirajte našu QQ grupu (374463568)."</string>
@@ -496,7 +496,7 @@
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Morate unijeti naziv.</string>
-  <string name="need_read_storage_permission">"Aplikaciji Datoteke trebaju dopuštenje za pristup pohrani uređaja da radi kao što je predviđeno."</string>
+  <string name="need_read_storage_permission">"Aplikaciji Datoteke treba dopuštenje za pristup pohrani uređaja da radi kao što je predviđeno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
@@ -541,8 +541,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_topic">Nema tema</string>
   <string name="no_videos">Ovdje nema ništa. Provjerite one ispod!</string>
   <string name="no_topic_found">Nema pronađenih tema</string>
-  <string name="no_wifi">Nema dostupnih WLAN veza.</string>
-  <string name="no_wifi_hint">Nema dostupnih veza</string>
+  <string name="no_wifi">Nema dostupnih WLAN mreža.</string>
+  <string name="no_wifi_hint">Nema dostupnih mreža</string>
   <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
   <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
@@ -622,7 +622,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unlike">Odznači</string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
-  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; pridružio se zajednici</string>
+  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se pridružio zajednici</string>
   <string name="original_user_signal">Talent tim</string>
   <string name="original_user_title">Čestitamo što ste postali član Talent tima!</string>
   <string name="original_user_verify">• Hvala vam što ste ostali u blizini!</string>
@@ -1006,7 +1006,7 @@ oslobodili prostor.</string>
   <string name="upload_video_success_progress">Uspješno učitano</string>
   <string name="upload_video_dialog_message">"Vaš videozapis će biti istaknut nakon provjere."</string>
   <string name="upload_video_dialog_title">Videozapis uspješno podijeljen</string>
-  <string name="upload_video_forbidden">"Ne učitavaj slične videozapise"</string>
+  <string name="upload_video_forbidden">"Ne učitavaj isti videozapis"</string>
   <string name="upload_video_tip">"Ne mogu podijeliti više od 1 videozapisa odjednom"</string>
   <string name="uploading">Učitavanje…</string>
   <string name="uploading_video">Učitavanje…</string>
@@ -1061,10 +1061,10 @@ oslobodili prostor.</string>
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obavijest novog komentara</string>
   <string name="user_setting_new_comment_tip">Dobit će te obavijest o odgovorima na vaše komentare i videozapise</string>
-  <string name="user_setting_new_liked">Hvalite za obavijest o novoj poruci</string>
+  <string name="user_setting_new_liked">Obavijesti o sviđa mi se</string>
   <string name="user_setting_new_liked_tip">Biti ćete obaviješteni kada se nekome svidi vaš videozapis ili komentar</string>
   <string name="user_setting_play_num">Obavijesti o pregledima</string>
-  <string name="user_setting_play_num_tip">Primaj obavijesti o broju pregleda vaših videozapisa</string>
+  <string name="user_setting_play_num_tip">Bit ćete obaviješteni o broju pregleda vaših videozapisa</string>
   <string name="user_setting_topic_new_msg">Dojava novih vrućih tema</string>
   <string name="user_setting_topic_new_msg_tip">Biti ćete obaviješteni o novim videozapisima u temama koje pratite</string>
   <string name="user_setting_video_has_hot_comment">Obavijesti popuarnih komentara</string>
@@ -1095,8 +1095,8 @@ oslobodili prostor.</string>
   <string name="video_encrypt_follow_success">Pratim %s</string>
   <string name="video_encrypt_login_btn">Prijavite se</string>
   <string name="video_encrypt_login_text">Prijavite se da reproducirate ovaj videozapis</string>
-  <string name="video_operation_need_fans">Pratite osobu koja je napravila videozapis da to učini</string>
-  <string name="video_operation_need_login">Prijavite se da to učinite</string>
+  <string name="video_operation_need_fans">Pratite osobu koja je napravila videozapis da se prijavi</string>
+  <string name="video_operation_need_login">Morate se prijaviti</string>
   <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne učitavaj slične videozapise"</string>
   <string name="video_parse_error_unknown">"Ova video usluga nije podržana, pokušajte s drugom"</string>

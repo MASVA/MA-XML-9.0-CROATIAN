@@ -212,7 +212,7 @@
   <string name="contactSavedErrorToast">Promjene kontakta nije moguće spremiti.</string>
   <string name="contactSavedToast">Kontakt je spremljen.</string>
   <string name="contact_clear_search_history">Izbriši povijest</string>
-  <string name="contact_delete_toast">Kontakt uspješno izbrisan</string>
+  <string name="contact_delete_toast">Kontakt je izbrisan</string>
   <string name="contact_detail_action_item_calllog">Povijest poziva</string>
   <string name="contact_detail_action_item_nocalllog">Nema povijesti</string>
   <string name="contact_detail_calllog_call_note_tips">Bilješke</string>
@@ -1269,11 +1269,12 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
   <string name="unable_get_device_id">"Ne mogu dobiti IMEI"</string>
-  <string name="unfold_all">otkrij sve</string>
+  <string name="unfold_all">Otvori sve pozive</string>
   <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
   <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_contact_name">Nepoznati kontakt</string>
+  <string name="unknown_details_add_to_contact">Postojeći</string>
   <string name="unknown_details_new_contact">Novi kontakt</string>
   <string name="update_sim_contact_photo_toast">"Ne mogu postaviti fotografiju za SIM kontakte"</string>
   <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>

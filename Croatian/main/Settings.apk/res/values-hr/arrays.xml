@@ -1125,8 +1125,8 @@
          <item>Nevažno</item>
      </string-array>
      <string-array name="check_importance_summary">
-         <item>Nevažne obavijesti prikazatI će se u zasebnoj mapi</item>
-         <item>Obavijesti će se pojaviti izravno u Panelu obavijesti</item>
-         <item>Sve obavijesti prikazatI će se u zasebnoj mapi</item>
+         <item>MIUI će odlučiti koje se obavijesti trebaju prikazati izravno</item>
+         <item>Obavijesti će se prikazati u Panelu obavijesti</item>
+         <item>Obavijesti će se prikazati u zasebnoj mapi</item>
      </string-array>
 </resources>

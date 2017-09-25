@@ -550,8 +550,8 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Poboljšaj podudaranje lica</string>
-  <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka prilikom otključavanja</string>
-  <string name="biometric_weak_liveliness_title">Provjera živosti</string>
+  <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka za otključavanje</string>
+  <string name="biometric_weak_liveliness_title">Provjera stvarne osobe</string>
   <string name="ble_scan_notify_text">Radi poboljšanja preciznosti lokacije aplikacije i usluge sustava i dalje mogu otkriti Bluetooth uređaje. To možete promijeniti u LINK_BEGINpostavkama traženjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezani uređaji</string>
   <string name="block_list_diaglog_cancle">Odustani</string>
@@ -928,7 +928,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="charging_sounds_title">Zvukovi punjenja</string>
   <string name="check_find_device_status_failure_confirm">U redu</string>
-  <string name="check_importance">Provjeri važne</string>
+  <string name="check_importance">Označiti kao važne?</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
   <string name="checking_decryption">Provjeravanje…</string>
@@ -1657,7 +1657,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="erase_personal_data">Osobni podaci</string>
   <string name="erase_personal_data_description">Izbriši informacije Mi Računa, podatke aplikacija i postavke sustava</string>
   <string name="erase_sd_data">Formatiraj SD karticu</string>
-  <string name="erase_sd_data_description">Formatiranje će izbrisati sve datoteke i podatke na SD kartici</string>
+  <string name="erase_sd_data_description">Formatiranje će izbrisati sve podatke na SD kartici</string>
   <string name="erase_sure">Obvezno</string>
   <string name="error_apn_empty">APN ne može biti prazan.</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
@@ -1715,8 +1715,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_enable_keyguard_toggle_title">Zaključavanje zaslona</string>
   <string name="fingerprint_enroll_button_add">Dodaj drugo</string>
   <string name="fingerprint_enroll_button_next">Dalje</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Biometrika (postavite zaporku za Zaklj. zaslona prije korištenja)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Otisak prsta (postavite zaporku Zaklj. zaslona prije korištenja)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Lice (prvo postavite zaporku za Zaklj. zaslona)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Otisak prsta (prvo postavite zaporku Zaklj. zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Otisak prsta je onemogućen od strane sigurnosnih postavki.</string>
   <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
@@ -3407,7 +3407,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_factory_reset_dlg_title">Izradite Sig. kopiju podataka</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
-  <string name="privacy_header_text_less_than_half">Premalo prostora za ovu aplikaciju. Povucite separator dalje.</string>
+  <string name="privacy_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
   <string name="privacy_mms">Poruke</string>
   <string name="privacy_mode_dialog_message">Sakriti poruke, bilješke, fotografije, postavke i dolazne pozive?</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
@@ -4212,15 +4212,12 @@ Za prikvačivanje zaslona:
   <string name="settings_toggle_position_divider_list">Prečaci smješteni iznad trake su aktivni</string>
   <string name="setup_add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta"</string>
   <string name="setup_choose_unlock_fingerprint_msg">Postavite zaključavanje zaslona prije dodavanja otiska prsta.</string>
-  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Zaporka&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Zaporka&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password">Zaporka</string>  
   <string name="setup_choose_unlock_mixpassword_title">Postavi zaporku</string>
-  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password">PIN</string>  
   <string name="setup_choose_unlock_password_msg">Unesite 4 broja</string>
   <string name="setup_choose_unlock_password_title">Postavi PIN</string>
-  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Uzorak&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Uzorak&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern">Uzorak</string>  
   <string name="setup_choose_unlock_pattern_title">Iscrtajte uzorak za otključavanje</string>
   <string name="setup_choose_unlock_type_title">Postavi zaporku</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Odabrali ste da želite koristiti otisak prsta kao jedan od načina za otključavanje telefona. Ako preskočite sada, morat ćete postaviti to kasnije. Postavljanje traje samo minutu ili dvije.</string>
@@ -4546,7 +4543,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_wifi_mac_address">MAC adresa WLAN-a</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
   <string name="status_write_success">Uspjeli ste!</string>
-  <string name="statusbar_permission_desc">Dopuštenja su dostupna samo za važne obavijesti</string>
+  <string name="statusbar_permission_desc">Sljedeća dopuštenja vrijede samo za važne obavijesti.</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Audiozapisi</string>
   <string name="storage_detail_cached">Podaci iz predmemorije</string>
@@ -4985,7 +4982,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unlock_set_do_later_title">Ne sada</string>
   <string name="unlock_set_enter_system">Preskoči zaključavanje zaslona</string>
   <string name="unlock_set_enter_system_summary">Nakon buđenja idi izravno na Početni zaslon</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Niska sigurnost, eksperimentalno</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Eksperimentalna značajka s niskom razinom sigurnosti</string>
   <string name="unlock_set_unlock_biometric_weak_title">Otključavanje licem</string>
   <string name="unlock_set_unlock_disabled_summary">Onemogućili administrator, pravila enkripcije ili pohrana vjerodajnica</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Promijenite ili isključite sigurnosni uzorak, PIN ili zaporku</string>

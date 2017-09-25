@@ -91,6 +91,8 @@
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
   <string name="and"> i </string>
+  <string name="app_is_launching">%s %s se pokreće…</string>
+  <string name="app_is_launching_common">Pokretanje aplikacije…</string>
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliku</string>
   <string name="app_name_view_picture">Pregled fotografija</string>
@@ -748,7 +750,15 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="photo_editor_long_crop">Obreži</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">Odustani</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">Preuzimanje %s zahtjeva oko 4 MB mobilnih podataka. Preuzeti sada?</string>
+  <string name="photo_editor_navigator_download_network_metered_title">Upozorenje mob. podataka</string>
   <string name="photo_editor_navigator_export">Gotovo</string>
+  <string name="photo_editor_navigator_module_download_failed">"Ne mogu reuzeti %s"</string>
+  <string name="photo_editor_navigator_module_download_now">Preuzmi</string>
+  <string name="photo_editor_navigator_module_download_success">Uspješno preuzeto</string>
+  <string name="photo_editor_navigator_module_download_wait_wlan">Čekaj na WLAN</string>
+  <string name="photo_editor_navigator_module_downloading">Preuzimanje %s…</string>
+  <string name="photo_editor_navigator_need_download">Povežite se s internetom za preuzimanje %s.</string>
   <string name="photo_editor_remover">Izbriši</string>
   <string name="photo_editor_rotate">Rotiraj</string>
   <string name="photo_editor_saving">Spremanje…</string>
@@ -829,7 +839,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="remove_to_other_album">Spoji s drugom osobom</string>
   <string name="remover_edit_type_free">Objekti</string>
   <string name="remover_edit_type_line">Linije</string>
-  <string name="remover_erase_aera_too_big">Područje brisanja je prevelika</string>
+  <string name="remover_erase_aera_too_big">Područje brisanja je preveliko</string>
   <string name="remover_menu_processing">Obrada</string>
   <string name="rename_album">Preimenuj album</string>
   <string name="rename_album_failed">"Ne mogu preimenovati"</string>

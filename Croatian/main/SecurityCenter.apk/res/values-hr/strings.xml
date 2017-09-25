@@ -383,6 +383,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_sync">Sinkr.</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
+  <string name="back_app_name">Zaklj. aplikacije Back</string>
+  <string name="back_modifypassword">Promjeni Back zaporku</string>
   <string name="back">Natrag</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>

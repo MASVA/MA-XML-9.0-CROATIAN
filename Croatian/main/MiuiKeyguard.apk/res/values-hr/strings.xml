@@ -36,7 +36,7 @@
   <string name="face_data_manage_unlock_title">Otključajte koristeći lice</string>
   <string name="face_data_suggesstion_first">Otključavanje uređaja pomoću lica manje je sigurno od upotrebe zaporke za Zaklj. zaslona. Vaš će uređaji možda otključati osobe koje izgledaju poput vas.</string>
   <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetliti."</string>
-  <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i uređaja optimalna.</string>
+  <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i zaslona optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
   <string name="face_unlock_by_notification_screen_on_msg">Možete otključati uređaj pomoću lica kada se zaslon uključi za dolazne obavijesti. To brže troši bateriju.</string>
   <string name="face_unlock_by_notification_screen_on_title">Dopusti Otključavanje licem kada se zaslon uključi</string>
@@ -79,7 +79,7 @@
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
-  <string name="input_password_handle_sdcard_fs">Isključite "Optimizacija emulirane SD kartice" prije ulaska u Drugi prostor.</string>
+  <string name="input_password_handle_sdcard_fs">Isključite "Optimizacija SD kartice" prije ulaska u Drugi prostor.</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
   <string name="input_pin_code">Unesite PIN</string>
@@ -157,7 +157,7 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
   <string name="phone_locked_foget_password_ok">Shvaćam</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća + &lt;/font&gt;istovremeno dok ne vidite Mi logo.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća +&lt;/font&gt;istovremeno dok ne vidite Mi logo.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; resetiraj\"&lt;/font&gt; i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
