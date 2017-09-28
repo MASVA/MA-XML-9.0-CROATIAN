@@ -75,12 +75,12 @@
         <item>Česta buđenja uređaja</item>
      </string-array>
      <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WLAN skeniranje</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Buđenje</item>
+        <item>Blokiranje dubokog mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Traženje WLAN-a</item>
+        <item>Korištenje GPS-a</item>
+        <item>Zauzimanje CPU-a</item>
+        <item>Često buđenja uređaja</item>
      </string-array>
      <string-array name="power_checker_group_suffix">
         <item></item>
@@ -92,11 +92,11 @@
          <item>Neodabrano</item>
 	 </string-array>
 	  <string-array name="thermal_entries">
-         <item>Zadani način rada topline</item>
-         <item>Način za performanse prvo</item>
+         <item>Zadani način upravljanja temperaturom</item>
+         <item>Način performansi</item>
      </string-array>
      <string-array name="thermal_summaries">
-         <item>Trenutačni način upravljanja temperaturom, preferira se temperatura iskustva</item>
-         <item>Trenutni model izvedbe, iskustvo izvedbe je poželjno, temperature mogu porasti</item>
+         <item>Trenutačni način upravljanja temperaturom</item>
+         <item>Trenutni način izvedbe</item>
      </string-array>
 </resources>

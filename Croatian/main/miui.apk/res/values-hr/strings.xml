@@ -5,8 +5,8 @@
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
   <string name="action_mode_title_empty">Odaberi</string>
-  <string name="actionbar_button_up_description">natrag</string>
-  <string name="actionbar_immersion_button_more_description">više</string>
+  <string name="actionbar_button_up_description">Natrag</string>
+  <string name="actionbar_immersion_button_more_description">Više</string>
   <string name="activate">Aktiviranje</string>
   <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju.</string>
   <string name="activating">Aktivacija…</string>
