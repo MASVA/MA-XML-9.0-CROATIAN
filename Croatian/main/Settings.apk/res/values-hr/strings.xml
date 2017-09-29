@@ -2136,6 +2136,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="launch_google_search">Pokreni Google Pretraživanje</string>
+  <string name="launch_recents">Pokreni Nedavno</string>
   <string name="launch_voice_assistant">Pokreni glasovnog pomoćnika</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>

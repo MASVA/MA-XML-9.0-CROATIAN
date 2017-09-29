@@ -220,4 +220,20 @@
          <item quantity="other">Videozapisa: %d</item>
          <item quantity="one">Videozapis: %d</item>
      </plurals> 
+	 <plurals name="search_feedback_done_mark_false_positive">
+         <item quantity="other">Uklonjeno %1$d fotografija iz \"%2$s\".</item>
+         <item quantity="one">Uklonjena %1$d fotografija iz \"%2$s\"</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+         <item quantity="other">Uklonjeno %1$d fotografija iz \"%2$s\" i dodano u bazu podataka.</item>
+         <item quantity="one">Uklonjena %1$d fotografija iz \"%2$s\" i dodano u bazu podataka.</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_false_negative">
+         <item quantity="other">Dodano %1$d fotografija u \"%2$s\".</item>
+         <item quantity="one">Dodana %1$d fotografija u \"%2$s\".</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+         <item quantity="other">Dodano %1$d fotografija u \"%2$s\" i u bazu podataka.</item>
+         <item quantity="one">Dodana %1$d fotografija u \"%2$s\" i u bazu podataka.</item>
+     </plurals>
 </resources>
