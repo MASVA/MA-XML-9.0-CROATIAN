@@ -663,7 +663,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="old">Staro</string>
   <string name="onekey_auto">Auto</string>
   <string name="onekey_food">Hrana</string>
-  <string name="onekey_none">Ništa</string>
+  <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portret</string>
   <string name="onekey_scene">Pejzaž</string>
   <string name="open">Uključi</string>
@@ -741,7 +741,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="photo_editor_beautify">Uljepšaj</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Original</string>
-  <string name="photo_editor_crop_and_rotate">Obreži&amp;Rotiraj</string>
+  <string name="photo_editor_crop_and_rotate">Obreži</string>
   <string name="photo_editor_crop_reset">Resetiraj</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
@@ -752,7 +752,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="photo_editor_navigator_cancel">Odustani</string>
   <string name="photo_editor_navigator_download_network_metered_msg">Preuzimanje %s zahtjeva oko 4 MB mobilnih podataka. Preuzeti sada?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Upozorenje mob. podataka</string>
-  <string name="photo_editor_navigator_export">Gotovo</string>
+  <string name="photo_editor_navigator_export">Spremi</string>
   <string name="photo_editor_navigator_module_download_failed">"Ne mogu reuzeti %s"</string>
   <string name="photo_editor_navigator_module_download_now">Preuzmi</string>
   <string name="photo_editor_navigator_module_download_success">Uspješno preuzeto</string>
@@ -886,7 +886,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="search_feedback_false_negative_text">Dodati fotografije u \"%s\"?</string>
   <string name="search_feedback_false_negative_title">Odabrane stavke su \"%s\"</string>
   <string name="search_feedback_false_positive_text">Ukloniti fotografije iz \"%s\"?</string>
-  <string name="search_feedback_false_positive_title">Izgleda da su to “%s”</string>
+  <string name="search_feedback_false_positive_title">Izgleda da su to \"%s\"</string>
   <string name="search_feedback_likely_check_title">Provjeri</string>
   <string name="search_feedback_likely_title">Izgleda da ove fotografije mogu imati \"%s\"</string>
   <string name="search_feedback_task_finish_title">Dodirnite za primanje nagrade!</string>
@@ -1122,6 +1122,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Tekst</string>
+  <string name="video_editor_text_default">Zadano</string>
   <string name="video_editor_text_edit_end">Krediti</string>
   <string name="video_editor_text_edit_input_end_hint">Unesite kredite</string>
   <string name="video_editor_text_edit_input_hint">Dodirnite ovdje za uređivanje</string>
@@ -1129,7 +1130,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_text_edit_start">Naslov</string>
   <string name="video_editor_text_input_empty_tips">"Izgleda da niste još upisali tekst"</string>
   <string name="video_editor_text_none">Ništa</string>
-  <string name="video_editor_text_preview_text">MI</string>
+  <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Podreži</string>
   <string name="video_editor_unsupport_audio_file">Nepodržana audio datoteka</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>

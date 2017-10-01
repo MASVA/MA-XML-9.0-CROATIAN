@@ -67,7 +67,7 @@
   <string name="card_title_hanging_up">"Prekidanje poziva "</string>
   <string name="card_title_hanging_up_fail">"Ne mogu završiti poziv, pokušajte ponovno."</string>
   <string name="card_title_hanging_up_restart">"Ne mogu završiti poziv. Ponovno pokrenite uređaj."</string>
-  <string name="card_title_hanging_up_weak_signal">Slab signal mobilne mreže. Prekidanje poziva</string>
+  <string name="card_title_hanging_up_weak_signal">Slab signal mobilne mreže. Prekidanje poziva…</string>
   <string name="card_title_in_call">U pozivu</string>
   <string name="card_title_in_call_short">Poziv</string>
   <string name="card_title_in_video">Video </string>
@@ -244,7 +244,7 @@
   <string name="picking_participant">Dobivanje informacije o kontaktu…</string>
   <string name="private_num">Privatan broj</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>
-  <string name="respond_via_sms_custom_message">Napišite odgovor…</string>
+  <string name="respond_via_sms_custom_message">Vlastiti SMS…</string>
   <string name="select_audio_dialog_title">Odaberite način odgovaranja</string>
   <string name="select_one_sim_title">Mogu koristiti samo SIM %1$d</string>
   <string name="select_sim_hint">"Ne mogu koristiti SIM %2$d, dok je SIM %1$d u uporabi."</string>

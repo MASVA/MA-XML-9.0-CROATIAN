@@ -20,7 +20,7 @@
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="frames">Broj slika</string>
   <string name="frames_summary">Što veći broj slika u sekundi smanjuje zamućenje</string>
-  <string name="frequently_click_toast">Pokretanje usluge, pričekajte trenutak</string>
+  <string name="frequently_click_toast">Samo trenutak…</string>
   <string name="gleam_led_while_recording">LED treperi tijekom snimanja</string>
   <string name="hint_back">Natrag</string>
   <string name="hint_home">Početna</string>
@@ -44,9 +44,9 @@
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošalji</string>
-  <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Možete započeti drugo snimanje ako želite nastaviti.</string>
+  <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Pokrenite snimanje s mjesta na kojem ste prekinuli ako još niste završili.</string>
   <string name="quit_recording">Izlaz iz Snimača zaslona</string>
-  <string name="recording_failure">Zadnje snimanje nije uspjelo, ponovno pokrenite snimanje zaslona</string>
+  <string name="recording_failure">Ne mogu snimiti, započnite ispočetka</string>
   <string name="resolution">Rezolucija</string>
   <string name="resolution_summary">Videozapisi sa većom rezolucijom izgledaju oštrije</string>
   <string name="screen_orientation">Orijentacija</string>

@@ -209,7 +209,7 @@
   <string name="edit_event_tab_event">Događaj</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
-  <string name="email_guests_label">Slanje e-pošte gostima</string>
+  <string name="email_guests_label">Pošalji e-poštu gostima</string>
   <string name="email_picker_label">Pošalji e-poštu s</string>
   <string name="email_subject_prefix">"Odgovor: "</string>
   <string name="empty_event">Nije stvoren prazan događaj.</string>
@@ -250,7 +250,7 @@
   <string name="festival_detail_title">Festival</string>
   <string name="force_touch_title_add_new_event">Dodaj novi događaj</string>
   <string name="from_google_group_calendar">Google kalendar</string>
-  <string name="gadget_no_events">Nema skorih događaja kalendara</string>
+  <string name="gadget_no_events">Nema nadolazećih događaja kalendara</string>
   <string name="gadget_title">Kalendar</string>
   <string name="global_action_text_card_manager">Više kategorija</string>
   <string name="global_cricket_no_match">Danas nema natjecanja u kriketu, a možete pregledati najvažnije događaje prošlih natjecanja ili pokušati s drugom utakmicom. Čudesan događaj, vrijedan čekanja!</string>
@@ -317,7 +317,7 @@
   <string name="month_medium_september">Ruj</string>
   <string name="month_view">Mjesec</string>
   <string name="monthly">Mjesečno</string>
-  <string name="monthly_on_day">Mjesečno (na isti datum)</string>
+  <string name="monthly_on_day">Mjesečno (na isti dan svaki mjesec)</string>
   <string name="monthly_on_day_count" formatted="false">Mjesečno (%1$s %2$s)</string>
   <string name="more_match">Više podudaranja</string>
   <string name="more_string">+%1$s</string>

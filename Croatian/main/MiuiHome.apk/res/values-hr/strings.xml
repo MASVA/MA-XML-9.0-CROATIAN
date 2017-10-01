@@ -99,7 +99,7 @@
   <string name="free_style_edit_bar_select_app">Odaberi aplikaciju</string>
   <string name="free_style_edit_bottom_empty_tip">Dodirni pravokutnik za uređivanje</string>
   <string name="free_style_edit_drawer">Crtač</string>
-  <string name="free_style_edit_move_tip">Dodirni &amp; drži za pomicanje stavke</string>
+  <string name="free_style_edit_move_tip">Pritisni &amp; drži za pomicanje stavke</string>
   <string name="free_style_edit_tab_free_component">Objekti</string>
   <string name="free_style_edit_tab_shortcut">Prečaci</string>
   <string name="free_style_edit_tab_widget">Widgeti</string>

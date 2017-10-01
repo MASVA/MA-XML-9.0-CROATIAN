@@ -135,8 +135,17 @@
   <string name="my_gifts_received">Primljeni</string>
   <string name="no_data">"Ne mogu se povezati na mrežu"</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="online_precust_dreams">Snovi</string>
-  <string name="online_precust_midnight">Ponoć</string>
+  <string name="online_precust_animal">Životinje</string>
+  <string name="online_precust_asphalt">Asphalt</string>
+  <string name="online_precust_building">Zgrade</string>
+  <string name="online_precust_cartoon">Crtani filmovi</string>
+  <string name="online_precust_creative">Kreativno</string>
+  <string name="online_precust_entertainment">Zabava</string>
+  <string name="online_precust_lifestyle">Lifestyle</string>
+  <string name="online_precust_peach_blossom">Peach blossom</string>
+  <string name="online_precust_plant">Biljke</string>
+  <string name="online_precust_scenery">Pejzaži</string>
+  <string name="online_precust_starry_sky">Zvjezdano nebo</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="present_local_themes">Moji resursi</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
@@ -149,6 +158,7 @@
   <string name="purchased_list_current">Optimizirane teme</string>
   <string name="purchased_list_legacy">Stare teme</string>
   <string name="recently_used">Nedavno korišteno</string>
+  <string name="region_not_support">Nažalost, teme nisu podržane u vašem području.</string>
   <string name="reload">Pokušaj ponovno</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>

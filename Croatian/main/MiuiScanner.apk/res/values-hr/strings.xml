@@ -7,7 +7,7 @@
   <string name="address">Adresa:</string>
   <string name="allow_check_website_security">Prikaži obavijest sigurnosne provjere web stranice</string>
   <string name="app_details">Aplik:</string>
-  <string name="app_description_content">Skener omogućuje skeniranje QR koda, skeniranje za prijevod, skeniranje za rješavanje pitanja, prepoznavanje posjetnica.</string>
+  <string name="app_description_content">Skener vam omogućuje skeniranje QR kodova, dokumenata, posjetnica i još mnogo toga.</string>
   <string name="app_description_title">O Skeneru</string>
   <string name="app_name">Skener</string>
   <string name="back">Natrag</string>
@@ -45,7 +45,7 @@
   <string name="document_ocr_tip_msg">Čitanje…</string>
   <string name="document_ocr_vendor_info">OCR powered by Kingsoft</string>
   <string name="document_recognize_fail_tip">"Ne mogu pročitati dokumenat"</string>
-  <string name="document_recognize_null_tip">Dokumenat je prazan</string>
+  <string name="document_recognize_null_tip">Ne mogu prepoznati dokumenat</string>
   <string name="document_rectify">Podesi</string>
   <string name="document_rectify_tip_msg">Podešavanje…</string>
   <string name="document_save_succeed_tip">Dokument spremljen u %1$s</string>
@@ -58,7 +58,7 @@
   <string name="error_cannot_connect_camera">"Ne mogu se se povezati s Kamerom"</string>
   <string name="error_day_limit">Previše pokušaja u jednom danu</string>
   <string name="error_empty_result">"Ne mogu pronaći rezultate"</string>
-  <string name="error_get_image">Ne mogu dobiti sliku</string>
+  <string name="error_get_image">"Ne mogu dobiti sliku"</string>
   <string name="error_hour_limit">Previše pokušaja unutar 1 sata</string>
   <string name="error_image_error">"Ne mogu prepoznati ovu fotografiju"</string>
   <string name="error_invalid_request">Pogreška autentizacije</string>

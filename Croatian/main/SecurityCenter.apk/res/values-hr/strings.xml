@@ -123,6 +123,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Ne mogu promjeniti definicije tijekom skeniranja"</string>
   <string name="antivirus_longtime_no_update">Izgleda da su vaše definicije virusa zastarjele. Redovita ažuriranja pomažu u postizanju boljeg rezultata skeniranja. Dopustiti aplikaciji Sigurnost povezivanje s internetom i da ažurira definicije virusa?</string>
   <string name="antivirus_longtime_no_update1">Izgleda da su vaše definicije virusa zastarjele. Redovita ažuriranja pomažu u postizanju boljeg rezultata skeniranja. Ažurirajte definicije i pokušajte ponovo.</string>
+  <string name="antivirus_main_activity_back">Idi natrag iz skeniranja sigurnosti</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši rizične aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisane stavke: %s</string>
@@ -383,8 +384,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_sync">Sinkr.</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
-  <string name="back_app_name">Zaklj. aplikacije Back</string>
-  <string name="back_modifypassword">Promjeni Back zaporku</string>
+  <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
+  <string name="back_modifypassword">Vrati se na promjenu zaporku</string>
   <string name="back">Natrag</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
@@ -636,6 +637,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
   <string name="daily_pkg_traffic">Ograničenje uporabe podataka</string>
+  <string name="data_booster_desc">Deaktivirajte drugi SIM utor da zadržite vezu stabilnom</string>
+  <string name="data_booster_title">Stabiliziraj podatkovnu vezu</string>
   <string name="daily_sim_over_limit_dialog_message">"Već ste iskoristili %s dnevnog ograničenja podataka.\n\nAko ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti dodatne troškove."</string>
   <string name="daily_sim_over_limit_notify_title">"Već ste iskoristili %s dnevnog ograničenja podataka."</string>
   <string name="data_network_blocked_notification_title">Nema povezivanja s internetom</string>
@@ -867,6 +870,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="fw_blocked">Lista blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_anti_disturb_msg">Game DND</string>
   <string name="game_booster">Ubrzavanje brzine igranja</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_title">Ubrzanje</string>
@@ -879,6 +883,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="game_net_text2">Povećajte brzinu veze mrežne igre ograničavajući brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
   <string name="game_net_title">Optimiziraj brzinu veze</string>
   <string name="game_setting">Postavke igre</string>
+  <string name="gamebooster_main_activity_back">Vrati se u Game Speed Booster</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="garbage_clean_detail">Detalji</string>
@@ -1427,7 +1432,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_settings_lock_app">Zaključaj aplikacije</string>
   <string name="om_settings_lock_app_manage">Zaključaj aplikacije</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Obavijesti kada je predmemorija prevelika</string>
-  <string name="om_settings_memory_clean_lock_screen">Izbriši predmemoriju kada je zaslon isključen</string>
+  <string name="om_settings_memory_clean_lock_screen">Izbriši predmemoriju kada je uređaj zaključan</string>
   <string name="om_settings_memory_occupy_notify">Visoka veličina predmemorije</string>
   <string name="om_settings_memory_occupy_notify_never">Nikad</string>
   <string name="om_settings_notify_manage">Obavijesti</string>
@@ -2750,4 +2755,5 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="xiaomi_traffic_pass_warning">Nema dostupnih mobilnih podataka na vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Natrag</string>
   <string name="xunyou_pay_webview">Xunyou usluge</string>
+  <string name="xunyou_server_expired">Sesija je istekla.</string>
 </resources>

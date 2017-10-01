@@ -1002,8 +1002,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_phone">"Telefon"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
-  <string name="preference_show_yellowpage_tab_description">Ako zatvorite YellowPage karticu, YellowPage značajka neće raditi ispravno</string>
-  <string name="preference_show_yellowpage_tab_title">Prikaži karticu YellowPage</string>
+  <string name="preference_show_yellowpage_tab_description">Yellow pages  možda neće ispravno raditi kada je ova značajka isključena.</string>
+  <string name="preference_show_yellowpage_tab_title">Prikaži Yellow pages </string>
   <string name="preference_simple_mode_description">Prikaži slike i ostale informacije o kontaktima u popisnom pregledu</string>
   <string name="preference_simple_mode_title">Prikaži slike i informacije</string>
   <string name="preference_smart_group_company_summary">"Grupiraj prema tvrtci"</string>
@@ -1145,7 +1145,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="service_provider_detail">Detalji direktorija</string>
   <string name="set_data_package">Postavite prvo plan podataka</string>
   <string name="set_default">Postavi zadano</string>
-  <string name="set_photo_failed_msg">"Ne mogu dodijeliti sliku."</string>
+  <string name="set_photo_failed_msg">"Ne mogu dodijeliti fotografiju."</string>
   <string name="share_error">Ovaj kontakt nije moguće dijeliti.</string>
   <string name="share_over_limit">"Ne mogu podijeliti preko 1000 kontakata"</string>
   <string name="share_via">Dijeli kontakt putem</string>
@@ -1258,7 +1258,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_for_saving_nickname">Nadimak spremljen</string>
   <string name="toast_join_with_empty_contact">Upišite ime kontakta prije nego što ga pridružite drugom kontaktu.</string>
   <string name="toast_making_personal_copy">Stvaranje osobne kopije…</string>
-  <string name="toast_start_intent_failed">Nijedna aplikacija nije pronađena za obradu ove radnje</string>
+  <string name="toast_start_intent_failed">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="toast_text_copied">"Tekst kopiran"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
@@ -1269,7 +1269,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
   <string name="unable_get_device_id">"Ne mogu dobiti IMEI"</string>
-  <string name="unfold_all">Otvori sve pozive</string>
+  <string name="unfold_all">Prikaži sve</string>
   <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
   <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
   <string name="unknown">Nepoznato</string>

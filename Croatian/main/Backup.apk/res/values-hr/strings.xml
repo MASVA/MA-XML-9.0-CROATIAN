@@ -43,7 +43,7 @@
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">Izrada Sig. kopije…</string>
   <string name="backup_report">Prikaži detalje</string>
-  <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili obnovljene.</string>
+  <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>
   <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
@@ -141,7 +141,7 @@
   <string name="local_select_sysdata">Sustav</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="local_select_video">Videozapisi</string>
-  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Trgovinu Tema, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
@@ -164,7 +164,7 @@
   <string name="notif_trans_receiving_failed">"Ne mogu primiti podatke"</string>
   <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
   <string name="notif_trans_sending_failed">"Ne mogu poslati podatke"</string>
-  <string name="notif_trans_wait_for_reconnecting">Daljinski uređaj je odspojen. Ponovno se povežite.</string>
+  <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
   <string name="page_loading">Samo trenutak…</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
@@ -221,7 +221,7 @@
   <string name="start_restore">Vrati</string>
   <string name="state_mounting">Pristup prostoru za pohranu routera…</string>
   <string name="state_waiting">Samo trenutak…</string>
-  <string name="succeed">Dovršeno</string>
+  <string name="succeed">Gotovo</string>
   <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>
   <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
@@ -229,7 +229,7 @@
   <string name="system_backup">Sig. kopija</string>
   <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
   <string name="task_backup_cancel_progress">Otkazivanje…</string>
-  <string name="task_backup_finished_local">"Dovršeno "</string>
+  <string name="task_backup_finished_local">"Gotovo "</string>
   <string name="task_canceled">Otkazano</string>
   <string name="task_canceled_all_local">Otkazano</string>
   <string name="task_canceled_local">Sig. kopija nepotpuna (%s)</string>
@@ -269,14 +269,14 @@
   <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>
   <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
   <string name="trans_connecting_toast">Povezivanje…</string>
-  <string name="trans_connection_failed">Uređaj nije povezan</string>
+  <string name="trans_connection_failed">Veza je prekinuta</string>
   <string name="trans_detail_category_account">Računi i kontakti</string>
   <string name="trans_detail_category_files">Datoteke</string>
   <string name="trans_detail_category_sysdata">Podaci sustava</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
-  <string name="trans_device_disconnected">Uređaj nije povezan</string>
-  <string name="trans_device_wait_for_reconnecting">Uređaj nije povezan. Ponovno se povežite.</string>
-  <string name="trans_generate_qr_code_failed">"Nije moguće izraditi QR kod"</string>
+  <string name="trans_device_disconnected">Veza je prekinuta</string>
+  <string name="trans_device_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo za nastavak.</string>
+  <string name="trans_generate_qr_code_failed">"Ne mogu izraditi QR kod"</string>
   <string name="trans_intro_desc_2">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
   <string name="trans_intro_desc_3">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (npr. Mi 6) i dalje će se moći povezati s internetom putem WLAN-a tijekom prijenosa."</string>
   <string name="trans_intro_desc_4">Prostor za pohranu na starim uređajima koristi se za stvaranje paketa prijenosa. Prije no što započnete prijenos, provjerite imate li najmanje 500 MB - 1 GB dostupnog prostora za pohranu na svojem starom telefonu.</string>
@@ -287,7 +287,7 @@
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenosi podatke Dvojnih aplikacije kako bi se izbjegli konflikti između datoteka."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne može pristupiti stavkama u Drugom prostoru. Premjestite stavke u Prvi prostor i pokrenite Mi Mover otamo."</string>
   <string name="trans_intro_desc_new">"Dodirnite \"Ja sam primatelj\". Generirat će se QR kôd."</string>
-  <string name="trans_intro_desc_old">"Dodirnite \"Ja sam pošiljatelj\\. Skenirajte QR kôd na novom telefonu, pričekajte dok Mi Mover ne odredi koje datoteke šaljete i dodirnite \"Pošalji\"."</string>
+  <string name="trans_intro_desc_old">"Dodirnite \"Ja sam pošiljatelj\". Skenirajte QR kôd na novom telefonu, pričekajte dok Mi Mover ne odredi koje datoteke šaljete i dodirnite \"Pošalji\"."</string>
   <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Mi Clouda na novom uređaju."</string>
   <string name="trans_intro_question_1">1. Kako koristiti Mi Mover?</string>
   <string name="trans_intro_question_2">2. Što da radim ako je Mi Mover zaglavio na određenom koraku?</string>
@@ -299,7 +299,7 @@
   <string name="trans_intro_question_8">"8. Koje stavke nije moguće poslati?"</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Računi i zaporke:</string>
-  <string name="trans_intro_title_multiapp">Podaci Dvojnih aplikacija</string>
+  <string name="trans_intro_title_multiapp">Podaci Dvojnih aplikacija:</string>
   <string name="trans_intro_title_multiuser">Podaci Drugog prostora:</string>
   <string name="trans_intro_title_new">Na novom telefonu:</string>
   <string name="trans_intro_title_old">Na starom telefonu:</string>
@@ -319,10 +319,8 @@ Oslobodite najmanje %s."</string>
 3. Skenirajte QR kod s vašim drugim uređajem"</string>
   <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
  Dodirnite [Ja sam pošiljatelj]"</string>
-   <string name="trans_operate_reconnect_new_tips">"Pričekajte dok novi telefon prikaže \"Uređaj nije povezan\".
- Zatim kliknite [Ponovno poveži] za izradu QR koda."</string>
-   <string name="trans_operate_reconnect_old_tips">"Pričekajte dok stari telefon prikaže \"Uređaj nije povezan\".
- Zatim kliknite [Ponovno poveži] da skenirare QR kod."</string>
+   <string name="trans_operate_reconnect_new_tips">"Pričekajte dok novi telefon prikaže "Veza je prekinuta".\n Zatim dodirnite "Ponovno poveži" za izradu QR koda."</string>
+   <string name="trans_operate_reconnect_old_tips">"Pričekajte dok stari telefon prikaže "Veza je prekinuta".\nZatim dodirnite "Ponovno poveži" da skenirate QR kod."</string>
   <string name="trans_please_waiting">Samo trenutak…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s dovršeno</string>
   <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s dovršeno</string>

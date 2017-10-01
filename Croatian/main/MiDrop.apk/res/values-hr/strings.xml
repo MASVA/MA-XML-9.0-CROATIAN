@@ -16,13 +16,13 @@
   <string name="TestSender">Test pošiljatelja</string>
   <string name="action_settings">Postavke</string>
   <string name="app_name">Mi Drop</string>
-  <string name="btn_goto_grant">Idi na odobriti</string>
+  <string name="btn_goto_grant">Dopusti</string>
   <string name="cancel_confirm">Odustani</string>
   <string name="cancel_confirm_title">"Prijenos nije dovršen, odustati sada?"</string>
   <string name="cancel_receive_confirm">Odustani</string>
   <string name="cancel_receive_stop">Nastavi sa primanjem</string>
   <string name="cancel_stop">Nastavi sa slanjem</string>
-  <string name="description_content">Mi Drop omogućava i pruža prijenos datoteka.</string>
+  <string name="description_content">Mi Drop omogućuje slanje i primanje datoteka od ososba u blizini.</string>
   <string name="description_title">O  Mi Drop aplikaciji</string>
   <string name="file_not_support">"Ova vrsta datoteke nije podržana"</string>
   <string name="help">Pomoć</string>
@@ -68,8 +68,8 @@
   <string name="receiver_succeed_ok">U redu</string>
   <string name="receiver_succeed_view">Prikaži</string>
   <string name="receiver_transfer_interrupt">"Prijenos je prekinut, nemojte isključivati WLAN hotspot tijekom prijenosa"</string>
-  <string name="request_permission_msg">MiDrop treba %s, odobrite dopuštenje</string>
-  <string name="request_permission_title">Odobri dopuštenje</string>
+  <string name="request_permission_msg">Mi Drop zahtijeva sljedeća dopuštenja: %s. Dopustiti?</string>
+  <string name="request_permission_title">Potrebna su dopuštenja</string>
   <string name="receiver_video_file_current">Primanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">Primanje %2$d​ od %1$s…</string>
   <string name="runtime_permission_ungranted">"Mi Drop treba dopuštenja da radi normalno."</string>
