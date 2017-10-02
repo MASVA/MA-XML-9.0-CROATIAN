@@ -1091,7 +1091,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="wait_for_sync_body_txt_array_4">upozorenja sustava</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_title">Čekaj na sinkr.</string>
-  <string name="wait_help_context">Čekaj</string>
   <string name="webview_logout">Da li stvarno želite odustati od prijave? Dođite i pokušajte ponovno!</string>
   <string name="webview_logout_cancel">"Ne želim više pokušavati"</string>
   <string name="webview_logout_sure">Pokušaj još jednom</string>
