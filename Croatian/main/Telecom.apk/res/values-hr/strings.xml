@@ -210,6 +210,7 @@
   <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda ne odgovaraju</string>
   <string name="local_backup_password_toast_success">Nova zaporka za sigurnosnu kopiju postavljena</string>
   <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke za sigurnosnu kopiju</string>
+  <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="media_category">Mediji</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
@@ -290,6 +291,8 @@
   <string name="select_webview_provider_dialog_title">Postavi implementaciju WebViewa</string>
   <string name="select_webview_provider_title">Implementacija WebViewa</string>
   <string name="select_webview_provider_toast_text">Taj izbor više nije važeći. Pokušajte ponovo.</string>
+  <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
+  <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
   <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>

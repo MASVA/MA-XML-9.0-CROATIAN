@@ -138,6 +138,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="add_back_fingerprint_instruction_msg">Stavite prst na senzor</string>
   <string name="add_device_admin">Aktiviraj</string>
   <string name="add_device_admin_msg">Aktivirati administratora uređaja?</string>
+  <string name="add_facerecoginition_text">Dodaj lice</string>
   <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
   <string name="add_fingerprint_done_title">Gotovo!</string>
   <string name="add_fingerprint_edge_instruction_msg">Pomičite prst tako da senzor može snimiti rubove vašeg otiska prsta.</string>

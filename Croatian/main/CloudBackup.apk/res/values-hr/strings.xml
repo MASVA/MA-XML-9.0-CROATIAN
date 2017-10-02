@@ -136,8 +136,10 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_home_failed">Vraćanje Poč.  zaslona nije uspjelo</string>
   <string name="restore_task_cancelling">Otkazivanje…</string>
   <string name="restore_task_in_process">Vraćanje…</string>
+  <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
   <string name="restoring_file_tile">Vraćanje datoteka %d</string>
+  <string name="restoreing_file_tile">Vraćanje datoteka %d</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>

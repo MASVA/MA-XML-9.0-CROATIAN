@@ -39,6 +39,8 @@ Podaci neće biti izbrisani."</string>
   <string name="menu_title_download_current_rom">Preuzmi ažuriranje</string>
   <string name="menu_title_pick_rom_file">Odaberite ZIP iz pohrane</string>
   <string name="menu_title_recovery">Ponovno pokretanje u TWRP recovery</string>
+  <string name="message_checkbox">Sakrij buduće poruke Xioami.eu teama</string>
+  <string name="message_title">BILJEŠKA!</string>
   <string name="new_version">Dostupna je nova MIUI verzija!</string>
   <string name="next">Dalje</string>
   <string name="no_log">Nema dostupnih sažetaka</string>

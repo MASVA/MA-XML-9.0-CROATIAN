@@ -393,6 +393,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
   <string name="passport_sms_send_success">Poslano</string>
+  <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
+  <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
@@ -404,6 +406,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_user_agreement">Korisnički Sporazum</string>
   <string name="passport_user_agreement_p1">Suglasni ste s </string>
   <string name="passport_user_agreement_p2">Korisnički Sporazum</string>
+  <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Zemlja/Regija</string>
   <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
   <string name="passport_user_agreement_p3">i</string>
