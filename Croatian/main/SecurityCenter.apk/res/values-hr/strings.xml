@@ -184,6 +184,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dopuštenja</string>
+  <string name="app_manager_clear_cache">Očisti predmemoriju</string>
   <string name="app_manager_clear_data_dlg_message">Svi podaci aplikacije bit će trajno izbrisani. To uključuje sve datoteke, postavke, račune, baze podataka itd.</string>
   <string name="app_manager_clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
   <string name="app_manager_clear_failed_dlg_message">Ne mogu izbrisati podatke aplikacije.</string>
@@ -193,17 +194,27 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_default_open">Otvori prema zadanim postavkama</string>
   <string name="app_manager_default_open_summary">Odlučili ste pokrenuti ovu aplikaciju po zadanoj postavci za neke radnje.</string>
   <string name="app_manager_default_open_title">Izbriši zadano</string>
+  <string name="app_manager_defaults_setting">Zadano</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za pohranu</string>
-  <string name="app_manager_details_traffic_title">Uporaba podataka ovog mjeseca</string>
+  <string name="app_manager_details_traffic_title">Uporaba podataka</string>
   <string name="app_manager_disable">"Ne dopusti"</string>
+  <string name="app_manager_disable_dlg_text">Ako onemogućite tu aplikaciju, druge aplikacije možda više neće funkcionirati kako su namijenjene..</string>
+  <string name="app_manager_disable_dlg_title">Onemogućiti ugrađenu aplikaciju?</string>
+  <string name="app_manager_disable_text">Onemogući</string>
+  <string name="app_manager_disabled">Onemogućeno</string>
   <string name="app_manager_dlg_cancel">Odustani</string>
   <string name="app_manager_dlg_ok">U redu</string>
+  <string name="app_manager_enable_text">Omogući</string>
+  <string name="app_manager_enabled">Omogućeno</string>
   <string name="app_manager_factory_reset">Deinstaliraj ažuriranja</string>
   <string name="app_manager_factory_reset_dlg_msg">Sva ažuriranja ove aplikacije sustava Android će se deinstalirati.</string>
   <string name="app_manager_factory_reset_dlg_title">Deinstalirati ažuriranja?</string>
   <string name="app_manager_force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
+  <string name="app_manager_globel_other_perm_title">Ostala dopuštenja</string>
+  <string name="app_manager_globel_perm_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>
+  <string name="app_manager_globel_perm_title">Dopuštenja aplikacija</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Ništa</string>
   <string name="app_manager_hide_system_server">Sakrij usluge sustava</string>
@@ -250,6 +261,17 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj lančano pokretanje</string>
   <string name="app_manager_reduce_wakepath_summary">Ograničavanje autom. pokretanja će minimalizirati lančano pokretanje. Ograničiti autom. pokretanje za %s?</string>
   <string name="app_manager_reject_count_over">Blokirano 100000 puta</string>
+  <string name="app_manager_reset_app_preferences">Resetiraj postavke aplikacije</string>
+  <string name="app_manager_reset_app_preferences_button">Resetiraj aplikacije</string>
+  <string name="app_manager_reset_app_preferences_desc">"To će resetirati sve postavke za:
+ 
+  "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;"
+  "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
+  "&lt;li&gt;Zadane aplikacije za radnje&lt;/li&gt;"
+  "&lt;li&gt;Ograničenja podataka u pozadini za aplikacije&lt;/li&gt;"
+ 
+   Nećete izgubiti podatke aplikacije."</string>
+  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
   <string name="app_manager_show_all_apps">Prikaži sve aplikacije</string>
   <string name="app_manager_show_detail_infos">Prikaži sve</string>
   <string name="app_manager_sort">Poredaj po</string>
@@ -263,6 +285,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Deinstaliraj</string>
   <string name="app_manager_system_mobile_disable">Isključi podatke</string>
   <string name="app_manager_title">Aplikacije</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
@@ -385,7 +409,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
-  <string name="back_modifypassword">Vrati se na promjenu zaporku</string>
+  <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
   <string name="back">Natrag</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
@@ -2010,6 +2034,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
   <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet za normalan rad.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
+  <string name="sc_system_risk_fix_info_xspace">Rizik ne može biti popravljen u xspace, prebacite se na vlasnički prostor da ga popravite.</string>
   <string name="scan_installed_games">Provjera instaliranih igara…</string>
   <string name="scan_status_risk">Rizično</string>
   <string name="scan_status_safe">Sigurno</string>

@@ -5,8 +5,8 @@
          <item quantity="one">%1$d dan</item>
     </plurals>
 	<plurals name="birthday_event_description_days_ago">
-         <item quantity="other">prije %1$d dana</item>
-         <item quantity="one">prije %1$d dan</item>
+         <item quantity="other">%1$d dana ranije</item>
+         <item quantity="one">%1$d dan ranije</item>
      </plurals>
      <plurals name="birthday_event_description_days_later">
          <item quantity="other">%1$d dana do</item>
@@ -21,20 +21,20 @@
          <item quantity="one">%1$d dan</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">prije %d min.</item>
-        <item quantity="one">"prije %d minutu"</item>
+        <item quantity="other">%d min. ranije</item>
+        <item quantity="one">"%d minutu ranije"</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">"%d min"</item>
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">prije %d sati.</item>
-        <item quantity="one">"prije %d sat"</item>
+        <item quantity="other">%d sati ranije</item>
+        <item quantity="one">"%d sat ranije"</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">prije %d dana</item>
-        <item quantity="one">prije %d dan</item>
+        <item quantity="other">%d dana ranije</item>
+        <item quantity="one">%d dan ranije</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">TJEDAN %d</item>
@@ -64,12 +64,12 @@
          <item quantity="one">Prije %d tjedan</item>
     </plurals>
 	 <plurals name="anniversary_notify_title">
-     <item quantity="other">Godišnjica: %2$d godina od %1$s</item>
-     <item quantity="one">Godišnjica: %2$d godina godišnjice od %1$s</item>
+         <item quantity="other">Godišnjica: %2$d godina od %1$s</item>
+         <item quantity="one">Godišnjica: %2$d godina godišnjice od %1$s</item>
     </plurals>
    <plurals name="anniversary_notify_before_3_day_title">
-    <item quantity="other">Godišnjica: %2$d godina od %1$s za 3 dana</item>
-    <item quantity="one">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+         <item quantity="other">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+         <item quantity="one">Godišnjica: %2$d godina od %1$s za 3 dana</item>
     </plurals>
 	<plurals name="birthday_notification_age_term">
          <item quantity="other">%1$s godina</item>
