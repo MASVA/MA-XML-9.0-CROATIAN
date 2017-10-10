@@ -210,6 +210,7 @@
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
   <string name="email_guests_label">Pošalji e-poštu gostima</string>
+  <string name="email_install_hint">E-pošta je deinstalirana. Ponovnim instaliranjem možete vratiti podatke računa kalendara ili dodati novi račun.</string>
   <string name="email_picker_label">Pošalji e-poštu s</string>
   <string name="email_subject_prefix">"Odgovor: "</string>
   <string name="empty_event">Nije stvoren prazan događaj.</string>
@@ -276,6 +277,9 @@
   <string name="insert_event_dialog_title">Pažnja</string>
   <string name="insert_event_toast_add_failed">"Ne mogu dodati"</string>
   <string name="insert_event_toast_add_success">Događaj kreiran</string>
+  <string name="install_email_app">Instaliraj E-poštu</string>
+  <string name="install_email_finished">E-pošta instalirana</string>
+  <string name="installing_email">Instaliranje…</string>
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
   <string name="install_weather_app_loading">Učitavanje…</string>
   <string name="item_num_selected">Odabrano %1$d</string>
