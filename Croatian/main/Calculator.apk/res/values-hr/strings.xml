@@ -60,7 +60,6 @@
   <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
   <string name="evening">PM</string>
   <string name="fmt_date">D</string>
-  <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
