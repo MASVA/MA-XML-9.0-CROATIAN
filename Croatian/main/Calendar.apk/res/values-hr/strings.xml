@@ -328,6 +328,7 @@
   <string name="movable_list_header_label">Kratak uvod</string>
   <string name="my_subscribe_events">Moje pretplate</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="new_event_description">Novo</string>
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
   <string name="no_contact_birthday_hint">Nema rođendana za uvoz</string>

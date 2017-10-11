@@ -87,6 +87,8 @@
   <string name="new_group_name">Način korisnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
   <string name="no_applications">Prazno</string>
+  <string name="nonui_mode_config_description">"Ne uključuj zaslon kod obavijesti, isključi svjetlo obavijesti, otisak prsta i kontrolu dodira kada je uređaj u džepu."</string>
+  <string name="nonui_mode_config_title">Neprekinuti način</string>
   <string name="none">Nema procesa</string>
   <string name="normal">Zadani način</string>
   <string name="notify_app_consume_abnormal_title">troši jako bateriju</string>
