@@ -1032,6 +1032,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="install_title">Instaliranje putem USB-a</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
+  <string name="international_Ad">Oglas</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
   <string name="intro_improve">Povećajte svoje iskustvo igranja na razini sustava</string>

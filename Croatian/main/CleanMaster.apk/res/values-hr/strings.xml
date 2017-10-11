@@ -276,6 +276,7 @@
   <string name="install_sucess">%s uspješno instaliran</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
+  <string name="international_Ad">Oglas</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
   <string name="junk_tag_RF_EmptyFolders">Prazne mape</string>
   <string name="junk_tag_RF_ImageThumbnails">Minijature Galerije</string>
