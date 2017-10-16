@@ -218,7 +218,7 @@
   <string name="group_message_failed_title">"Ne mogu poslati %d kontaktima"</string>
   <string name="group_resend_message">Pošalji ponovno (%d)</string>
   <string name="group_verification_codes_summary">Automatski grupiraj jednokratne zaporke</string>
-  <string name="group_verification_codes_title">Grupa OTP poruka</string>
+  <string name="group_verification_codes_title">Grupiraj jednokratne zaporke</string>
   <string name="guild_add_attachments">Dodirnite za dodavanje emotikona ili drugi stavki</string>
   <string name="guild_add_recipients">Dodirnite za dodavanje primatelja iz kontakata</string>
   <string name="guild_msim_switcher">Dodirnite za promjenu SIM kartice</string>
@@ -284,7 +284,7 @@
   <string name="message_number">Tel. broj:</string>
   <string name="message_pending">Slanje</string>
   <string name="message_queued">"Trenutno ne mogu poslati poruku. Poruka će biti poslana kad usluga postane dostupna."</string>
-  <string name="message_queued_second_space">"Trenutno ne mogu poslati poruku. Otvorite podatkovnu mrežu."</string>
+  <string name="message_queued_second_space">"Ne mogu poslati poruku. Uključite mobilne podatke za slanje."</string>
   <string name="message_readed">Pročitano</string>
   <string name="message_received">Primljeno</string>
   <string name="message_rejected">Odbijeno</string>
@@ -627,8 +627,8 @@
   <string name="sms_report_dialog_title">Pokušajte ponovo</string>
   <string name="sms_report_failed">"Ne mogu poslati izvješće"</string>
   <string name="sms_report_success">Izvješće uspješno poslano</string>
-  <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[slika]</string>
+  <string name="snippet_audio">[Audio]</string>
+  <string name="snippet_picture">[Slika]</string>
   <string name="snippet_red_package">[Crnevi paket]</string>
   <string name="sp_category_all">Sve poruke usluga</string>
   <string name="sp_category_bank">Obavijesti poruke iz banke</string>
