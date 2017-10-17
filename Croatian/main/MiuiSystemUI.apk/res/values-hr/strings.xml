@@ -234,6 +234,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="demo_mode">Demo način</string>
   <string name="description_direction_left">"Kliznite lijevo za %s."</string>
   <string name="description_direction_up">"Kliznite gore za %s."</string>
+  <string name="description_image_button_answer">Odgovori</string>
+  <string name="description_image_button_reject">Odbij</string>
   <string name="description_target_search">"Pretraži"</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>

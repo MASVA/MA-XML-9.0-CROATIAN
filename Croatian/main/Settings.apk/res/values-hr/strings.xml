@@ -2545,7 +2545,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_media_usage">Mediji</string>
   <string name="memory_music_usage">Audio (glazba, melodije zvona, podkastovi itd.)</string>
   <string name="memory_performance">Performanse</string>
-  <string name="memory_rightvalue">Dostupno: %s</string>
+  <string name="memory_rightvalue">Ukupno: %s</string>
   <string name="memory_settings_title">Memorija</string>
   <string name="memory_size">Ukupan prostor</string>
   <string name="memory_summary">Iskorišteno je prosječno %1$s od %2$s memorije</string>

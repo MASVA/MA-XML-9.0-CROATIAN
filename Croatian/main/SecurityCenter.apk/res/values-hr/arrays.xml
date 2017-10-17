@@ -112,6 +112,7 @@
           <item>Iskorišteni prostor za pohranu</item>
           <item>Uporaba podataka</item>
           <item>Potrošnja baterije</item>
+		  <item>Vrijeme instalacije</item>
       </string-array>
       <string-array name="sort_title">
           <item>Poredaj po statusu</item>
@@ -120,6 +121,7 @@
           <item>Poredaj po iskor. pros. za pohranu</item>
           <item>Poredaj po uporabi podataka</item>
           <item>Poredaj po potrošnji baterije</item>
+		  <item>Poredaj po vremenu instalacije</item>
     </string-array>		       	     
 	<string-array name="sms_report_type">
          <item>Uporaba podataka</item>
