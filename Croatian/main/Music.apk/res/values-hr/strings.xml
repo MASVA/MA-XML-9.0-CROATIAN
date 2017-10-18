@@ -593,6 +593,9 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="notification_recommend_title">Važne obavijesti</string>
   <string name="notification_setting">Postavke obavijesti</string>
   <string name="notification_title_no_song">"Provjerite što drugi slušaju!"</string>
+  <string name="nowplaying_circle_style">Stil kruga "Reproducira se"</string>
+  <string name="nowplaying_circle_style_rainbow">Duga</string>
+  <string name="nowplaying_circle_style_wave">Val</string>
   <string name="nowplaying_dialog_title_delete_tracks">Izbrisati trenutni popis pjesama?</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">"U redu"</string>

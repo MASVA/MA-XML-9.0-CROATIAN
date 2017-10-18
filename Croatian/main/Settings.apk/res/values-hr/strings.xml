@@ -2827,6 +2827,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="night_mode_yes">Tamna</string>
   <string name="no">"Ne"</string>
   <string name="no_all_caps">NE</string>
+  <string name="no_account_found">Nijedna aplikacija ne podržava dodavanje računa</string>
   <string name="no_application">Ništa</string>
   <string name="no_applications">Nema aplikacija</string>
   <string name="no_battery_summary">Nema potrošnje baterije od posljednjeg potpunog punjenja</string>
@@ -5853,7 +5854,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira vaše kontakte i fotografije, izrađuje Sig. kopiju vaših aplikacija i postavki te vam pomaže pronaći vaš telefon koristeći značajku Pronađi uređaj.</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira kontakte, fotografije i ostale stavke na vašim uređajima. \"Pronađi uređaj\" također zahtijeva da Mi Cloud radi normalno.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
