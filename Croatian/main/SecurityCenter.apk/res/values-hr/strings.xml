@@ -1158,7 +1158,7 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjusting_bill">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
-  <string name="main_indicator_title">Aktivacija</string>
+  <string name="main_indicator_title">Čekanje na aktivaciju</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
   <string name="main_month_total_used">Iskorišteno ovaj mjesec</string>
   <string name="main_month_used">Mob. podaci</string>

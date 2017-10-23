@@ -89,6 +89,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="exit_private_space">Promjeni</string>
   <string name="finger_print_num">Otisak prsta %d</string>
   <string name="finger_print_of_use">Upotrijebi otisak prsta</string>
+  <string name="fingerprint_number_upper_limit">Previše neuspjelih pokušaja otključavanja</string>
   <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
   <string name="function_not_support">Nije podržano na ovom uređaju</string>
   <string name="gms_message">Izrada dvojnih aplikacija zahtijeva rad s Googleovim uslugama. Izraditi dvojnu aplikaciju za Google usluge?</string>
@@ -199,7 +200,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>
-  <string name="sdcardfs_dialog_message">Isključite \"Optimizacija emulirane SD kartice\" u Opcijama za razvojne programere prije ulaska u Drugi prostor.</string>
+  <string name="sdcardfs_dialog_message">Isključite "Optimizacija SD kartice" u Postavke &gt; Dodatne postavke &gt; Opcije Raz. programera prije ulaska u Drugi prostor.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="secondSpace">Drugi prostor</string>

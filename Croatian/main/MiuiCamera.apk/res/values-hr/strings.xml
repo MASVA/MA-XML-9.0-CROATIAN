@@ -125,6 +125,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hibernate_hint">Dodirnite zaslon da probudite Kameru</string>
   <string name="hine_hht">"Pri slabom osvjetljenju, kamera će snimiti više fotografija
   a zatim izraditi snimku s minimalnom količinom šuma."</string>
+  <string name="hint_device_water_mark">Oznaka uređaja će biti dodana automatski.</string>
   <string name="hint_fast_motion">Videozapis koji snimate reproducirat će se brže.</string>
   <string name="hint_groupshot">"Kamera će snimati više fotografija
   a zatim izraditi snimku na kojoj svi izgledaju najbolje."</string>
@@ -142,6 +143,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_video">Video</string>
+  <string name="multi_window_mode_not_supported">"Kamera ne radi u podijeljenom zaslonu"</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="object_track_enable_toast">Za odabir objekta, istodobno pritisnite dvije dijagonalne točke oko njenih granica.</string>
@@ -231,6 +233,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvuk</string>
   <string name="pref_camera_delay_capture_entry_off">Isklj.</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
+  <string name="pref_camera_device_watermark_title">Oznaka uređaja</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>

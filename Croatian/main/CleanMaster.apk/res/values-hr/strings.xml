@@ -95,6 +95,15 @@
   <string name="cached_garbage">Predmemorija</string>
   <string name="call_log">Dnevnik poziva</string>
   <string name="cancel">Odustani</string>
+  <string name="cd_back">Natrag</string>
+  <string name="cd_check_box_checked">Provjereno</string>
+  <string name="cd_check_box_middle">Djelomičan izbor</string>
+  <string name="cd_check_box_unchecked">Nije provjereno</string>
+  <string name="cd_list_item_collapse">Sažmeto</string>
+  <string name="cd_list_item_expanded">Prošireno</string>
+  <string name="cd_percent">Postotak</string>
+  <string name="cd_settings">Postavke</string>
+  <string name="cd_sort_type">Vrsta sortiranja</string>
   <string name="clean_content_all">Sve</string>
   <string name="clean_content_one">1 stavku</string>
   <string name="clean_content_three">3 stavke</string>
