@@ -78,6 +78,7 @@
   <string name="account_setup_basics_email_label">Unesite ID računa</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Prijavite se pomoću postojeće mreže</string>
   <string name="account_setup_basics_manual_setup_action">Ručno postavljanje</string>
+  <string name="account_setup_basics_mi_mail_login_help">Uspješno prijavljen, provjerite SMS, kliknite na aktivacijsku poveznicu!</string>
   <string name="account_setup_basics_password_label">Unesite zaporku</string>
   <string name="account_setup_basics_title">Dodaj račun</string>
   <string name="account_setup_check_settings_check_incoming_msg">Provjeravanje postavki poslužitelja…</string>
@@ -612,6 +613,7 @@
   <string name="meeting_canceled">Otkazano: %s</string>
   <string name="meeting_declined">Odbijeno: %s</string>
   <string name="meeting_recurring">Kada: %s (ponavljajući)</string>
+  <string name="meeting_responded_failed">Pogreška odgovora</string>
   <string name="meeting_tentative">Privremen: %s</string>
   <string name="meeting_updated">Ažurirano: %s</string>
   <string name="meeting_when">Kada: %s</string>
