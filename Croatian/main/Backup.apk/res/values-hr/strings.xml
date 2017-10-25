@@ -260,7 +260,7 @@
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="save_finish_with_failing_items">"Uvoz je prekinut. Neki su podaci uvezeni\r\nPreostali se podaci moraju ponovno uvesti"</string>
   <string name="saving_data">"Uvoz podataka iz iClouda\r\n\r\nNemojte isključivati niti mijenjati WLAN"</string>
-  <string name="saving_data_no_time">Vraćanje podataka/string>
+  <string name="saving_data_no_time">Vraćanje podataka</string>
   <string name="saving_data_space_low">"Nema dovoljno prostora\r\nOslobodite najmanje %s"</string>
   <string name="sc_bad_request">Nevažeći zahtjev</string>
   <string name="sc_internal_server_error">Interna greška poslužitelja</string>
