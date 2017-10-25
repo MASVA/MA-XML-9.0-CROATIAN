@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <plurals name="data_item_count">
+  <plurals name="backup_items_sysdata_tailer">
+         <item quantity="other">Podatkovne datoteke sustava: %d</item>
+         <item quantity="one">%d podatkovna datoteka sustava</item>
+     </plurals>
+     <plurals name="backup_items_app_tailer">
+         <item quantity="other">Podatkovne datoteke aplikacija: %d</item>
+         <item quantity="one">%d podatkovna datoteka aplikacije</item>
+     </plurals>
          <item quantity="other">Stavke: %d</item>
          <item quantity="one">%d stavka</item>
      </plurals>
-<plurals name="trans_time_format_minute">
+    <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
     </plurals>
@@ -12,4 +20,28 @@
         <item quantity="other">%d sati</item>
         <item quantity="one">%d sat</item>
     </plurals>
+	<plurals name="select_item_summary">
+         <item quantity="other">%1$s | %2$d stavki</item>
+         <item quantity="one">%1$s | %2$d stavka</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+         <item quantity="other">stavki</item>
+         <item quantity="one">stavka</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+         <item quantity="other">Obnovljene stavke: %d</item>
+         <item quantity="one">Obnovljene stavke: %d</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+         <item quantity="other">Uvezene i obnovljene stavke: %d</item>
+         <item quantity="one">Uvezene i obnovljene stavke: %d</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+         <item quantity="other">"Uvezene stavke: %d, "</item>
+         <item quantity="one">"Uvezene stavke: %d, "</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+         <item quantity="other">Potrebno ponovno uvesti stavke: %d</item>
+         <item quantity="one">Potrebno ponovno uvesti stavke: %d</item>
+     </plurals>
 </resources>
