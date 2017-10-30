@@ -67,6 +67,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="delete_phone_fingerprint">Izbriši otisak prsta za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
+  <string name="dialog_title">Pažnja</string>
   <string name="dir_switch_out_all_photos">Galerija Drugog prostora</string>
   <string name="disable">Isključi</string>
   <string name="do_not_ask">"Ne pitaj ponovno"</string>
@@ -159,6 +160,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
   <string name="opened">Uklj.</string>
+  <string name="optimize_now">Optimiziraj</string>
   <string name="other">Ostalo</string>
   <string name="otherSettings">Ostale postavke</string>
   <string name="passWordGuardSummary">Uđi u Drugi prosotor sa Zaklj. zaslona koristeći zaporku</string>
@@ -200,7 +202,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>
-  <string name="sdcardfs_dialog_message">Isključite "Optimizacija SD kartice" u Postavke &gt; Dodatne postavke &gt; Opcije Raz. programera prije ulaska u Drugi prostor.</string>
+  <string name="sdcardfs_dialog_message">Vaši stari podaci možda neće biti kompatibilni s novim datotečnim sustavom. Optimizirajte podatke prije ulaska u Drugi prostor i ponovno pokrenite uređaj.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="secondSpace">Drugi prostor</string>

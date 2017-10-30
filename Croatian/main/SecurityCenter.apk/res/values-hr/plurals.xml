@@ -249,6 +249,10 @@
         <item quantity="other">Zaporka treba sadržavati najmanje %d znakova osim slova.</item>
         <item quantity="one">Zaporka treba sadržavati najmanje 1 znak osim slova.</item>
     </plurals>
+	<plurals name="number_masked">
+         <item quantity="other">Aplikacija: %d</item>
+         <item quantity="one">%d aplikacija</item>
+     </plurals>
     <plurals name="number_locked">
         <item quantity="other">Zaključanih aplikacija: %d</item>
         <item quantity="one">%d aplik. zaključana</item>
@@ -257,6 +261,14 @@
         <item quantity="other">%d aplik. nije zaključano</item>
         <item quantity="one">%d aplik. nije zaključana</item>
     </plurals>
+	<plurals name="number_masked_text">
+         <item quantity="other">Skrivene obavijesti: %d</item>
+         <item quantity="one">Skrivene obavijesti: %d</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+         <item quantity="other">Vidljive obavijesti: %d</item>
+         <item quantity="one">Vidljive obavijesti: %d</item>
+     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pretraži između %d aplik.</item>
         <item quantity="one">Pretraži između %d aplik.</item>

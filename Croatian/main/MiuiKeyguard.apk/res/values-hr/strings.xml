@@ -79,7 +79,7 @@
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
-  <string name="input_password_handle_sdcard_fs">Isključite "Optimizacija SD kartice" u Postavke &gt; Dodatne postavke &gt; Opcije Raz. programera prije ulaska u Drugi prostor.</string>
+  <string name="input_password_handle_sdcard_fs">Ne može se ući u Drugi prostor sa Zaklj. zaslona. Uđite iz Prvog prostora.</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
   <string name="input_pin_code">Unesite PIN</string>

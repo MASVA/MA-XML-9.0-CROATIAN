@@ -27,7 +27,9 @@
   <string name="ac_enter_applock">Uđi u Zaklj. aplikacija</string>
   <string name="ac_firstUseApplock_subTitle">Koristite bolje sigurnosne alate na razini sustava</string>
   <string name="ac_firstUseApplock_title">Postavite zaporku da zaštitite vaše aplikacije</string>
+  <string name="ac_mask_all_apps">Sakrij za sve aplikacije</string>
   <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
+  <string name="ac_unmask_all_apps">Prikaži za sve aplikacije</string>
   <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se pokreće</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Iscrtajte uzorak otključavanja da upotrijebite novi otisak prsta</string>
@@ -181,6 +183,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_apps_generatioin">Ažuriranja</string>
   <string name="app_manager_apps_generation_summary">Ažurirajte da koristite najnovije značajke</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
+  <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dopuštenja</string>
@@ -190,6 +193,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_clear_failed_dlg_message">Ne mogu izbrisati podatke aplikacije.</string>
   <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
   <string name="app_manager_copy_pkg_to_clip">Kopirano u međuspremnik</string>
+  <string name="app_manager_default_cleared">Očišćeno</string>
   <string name="app_manager_default_close_summary">Nema zadanih postavki.</string>
   <string name="app_manager_default_open">Otvori prema zadanim postavkama</string>
   <string name="app_manager_default_open_summary">Odlučili ste pokrenuti ovu aplikaciju po zadanoj postavci za neke radnje.</string>
@@ -215,12 +219,14 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_globel_other_perm_title">Ostala dopuštenja</string>
   <string name="app_manager_globel_perm_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>
   <string name="app_manager_globel_perm_title">Dopuštenja aplikacija</string>
+  <string name="app_manager_has_not_data">Nema podataka</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Ništa</string>
   <string name="app_manager_hide_system_server">Sakrij usluge sustava</string>
   <string name="app_manager_instruction">Instrukcije</string>
   <string name="app_manager_loading_data">Učitavanje podataka…</string>
   <string name="app_manager_manage_space">Upravljaj prostorom</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
   <string name="app_manager_more_times">Pristupano 100000+ puta</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
@@ -1309,6 +1315,7 @@ podatkovnu vezu"</string>
   <string name="monitor_requests_from_pc">Upravljaj instalacijom aplikacija putem USB-a</string>
   <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
   <string name="more_game">Više igara</string>
+  <string name="more_lock">Više</string>
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_up">Sakrij</string>
   <string name="name">Ime</string>
@@ -1399,8 +1406,10 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napunjena.</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
-  <string name="notification_mask_summary">"Ne prikazuj sadržaj obavijesti na Zaklj. zaslonu i Panelu obavijesti"</string>
+  <string name="notification_mask_summary">"Sakrij sadržaj obavijesti na Zaklj. zaslonu i Panelu obavijesti"</string>
   <string name="notification_mask_title">Sakrij sadržaj</string>
+  <string name="notification_masked_item">Sakrij obavijesti</string>
+  <string name="notification_masked_subtitle">Sakrij obavijesti iz aplikacija zaštićenih sa Zaklj. aplikacija</string>
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
@@ -2289,6 +2298,13 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_downloading_app">Započinje preuzimanje: %1$s</string>
   <string name="start_game">Start</string>
+  <string name="status_bar_network_flow_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Preostalo: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ovaj mjesec: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Danas: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan premašen: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_phone_balance">"   Stanje:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Kupuj &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Postavi podatkovni plan &gt;"</string>
+  <string name="status_bar_network_flow_today">Danas: %1$s</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="start_tc_button">Kalibriraj</string>
   <string name="still_retain_btn">Zadrži</string>
@@ -2298,6 +2314,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="suffix_virus_count_bottom">ukupno</string>
   <string name="suffix_virus_count_top">rizika</string>
   <string name="suggest_app_tolock">Prijedlozi</string>
+  <string name="suggest_app_tolock_masked">Skriveno</string>
+  <string name="suggest_app_tolock_unmasked">Obavijesti vidljive</string>
   <string name="suggest_scan_again">Predlaže se potpuno skeniranje kako bi se osigurala sigurnost.</string>
   <string name="summary_app_lock_disable">Zaštitite svoje podatke sa Zaklj. aplikacije</string>
   <string name="summary_auto_update">MIUI će odabrati najprikladnije vrijeme za preuzimanje i instaliranje ažuriranja.</string>

@@ -27,6 +27,7 @@
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
+  <string name="account_notification_message">Informacije Mi Računa su istekle, prijavite se ponovno!</string>
   <string name="account_protection">Zaštita računa</string>
   <string name="account_protection_off">Isklj.</string>
   <string name="account_protection_on">Uklj.</string>

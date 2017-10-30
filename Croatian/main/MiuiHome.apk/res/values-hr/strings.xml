@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="add_screen">Dodaj tipku zaslona</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
