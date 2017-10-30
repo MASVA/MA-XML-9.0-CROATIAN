@@ -183,6 +183,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_apps_generatioin">Ažuriranja</string>
   <string name="app_manager_apps_generation_summary">Ažurirajte da koristite najnovije značajke</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
+  <string name="app_manager_as_dlg_msg">Dopuštanje aplikacijama autom. pokretanja može zahtijevati dodatni RAM i resurse baterije. Dopustiti svejedno?</string>
   <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
