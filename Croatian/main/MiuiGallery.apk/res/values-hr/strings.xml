@@ -310,9 +310,6 @@
   <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s %3$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_finish_format">Izbrisano: %d</string>
-  <string name="delete_from_album">iz albuma \"%s\" i Mi Clouda</string>
-  <string name="delete_from_album_no_account">iz albuma \"%s\"</string>
-  <string name="delete_from_all_devices">iz svih uređaja</string>
   <string name="delete_from_all_devices_and_cloud">iz svih uređaja i Mi Clouda</string>
   <string name="delete_from_cloud">Izbriši stavke iz Mi Clouda</string>
   <string name="delete_from_devices">Svih sinkr. uređaja</string>

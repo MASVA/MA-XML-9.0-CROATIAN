@@ -80,18 +80,42 @@
          <item quantity="other">Dodano %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
          <item quantity="one">Dodana %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
      </plurals>
-    <plurals name="delete_photo_msg_format">
-        <item quantity="other">Izbrisati %1$d fotografija %2$s?</item>
-        <item quantity="one">Izbrisati ovu fotografiju %2$s?</item>
+    <plurals name="delete_photo_from_local">
+        <item quantity="other">Izbrisati fotografije: %d?</item>
+        <item quantity="one">Izbrisati fotografije: %d?</item>
     </plurals>		      
-    <plurals name="delete_video_msg_format">
-        <item quantity="other">Izbrisati %1$d videozapisa %2$s?</item>
-        <item quantity="one">Izbrisati ovaj videozapis %2$s?</item>
-    </plurals>		     
-    <plurals name="delete_media_msg_format">
-        <item quantity="other">Izbrisati %1$d stavki %2$s?</item>
-        <item quantity="one">Izbrisati %1$d stavku %2$s?</item>
-      </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Izbrisati fotografije %d sa svih uređaja i Mi Clouda?</item>
+        <item quantity="one">Izbrisati ovu fotografiju sa svih uređaja i Mi Clouda?</item>
+    </plurals>	   	
+   <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Izbrisati fotografije %d iz ovog albuma i Mi Clouda?</item>
+        <item quantity="one">Izbrisati ovu fotografiju iz ovog albuma i Mi Clouda?</item>
+     </plurals>
+     <plurals name="delete_video_from_local">
+         <item quantity="other">Izbrisati videozapise %d?</item>
+         <item quantity="one">Izbrisati ovaj videozapis?</item>
+     </plurals>
+     <plurals name="delete_video_from_all_devices_and_cloud_msg">
+         <item quantity="other">Izbrisati videozapise %d sa svih uređaja i Mi Clouda?</item>
+         <item quantity="one">Izbrisati ovaj videozapis sa svih uređaja i Mi Clouda?</item>
+     </plurals>
+     <plurals name="delete_video_from_this_album_and_cloud_msg">
+         <item quantity="other">Izbrisati videozapise %d iz ovog albuma i Mi Clouda?</item>
+         <item quantity="one">Izbrisati ovaj videozapis iz ovog albuma i Mi Clouda?</item>
+     </plurals>
+     <plurals name="delete_media_from_local">
+         <item quantity="other">Izbrisati stavke %d?</item>
+         <item quantity="one">Izbrisati %d stavku??</item>
+     </plurals>
+     <plurals name="delete_media_from_all_devices_and_cloud_msg">
+         <item quantity="other">Izbrisati stavke %d sa svih uređaja i Mi Clouda?</item>
+         <item quantity="one">Izbrisati %d stavku sa svih uređaja i Mi Clouda?</item>
+     </plurals>
+     <plurals name="delete_media_from_this_album_and_cloud_msg">
+        <item quantity="other">Izbrisati stavke %d iz ovog albuma i Mi Clouda?</item>
+        <item quantity="one">Izbrisati %d stavku iz ovog albuma i Mi Clouda?</item>
+      </plurals>		      
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d stavki)</item>
         <item quantity="one">(%d stavka)</item>
