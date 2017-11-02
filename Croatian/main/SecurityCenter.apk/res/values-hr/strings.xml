@@ -108,6 +108,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
   <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
+  <string name="already_close_gamebooster">Ubrzanje brzine igranja je isključeno</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -478,6 +479,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Poziva: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Uspješno ubrzano</string>
+  <string name="boost_stop">Isključi povećanje brzine</string>
   <string name="booster_immediately">Ubrzaj</string>
   <string name="booster_suc">Uspješno ubrzano</string>
   <string name="boostering">Brzina ubrzanja…</string>
@@ -692,6 +694,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="data_usage_warning_body_notify">Dodirni za prikaz detalja</string>
   <string name="data_usage_warning_title">Upozorenje uporabe podataka</string>
   <string name="data_usage_warning_title_notify">Prekoračeno ograničenje uporabe podataka</string>
+  <string name="databooster_tips_message">Uključite da ograničite sve SIM kartice osim podatkovne kartice. Isključite tu značajku ako se dogode pogreške u igrama po vašem izboru.</string>
+  <string name="databooster_tips_title">Pažnja</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje uporabe podataka aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Natrag</string>
   <string name="datausage_purchase_banner_title">%s ponuda nadoplate (ekskluzivno)</string>
@@ -886,6 +890,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
+  <string name="forbid_autobright_summary">"Svjetlina zaslona ostat će ista kada igrate igre"</string>
   <string name="forbid_autobright_title">Popravi svjetlinu zaslona</string>
   <string name="foreground_traffic">Prednja strana %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
@@ -903,7 +908,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" i "</string>
   <string name="game_anti_disturb_msg">Game DND</string>
-  <string name="game_booster">Ubrzavanje brzine igranja</string>
+  <string name="game_booster">Ubrzanje brzine igranja</string>
+  <string name="game_booster_close">Ubrzanje brzine igranja je isključeno</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_jump_webview">Samo trenutak…</string>
   <string name="game_booster_tab_top">Najbolje</string>
@@ -2786,6 +2792,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="wlan_booster">WLAN optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>
   <string name="wlan_change_protection_title">Spriječi promjenu mreža</string>
+  <string name="xunyou_net_booster">Povećaj brzinu mreže</string>
+  <string name="xunyou_net_booster_detail">Koristi Xunyou uslugu povećanja brzine za igranje</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obavijesti Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Nema dostupnih mobilnih podataka na vašem Mi Data planu. Prebačeno na plan podataka vašeg operatera."</string>

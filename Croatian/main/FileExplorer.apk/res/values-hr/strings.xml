@@ -16,6 +16,7 @@
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="all_topic">Sve teme</string>
+  <string name="apk_installing">Instaliranje…</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="album_creator">Izradio %s</string>
   <string name="album_name">Dnevni izbor: %s</string>
@@ -71,6 +72,7 @@
   <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovno"</string>
   <string name="cancel_operation">Otkaži radnju</string>
   <string name="cancel_success">Uspješno otkriveno, sve datoteke premještene u %s</string>
+  <string name="cancel_text">Odustani</string>
   <string name="cancelled_by_user">Radnja otkazana</string>
   <string name="cannot_send">"Ne mogu slati datoteke s vanjske pohrane"</string>
   <string name="category">Kategorije</string>
@@ -255,6 +257,13 @@
   <string name="error_invalid_path">Netočna putanja</string>
   <string name="error_not_support">Nije podržano</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija za izvršenje ove radnje.</string>
+  <string name="exo_controls_fastforward_description">Brzo naprijed</string>
+  <string name="exo_controls_next_description">Sljedeća pjesma</string>
+  <string name="exo_controls_pause_description">Pauza</string>
+  <string name="exo_controls_play_description">Reproduciraj</string>
+  <string name="exo_controls_previous_description">Prethodna pjesma</string>
+  <string name="exo_controls_rewind_description">Premotaj</string>
+  <string name="exo_controls_stop_description">Stop</string>
   <string name="expand_all">Sve</string>
   <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte datoteku na unutarnju pohranu."</string>
   <string name="extract">Raspakiraj</string>
