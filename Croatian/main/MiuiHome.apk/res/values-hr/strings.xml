@@ -27,7 +27,7 @@
   <string name="apply">Postavi</string>
   <string name="apply_action">Postavi</string>
   <string name="apply_as_lock_screen">Postavi za Zaklj. zaslon</string>
-  <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
+  <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu Zaklj. zaslona?</string>
   <string name="apply_as_lockwallpaper_action">Postavi</string>
   <string name="apply_as_wallpaper">Postavi za Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
@@ -42,7 +42,7 @@
   <string name="buffering">Međupohrana…</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_btn_label">Odustani</string>
-  <string name="cant_edit_lock_screen">"Ne mogu urediti stil zaklj. zaslona."</string>
+  <string name="cant_edit_lock_screen">"Ne mogu urediti stil Zaklj. zaslona."</string>
   <string name="cant_remove_folder">"Ne mogu ukloniti mapu"</string>
   <string name="cant_remove_retained_app">Ne mogu ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Ne mogu ukloniti aplikaciju sustava"</string>
@@ -58,7 +58,7 @@
   <string name="confirm_btn_label">U redu</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije će biti deinstalirati zajedno s ovima.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija će biti deinstalirana zajedno s ovom.</string>
-  <string name="confirm_uninstall_dialog_title">Odgovarajuće dvojne aplikacije će biti uklonjene.</string>
+  <string name="confirm_uninstall_dialog_title">Dvojne aplikacije će biti deinstalirane.</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
@@ -161,7 +161,7 @@
   <string name="lock_screen">Zaklj. zaslon</string>
   <string name="lock_screen_failed_message">"Ne mogu postaviti pozadinu Zaklj. zaslona"</string>
   <string name="lock_screen_success_message">Postavljeno za pozadinu Zaklj. zaslona</string>
-  <string name="lock_screen_wallpaper">Pozadina Taklj. zaslona</string>
+  <string name="lock_screen_wallpaper">Pozadina Zaklj. zaslona</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_auto_fill">Ispuni prazna mjesta</string>
   <string name="menu_back_desktop">Natrag na Početni zaslon</string>
@@ -194,9 +194,9 @@
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
   <string name="permdesc_install_shortcut">Dopušta aplikaciji dodavanje prečaca bez intervencije korisnika.</string>
   <string name="permdesc_install_widget">Dopušta aplikaciji dodavanje widgeta bez intervencije korisnika.</string>
-  <string name="permdesc_read_settings">Dopušta aplikaciji čitanje postavki i prečaca na početnom zaslonu.</string>
+  <string name="permdesc_read_settings">Dopušta aplikaciji čitanje postavki i prečaca na Početnom zaslonu.</string>
   <string name="permdesc_uninstall_shortcut">Dopušta aplikaciji uklanjanje prečaca bez intervencije korisnika.</string>
-  <string name="permdesc_write_settings">Dopušta aplikaciji promjenu postavki i prečaca na početnom zaslonu.</string>
+  <string name="permdesc_write_settings">Dopušta aplikaciji promjenu postavki i prečaca na Početnom zaslonu.</string>
   <string name="permlab_install_shortcut">Instaliraj prečace</string>
   <string name="permlab_install_widget">Instaliraj widgete</string>
   <string name="permlab_read_settings">Pročitaj postavke Početnog zaslona i Prečaca</string>

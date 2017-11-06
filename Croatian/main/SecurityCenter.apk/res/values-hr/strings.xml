@@ -126,7 +126,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Ne mogu promjeniti definicije tijekom skeniranja"</string>
   <string name="antivirus_longtime_no_update">Izgleda da su vaše definicije virusa zastarjele. Redovita ažuriranja pomažu u postizanju boljeg rezultata skeniranja. Dopustiti aplikaciji Sigurnost povezivanje s internetom i da ažurira definicije virusa?</string>
   <string name="antivirus_longtime_no_update1">Izgleda da su vaše definicije virusa zastarjele. Redovita ažuriranja pomažu u postizanju boljeg rezultata skeniranja. Ažurirajte definicije i pokušajte ponovo.</string>
-  <string name="antivirus_main_activity_back">Idi natrag iz skeniranja sigurnosti</string>
+  <string name="antivirus_main_activity_back">Natrag</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši rizične aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisane stavke: %s</string>
@@ -170,7 +170,9 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
-  <string name="app_maanger_app_uninstalled_toast">Ova je aplikacija deinstalirana</string>
+  <string name="app_maanger_app_uninstalled_toast">Ta je aplikacija deinstalirana</string>
+  <string name="app_manager_advanced_setting">Napredne postavke</string>
+  <string name="app_manager_allow">Da</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
   <string name="app_manager_app_info_name">Naziv aplikacije</string>
@@ -205,10 +207,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_details_storage_title">Prostor za pohranu</string>
   <string name="app_manager_details_traffic_title">Uporaba podataka</string>
   <string name="app_manager_disable">"Ne dopusti"</string>
-  <string name="app_manager_disable_dlg_text">Ako onemogućite tu aplikaciju, druge aplikacije možda više neće funkcionirati kako su namijenjene..</string>
-  <string name="app_manager_disable_dlg_title">Onemogućiti ugrađenu aplikaciju?</string>
+  <string name="app_manager_disable_dlg_text">Ako onemogućite tu aplikaciju, druge aplikacije možda neće moći raditi normalno.</string>
+  <string name="app_manager_disable_dlg_title">Onemogućiti aplikaciju sustava?</string>
   <string name="app_manager_disable_text">Onemogući</string>
   <string name="app_manager_disabled">Onemogućeno</string>
+  <string name="app_manager_disabled_by_admin">Onemogućio administrator</string>
   <string name="app_manager_dlg_cancel">Odustani</string>
   <string name="app_manager_dlg_ok">U redu</string>
   <string name="app_manager_enable_text">Omogući</string>
@@ -225,6 +228,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Ništa</string>
   <string name="app_manager_hide_system_server">Sakrij usluge sustava</string>
+  <string name="app_manager_install_other_app">Instaliraj aplikacije iz nepoznatih izvora</string>
   <string name="app_manager_instruction">Instrukcije</string>
   <string name="app_manager_loading_data">Učitavanje podataka…</string>
   <string name="app_manager_manage_space">Upravljaj prostorom</string>
@@ -235,6 +239,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_net_control_title">Ograniči uporabu podataka</string>
   <string name="app_manager_net_mobile">Podaci</string>
   <string name="app_manager_net_wifi">WLAN</string>
+  <string name="app_manager_not_allow">Ne</string>
   <string name="app_manager_not_record">"Ne mogu pronaći aplikacije koje zahtijevaju dopuštenja"</string>
   <string name="app_manager_notify_bar">Značke</string>
   <string name="app_manager_notify_floating">Plutajuće obavijesti</string>
@@ -275,7 +280,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
  
   "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;"
   "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
-  "&lt;li&gt;Zadane aplikacije za radnje&lt;/li&gt;"
+  "&lt;li&gt;Zadane aplikacije&lt;/li&gt;"
   "&lt;li&gt;Ograničenja podataka u pozadini za aplikacije&lt;/li&gt;"
  
    Nećete izgubiti podatke aplikacije."</string>
@@ -760,6 +765,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustaviti sigurnosnu provjeru plaćanja?</string>
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
+  <string name="dialog_no_longer_alert">"Ne prikazuj ponovno”</string>
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
@@ -2048,7 +2054,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safe_result_item_info_wifi_encryption">WLAN šifriran</string>
   <string name="safe_result_item_info_wifi_fake">Nije lažno</string>
   <string name="safepay_alert_dialog_button_continue">Nastavi</string>
-  <string name="safepay_alert_dialog_button_risk">Popravi</string>
+  <string name="safepay_alert_dialog_button_fix">Popravi</string>
   <string name="safepay_alert_dialog_button_unknown">Provjeri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Pronađen rizik! Prekini trenutno plaćanje!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne mogu provjeriti sigurnost plaćanja. Povežite se na internet i pokušajte ponovno.&lt;/font&gt;"</string>
@@ -2060,7 +2066,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
   <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet za normalan rad.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
-  <string name="sc_system_risk_fix_info_xspace">Rizik ne može biti popravljen u xspace, prebacite se na vlasnički prostor da ga popravite.</string>
+  <string name="sc_system_risk_fix_info_xspace">To se ne može riješiti u Drugom prostoru. Pokušajte ponovo u Prvom prostoru.</string>
   <string name="scan_installed_games">Provjera instaliranih igara…</string>
   <string name="scan_status_risk">Rizično</string>
   <string name="scan_status_safe">Sigurno</string>
@@ -2147,7 +2153,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sorted_dialog_title">Poredaj po</string>
   <string name="sp_back_title_text_zero">Osiguraj</string>
   <string name="sp_background_risk_dialog_summary">, provjeri i popravi probleme s plaćanjem.</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste s javnom WLAN mrežom koja može biti nesigurna. Provjerite je li plaćanje zaštićeno prije nego što ga dovršite.</string>
   <string name="sp_background_risk_dialog_title">Pažnja</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Upozorenje javnog WLAN-a</string>
   <string name="sp_background_risk_type_messaging">Aplikacija sustava za razmjenu poruka je zamijenjena</string>
   <string name="sp_background_risk_type_root">Sustav je ROOT-an</string>
   <string name="sp_background_risk_type_sign">Pokrenuta je neslužbena aplikacija</string>
@@ -2765,7 +2773,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="virus_update_fail">"Ne mogu ažurirati"</string>
   <string name="virus_update_success">Uspješno ažurirano</string>
   <string name="virus_update_tips_title">Upozorenje</string>
-  <string name="virus_wait_network_dialog_message">Vaš telefon sada nije povezan s WLAN-om. Potrošiti će te veću količinu mobilnih podataka. Nastaviti ?</string>
+  <string name="virus_wait_network_dialog_message">Vaš uređaj nije povezan s WLAN mrežom. Koristiti mobilnu podatkovnu vezu?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>

@@ -290,7 +290,7 @@
   <string name="finished">Dovršeno</string>
   <string name="flow_setting">Postavke</string>
   <string name="folder_exist">Mapa već postoji</string>
-  <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
+  <string name="folder_name_empty">"Naziv mape ne može biti prazan"</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="follow_fail">"Ne mogu pratiti, pokušajte ponovno kasnije"</string>
   <string name="follow_success_tip">Uspješno se prati</string>
@@ -394,7 +394,7 @@
   <string name="login_account_bind_wb">Weibo račun</string>
   <string name="login_account_bind_wx">Upotrijebi WeChat</string>
   <string name="login_account_bind_xm">Upotrijebi Mi Račun</string>
-  <string name="login_expired">Prijava je istekla, pokušajte se ponovno prijaviti.</string>
+  <string name="login_expired">Sesija je istekla. Ponovno se prijavite.</string>
   <string name="login_failed_tip">"Ne mogu se prijaviti, pokušajte ponovno kasnije"</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
@@ -504,7 +504,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
-  <string name="name_empty">Morate unijeti naziv.</string>
+  <string name="name_empty">Unesite naziv.</string>
   <string name="need_read_storage_permission">"Aplikaciji Datoteke treba dopuštenje za pristup pohrani uređaja da radi kao što je predviđeno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>

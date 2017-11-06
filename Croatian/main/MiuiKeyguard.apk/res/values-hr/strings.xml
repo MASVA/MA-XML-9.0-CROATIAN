@@ -172,5 +172,6 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="unlockscreen_quick_charging_message">Brzo punjenje %d%%</string>
   <string name="unlockscreen_recharge_completed">Baterija napunjena</string>
   <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Otpusti za prikaz pojedinosti</string>
   <string name="wrong_password">Netočna zaporka</string>
 </resources>

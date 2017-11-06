@@ -2276,6 +2276,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_notifications_summary_show">Prikaži sve obavijesti i njihov sadržaj</string>
   <string name="lock_screen_notifications_summary_show_profile">Prikaži sav sadržaj obavijesti radnog profila</string>
   <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nikada ne zahtijevaj zaporku.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebna zaporka za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
@@ -2968,10 +2969,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Zatvori</string>
-  <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti QuickCard i primati njegova ažuriranja. Isključiti sada?"</string>
-  <string name="open_personal_assistant_dialog_title">Isključi QuickCard</string>
-  <string name="open_personal_assistant_title">Uključi QuickCard</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
+  <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Zaklj. aplikacija i primati njegova ažuriranja. Isključiti sada?"</string>
+  <string name="open_personal_assistant_dialog_title">Isključi Zaklj. aplikacija</string>
+  <string name="open_personal_assistant_title">Uključi Zaklj. aplikacija</string>
   <string name="open_sdcard_optimization_title">Uključi optimiziranje SD kartice</string>
   <string name="open_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
   <string name="open_wifi_connect_summary">"Dodirni za upravljanje"</string>
@@ -3270,6 +3271,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
+  <string name="pick_up_gesture_wakeup_title">Odaberite gestu za buđenje uređaja</string>
   <string name="pico_installed">Instalirano</string>
   <string name="pico_languages_and_voices">Jezici i glasovi</string>
   <string name="pico_not_installed">Nije instalirano</string>
