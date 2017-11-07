@@ -137,6 +137,7 @@
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="dialog_message_sms_report">"Spam poruke i informacije o pošiljatelju bit će poslane MIUI kada ih prijavite. One će se koristiti samo za poboljšanje MIUI spam filtera."</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>
   <string name="disabled">Isključeno</string>
   <string name="discard">Odbaciti</string>
@@ -435,6 +436,7 @@
   <string name="pref_smart_messages_settings">Pametne poruke</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
+  <string name="pref_summary_allow_upload_message_info">"Spam poruke i informacije o pošiljatelju bit će poslane MIUI kada ih prijavite."</string>
   <string name="pref_summary_auto_delete">Izbriši stare poruke kada se dosegne ograničenje</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
@@ -458,6 +460,7 @@
   <string name="pref_time_auto_group_title">Grupne poruke</string>
   <string name="pref_title_about_smart_sms">O partneru Smart poruka</string>
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push poruke (SI/SL)</string>
+  <string name="pref_title_allow_upload_message_info">Pošalji spam poruke</string>
   <string name="pref_title_auto_delete">Izbriši stare poruke</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
@@ -622,6 +625,7 @@
   <string name="sms_full_title">Memorija tekstualnih poruka je puna</string>
   <string name="sms_rejected_body">Dolazna poruka je odbijena.</string>
   <string name="sms_rejected_title">Tekstualna poruka je odbijena</string>
+  <string name="sms_report">Prijavi spam poruke</string>
   <string name="sms_report_dialog_content">"Ne mogu poslati izvješće, pokušajte ponovo."</string>
   <string name="sms_report_dialog_retry">Pokušajte ponovo</string>
   <string name="sms_report_dialog_title">Pokušajte ponovo</string>
