@@ -127,9 +127,7 @@
   <string name="express_booking_txt">Naručite ekspresnu dostavu</string>
   <string name="express_code_txt">Kod: </string>
   <string name="express_complete">Prihvaćeno</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_delivery">Isporučeno</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_icon_tip">Preuzmite informacije o praćenju isporuke putem broja telefona i informacije o narudžbi.</string>
   <string name="express_icon_tip_link">Sigurnost &amp; privatnost</string>
   <string name="express_install_cainiao_description">%s zahtijeva instaliranje Cainiao aplikacije. Instalirati sada?</string>
@@ -233,7 +231,6 @@
   <string name="payment_total_today_desc">Danas</string>
   <string name="payment_unit_cny">CNY</string>
   <string name="personalAssistant_mainpage">Početna stranica</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="plan">Planirano</string>
   <string name="qq_new">Novi status</string>
   <string name="qq_qzone">Qzone</string>
@@ -282,7 +279,6 @@
   <string name="steps">korak</string>
   <string name="stock_card_add">Dodaj kompanije</string>
   <string name="stock_card_title">Zalihe</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="take_off">Start</string>
   <string name="taxi_book">Nazovi taksi</string>
   <string name="taxi_card_departure">Trenutna lokacija</string>
