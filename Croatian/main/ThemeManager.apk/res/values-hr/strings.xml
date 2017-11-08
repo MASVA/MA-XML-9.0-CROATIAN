@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_id_not_login">Dodirnite za prijavu</string>
-  <string name="account_info">Mi Račun</string>
+  <string name="account_info">Moj račun</string>
   <string name="account_name_not_login">Prijavite se</string>
   <string name="account_unactivated">Račun nije aktiviran.</string>
   <string name="ad_app_download_start">Početak preuzimanja…</string>
@@ -41,7 +41,7 @@
   <string name="component_title_wallpaper">Slika pozadine</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zaklj. zaslon</string>
-  <string name="current_version_incompatible">Nekompatibilna verzija</string>
+  <string name="current_version_incompatible">Ova je tema nekompatibilna</string>
   <string name="deleting">Brisanje…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dizajner</string>
@@ -97,8 +97,8 @@
   <string name="gift_use_confirmation_dlg_title">Poslati kao poklon?</string>
   <string name="gift_use_fail_dlg_title">Nešto nije u redu</string>
   <string name="gift_used">Poslano</string>
-  <string name="hide_free">"Sakrij besplatne "</string>
-  <string name="hide_incompatible">"Sakrij nekompatibilne "</string>
+  <string name="hide_free">Sakrij besplatne teme</string>
+  <string name="hide_incompatible">Sakrij nekompatibilne teme</string>
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
   <string name="in_the_end">Nema više stavki za prikazivanje</string>
@@ -155,8 +155,8 @@
   <string name="online_precust_scenery">Pejzaži</string>
   <string name="online_precust_tiny">Tiny</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
-  <string name="present_local_themes">Moji resursi</string>
-  <string name="present_official_themes">Službena selekcija</string>
+  <string name="present_local_themes">Moje teme</string>
+  <string name="present_official_themes">Naš odabir</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
   <string name="provision_default_theme_title">Zadano</string>
   <string name="provision_loading_tips">Samo trenutak…</string>
@@ -167,7 +167,7 @@
   <string name="purchased_list_current">Optimizirane teme</string>
   <string name="purchased_list_legacy">Stare teme</string>
   <string name="recently_used">Nedavno korišteno</string>
-  <string name="region_not_support">Nažalost, teme nisu podržane u vašem području.</string>
+  <string name="region_not_support">Teme nisu podržane u vašem području.</string>
   <string name="reload">Pokušaj ponovno</string>
   <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
