@@ -66,8 +66,8 @@
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
-  <string name="lasttime_applist_cloud">Ažuriranje popisa aplikacija:</string>
-  <string name="lasttime_feature_cloud">Ažuriranje značajki:</string>
+  <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
+  <string name="lasttime_feature_cloud">Ažurirane značajke:</string>
   <string name="important_warning">Pažnja</string>
   <string name="location_disable_description">Aplikacije u pozadini mogu pristupiti samo uslugama lociranja za kratko vrijeme, dok je kontinuirani pristup ograničen</string>
   <string name="location_disable_title">Ograniči</string>
@@ -87,7 +87,7 @@
   <string name="new_group_name">Način korisnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
   <string name="no_applications">Prazno</string>
-  <string name="nonui_mode_config_description">"Ne uključuj zaslon kod obavijesti, isključi svjetlo obavijesti, otisak prsta i kontrolu dodira kada je uređaj u džepu."</string>
+  <string name="nonui_mode_config_description">"Ne uključuj zaslon kod obavijesti, isključi svjetlo obavijesti, senzor otiska prsta i kontrolu dodira za uštedu baterije kada MIUI otkrije da ne upotrebljavate uređaj."</string>
   <string name="nonui_mode_config_title">Neprekinuti način</string>
   <string name="none">Nema procesa</string>
   <string name="normal">Zadani način</string>

@@ -1327,7 +1327,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_admin_status">Taj je administrator aktivan i aplikaciji %1$s dopušta sljedeće:</string>
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
-  <string name="device_available_memory">Dostupna memorija</string>
+  <string name="device_available_memory">Dostupna pohrana</string>
   <string name="device_battery">Baterija</string>
   <string name="device_build_id">Verzija</string>
   <string name="device_complete_parameters">Dovršeno</string>
@@ -1344,7 +1344,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_info_label">Informacije o uređaju</string>
   <string name="device_info_not_available">Nije dostupno</string>
   <string name="device_info_settings">Status uređaja</string>
-  <string name="device_internal_memory">Unutarnja memorija</string>
+  <string name="device_internal_memory">Unutarnja pohrana</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Prikaži više</string>
   <string name="device_miui_version">MIUI verzija</string>
@@ -1365,7 +1365,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Broj telefona, signal itd.</string>
-  <string name="device_total_memory">Ukupna memorija</string>
+  <string name="device_total_memory">Ukupna pohrana</string>
   <string name="dial_application_title">Biraj</string>
   <string name="dial_pad_tones_title">Tonovi brojčanika</string>
   <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
@@ -2829,7 +2829,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="night_mode_yes">Tamna</string>
   <string name="no">"Ne"</string>
   <string name="no_all_caps">NE</string>
-  <string name="no_account_found">Nijedna aplikacija ne podržava dodavanje računa</string>
+  <string name="no_account_found">"Ne mogu pronaći aplikacije koje mogu dodati račune"</string>
   <string name="no_application">Ništa</string>
   <string name="no_applications">Nema aplikacija</string>
   <string name="no_battery_summary">Nema potrošnje baterije od posljednjeg potpunog punjenja</string>
@@ -3271,7 +3271,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
-  <string name="pick_up_gesture_wakeup_title">Odaberite gestu za buđenje uređaja</string>
+  <string name="pick_up_gesture_wakeup_title">Podignite uređaj da ga uključite</string>
   <string name="pico_installed">Instalirano</string>
   <string name="pico_languages_and_voices">Jezici i glasovi</string>
   <string name="pico_not_installed">Nije instalirano</string>
@@ -4203,7 +4203,7 @@ Za prikvačivanje zaslona:
   <string name="settings_backup">Postavke sigurnosne kopije</string>
   <string name="settings_backup_summary">Stvori sigurnosnu kopiju postavki</string>
   <string name="settings_button">Postavke</string>
-  <string name="settings_forbidden_message">Ova postavka je onemogućena</string>
+  <string name="settings_forbidden_message">Ova postavka je ograničena</string>
   <string name="settings_label">Postavke</string>
   <string name="settings_label_launcher">Postavke</string>
   <string name="settings_license_activity_loading">Učitavanje…</string>

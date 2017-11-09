@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Crvena - gore, zelena - dolje</item>
+        <item>Zelena - gore, crvena - dolje</item>
+    </string-array>
+</resources>
