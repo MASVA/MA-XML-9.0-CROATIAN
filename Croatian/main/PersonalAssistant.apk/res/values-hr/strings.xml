@@ -438,7 +438,6 @@
   <string name="steps_sport_des">Dobijte točne informacije iz aplikacije Fit Fit.</string>
   <string name="steps_vip">Koraci</string>
   <string name="steps_vip_des">Brojite korake bez instaliranja aplikacija trećih strana.</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Shema boja</string>
   <string name="stock_list_empty_text">Ne pratite nijednu tvrtku.</string>
   <string name="stock_search_empty">Ne mogu pronaći rezultate</string>
