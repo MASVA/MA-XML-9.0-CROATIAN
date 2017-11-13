@@ -248,7 +248,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_copy_message_vcode">Kopiraj kod</string>
   <string name="passport_country_code_notice">Kod zemlje</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_downlink_reg">Izradite račun koristeći broj telefona</string>
+  <string name="passport_downlink_reg">Broj telefona</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
   <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>

@@ -8,7 +8,7 @@
   <string name="Paytm_parent">Paytm</string>
   <string name="Whatsapp_main">Fotografije</string>
   <string name="Whatsapp_parent">Whatsapp</string>
-  <string name="accessibility_title">Pohrana aplikacije</string>
+  <string name="accessibility_title">Asistent</string>
   <string name="accordingto_position">Prepoznaj česta mjesta pomoću GPS-a</string>
   <string name="account_address">Adrese</string>
   <string name="add_stock">Dodaj</string>
@@ -33,7 +33,7 @@
   <string name="alipay_sdk_payed_show_paycode">Prikaži kod</string>
   <string name="alipay_sdk_payed_success">Uspješno plaćeno</string>
   <string name="alipay_sdk_tiemout">Brzo plaćanje (aplikacija nije potrebna)</string>
-  <string name="app_label">Pohrana aplikacije</string>
+  <string name="app_label">Asistent</string>
   <string name="apps">Prijedlozi aplikacija</string>
   <string name="apps_label">Aplikacije</string>
   <string name="assistant_place">Prepoznaj česta mjesta</string>

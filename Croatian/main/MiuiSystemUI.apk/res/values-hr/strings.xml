@@ -491,6 +491,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="screenshot_saving_ticker">Spremanje snimke zaslona…</string>
   <string name="screenshot_saving_title">Spremanje snimke zaslona…</string>
   <string name="screenshot_send">Pošalji</string>
+  <string name="search_hint">Traži web stranice, aplikacije, kontakte i videozapise</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
   <string name="select_logd_size_title">Veličine međuspremnika zapisnika</string>

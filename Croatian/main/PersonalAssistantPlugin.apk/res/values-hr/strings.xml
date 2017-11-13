@@ -26,7 +26,7 @@
   <string name="agenda_no_title"> (Bez imena) </string>
   <string name="alipay_scan">Skener</string>
   <string name="already">Dovršeno: </string>
-  <string name="app_label">Pohrana aplikacije</string>
+  <string name="app_label">Asistent</string>
   <string name="apps_label">Aplikacije</string>
   <string name="arrive">Slijetanje</string>
   <string name="assistant_day_deadline">Zadnji dan</string>
@@ -94,7 +94,7 @@
   <string name="cta_negative">Zatvori</string>
   <string name="cta_positive">Pojedinosti</string>
   <string name="cta_text5">Usluga također zahtijeva internetsku vezu i pristup uslugama lociranja. Slažete li se?</string>
-  <string name="cta_title">Neka vam Pohrana aplikacija pomogne</string>
+  <string name="cta_title">Neka vam aplikacija Asistent pomogne</string>
   <string name="didi_back">Natrag</string>
   <string name="didi_book">Nazovi taksi</string>
   <string name="didi_close">Zatvori</string>

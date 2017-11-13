@@ -233,7 +233,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Pristup Near Field Communication (NFC) hardveru</string>
   <string name="HIPS_Perm_process_outgoing_calls">Pristup aplikaciji Telefon</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">Nadzir i završavanje poziva</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">javljanje, nadzor i završavanje poziva</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Usluga</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Čitanje SMS usluge</string>
   <string name="HIPS_Perm_service_foreground">Usluga u prednjem planu</string>
@@ -281,13 +281,13 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
   <string name="app_name">Upravitelj Dopuštenja</string>
   <string name="current_permission_template">%1$s od %2$s</string>
-  <string name="default_permission_description">izvršiti nepoznatu radnju</string>
+  <string name="default_permission_description">izvesti nepoznate radnje</string>
   <string name="grant_confirm_question">Želite li odobriti slijedeća dopuštenja? Ona će dobiti pristup:</string>
   <string name="grant_dialog_button_allow">Dopusti</string>
   <string name="grant_dialog_button_deny">Odbij</string>
   <string name="location_settings">Postavke lokacije</string>
   <string name="location_warning">%1$s je davatelj usluga lociranja za ovaj uređaj. Pristup lokaciji može se mijenjati iz postavki lokacija.</string>
-  <string name="never_ask_again">Nikad više ne pitaj</string>
+  <string name="never_ask_again">Ne pitaj ponovno</string>
   <string name="ok">U redu</string>
   <string name="permission_group_title_charges_related">Telefon</string>
   <string name="permission_group_title_media_related">Multimedija</string>
