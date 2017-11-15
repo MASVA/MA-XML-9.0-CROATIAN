@@ -179,7 +179,9 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="private_space_setting">Upravljaj</string>
   <string name="public_app">Oba prostora</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
-  <string name="remove_second_space_msg">Svi podaci aplikacija Drugog prostora će biti izgubljeni nakon brisanja Drugog prostora. Izbrisati sada Drugi prostor?</string>
+  <string name="remove_second_space_msg">Svi podaci aplikacija Drugog prostora će biti izgubljeni nakon brisanja Drugog prostora. Izbrisati Drugi prostor?</string>
+  <string name="remove_user_click_message">"*Ako nemate nijednu važnu stavku u Drugom prostoru, %s"</string>
+  <string name="remove_user_click_message_action">možete izbrisati Drugi prostor i ponovo pokrenuti uređaj.</string>
   <string name="removingSpace">Brisanje…</string>
   <string name="repeat_scanner_fingerprint">Dodaj ponovno</string>
   <string name="reset_passwd_success">Zaporka je uspješno resetirana</string>
@@ -202,7 +204,12 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>
-  <string name="sdcardfs_dialog_message">Vaši stari podaci možda neće biti kompatibilni s novim datotečnim sustavom. Optimizirajte podatke prije ulaska u Drugi prostor i ponovno pokrenite uređaj.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 ima novi datotečni sustav. Stari podaci možda neće biti kompatibilni s njime. Da biste riješili taj problem, slijedite korake za instalaciju ažuriranja. Vaš će se uređaj ponovno pokrenuti dvaput tijekom ovog ažuriranja.</string>
+  <string name="sdcardfs_dialog_title">Važno ažuriranje</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima novi datotečni sustav. Stari podaci možda neće biti kompatibilni s njime. Da biste ažurirali, premjestite stavke iz Drugog prostora, ponovno pokrenite uređaj i ponovo izradite Drugi prostor.\nAko ne ažurirate, dvojne aplikacije možda neće ispravno funkcionirati."</string>
+  <string name="sdcradfs_dialog_in_owner_title">Second space</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Da biste ažurirali, trebali bi izbrisati svoj Drugi prostor i ponovno ga izraditi. Premjestite podatke iz Drugog prostora u Prvi prostor i ponovo pokrenite uređaj da biste dovršili ažuriranje.\nAko ne ažurirate, dvojne aplikacije možda neće ispravno funkcionirati."</string>
+  <string name="sdcradfs_dialog_in_sec_title">Važno ažuriranje</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="secondSpace">Drugi prostor</string>
@@ -248,6 +255,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="show_private_msg_summary">Prikaži privatne poruke u Drugom prostoru</string>
   <string name="skip">Preskoči</string>
   <string name="spaceSetting">Postavke</string>
+  <string name="space_created_success">Drugi prostor uspješno izrađen</string>
   <string name="space_deleted">Ovaj prostor je izbrisan</string>
   <string name="space_des_default">Izolirani prostor sa šifriranim podacima</string>
   <string name="space_finger_sub_text">Postavite otisak prsta za Drugi prostor za bržu promjenu</string>
