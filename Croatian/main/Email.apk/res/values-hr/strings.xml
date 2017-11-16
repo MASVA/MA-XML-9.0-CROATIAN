@@ -45,7 +45,6 @@
   <string name="account_settings_login_dialog_title">"Ne mogu se prijaviti"</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morat ćete ručno sinkronizirati poštu kako biste mogli sinkronizirati poruke i događaje kalendara."</string>
   <string name="account_settings_mail_check_frequency_label">Učestalost sinkronizacije</string>
-  <string name="account_settings_mail_check_frequency_label">Učestalost</string>
   <string name="account_settings_mibill_resolve_label">Upravljaj automatski računima</string>
   <string name="account_settings_name_label">Vaše ime</string>
   <string name="account_settings_notifications">Obavijesti</string>
