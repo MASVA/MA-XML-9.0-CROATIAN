@@ -15,4 +15,9 @@
         <item>Podaci aplikacije će biti izgubljeni nakon što se aplikacija premjesti u Trenutni prostor.</item>
         <item>Aplikacije se koriste u oba prostora.</item>
     </string-array>
+	<string-array name="choose_ask_type">
+         <item>Uvijek pitaj</item>
+         <item>Zadana aplik.</item>
+         <item>Sekundarna aplik.</item>
+     </string-array>
 </resources>

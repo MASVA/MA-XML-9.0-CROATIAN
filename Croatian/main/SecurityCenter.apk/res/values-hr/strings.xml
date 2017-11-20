@@ -422,6 +422,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
+  <string name="back_description_securitycenter">Natrag</string>
   <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
   <string name="back">Natrag</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>

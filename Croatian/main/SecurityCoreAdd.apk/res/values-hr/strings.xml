@@ -29,6 +29,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
   <string name="closeSecondSpaceSummary">Izbriši Drugi prostor zajedno s njegovim podacima</string>
   <string name="closeSuccess">Isključeno</string>
+  <string name="close_second_space">Drugi prostor je izbrisan</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Isključeno</string>
   <string name="complete_setting">Dovršeno</string>
@@ -129,6 +130,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="input_space_password">Postavi sada</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="list_empty_text_xspace">Instaliraj WeChat/QQ/Weibo, izradi dvojne aplikacije i pokušaj ponovno.</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_apps">Učitavanje aplikacija…</string>
   <string name="loading_space">Samo trenutak…</string>
@@ -178,6 +180,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="private_sms_show_title">Privatne poruke su prikazane u Drugom prostoru</string>
   <string name="private_space_setting">Upravljaj</string>
   <string name="public_app">Oba prostora</string>
+  <string name="qq_send">Pošalji QQ prijateljima/uređajima</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
   <string name="remove_second_space_msg">Svi podaci aplikacija Drugog prostora će biti izgubljeni nakon brisanja Drugog prostora. Izbrisati Drugi prostor?</string>
   <string name="remove_user_click_message">"*Ako nemate nijednu važnu stavku u Drugom prostoru, %s"</string>
@@ -309,10 +312,17 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="transferMessage">Poruke iz Drugog prostora će biti premještene u Prvi prostor</string>
   <string name="tryNow">Isprobajte sada</string>
   <string name="wating">Samo trenutak…</string>
+  <string name="weibo_send">Pošalji na Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
+  <string name="weixin_share">WeChat Pay</string>
   <string name="xpsace_guide_button">Izradi</string>
   <string name="xspace_account">Računi dvojne aplikacije</string>
   <string name="xspace_chocie">Podrška za Dvojne aplikacije</string>
   <string name="xspace_creating">Izrada dvojne aplikacije…</string>
+  <string name="xspace_default_app_summary">Postavite zadanu aplikaciju za plaćanja, dijeljenje, favorite i drugo.</string>
+  <string name="xspace_default_app_title">Zadana aplik.</string>
+  <string name="xspace_default_setting_dialog_title">Zadano</string>
+  <string name="xspace_default_setting_label">Zadana aplik.</string>
   <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Koristi 2 računa bez mijenjanja</string>
   <string name="xspace_guide_title">Izradi Dvojnu aplikaciju za %s</string>
@@ -323,9 +333,12 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_introduce">Preporučeno</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Učitavanje aplikacija…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Postavke dvojne aplikacije</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspješno deinstalirana</string>
   <string name="xspace_uninstall_dialog_content">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Deinstaliraj dvojnu aplikaciju</string>
   <string name="xspace_uninstalling">Deinstalacija…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>

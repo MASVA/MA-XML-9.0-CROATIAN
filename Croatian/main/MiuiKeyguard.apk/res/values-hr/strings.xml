@@ -34,8 +34,8 @@
   <string name="face_data_manage_delete_title">Lice</string>
   <string name="face_data_manage_unlock_msg">Otključajte svoj uređaj pomoću vašeg lica</string>
   <string name="face_data_manage_unlock_title">Otključajte koristeći lice</string>
-  <string name="face_data_suggesstion_first">Otključavanje uređaja pomoću lica manje je sigurno od upotrebe zaporke za Zaklj. zaslona. Vaš će uređaji možda otključati osobe koje izgledaju poput vas.</string>
-  <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetliti."</string>
+  <string name="face_data_suggesstion_first">Otključavanje uređaja pomoću lica manje je sigurno od upotrebe zaporke za Zaklj. zaslona. Vaš će uređaj možda otključati osobe koje izgledaju poput vas.</string>
+  <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetljeno."</string>
   <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i zaslona optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
   <string name="face_unlock_by_notification_screen_on_msg">Možete otključati uređaj pomoću lica kada se zaslon uključi za dolazne obavijesti. To brže troši bateriju.</string>

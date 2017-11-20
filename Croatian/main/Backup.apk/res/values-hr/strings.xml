@@ -125,6 +125,7 @@
   <string name="err_unknown">Nepoznata greška</string>
   <string name="err_version_too_old">Sig. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
+  <string name="error_permissions">Ne mogu čitati i pisati bez dopuštenja Kalendara, provjerite dopuštenja u postavkama</string>
   <string name="every_day">Svaki dan</string>
   <string name="exchange_account">Promijeni račun</string>
   <string name="fail">Nije uspjelo</string>
@@ -156,7 +157,7 @@
   <string name="hsa_verify_retry">Pokušaj ponovno</string>
   <string name="hsa_verify_shutdown">Isključi</string>
   <string name="icloud_backup_tip">Prijavite se na iCloud račun sa starog iOS uređaja</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Odaberite Kontakti.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Odaberite Kontakti i itd.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
   <string name="icloud_how_to_backup_tip_summary">Da biste uvezli podatke iz iOS-a, morate izraditi iCloud Sig. kopiju.</string>
   <string name="icloud_how_to_backup_tip_title">Savjeti:</string>
   <string name="icloud_login_title">Prijavi se u iCloud</string>
@@ -170,7 +171,7 @@
 2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
   <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
-  <string name="import_tip_summary">Zbog problema s kompatibilnošću, možete prenijeti kontakte i fotografije samo s uređaja s iOS-om. Svakako izradite Sig. kopiju na iCloud prije pokretanja prijenosa.</string>
+  <string name="import_tip_summary">Zbog problema s kompatibilnošću možete prenositi samo djelomične podatke s iOS uređaja. Svakako izradite Sig. kopiju na iCloud prije pokretanja prijenosa.</string>
   <string name="import_tip_title">Savjeti:</string>
   <string name="loading_data">Učitavanje podataka</string>
   <string name="local_app_name">Sig. kopija</string>
@@ -281,8 +282,10 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_backup_item">Odaberite stavke</string>
   <string name="select_empty">Odaberite stavke za uvoz</string>
+  <string name="select_item_calendar">Kalendar</string>
   <string name="select_item_contacts">Kontakti</string>
-  <string name="select_item_empty_summary">Nema stavki</string>
+  <string name="select_item_empty_summary">Nema sadržaja</string>
+  <string name="select_item_notes">Bilješke</string>
   <string name="select_item_photos">Fotografije</string>
   <string name="select_item_summary_loading">Učitavanje podataka…</string>
   <string name="select_item_summary_wait">Čekanje…</string>

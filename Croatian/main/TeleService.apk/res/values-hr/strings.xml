@@ -1961,7 +1961,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Izmjena TTY načina rada nije dopuštena tijekom VT poziva</string>
   <string name="tty_mode_option_summary">Postavi način TTY</string>
   <string name="tty_mode_option_title">Način TTY</string>
-  <string name="turnover_mute_summary">"Kada je telefon okrenut vodoravno, preokrenite ga da utišate zvono. Ova značajka ne radi ako je vibracija za dolazne pozive uključena."</string>
+  <string name="turnover_mute_summary">"Kada je telefon na vodoravnoj površini sa zaslonom okrenutim prema gore, preokrenite za utišavanje zvona."</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
   <string name="undefined">Ništa</string>
