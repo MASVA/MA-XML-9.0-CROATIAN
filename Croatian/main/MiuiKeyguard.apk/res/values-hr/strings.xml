@@ -2,10 +2,10 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvorite Wallpaper Carousel</string>
   <string name="btn_camera">Slikajte svoje lice</string>
-  <string name="click_to_enter_text">Dodirnite za pregled</string>
+  <string name="click_to_enter_text">Dodirni za pregled</string>
   <string name="confirm_pin_msg">Unesite PIN ponovno</string>
   <string name="custom_lock_wallpaper_enter">Uđi</string>
-  <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
+  <string name="default_lockscreen_unlock_hint_text">Povuci gore za otključavanje</string>
   <string name="delete">Izbriši</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Pokušaj</string>
@@ -66,8 +66,8 @@
   <string name="fingerprint_enter_second_psw_msg">Unesite zaporku Drugog prostora nakon ponovnog pokretanja uređaja da biste mogli koristiti prepoznavanje otiska prsta</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Ne mogu ući u Drugi prostor za vrijeme Lite načina"</string>
   <string name="fingerprint_enter_second_psw_title">Unesite zaporku Drugog prostora</string>
-  <string name="fingerprint_lockout_msg">Pričekajte minutu, zatim ponovno pokušajte otključati sa vašim otiskom prsta</string>
-  <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku sada ili pokušajte koristiti otisak prsta za %d sek.”</string>
+  <string name="fingerprint_lockout_msg">Pričekajte minutu, a zatim ponovno pokušajte otključati sa vašim otiskom prsta</string>
+  <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku ili pokušajte koristiti otisak prsta za %d sek.”</string>
   <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
@@ -109,10 +109,10 @@
   <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
   <string name="keyguard_charging_info_tip_text5">Baterija kada se dulje puni postaje toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Transportna kartica</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_bankcard">Kalkulator</string>
+  <string name="keyguard_left_buscard">Bilješke</string>
+  <string name="keyguard_left_remotecentral">Kalendar</string>
+  <string name="keyguard_left_smarthome">Kontakti</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Brzo punjenje, dodirni za prikaz</string>
   <string name="keyguard_quickly_charging_info_charging_text">Brzo punjenje</string>
   <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
@@ -138,7 +138,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijava</string>
   <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na www.mi.com/micloud.</string>
-  <string name="missed_call_text">Propuštenih poziva %d</string>
+  <string name="missed_call_text">Propušteni pozivi: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
   <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
@@ -154,7 +154,7 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
   <string name="phone_locked_foget_password_mehod_back">Natrag</string>
   <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
-  <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu Zaporku Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
   <string name="phone_locked_foget_password_ok">Shvaćam</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća +&lt;/font&gt;istovremeno dok ne vidite Mi logo.</string>
