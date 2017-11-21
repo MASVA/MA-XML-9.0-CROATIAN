@@ -8,7 +8,6 @@
   <string name="as_new_device">Zamijenite prethodni Početni zaslon i postavke</string>
   <string name="as_new_device_summary">Izbriši prethodne Mi Cloud Sig. kopije</string>
   <string name="authentication_failed">"Ne mogu potvrditi račun."</string>
-  <string name="authentication_failed">Provjera autentičnosti nije uspjela!</string>
   <string name="back_up_task_in_process">Izrada u tijeku…</string>
   <string name="back_up_task_unfinished">Sig. kopija nije završena</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
@@ -107,8 +106,6 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="done_remove">Uspješno uklonjeno</string>
   <string name="download_home_data">Preuzimanje postavki Poč. zaslona…</string>
   <string name="download_meta_again">"Ne mogu učitati Sig. kopiju, pokušajte ponovno."</string>
-  <string name="download_meta_failed">"Ne mogu učitati podatke."</string>
-  <string name="download_meta_again">Pokušaj ponovo</string>
   <string name="download_meta_failed">Ne mogu preuzeti podatke</string>
   <string name="download_settings">Preuzimanje postavki Poč. zaslona %s%%</string>
   <string name="download_settings_fail">"Ne mogu preuzeti postavke Poč. zaslona"</string>
