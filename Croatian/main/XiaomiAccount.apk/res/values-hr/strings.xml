@@ -67,6 +67,8 @@
   <string name="account_vip_achievements">Postignuća</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Usluge</string>
+  <string name="action_add_phone">Poveži broj telefona</string>
+  <string name="action_update_phone">Promjeni broj telefona</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
@@ -158,11 +160,13 @@
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
+  <string name="get_back_pwd">Natrag</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
   <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
+  <string name="identity">Identitet</string>
   <string name="ignore">Ne sada</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
   <string name="io_error_title">Potvrdite vašu mrežu</string>
@@ -196,6 +200,7 @@
   <string name="my_favorite">Moj favorit</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
+  <string name="no_phone">Nema telefona</string>
   <string name="no_response_retry">Nema odgovora, pokušajte ponovno.</string>
   <string name="no_sim_card_or_unactivated">Nema SIM kartice ili nije aktivirana</string>
   <string name="nobind">Nije povezano</string>
@@ -426,6 +431,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="passport_yes">Da</string>
   <string name="phone_activated">%s aktiviran</string>
+  <string name="phone_num_use_for">Broj telefona koji se koristi za:</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="push_notification_content">Nabavite kôd</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun na nepoznatog uređaja</string>
@@ -486,6 +492,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="select_location_title">Odaberite vašu lokaciju</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>
   <string name="service_error">Pogreška usluge</string>
+  <string name="set_success">Dovršeno</string>
+  <string name="sign_in">Prijavi se</string>
   <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Poslano</string>
@@ -507,6 +515,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
   <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
+  <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
   <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
   <string name="updated_nothing">Ažurirano</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>

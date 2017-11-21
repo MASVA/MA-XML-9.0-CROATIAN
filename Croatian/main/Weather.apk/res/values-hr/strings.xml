@@ -156,7 +156,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="precipitation_degree_two">lagano</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="pull_fresh_updated">Uspješno ažurirano</string>
-  <string name="pull_fresh_updating">Ažuriranje</string>
+  <string name="pull_fresh_updating">Ažuriranje…</string>
   <string name="radar_cloud_image_title">Mapa Radara</string>
   <string name="rainfall_settings_summary">Postavke padalina</string>
   <string name="rainfall_settings_title">Upozorenje padalina</string>
@@ -213,7 +213,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="update_night_setting_title_text">Ažuriraj autom. tijekom noći</string>
   <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>
   <string name="updated_a_moment_ago">Ažurirano prije nekoliko trenutaka</string>
-  <string name="updating">Ažuriranje..</string>
+  <string name="updating">Ažuriranje…</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

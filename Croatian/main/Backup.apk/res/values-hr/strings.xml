@@ -125,7 +125,7 @@
   <string name="err_unknown">Nepoznata greška</string>
   <string name="err_version_too_old">Sig. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
-  <string name="error_permissions">Ne mogu čitati i pisati bez dopuštenja Kalendara, provjerite dopuštenja u postavkama</string>
+  <string name="error_permissions">"Ova aplikacija nema dopuštenje za pristup Kalendaru. Idite u Postavke i provjerite dopuštenje za nastavak."</string>
   <string name="every_day">Svaki dan</string>
   <string name="exchange_account">Promijeni račun</string>
   <string name="fail">Nije uspjelo</string>
@@ -157,7 +157,7 @@
   <string name="hsa_verify_retry">Pokušaj ponovno</string>
   <string name="hsa_verify_shutdown">Isključi</string>
   <string name="icloud_backup_tip">Prijavite se na iCloud račun sa starog iOS uređaja</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Odaberite Kontakti i itd.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Uključite promjenu za kontakte i druge stavke.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
   <string name="icloud_how_to_backup_tip_summary">Da biste uvezli podatke iz iOS-a, morate izraditi iCloud Sig. kopiju.</string>
   <string name="icloud_how_to_backup_tip_title">Savjeti:</string>
   <string name="icloud_login_title">Prijavi se u iCloud</string>

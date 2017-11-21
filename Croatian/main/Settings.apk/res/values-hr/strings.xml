@@ -1735,6 +1735,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_manage_tittle">Otisak prsta</string>
   <string name="fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta. Unesite svoju zaporku"</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
+  <string name="fingerprint_payment">Plaćanja otiskom prstiju</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
   <string name="fingerprint_unlock_set_unlock_password">Otisak prsta i zaporka</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Otisak prsta i uzorak</string>
