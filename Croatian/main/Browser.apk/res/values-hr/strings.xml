@@ -961,7 +961,6 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="video_push_multi_message">Dostupno ažuriranja: %1$d</string>
   <string name="video_push_multi_title">Dostupno ažuriranje</string>
   <string name="video_push_single_message">Dodirnite za ažurirati na %1$d</string>
-  <string name="video_service_notification_title">Reprodukcija skočnog videozapisa</string>
   <string name="video_service_notification_title">Reprodukcija videozapisa</string>
   <string name="video_subtitle_last_message1">Preostalo je manje od 1 minute</string>
   <string name="video_subtitle_prefix1">Pogledano</string>
