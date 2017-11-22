@@ -4777,9 +4777,9 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tether_and_hotspot_title">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljaj uređajima</string>
   <string name="tether_devices_max_number">Ograničenje povezanih uređaja</string>
-  <string name="tether_settings_disabled">Osobni Hotspot je isključen</string>
+  <string name="tether_settings_disabled">Prijenosni hotspot je isključen</string>
   <string name="tether_settings_disabled_on_data_saver">Ne mogu dijeliti ili koristiti prijenosni hotspot dok je Ušteda podataka uključena</string>
-  <string name="tether_settings_launch_title">Prijenosni HotSpot</string>
+  <string name="tether_settings_launch_title">Prijenosni hotSpot</string>
   <string name="tether_settings_title_all">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Dijeljenje veze Bluetoothom</string>
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>
@@ -4797,9 +4797,9 @@ Brža ^1 mogla bi poboljšati rad."</string>
  "&lt;b&gt;Prijenosni WLAN hotspot&lt;/b&gt;"
 Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite internetsku vezu svojeg Android uređaja s jednim ili više računala ili drugih uređaja. 
 
-1.Kada vaš uređaj služi kao WLAN Hotspot, ne možete koristiti aplikacije uređaja za pristup internetu putem vaše WLAN veze (ali naravno da ostajete povezani na internet putem mobilne podatkovne veze). 
+1.Kada vaš uređaj služi kao WLAN hotspot, ne možete koristiti aplikacije uređaja za pristup internetu putem vaše WLAN veze (ali naravno da ostajete povezani na internet putem mobilne podatkovne veze). 
 
-2.Možete konfigurirati Hotspot s postavkama WLAN hotspota."</string>
+2.Možete konfigurirati hotspot s postavkama WLAN hotspota."</string>
   <string name="tethering_help_dialog_title">Ponoć</string>
   <string name="tethering_no_sim_alert_title">Nema SIM kartice</string>
   <string name="tethering_no_sim_card_text">Umetnite SIM karticu da možete dijeliti podatkovnu vezu s drugim uređajima korištenjem mobilnog hotspota ili USB dijeljenje veze za pristup internetu.</string>
@@ -5768,9 +5768,9 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni</string>
   <string name="wifi_tether_enabled_subtext">Aktivan je prijenosni hotspot %1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>
-  <string name="wifi_tether_first_use_message">Postavi Prijenosni HotSpot kod prve uporabe</string>
+  <string name="wifi_tether_first_use_message">Postavi Prijenosni hotSpot kod prve uporabe</string>
   <string name="wifi_tether_setting_title">Postavke</string>
-  <string name="wifi_tether_settings_title">Osobni hotspot</string>
+  <string name="wifi_tether_settings_title">Prijenosni hotspot</string>
   <string name="wifi_tether_starting">Uključivanje hotspota…</string>
   <string name="wifi_tether_stopping">Isključivanje hotspota…</string>
   <string name="wifi_type_approval"/>

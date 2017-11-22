@@ -96,6 +96,8 @@
   <string name="notify_abnormal_title">Obavijest</string>
   <string name="operation_create_group">Naziv</string>
   <string name="operation_create_group_message">Unesite novi naziv grupe</string>
+  <string name="performance_category">Performanse</string>
+  <string name="power_center">Energija</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se pokreće abnormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se pokreće abnormalno</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s često dobiva informacije o lokaciji</string>
@@ -179,8 +181,9 @@
   <string name="power_event_view_event_title">Prečaci</string>
   <string name="power_hide_mode_app_list_summary">Ušteda energije u pozadini</string>
   <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a i mobilne podatkovne veze i GPS-a"</string>
-  <string name="power_hide_mode_title">Ušteda baterije</string>
+  <string name="power_hide_mode_title">Baterija &amp; performanse</string>
   <string name="power_keeper">Štednja baterije</string>
+  <string name="power_mode">Postavke energije</string>
   <string name="power_mode_cpu_state_high">Performanse</string>
   <string name="power_mode_cpu_state_high_desc">Preformanse imaju prioritet nad baterijom</string>
   <string name="power_mode_cpu_state_low">Štednja baterije</string>
@@ -191,6 +194,7 @@
   <string name="power_mode_view_event_title">Događaji</string>
   <string name="power_mode_view_user_define_title">Novi događaj</string>
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
+  <string name="power_usage">Korištenje energije</string>
   <string name="ragment_sys_listempty">Nema aplikacija sustava</string>
   <string name="reading">Način čitanja</string>
   <string name="scenario_policies_summary">Primijenite različite strategije štednje energije za različite scenarije.</string>
