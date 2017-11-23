@@ -57,12 +57,12 @@
         <item quantity="one">Zanemareno:  %1$d.</item>
     </plurals>
     <plurals name="conversation_not_important">
-       <item quantity="other">Uklonjeno poruka iz mape 'Važno': %1$d.</item>
-        <item quantity="one">%1$d poruka uklonjena iz mape 'Važno'.</item>
+       <item quantity="other">Uklonjeno poruka iz mape Važno: %1$d.</item>
+        <item quantity="one">%1$d poruka uklonjena iz mape Važno.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Uklonjeno poruka iz mape 'Spam': %1$d.</item>
-        <item quantity="one">%1$d poruka uklonjena iz mape 'Spam'.</item>
+        <item quantity="other">Uklonjeno poruka iz mape Spam: %1$d.</item>
+        <item quantity="one">%1$d poruka uklonjena iz mape Spam.</item>
     </plurals>
     <plurals name="conversation_phished">
          <item quantity="other">Poruke prijavljene kao Spam: %1$d.</item>
