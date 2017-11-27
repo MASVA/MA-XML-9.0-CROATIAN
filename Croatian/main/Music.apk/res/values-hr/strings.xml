@@ -270,7 +270,6 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_paused">Preuzimanje pauzirano</string>
   <string name="download_paused_in_power_save_mode">Preuzimanja su pauzirana kad je uključena Štednja baterije</string>
   <string name="download_pending">Preuzimanje na čekanju</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">Preuzimanje…</string>
   <string name="download_quality">Kvaliteta preuzimanja</string>
   <string name="download_quality_summary">Dodatne postavke za pjesme koje ste preuzeli</string>

@@ -3297,7 +3297,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s do napunjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napunjenosti putem USB-a</string>
@@ -3514,11 +3513,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="proxy_error_invalid_exclusion_list">Popis za isključivanje koji ste napisali nije pravilno formatiran. Unesite popis isključenih domena odvojenih zarezima.</string>
   <string name="proxy_error_invalid_host">Naziv hosta koji ste upisali nije valjan.</string>
   <string name="proxy_error_invalid_port">Upisani priključak nije valjan.</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_exclusionlist_label">Zaobiđi proxy za</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Naziv hosta proxy poslužitelja</string>
-  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Priključak proxy poslužitelja</string>
   <string name="proxy_settings_label">Proxy postavke</string>
   <string name="proxy_settings_title">Proxy</string>
