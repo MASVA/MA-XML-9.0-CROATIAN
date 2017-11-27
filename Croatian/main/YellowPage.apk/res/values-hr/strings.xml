@@ -263,6 +263,7 @@ Provjerite broj za praćenje."</string>
   <string name="mark_number_feedback_success">Pov. informacija poslana.</string>
   <string name="mark_number_marked_maintitle">Promijeni prijavu za ovaj broj</string>
   <string name="mark_number_marked_subtitle">Prijavili ste taj broj kao %s</string>
+  <string name="mark_number_notification_title">Prijavi sumnjivi broj</string>
   <string name="mark_number_remove">Ukloni oznaku</string>
   <string name="mark_title_null_hint">Unos ne može biti prazan</string>
   <string name="menu_about_yellow_page">O ovoj stranici</string>

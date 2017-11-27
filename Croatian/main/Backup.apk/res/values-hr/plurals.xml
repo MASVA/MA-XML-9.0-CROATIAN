@@ -12,6 +12,14 @@
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
     </plurals>
+	<plurals name="total_num">
+         <item quantity="other">%d stavki,</item>
+         <item quantity="one">%d stavka,</item>
+     </plurals>
+     <plurals name="custom_progress">
+         <item quantity="other">%d stavki</item>
+         <item quantity="one">%d stavka</item>
+     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d sati</item>
         <item quantity="one">%d sat</item>

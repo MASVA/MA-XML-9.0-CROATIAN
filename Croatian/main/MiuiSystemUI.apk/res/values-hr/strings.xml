@@ -413,7 +413,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
   <string name="oldman_airplane_mode_text">Zrakoplov</string>
-  <string name="oldman_incall_text">Poziv</string>
+  <string name="oldman_incall_text">Natrag na poziv</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>

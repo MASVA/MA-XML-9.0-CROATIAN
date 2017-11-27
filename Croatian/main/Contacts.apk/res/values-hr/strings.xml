@@ -23,7 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Dodati \"%s\" kontaktima?</string>
   <string name="add_display_photo_entry">Dodaj fotografiju profila</string>
   <string name="add_field">Dodaj drugo polje</string>
-   <string name="add_field_toast">Nema više polja za dodavanje.</string>
+  <string name="add_field_toast">Nema više polja za dodavanje.</string>
   <string name="add_incall_show_entry">Dodaj video</string>
   <string name="add_new_account">Dodaj novi račun</string>
   <string name="add_new_entry_for_section">Dodaj novo</string>
@@ -43,6 +43,7 @@
   <string name="audio_chat">Glasovni chat</string>
   <string name="auto_nickname">"Automatski"</string>
   <string name="auto_set_nickname">"Automatski"</string>
+  <string name="back_description">Natrag</string>
   <string name="back_view_description">Idi natrag</string>
   <string name="batch_delete">Izbriši seriju</string>
   <string name="blacklist">Blokiraj</string>
@@ -252,6 +253,9 @@ Kartice kontakata su isključene"</string>
   <string name="contact_editor_prompt_multiple_accounts">Spremi kontakt u</string>
   <string name="contact_editor_prompt_one_account">Novi kontakt bit će sinkroniziran s računom %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Pohrani na uređaju ili na novom mrežnom računu</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+  <string name="contact_import_methods_dialog_title">Odaberite način uvoza</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
   <string name="contact_list_loading">"Učitavanje…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
@@ -270,6 +274,8 @@ Kartice kontakata su isključene"</string>
   <string name="contacts_unavailable_add_account">Prijavite se na račun</string>
   <string name="contacts_unavailable_create_contact">Izradi novi kontakt</string>
   <string name="contacts_unavailable_import_contacts">Uvezi kontakte iz datoteke</string>
+  <string name="contacts_unavailable_import_from_old_device">Uvezi sa starijeg uređaja</string>
+  <string name="contacts_unavailable_import_sim_contacts">Uvezi SIM kontakte</string>
   <string name="convenient_service">Usluge</string>
   <string name="copy_number">Kopiraj</string>
   <string name="copy_text">Kopiraj u međuspremnik</string>
@@ -556,7 +562,8 @@ Razlog: \"%s\""</string>
   <string name="import_name">Ime</string>
   <string name="import_one_vcard_string">Uvezi 1 vCard datoteku</string>
   <string name="import_percent">0%</string>
-  <string name="import_selected_sim_entries_miui">"Uvoz odabranih kontakata"</string>
+  <string name="import_selected_sim_entries_miui">"Uvezi odabrane kontakte"</string>
+  <string name="import_sim_contacts_hint_title">Uvezi SIM kontakte</string>
   <string name="import_sim_entries_finish">Završen uvoz kontakata sa SIM kartice</string>
   <string name="import_sim_entry_miui">"Uvoz"</string>
   <string name="import_to_xiaomi_account_confirm">"Uvoz"</string>

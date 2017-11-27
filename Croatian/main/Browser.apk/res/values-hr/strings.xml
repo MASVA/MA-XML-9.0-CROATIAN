@@ -266,7 +266,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="download_default_path_txt">Zapamti ovaj odabir</string>
   <string name="download_dialog_default_path_invalid">"Lokacija preuzimanja koju ste odabrali nije valjana. Spremanje na zadanu lokaciju…"</string>
   <string name="download_dialog_file_length_hint_txt">"Veličina datoteke: "</string>
-  <string name="download_dialog_file_length_lessthan1kb">Manje od 1K</string>
+  <string name="download_dialog_file_length_lessthan1kb">Manje od 1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Ne mogu preuzeti"</string>
   <string name="download_dialog_file_length_nolength_txt">Preuzimanje…</string>
   <string name="download_failed">"Ne mogu završiti preuzimanje"</string>
@@ -299,7 +299,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi oznaku</string>
   <string name="edit_quicklink">Uredi</string>
-  <string name="empty_app_name">Ostale aplikacije</string>
+  <string name="empty_app_name">Druga aplikacija</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_cloud_tab_login_hint">Nema cloud kartica</string>
   <string name="empty_cloud_tab_logout_hint">"Prijavite se na svoj Mi Račun\nda biste vidjeli otvorene kartice s drugih uređaja."</string>
@@ -406,7 +406,7 @@ Napustiti ovu stranicu?"</string>
   <string name="media_error_timeout">Povezivanje s mrežom je isteklo</string>
   <string name="media_error_video_not_exist">"Videozapis ne postoji"</string>
   <string name="media_player_error_button">U redu</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis ne može biti streaman na ovom uređaju.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"Ovaj videozapis nije valjan za streaming na ovaj uređaj."</string>
   <string name="media_player_error_text_unknown">"Ne mogu reproducirati taj videozapis."</string>
   <string name="media_player_error_title">"Ne mogu reprod. videozapis"</string>
   <string name="media_player_loading_video">Učitavanje videozapisa</string>
@@ -570,7 +570,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="open_app_confirm_message">Dopustiti ovoj stranici da otvori %s?</string>
   <string name="open_file_explorer_failed">"Ne mogu otvoriti aplik. Datoteke"</string>
   <string name="open_voice_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
-  <string name="opening_file_error">Otvaranje datoteke nije uspjelo</string>
+  <string name="opening_file_error">"Ne mogu otvoriti odabranu datoteku"</string>
   <string name="page_info">Informacije o stranici</string>
   <string name="page_info_address">Adresa:</string>
   <string name="page_info_view">Prikaz informacija o stranici</string>
@@ -695,8 +695,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_weather_location_summary">"Korišteno od strane dodatka vremena preglednika"</string>
   <string name="pref_weather_location_title">Lokacija vremena</string>
   <string name="private_browsing_warning">Ova funkcija nije podržana u ovoj verziji Androida.</string>
-  <string name="profiler_error_toast">Nije uspjelo pokretanje profilera</string>
-  <string name="profiler_no_storage_toast">Nije moguće pokrenuti profiler jer vanjska pohrana nije spremna</string>
+  <string name="profiler_error_toast">"Ne mogu pokrenuti profiler"</string>
+  <string name="profiler_no_storage_toast">Ne mogu pokrenuti profiler jer vanjska pohrana nije spremna.</string>
   <string name="profiler_started_toast">Profiler se pokrenuo</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
@@ -987,6 +987,6 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="webpage_history_title">Povijest</string>
   <string name="webpage_title">Oznake &amp; Povijest</string>
   <string name="webview_find_on_page">Pronađi na stranici</string>
-  <string name="webviewchromium_private_browsing_warning">Značajka nije podržana u ovoj verziji Androida.</string>
+  <string name="webviewchromium_private_browsing_warning">"Ova funkcija nije podržana u ovoj verziji Androida."</string>
   <string name="week_picker_dialog_title">Postavite tjedan</string>
 </resources>

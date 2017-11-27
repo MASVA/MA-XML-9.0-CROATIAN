@@ -1333,6 +1333,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="other">Ostalo</string>
   <string name="other_countries_and_regions">Ostale zemlje</string>
   <string name="other_settings">Ostale postavke poziva</string>
+  <string name="other_available_phone_accounts">Ostali dostupni računi</string>
   <string name="other_settings_category">Ostalo</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overseas_roaming_setting">Međunarodni roaming</string>
@@ -1380,6 +1381,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="payphone">Telefonska govornica</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
+  <string name="phone_account_settings">Računi za pozivanje</string>
   <string name="phone_account_settings">Postavke računa telefona</string>
   <string name="phone_account_wifi_calling">WLAN pozivanje</string>
   <string name="phone_accounts">Postavke računa telefona</string>
@@ -1537,6 +1539,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_pref_entries_only_3g">Samo 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Poželjni tip mreže</string>
+  <string name="preferred_phone_account">Željeni račun poziva</string>
   <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
@@ -1614,7 +1617,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="registration_status_server_unreachable">Registracija računa nije uspjela: provjerite naziv poslužitelja.</string>
   <string name="registration_status_still_trying">Još pokušavam…</string>
   <string name="reject_via_sms">Brzi odgovori</string>
-  <string name="reject_via_sms_summary">Uredi prethodno napisane poruke</string>
+  <string name="reject_via_sms_summary">Prikaži tipke za završavanje poziva i slanje SMS-a</string>
   <string name="reject_via_sms_title">Brzi odgovori</string>
   <string name="remain_mins_unit">minuta</string>
   <string name="remain_mins_unit_plural">minuta</string>
@@ -1746,6 +1749,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
   <string name="simContacts_title">Odabir kontakata za uvoz</string>
   <string name="simFdnContacts_empty">Nema kontakata za fiksno biranje.</string>
+  <string name="sim_accounts">SIM računi</string>
   <string name="sim_absent">Nema</string>
   <string name="sim_activated">Provjereno</string>
   <string name="sim_card_activate">Provjera SIM kartice</string>
@@ -2028,6 +2032,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="volte_provision_text">VoLTE pozivi pružiju bolju kvalitetu od redovitih poziva. Poslati SMS poruku za aktivaciju?</string>
   <string name="volte_provision_title">Aktiviraj VoLTE pozive</string>
   <string name="volte_switch_not_support_summary">"VoLTE pozivi nisu podržani za mobilne podatke SIM kartice."</string>
+  <string name="volte_switch_not_support_summary2">"VoLTE pozivi nisu podržani od strane operatera."</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>

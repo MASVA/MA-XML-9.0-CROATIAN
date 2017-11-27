@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Plaćanja</string>
   <string name="mibi_app_name">Mi Kredit</string>
+  <string name="mibi_applock_config">"Ne mogu postaviti Zaklj. aplikacije tijekom korištenja podijeljenog zaslona."</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">Adresa E-pošte ili ID Mi Računa</string>
   <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
