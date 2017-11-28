@@ -44,4 +44,8 @@
         <item quantity="other">Uspješno izbrisano %1$d stavki iz povijesti.</item>
         <item quantity="one">Uspješno izbrisana %1$d stavka iz povijesti.</item>
     </plurals>
+	<plurals name="nav_screen_incognito_time">
+         <item quantity="other">Nakon %d sek. automatski će stvoriti nova stranica</item>
+         <item quantity="one">Nakon %d sek. automatski će stvoriti nova stranica</item>
+     </plurals>
 </resources> 

@@ -7,6 +7,7 @@
   <string name="action_item_add_to_current_playlist">Trenutan popis pjesama</string>
   <string name="action_item_add_to_favorite_playlist">Popis pjesama favorita</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
+  <string name="action_item_as_ring">Postavi za zvuk zvona</string>
   <string name="action_item_cancel">Odustani</string>
   <string name="action_item_delete">Izbriši</string>
   <string name="action_item_download">Preuzimanje</string>
@@ -15,12 +16,16 @@
   <string name="action_item_follow">Slijedi</string>
   <string name="action_item_hide">Sakrij</string>
   <string name="action_item_hifi">Slušalice &amp; zvučni efekti</string>
+  <string name="action_item_modify_info">Promjeni informacije</string>
   <string name="action_item_multiple">Uredi</string>
   <string name="action_item_play_all">Reproduciraj sve</string>
+  <string name="action_item_play_next">Reproduciraj kasnije</string>
   <string name="action_item_remove">Ukloni</string>
   <string name="action_item_remove_from_favorite">Ukloni favorite</string>
   <string name="action_item_send">Pošalji</string>
   <string name="action_item_share">Podijeli</string>
+  <string name="action_item_show_album">Album: %s</string>
+  <string name="action_item_show_artist">Izvođač: %s</string>
   <string name="action_settings">Postavke</string>
   <string name="ad_close">Zatvori</string>
   <string name="ad_data_exception">Pogreška podataka oglasa</string>
@@ -31,7 +36,9 @@
   <string name="add_music">Dodaj pjesme</string>
   <string name="add_to_last_of_playlist">Dodaj na kraj popisa pjesama</string>
   <string name="add_to_playlist_successful">Uspješno dodano</string>
+  <string name="added_next_play">Dodano za sljedeću reprodukciju</string>
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
+  <string name="album_label">Album</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
   <string name="alert_msg_vip_song_for_download">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
@@ -83,7 +90,7 @@
   <string name="asset_sync_power_alert_title">Slaba baterija</string>
   <string name="atmd_music">Ultimativno</string>
   <string name="audio_picker_title">Odaberi pjesmu</string>
-  <string name="audio_recognition_setting_summary">"Automatski optimizirajte informacije o pjesmi, album i tekst pri reprodukciji lokalnih pjesama"</string>
+  <string name="audio_recognition_setting_summary">"Automatski optimiziraj informacije o pjesmi, album i tekst pri reprodukciji lokalnih pjesama"</string>
   <string name="audio_recognition_setting_title">Inteligentno optimiziraj album i tekst</string>
   <string name="auth_activity_title">Xunlei Račun</string>
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
@@ -151,6 +158,7 @@
   <string name="confirm">U redu</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
+  <string name="connecting_apk">Povezivanje…</string>
   <string name="continue_backup">Nastavi</string>
   <string name="cp_info_first">Uslugu Online streaming glazbe 
   
@@ -158,6 +166,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="create_order_fail">"Ne mogu napraviti narudžbu, pokušajte ponovo."</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
+  <string name="current_album">Trenutni Album</string>
+  <string name="current_lyric">Trenutni tekst</string>
   <string name="current_services">Trenutno</string>
   <string name="current_version">Trenutna verzija</string>
   <string name="data_usage_warning">Uporaba podataka</string>
@@ -201,6 +211,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="dialog_media_not_found">"Ne mogu preuzeti. SD kartica nije dostupna."</string>
   <string name="dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="dialog_queued_body">Ova datoteka je u redu čekanja za buduće preuzimanje.</string>
+  <string name="dialog_show_more_backup">Pohrani lokalne pjesme</string>
+  <string name="dialog_show_more_optimize_all">"Optimiziraj informacije o pjesmi"</string>
   <string name="dialog_song_sort_type">Sortiraj pjesme</string>
   <string name="dialog_song_sort_type_name">Po nazivu</string>
   <string name="dialog_song_sort_type_playing_times">Po broju reproduciranja</string>
@@ -279,6 +291,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_share_dialog">Podijeli putem</string>
   <string name="download_speed_null"/>
   <string name="download_start">Preuzimanje…</string>
+  <string name="download_start_apk">Početak preuzimanja... Provjerite napredak u Panelu obavijesti</string>
   <string name="download_start_btn">Preuzmi</string>
   <string name="download_success">Dovršeno</string>
   <string name="download_title">Preuzimanja</string>
@@ -305,7 +318,9 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_while_playing_summary">Automatski preuzmi pjesme koje streamate online</string>
   <string name="download_while_playing_title">Preuzmi tijekom streaminga</string>
   <string name="downloaded_empty">Prazno</string>
+  <string name="downloading_apk">Preuzimanje u tijeku... Provjerite napredak u Panelu obavijesti</string>
   <string name="downloading_empty">Prazno</string>
+  <string name="downloading_pause_apk">Pauzirano... Nastavite preuzimanje u Panelu obavijesti ili sa radne površine</string>
   <string name="downloads_operating">Obrada…</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Podijeli</string>
@@ -390,6 +405,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="go_to_settings">Idi u Postavke</string>
   <string name="group_artist">Bendovi</string>
   <string name="handle_later">Ne sada</string>
+  <string name="hide_album">Sakrij Album</string>
+  <string name="hide_lyric">Sakrij tekst</string>
   <string name="headset_settings">Slušalice &amp; zvučni efekti</string>
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
@@ -409,13 +426,22 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="impunity_declaration_summary">Prikaži skočni prozor "Uvjeti pružanja usluge" za Baidu Online Music Service svaki puta kada se otvori aplikacija "Glazba"</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>
   <string name="in_searching_please_wait">Pretraživanje…</string>
+  <string name="individuation_recommend_message">Svakako uključite prilagođene preporuke, aplikacija Glazba će pružiti osobnu uslugu</string>
+  <string name="individuation_recommend_switch_message">Isključivanje ove usluge utjecat će na osobni radio i preporuke. Isključiti svejedno?</string>
+  <string name="individuation_recommend_title">Preporuke za prepoznavanje</string>
   <string name="input_hint_prefix">Unesite %1$s</string>
+   <string name="installing_apk">Instaliranje…</string>
   <string name="insufficient_space">"Nema dovoljno prostora na unutarnjoj pohrani vašeg uređaja"</string>
   <string name="intelligent_recognize">Inteligentno optimiziraj album i tekst</string>
   <string name="is_loading_data">Učitavanje još traje. Pričekajte minutu/dvije i pokušajte ponovo.</string>
   <string name="is_scanning">Provjera prostora za pohranu…</string>
   <string name="is_scanning_support_online">"Provjera prostora za pohranu…
   (U međuvremenu, možete slušati glazbu online)"</string>
+  <string name="karaoke_message">Da biste omogućili tu značajku, morate preuzeti i instalirati dodatak za Karaoke.</string>
+  <string name="karaoke_my_studio">Moj Karaoke Studio</string>
+  <string name="karaoke_negative_text">Kasnije</string>
+  <string name="karaoke_positive_text">U redu</string>
+  <string name="karaoke_title">Predstavljamo Karaoke</string>
   <string name="japan_korea_female">Ženski izvođači (Japan/Koreja)</string>
   <string name="japan_korea_group">Bendovi (Japan/Koreja)</string>
   <string name="japan_korea_male">Muški izvođači (Japan/Koreja)</string>
@@ -450,6 +476,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="lrc_searching">"Pretraživanje…"</string>
   <string name="lyric">Tekst</string>
   <string name="lyric_is_empty">Tekst nije dostupan</string>
+  <string name="lyric_label">Tekst</string>
   <string name="lyric_open_other_connect">Preuzmi tekst koristeći mobilnu mrežu</string>
   <string name="lyric_setting">Postavke teksta</string>
   <string name="male_artist">Muški izvođači</string>
@@ -504,6 +531,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="modify_progress">Promjena brzine pomicanja teksta</string>
   <string name="modify_progress_helper">Prijeđite prstom prema gore ili dolje za podešavanje teksta</string>
   <string name="modify_song_info">Uredi</string>
+  <string name="modify_song_info_success">Informacije o pjesmi su ažurirane</string>
   <string name="monthly_price">Mi Kredita</string>
   <string name="more">Više</string>
   <string name="more_about_artist">Više o %s</string>
@@ -572,13 +600,13 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…</string>
   <string name="notif_title_file_size">%1$d ukupno</string>
-  <string name="notif_title_multiple_downloading">Preuzimanje: %1$d %1$d datoteka</string>
-  <string name="notif_title_single_downloading">Preuzimanje: %1$d %1$s</string>
+  <string name="notif_title_multiple_downloading">Preuzimanje: %1$d</string>
+  <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
   <string name="notification_des_next_song">Sljedeća pjesma: %s</string>
   <string name="notification_des_no_song">Mi Glazba. Svakodnevno nova glazba.</string>
   <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
-  <string name="notification_download_failed_more">"Ne mogu preuzeti %1$d stavaka"</string>
+  <string name="notification_download_failed_more">"Ne mogu preuzeti pjesme: %1$d"</string>
   <string name="notification_download_success_more">%1$d preuzeto</string>
   <string name="notification_favorite_summary">Primajte obavijesti o novim izdanjima i najnovijim hitovima</string>
   <string name="notification_favorite_title">Obavijest o omiljenim izvođačima</string>
@@ -619,6 +647,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="open_download">Otvori</string>
   <string name="open_online_service">Za korištenje ove značajke morate uključiti online usluge. Uključiti sada?</string>
   <string name="open_service">Uključi</string>
+  <string name="optimize_all_until_optimized">Optimiziraj informacije o pjesmi, albumu i tekstu</string>
+  <string name="optimize_all_until_scanned">Skeniranje lokalnih pjesama, pokušajte kasnije</string>
   <string name="order_pending">Čekanje potvrde</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="other_filter">Ostalo</string>
@@ -627,7 +657,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="page_local_setting">Postavke</string>
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pauzirano</string>
-  <string name="paused_in_power_save_mode">Pauzirano kada je Ušteda Baterije uključena</string>
+  <string name="paused_in_power_save_mode">Pauzirano kada je Štednja Baterije uključena</string>
   <string name="paused_insufficient_space">Čekanje</string>
   <string name="paused_queued_for_wifi">Čekanje na mrežu</string>
   <string name="paused_unknown">Pauzirano</string>
@@ -637,6 +667,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="pay_now">Plati sada</string>
   <string name="payment_fail">Plaćanje nije uspjelo</string>
   <string name="payment_success">Plaćanje završeno</string>
+  <string name="pending_apk">Na čekanju…</string>
   <string name="permission_declaration_message">Dopustite pristup pohrani u Sigurnost &gt; Dopuštenja &gt; Dopuštenja &gt; Pohrana &gt; Glazba da aplikacija Glazba radi normalno.</string>
   <string name="permission_declaration_negative_text">Kasnije</string>
   <string name="permission_declaration_positive_text">Idi u Sigurnost</string>
@@ -693,7 +724,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="really_pay">Platiti sada?</string>
   <string name="recently_played">Nedavno reproducirano</string>
   <string name="recently_played_songs">Nedavno reproducirano</string>
-  <string name="recognition_reverted_message">"Informacije o pjesmi, albumu i tekstu su vraćene. You can revert all info of songs that have been optimize in Settings."</string>
+  <string name="recognition_reverted_message">"Informacije o pjesmi, albumu i tekstu su vraćene. Možete vratiti sve informacije o pjesmama koje su optimizirane u Postavkama."</string>
   <string name="recognition_reverted_title">Inteligentno optimiziraj album i tekst</string>
   <string name="recognize_call">Optimiziraj</string>
   <string name="recognize_call_summary">"Informacije o pjesmi, albumu i tekstu nisu optimizirane"</string>
@@ -706,7 +737,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="recognize_switch_off_alert_not_now">Ne sada</string>
   <string name="recognize_switch_off_alert_revert">Vrati</string>
   <string name="recognize_switch_off_alert_title">Inteligentno optimiziraj album i tekst</string>
-  <string name="recognized_alert_message">"Aplikacija Glazba automatski optimizira informacije o pjesmi, albumu i tekstu. Možete kliknuti 「...」i promijeniti ih ručno"</string>
+  <string name="recognized_alert_message">"Aplikacija Glazba je automatski optimizirala informacije o pjesmi, albumu i tekstu. Možete kliknuti「...」 i promjeniti ih ručno"</string>
   <string name="recognized_alert_title">Inteligentno optimiziraj album i tekst</string>
   <string name="recommend_fragment_title">Istaknuto</string>
   <string name="recommended_file_size_download_in_mobile">Koristiti %s mobilnih podataka za preuzimanje ove datoteke?</string>
@@ -728,8 +759,9 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="retry_download">Pokušaj ponovno</string>
   <string name="ringtone_not_support">"Format ove pjesme nije podržan."</string>
   <string name="root_downloads">Preuzimanja</string>
+  <string name="save">Spremi</string>
   <string name="save_to_playlist">Spremi kao popis pjesama</string>
-  <string name="search_album">Potraži album na internetu</string>
+  <string name="search_album_and_lyric">Traži albume i tekst po gore navedenim informacijama</string>
   <string name="search_empty">"Nema rezultata"</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Izvođač</string>
@@ -737,8 +769,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="search_hint_not_support_online">Traži izvođače, pjesme i albume</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>
-  <string name="search_lyric">Potraži tekst na internetu</string>
-  <string name="search_title">Potraži</string>
+  <string name="search_lyric">Traži tekst na internetu</string>
+  <string name="search_title">Traži</string>
   <string name="search_title_album">Albumi</string>
   <string name="search_title_singer">Izvođači</string>
   <string name="search_title_song">Pjesme</string>
@@ -843,6 +875,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="talkback_device">Reproduciraj na drugim uređajima</string>
   <string name="talkback_download">Preuzmi</string>
   <string name="talkback_favorite">Sviđa mi se ova pjesma</string>
+  <string name="talkback_karaoke">Otvori Karaoke</string>
   <string name="talkback_mode">Petlja popisa pjesama</string>
   <string name="talkback_mode_repeat_all">Način petlje</string>
   <string name="talkback_mode_repeat_current">Način jedne petlje</string>

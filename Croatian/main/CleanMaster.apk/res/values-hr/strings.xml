@@ -349,8 +349,8 @@
   <string name="no_network">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
   <string name="notification_summary_after_auto_cleanup">Očišćeno %s.</string>
-  <string name="notification_summary_of_garbage_cleanup">Veličina smeća je preko %s.</string>
-  <string name="notification_title_of_garbage_cleanup">Veličina smeća</string>
+  <string name="notification_summary_of_garbage_cleanup">Dodirnite da oslobodite prostor.</string>
+  <string name="notification_title_of_garbage_cleanup">%s datoteka smeća</string>
   <string name="notify_when">Obavijesti me kada veličina smeće dosegne 100MB</string>
   <string name="ok">U redu</string>
   <string name="open">Uključi</string>

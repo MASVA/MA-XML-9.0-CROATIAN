@@ -114,6 +114,10 @@
          <item quantity="other">%d čitatelja</item>
          <item quantity="one">%d čitatelj</item>
      </plurals>
+	 <plurals name="songs_count">
+        <item quantity="other">Pjesama: %d</item>
+        <item quantity="one">%d pjesma</item>
+     </plurals>
 	 <plurals name="Nunbackup_audios">
          <item quantity="other">"%1$d pjesama nije pohranjeno (%2$.1fMB)"</item>
          <item quantity="one">"%1$d pjesma nije pohranjena (%2$.1fMB)"</item>
@@ -144,12 +148,16 @@
          <item quantity="other">Preskočeno je %d pjesama. Uključite online usluge u postavkama da biste ih slušali.</item>
          <item quantity="one">Preskočena je %d pjesma. Uključite online usluge u postavkama da biste je slušali.</item>
      </plurals>
-     <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Isključuje optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst %d pjesama?</item>
-        <item quantity="one">Isključuje optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst %d pjesme?</item>
-     </plurals>
      <plurals name="songs_count">
         <item quantity="other">Pjesama: %d</item>
         <item quantity="one">%d pjesma</item>
+	 </plurals>
+     <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Isključena je optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst za pjesme %d?</item>
+        <item quantity="one">Isključena je optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst za %d pjesmu?</item>
+     </plurals>
+     <plurals name="Nassociate_songs">
+         <item quantity="other">Podudaranje albuma i teksta(%1$d/%2$d pjesama)</item>
+         <item quantity="one">Podudaranje albuma i teksta(%1$d/%2$d pjesma)</item>  
      </plurals>
 </resources> 
