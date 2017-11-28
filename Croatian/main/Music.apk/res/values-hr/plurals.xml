@@ -148,10 +148,6 @@
          <item quantity="other">Preskočeno je %d pjesama. Uključite online usluge u postavkama da biste ih slušali.</item>
          <item quantity="one">Preskočena je %d pjesma. Uključite online usluge u postavkama da biste je slušali.</item>
      </plurals>
-     <plurals name="songs_count">
-        <item quantity="other">Pjesama: %d</item>
-        <item quantity="one">%d pjesma</item>
-	 </plurals>
      <plurals name="Nrecognize_switch_off_alert_message">
         <item quantity="other">Isključena je optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst za pjesme %d?</item>
         <item quantity="one">Isključena je optimizaciju albuma i teksta. Želite li vratiti optimizirane informacije, album i tekst za %d pjesmu?</item>
