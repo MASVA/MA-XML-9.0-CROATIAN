@@ -783,6 +783,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_unlock_turned_on">Uključeno</string>
   <string name="bluetooth_untether_blank">%1$s će biti oslobođen.</string>
   <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
+  <string name="bluetooth_wake">Probudi s Bluetooth audio</string>
   <string name="bootloader">Fastboot način</string>
   <string name="bootloader_apply_step_1">Uključiti Fastboot način?</string>
   <string name="bootloader_apply_step_2">Kada je vaš uređaj u Fastboot načinu rada i spojen na računalo,</string>
@@ -4213,6 +4214,8 @@ Za prikvačivanje zaslona:
   <string name="settings_license_activity_unavailable">Došlo je do problema s učitavanjem licenci.</string>
   <string name="settings_manual_activity_title">Priručnik</string>
   <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
+  <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Mi Cloud da im pristupite nakon što promjenite telefone.</string>
+  <string name="settings_notify_phone_recycled">Vaš je broj telefona recikliran. Dodirnite za dodavanje drugog broja telefona.</string>
   <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
   <string name="settings_safetylegal_activity_unreachable">Nemate podatkovnu vezu. Da biste tu informaciju vidjeli sada, idite na stranicu %s s bilo kojeg računala povezanog s internetom.</string>

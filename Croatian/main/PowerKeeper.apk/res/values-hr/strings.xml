@@ -211,7 +211,7 @@
   <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
   <string name="show_system_app">Prikaži aplikacije sustava</string>
   <string name="sleep_config_enhance_description">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, mobilne podatke i WLAN, i neće upaliti ekran kod obavijesti."</string>
-  <string name="sleep_config_enhance_title">Način mirovanja</string>
+  <string name="sleep_config_enhance_description_non_nfc">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, Bluetooth, GPS, mobilne podatke i WLAN, i neće upaliti ekran kod obavijesti."</string><string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="still">Slika</string>
   <string name="sucess">Gotovo</string>
   <string name="ui">Standardno</string>

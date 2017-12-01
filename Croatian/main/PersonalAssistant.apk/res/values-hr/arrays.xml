@@ -4,4 +4,9 @@
         <item>Crvena - gore, zelena - dolje</item>
         <item>Zelena - gore, crvena - dolje</item>
     </string-array>
+	<string-array name="detail_font_size">
+      <item>Mali</item>
+      <item>Normalan</item>
+      <item>Veliki</item>
+    </string-array>
 </resources>

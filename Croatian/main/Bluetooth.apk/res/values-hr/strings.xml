@@ -16,6 +16,7 @@
   <string name="ble_device_rename">Preimenuj</string>
   <string name="bluetooth_connected">Upareno</string>
   <string name="bluetooth_connecting">Uparivanje…</string>
+  <string name="bluetooth_device_context_unpair">Raspari</string>
   <string name="bluetooth_disconnected">Nije upareno</string>
   <string name="bluetooth_disconnecting">Prekid veze…</string>
   <string name="bluetooth_in_airplane_mode">U Zrakoplovnom načinu</string>
