@@ -72,7 +72,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="enable_cloud_service_notification">Morate aktivirati Mi Cloud</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enable_find_device_success">"Pronađi uređaj" je uključen.</string>
-  <string name="enable_micloud">Koristi Mi Cloud</string>
+  <string name="enable_micloud">Prijavite se kako bi koristili Mi Cloud</string>
   <string name="enable_sync">Sinkr.</string>
   <string name="enable_sync_dspt">"Nemoj sinkr."</string>
   <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
@@ -559,6 +559,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_sub_dspt">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="sync_sub_dspt_provision">Sinkronizacija fotografija, kontakata, glazbe, aplikacija, i više toga između vaših uređaja</string>
   <string name="sync_sub_int_dspt">Međunarodna odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="title_back">Natrag</string>
   <string name="title_reg">Izradite Mi Račun</string>
   <string name="total_space_upgraded_to">Ukupan prostor: %s</string>
   <string name="trying_to_connect_to_network">Povezivanje na mrežu…</string>
@@ -590,5 +591,6 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="wipe_data_dialog_title">"Stavke nisu sinkronizirane"</string>
   <string name="wipe_secret_photo_dialog_title">"Skrivene fotografije nisu sinkronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+   <string name="xiaomi_cloud_service_subtitle">Sve važne stavke na jednom mjestu</string>
   <string name="xmpp_server_addr"/>
 </resources>

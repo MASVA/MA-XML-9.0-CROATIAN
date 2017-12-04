@@ -16,6 +16,8 @@
   <string name="cannot_change_parames">"Ne mogu mijenjati parametre tijekom snimanja"</string>
   <string name="cannot_record">"Ne mogu snimiti, pokušajte ponovo kasnije."</string>
   <string name="date_day"/>
+  <string name="description_content">Snimanje zaslona pruža mogućnosti snimanja na razini sustava. Ova radnja znači da ćete odbaciti značajku snimanja zaslona. Potvrdite da biste nastavili.</string>
+  <string name="description_title">O aplikaciji</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="frames">Broj slika</string>

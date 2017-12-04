@@ -18,6 +18,7 @@
   <string name="account_error_longer_user_name">"Naziv ne može biti duže od 20 znakova"</string>
   <string name="account_error_shorter_user_name">Naziv mora biti duže od 2 znaka</string>
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
+  <string name="account_error_user_name">Ime koje ste unijeli nije važeće</string>
   <string name="account_global_region">Prekomorski</string>
   <string name="account_has_been_set">Promjeni</string>
   <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
@@ -28,7 +29,7 @@
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
-  <string name="account_notification_message">Sesija je istekla. Ponovno se prijavite.</string>
+  <string name="account_notification_message">&gt;Sesija je istekla. Ponovno se prijavite.</string>
   <string name="account_protection">Zaštita računa</string>
   <string name="account_protection_off">Isklj.</string>
   <string name="account_protection_on">Uklj.</string>
@@ -249,6 +250,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_completed">Dovršeno</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_confirm_recycle_account">Da</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Izgleda da je&lt;/font&gt; broj %s reciklirao vaš operater, a Mi Račun je povezan s njim. Je li taj račun vaš?"</string>
   <string name="passport_continue">Nastavi</string>
   <string name="passport_copy_message_text_success">Uspješno kopirano</string>
   <string name="passport_copy_message_vcode">Kopiraj kod</string>
@@ -291,6 +293,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_forget_password">Zaboravljena zaporka</string>
   <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
   <string name="passport_get_back_pwd">Dobivanje zaporke računa</string>
+  <string name="passport_get_innetdate_agree">Provjeri</string>
+  <string name="passport_get_innetdate_disagree">Ne</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Izgleda da je&lt;/font&gt; broj %s reciklirao vaš operater. Provjeriti kada je broj online?</string>
+  <string name="passport_get_innetdate_title">Provjeri kada je broj online</string>
   <string name="passport_get_verify_code">Nabavite kod</string>
   <string name="passport_getting_activator_phone">Dobivanje podataka o SIM-u…</string>
   <string name="passport_getting_verify_code">Nabava</string>
@@ -439,6 +445,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="push_notify_dialog_message">"Nepoznati uređaj se koristi za prijavu na vaš Mi Račun. Upišite kod za provjeru na uređaju. Ako to niste bili vi, promijenite odmah zaporku Mi Računa. Ne otkrivajte kod za provjeru drugim osobama."</string>
   <string name="push_notify_dialog_title">Provjera računa</string>
   <string name="qq">QQ</string>
+  <string name="recycle_phone_notification_msg">Izgleda da je vaš broj telefona recikliran. Dodirnite za ažuriranje.</string>
+  <string name="recycle_phone_notification_title">Sigurnosni rizik Mi Računa</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
   <string name="remove_device_success_notice">Ako uklonite ovaj uređaj iz vaših pouzdanih uređaja, možda ćete morati ponovno ići na postupak provjere kada se prijavite.​</string>
   <string name="remove_trust_btn">Ukloni iz pouzdanih uređaja</string>
@@ -495,6 +503,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="service_error">Pogreška usluge</string>
   <string name="set_success">Uspješno promjenjeno</string>
   <string name="sign_in">Prijavi se</string>
+  <string name="sim_changed_notification_msg">Dodirnite za ažuriranje vašeg telefona za oporavak i zadržite svoj račun sigurnijim.</string>
+  <string name="sim_changed_notification_title">Broj telefona je promijenjen?</string>
   <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Poslano</string>
