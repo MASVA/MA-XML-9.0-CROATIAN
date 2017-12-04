@@ -197,7 +197,6 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_clear_data_dlg_message">Svi podaci aplikacije, uključujući datoteke, postavke, račune, baze podataka, i predmemorija će trajno biti izbrisani.</string>
   <string name="app_manager_clear_data_dlg_title">Izbrisati sve podatke?</string>
   <string name="app_manager_clear_dlg_title">Izbriši podatke</string>
-  <string name="app_manager_clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
   <string name="app_manager_clear_failed_dlg_message">Ne mogu izbrisati podatke aplikacije.</string>
   <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
   <string name="app_manager_code_size">Veličina aplikacije</string>
