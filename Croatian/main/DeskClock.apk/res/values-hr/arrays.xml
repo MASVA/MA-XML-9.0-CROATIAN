@@ -68,4 +68,14 @@
         <item>"Odbaci"</item>
         <item>"Odgodi alarm"</item>
     </string-array>
+	<string-array name="weather_tips_value">
+        <item>Smanjite aktivnosti na otvorenom</item>
+        <item>Ceste su skliske</item>
+        <item>Vrijeme je olujno, budite oprezni!</item>
+        <item>Zrak je zagađen, nosite masku!</item>
+        <item>Uzmi kišobran kad izlaziš</item>
+        <item>Budite oprezni na cesti</item>
+        <item>Pješčana oluja dolazi, nosite masku!</item>
+        <item>Ugodan dan!</item>
+    </string-array>
 </resources>

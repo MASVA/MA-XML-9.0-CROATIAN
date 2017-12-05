@@ -31,6 +31,10 @@
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="downloading_in_wifi">Preuzimanje…</string>
+  <string name="drive_low_memory_description_content">Nedostaje prostora za pohranu. Izbrišite otpad kako biste oslobodili više prostora za pohranu.</string>
+  <string name="drive_low_memory_description_title">Nedostaje prostora za pohranu</string>
+  <string name="drive_low_memory_description_toast">Nedostaje prostora za pohranu, molimo vas očistite nakon uporabe Mi Drive-a</string>
+  <string name="drive_low_memory_positive_content">Očisti</string>
   <string name="empty_file_download">"Prazne datoteke nisu podržane."</string>
   <string name="empty_file_upload">"Prazne datoteke nisu podržane."</string>
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>

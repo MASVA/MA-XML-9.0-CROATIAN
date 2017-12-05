@@ -447,6 +447,10 @@
   <string name="fetch_bank_sender_list_failure">"Nije bilo moguće dobiti informacije"</string>
   <string name="fetching_attachment">Dohvaćanje privitka</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
+  <string name="file_defailt_save_path">Privici se prema zadanim postavkama spremaju u mapu %s. Mapu možete promijeniti u Postavkama.</string>
+  <string name="file_default_save_path_title">Zadana lokacija za privitke</string>
+  <string name="file_save_path_dialog_cancel">Shvaćam</string>
+  <string name="file_save_path_dialog_ok">Promjeni sada</string>
   <string name="file_not_found">"Ne mogu pronaći datoteku"</string>
   <string name="file_not_found_redownload">"Ne mogu pronaći datoteku"</string>
   <string name="file_rar_not_support">"Ne mogu otvoriti šifriranu rar datoteku"</string>
@@ -1023,6 +1027,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="system_folders_trash_title">Mapa za otpad</string>
   <string name="system_security_open_error">Nije moguće podesiti sigurnosni centar. Otvorite dopuštenja u postavkama telefona</string>
   <string name="system_setup_open_error">"Nije moguće pozvati sinkronizaciju računa, uključite "postavljanje" sustava u računu za sinkronizaciju e-pošte"</string>
+  <string name="system_root_path">Postavke za unutarnju pohranu</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Dodirnite za postavljanje</string>
   <string name="tap_to_enable_sync">Dodirnite za isključivanje.</string>
@@ -1039,6 +1044,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Promjena sinkronizacije kalendara i kontakata je zatvorena. Kalendar i kontakti ne mogu se sinkronizirati</string>
   <string name="toastbar_local_calendar_sync_switch_close">Promjena sinkronizacije kalendara je zatvorena. Kalendar se ne može sinkronizirati</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Promjena sinkronizacije kontakata je zatvorena. Kontakti se ne mogu se sinkronizirati</string>
+  <string name="toast_bar_send_fail_remind">"Ne mogu poslati e-poštu. Spremljeno u mapu \"Odlazno\".</string>
   <string name="today_text">Danas</string>
   <string name="too_large_to_attach_additional">"Veličina datoteke ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo.Veličina ne smije prelaziti %1$s."</string>

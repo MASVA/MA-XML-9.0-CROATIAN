@@ -10,6 +10,7 @@
   <string name="bluetooth_connecting">Uparivanje…</string>
   <string name="bluetooth_disconnected">Nije upareno</string>
   <string name="bluetooth_disconnecting">Prekid veze…</string>
+  <string name="bluetooth_device_context_unpair">Raspari</string>
   <string name="bluetooth_preference_connected_devices">Upareni uređaji</string>
   <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
   <string name="bluetooth_preference_scan_title">Pretraži za uređaje</string>
