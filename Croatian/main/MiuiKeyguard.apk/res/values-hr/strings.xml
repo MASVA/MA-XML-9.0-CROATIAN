@@ -118,7 +118,8 @@
   <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
-  <string name="lock_screen_date_12">EE, dd.MM.</string>
+  <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+  <string name="lock_screen_no_sim_card">Nema SIM kartice</string>
   <string name="lock_wallpaper_enter">Uđi</string>
   <string name="lock_wallpaper_learn_more">Više</string>
   <string name="lock_wallpaper_see_more">Više</string>

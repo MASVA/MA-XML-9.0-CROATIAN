@@ -1988,7 +1988,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja kod poziva</string>
   <string name="incoming_call_volume_title">Zvuk zvona</string>
   <string name="infinity_display_settings">Prikaz preko cijelog zaslona</string>
-  <string name="infinity_display_slogan">Nastavak rasta neistraženih tehnologija</string>
+  <string name="infinity_display_slogan">Inovacija na punom zaslonu</string>
   <string name="infinity_display_title">Prikaz preko cijelog zaslona</string>
   <string name="information_dialog_button_text">Shvaćam</string>
   <string name="input_method">Tipkovnica</string>
@@ -2287,9 +2287,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
   <string name="lock_screen_signature_summary">Ova će poruka biti prikazana na Zaklj. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o vlasniku na Zaklj. zaslonu</string>
-  <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
-  <string name="lock_screen_unlock_show_summary">Idi izravno na Početni zaslon ili unos zaporke nakon buđenja</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za promjenu</string>
+  <string name="lock_screen_unlock_show">Preskoči Zaklj. zaslon</string>
+  <string name="lock_screen_unlock_show_summary">Otvori Početni zaslon ili izravno unesite zaporku</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Dodirni za promjenu</string>
   <string name="lock_settings">Zaklj. zaslon &amp; zaporka</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
   <string name="lock_settings_picker_fingerprint_message">Odaberite pričuvni način zaključavanja zaslona</string>
@@ -4396,7 +4396,7 @@ Možda je PIN netočan."</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
-  <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na Zaklj. zaslonu.</string>
+  <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole glazbe i prečaci neće se prikazati na Zaklj. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_number">(Utor %1$d)</string>
@@ -5385,7 +5385,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="vr_listeners_title">Pomoćne usluge za virtualnu stvarnost</string>
   <string name="wait_for_debugger">Čeka se program za uklanjanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za uklanjanje pogrešaka prije pokretanja</string>
-  <string name="wakeup_for_keyguard_notification_title">Uključi zaslon kod obavijesti</string>
+  <string name="wakeup_for_keyguard_notification_title">Uključi Zaklj. zaslon kod obavijesti</string>
   <string name="wallpaper_attributions">Slike pozadine</string>
   <string name="wallpaper_desktop">Početni zaslon</string>
   <string name="wallpaper_live">Animirana pozadina</string>
@@ -5393,7 +5393,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wallpaper_settings_fragment_title">"Odabir slike pozadine iz"</string>
   <string name="wallpaper_settings_title">"Slika pozadine"</string>
   <string name="wallpaper_suggestion_summary">Prilagodite zaslon</string>
-  <string name="wallpaper_suggestion_title">Promijenite pozadinsku sliku</string>
+  <string name="wallpaper_suggestion_title">Promijenite sliku pozadine</string>
   <string name="webview_license_title">WebView licenca sustava</string>
   <string name="welcome">"Dobro došli!"</string>
   <string name="wfd_available_devices">Dostupni uređaji</string>

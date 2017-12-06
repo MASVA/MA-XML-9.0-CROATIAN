@@ -824,8 +824,8 @@
         <item>Uvijek pitaj</item>     
 	</string-array>
 	<string-array name="status_bar_show_carrier_entries">
-        <item>Prikaži samo na Zaklj. zaslonu i Panelu obavijesti</item>
-        <item>Uvijek prikaži naziv operatera</item>
+        <item>Prikaži samo na Zaklj. zaslonu</item>
+        <item>Prikaži samo na traci statusa</item>
         <item>Nikad ne prikazuj ime operatera</item>
      </string-array>
     <string-array name="wifi_calling_mode_choices">
