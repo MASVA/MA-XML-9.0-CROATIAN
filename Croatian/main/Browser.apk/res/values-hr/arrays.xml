@@ -60,13 +60,6 @@
         <item>Samo na WLAN-u</item>
         <item>Uvijek</item>
     </string-array>
-        <item>Bijela</item>
-        <item>Žuta</item>
-        <item>Siva</item>
-        <item>Smeđa</item>
-        <item>Zelena</item>
-        <item>Plava</item>
-    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Sitni</item>
         <item>Mali</item>
