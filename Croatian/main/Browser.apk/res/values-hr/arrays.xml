@@ -60,8 +60,6 @@
         <item>Samo na WLAN-u</item>
         <item>Uvijek</item>
     </string-array>
-	 <array name="config_keySystemUuidMapping" />
-    <string-array name="menu_theme_setting">  
         <item>Bijela</item>
         <item>Žuta</item>
         <item>Siva</item>
