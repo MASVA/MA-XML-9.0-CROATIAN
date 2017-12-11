@@ -2500,7 +2500,6 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
   <string name="tether_custom_dialog_title">Ograničenje mobilnih podataka</string>
   <string name="tether_limit_dialog_title">Ograničenje mobilnih podataka</string>
-  <string name="tether_limit_value_custom">Prilagođeno</string>
   <string name="tether_over_limit_dialog_cancle_btn">Resetiraj hotspot</string>
   <string name="tether_over_limit_dialog_message">Dosegnuli ste ograničenje podataka za hotspot.</string>
   <string name="tether_over_limit_dialog_title">Upozorenje uporabe podataka</string>
