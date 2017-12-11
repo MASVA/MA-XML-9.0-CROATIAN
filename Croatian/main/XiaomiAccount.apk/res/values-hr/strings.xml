@@ -216,7 +216,7 @@
   <string name="oauth_title">Prijavite se s Mi Računom</string>
   <string name="other_devices_title">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
-  <string name="passport_account_hint_text">Adresa E-pošte, broj telefona ili ID Mi Računa</string>
+  <string name="passport_account_hint_text">Email/Broj telefona/ID Mi Računa</string>
   <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -228,7 +228,7 @@
   <string name="passport_account_set_password_title">Postavi zaporku</string>
   <string name="passport_active_email_visit">Provjerite svoju poštu na %s</string>
   <string name="passport_activing_account">Aktivacija…</string>
-  <string name="passport_adding_account">Dodaavanje računa…</string>
+  <string name="passport_adding_account">Dodavanje računa…</string>
   <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
   <string name="passport_area_code_title">Kod zemlje</string>
   <string name="passport_auto_generate_pwd">Generiraj sigurnu zaporku</string>
@@ -259,7 +259,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_downlink_reg">Broj telefona</string>
   <string name="passport_email">Adresa E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
-  <string name="passport_email_or_id_hint_text">Adresa E-pošte ili ID Mi Računa</string>
+  <string name="passport_email_or_id_hint_text">Email/ID Mi Računa</string>
   <string name="passport_email_reg_success_summary">%1$s je povezan s vašim računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_error_auth_fail">Sesija istekla, ponovno se prijavite kasnije</string>
   <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>

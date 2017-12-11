@@ -4782,6 +4782,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="testing_usage_stats">Korisnička statistika</string>
   <string name="testing_wifi_info">WLAN informacije</string>
   <string name="tether_and_hotspot_title">Dijeljenje veze &amp; prijenosni hotspot</string>
+  <string name="tether_data_usage_limit">Jednokratno ograničenje podataka</string>
+  <string name="tether_data_usage_limit_summary">Ograničenje podataka primijenit će se sljedeći put kada hotspot bude uključen</string>
   <string name="tether_devices_management_title">Upravljaj uređajima</string>
   <string name="tether_devices_max_number">Ograničenje povezanih uređaja</string>
   <string name="tether_settings_disabled">Prijenosni hotspot je isključen</string>

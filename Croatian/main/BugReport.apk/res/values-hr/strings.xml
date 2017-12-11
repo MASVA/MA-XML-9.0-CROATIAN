@@ -121,6 +121,7 @@
   <string name="from">šalje %1$s</string>
   <string name="goon_feedback_main">Nastavi</string>
   <string name="hint_feedback_main">Opišite problem</string>
+  <string name="issue_search">Traži</string>
   <string name="loading_apps">Učitavanje popisa…</string>
   <string name="login_system_failed">"Ne mogu se prijaviti, pokušajte ponovno"</string>
   <string name="logo_title">Pov. informacije</string>

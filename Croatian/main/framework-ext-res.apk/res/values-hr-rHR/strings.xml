@@ -82,7 +82,7 @@
   <string name="miui_screen_ratio_hint">Problem s omjerom zaslona</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"Ne prikazuj ponovno"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Idi u Postavke</string>
-  <string name="miui_screen_ratio_hint_message">Ova se aplikacija ne može pokrenuti u cijelom zaslonu, što može uzrokovati pogrešno prikazivanje. To možete promijeniti u Postavke &gt; Dodatne postavke &gt; Tipke.</string>
+  <string name="miui_screen_ratio_hint_message">Ova se aplikacija može pokrenuti u cijelom zaslonu, što može uzrokovati pogrešno prikazivanje. To možete promijeniti u Postavke &gt; Prikaz preko cijelog zaslona.</string>
   <string name="miui_screen_ratio_hint_ok">U redu</string>
   <string name="miui_upgrading_notification_title">Sustav se učitava, neke značajke mogu biti ograničene</string>
   <string name="onehour">30 minuta</string>

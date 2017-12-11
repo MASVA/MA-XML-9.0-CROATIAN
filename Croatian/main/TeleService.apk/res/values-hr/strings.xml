@@ -694,6 +694,8 @@
   <string name="dtmf_tone_entries_normal">Normalan</string>
   <string name="dtmf_tones_summary">Postavite duljinu DTMF tonova</string>
   <string name="dtmf_tones_title">DTMF tonovi</string>
+  <string name="dual_4g_switch_summary">Dopusti 4G povezivost za oba SIM utora.</string>
+  <string name="dual_4g_switch_title">Dvostruki 4G</string>
   <string name="duration_disable_summary">Vrijeme trajanja zaslona je ISKLJUČENO</string>
   <string name="duration_enable_summary">Vrijeme trajanja zaslona je UKLJUČENO</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -736,6 +738,7 @@
   <string name="enable_disable_retail_directory">Maloprodajni imenik</string>
   <string name="enable_disable_stock_quotes">Burzovne kotacije</string>
   <string name="enable_disable_technology_news">Vijesti iz tehnologije</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE zahtijeva 4G povezivost za oba SIM utora. Promjeniti sada na Dvostruki 4G?</string>
   <string name="enable_fdn">Omogući FDN</string>
   <string name="enable_fdn_ok">Onemogući FDN</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
@@ -1960,6 +1963,8 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Izmjena TTY načina rada nije dopuštena tijekom VT poziva</string>
   <string name="tty_mode_option_summary">Postavi način TTY</string>
   <string name="tty_mode_option_title">Način TTY</string>
+  <string name="turn_off_dual_4g_failed">"Ne mogu isključiti Dvostruki 4G."</string>
+  <string name="turn_on_dual_4g_failed">"Ne mogu uključiti Dvostruki 4G."</string>
   <string name="turnover_mute_summary">"Kada je telefon na vodoravnoj površini sa zaslonom okrenutim prema gore, preokrenite za utišavanje zvona."</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>

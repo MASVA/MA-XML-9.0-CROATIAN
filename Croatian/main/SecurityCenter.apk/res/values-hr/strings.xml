@@ -883,6 +883,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_allow_wlan">Dopusti korištenje WLAN veze</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
+  <string name="firewall_mobile">Mobilni podaci</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalirano</string>
   <string name="firewall_fragment_tab_title_sys">Sustav</string>
@@ -900,6 +901,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_restrict_wlan">Ograniči korištenje WLAN veze</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
+  <string name="firewall_system_title">Uporaba podataka za aplikacije sustava</string>
+  <string name="firewall_wifi">WLAN</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću WLAN-a kada je ova stavka isključena.​"</string>
@@ -2495,6 +2498,14 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
+  <string name="tether_custom_dialog_title">Ograničenje mobilnih podataka</string>
+  <string name="tether_limit_dialog_title">Ograničenje mobilnih podataka</string>
+  <string name="tether_limit_value_custom">Prilagođeno</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Resetiraj hotspot</string>
+  <string name="tether_over_limit_dialog_message">Dosegnuli ste ograničenje podataka za hotspot.</string>
+  <string name="tether_over_limit_dialog_title">Upozorenje uporabe podataka</string>
+  <string name="tether_over_limit_warning_notify_message">Isključi prijenosni hotspot.</string>
+  <string name="tether_over_limit_warning_notify_title">Dosegnuto ograničenje podataka hotspota</string>
   <string name="text_button">U redu</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
