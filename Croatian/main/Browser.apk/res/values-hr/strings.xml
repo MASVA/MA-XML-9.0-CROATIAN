@@ -51,6 +51,9 @@
   <string name="action_menu_toolbox">Alati</string>
   <string name="action_menu_useful_page">Dodaj prečac</string>
   <string name="action_menu_useful_page_added">Dodano na početnu stranicu</string>
+  <string name="action_menu_user_center">Korisnički centar</string>
+  <string name="action_modify_bookmark">Izmijeni oznaku</string>
+  <string name="action_put_in_search_box">Stavi %s u okvir za pretraživanje</string>
   <string name="actionbar_share">Podijeli</string>
   <string name="actionbar_textselection_title">Odabir teksta</string>
   <string name="actionbar_web_search">Pretraživanje weba</string>

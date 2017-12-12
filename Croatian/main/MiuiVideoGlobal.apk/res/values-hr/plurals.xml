@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Titlovi se premještaju za %.1f sek. unaprijed</item>
+        <item quantity="one">Titlovi se premještaju za %.1f sek. unaprijed</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Titlovi se odgađaju za %.1f sek.</item>
+        <item quantity="one">Titlovi se odgađaju za %.1f sek.</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Veličina: %.2fKB</item>
+        <item quantity="one">Veličina: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d videozapisa</item>
+        <item quantity="one">%d videozapis</item>
+    </plurals>
+</resources>
