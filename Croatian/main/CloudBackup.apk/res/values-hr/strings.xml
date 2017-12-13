@@ -95,6 +95,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="desktop_recovering">Vraćanje</string>
   <string name="desktop_wait_wifi">Čekanje</string>
   <string name="desktop_waiting">Čekanje</string>
+  <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_cancel_backup_cancel">Odustani</string>
@@ -154,11 +155,10 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
-  <string name="restoring_file_tile">Vraćanje datoteka %d</string>
-  <string name="restoreing_file_tile">Vraćanje datoteka %d</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
+  <string name="size_unknown">Veličina nepoznata</string>
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>

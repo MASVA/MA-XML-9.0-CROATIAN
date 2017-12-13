@@ -1115,7 +1115,9 @@ to start using Top-up package"</string>
   <string name="missed_call_notify_times_summary">Odaberite koliko puta želite da vas se podsjeti o propuštenom pozivu (5-minutni interval)</string>
   <string name="missed_call_notify_times_title">Podsjetnik propuštenih poziva</string>
   <string name="missed_call_notify_twice">2x</string>
-  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Odabrana mreža (%s) nije dostupna</string>
+  <string name="miui_network_selection_reset_text">Resetiraj</string>
+  <string name="miui_notification_network_selection_title">SIM nema usluge</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s nema usluge</string>
   <string name="mmiCancelled">Otkazan je MMI kôd</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
   <string name="mo_call_type_title">MO Vrsta Poziva</string>
