@@ -2726,7 +2726,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
+  <string name="music_dirac_mode_reduction_noise">Smanjenje buke (USB-C)</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer možete koristiti samo u Dolby glazbenom načinu. Omogućiti ga sada?</string>
@@ -4985,6 +4985,9 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Značajke zaštite uređaja neće funkcionirati bez PIN-a. S uređaja će se ukloniti i spremljeni otisci prsta i nećete moći otključati telefon, autorizirati kupnje ili se prijaviti na aplikacije pomoću njih.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Značajke za zaštitu profila neće funkcionirati bez PIN-a. S profila će se ukloniti i spremljeni otisci prstiju i nećete ih moći upotrebljavati za otključavanje profila, autoriziranje kupnji niti za prijavljivanje na aplikacije.</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Značajke za zaštitu profila neće funkcionirati bez PIN-a.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Značajke zaštite profila neće raditi bez vaše zaporke.
+ 
+  Nećete moći otključati svoj profil, autorizirati kupnje ili se prijaviti u aplikacije s njima."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Značajke zaštite uređaja neće funkcionirati bez zaključavanja zaslona.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Značajke zaštite uređaja neće funkcionirati bez zaključavanja zaslona. S uređaja će se ukloniti i spremljeni otisci prsta i nećete moći otključati telefon, autorizirati kupnje ili se prijaviti na aplikacije pomoću njih.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Značajke za zaštitu profila neće funkcionirati bez zaključavanja zaslona. S profila će se ukloniti i spremljeni otisci prstiju i nećete ih moći upotrebljavati za otključavanje profila, autoriziranje kupnji niti za prijavljivanje na aplikacije.</string>
@@ -5017,6 +5020,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unlock_set_unlock_none_title">Ništa</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Ništa</string>
+  <string name="unlock_set_unlock_password_none">Ništa</string>
   <string name="unlock_set_unlock_password_summary">Unesite 4 ili više slova ili brojeva za otključavanje uređaja</string>
   <string name="unlock_set_unlock_password_title">Zaporka</string>
   <string name="unlock_set_unlock_pattern_summary">Iscrtajte jednostavan uzorak prstom za otključavanje uređaja</string>
