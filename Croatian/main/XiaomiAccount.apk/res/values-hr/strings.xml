@@ -248,6 +248,7 @@ Da aktivirate svoj korisnički račun, slijedite
 poveznicu u poruci koju smo poslali na vašu dolaznu poštu
 ."</string>
   <string name="passport_completed">Dovršeno</string>
+  <string name="passport_confirm_login">Nastavi</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Izgleda da je&lt;/font&gt; broj %s reciklirao vaš operater, a Mi Račun je povezan s njim. Je li taj račun vaš?"</string>

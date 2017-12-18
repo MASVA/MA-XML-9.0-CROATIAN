@@ -183,7 +183,7 @@
   <string name="cloud_antispam_marked">Prijavljeno</string>
   <string name="cloud_antispam_title">ID Pozivatelja</string>
   <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloudom.</string>
-  <string name="cloud_state_disabled">Sinkronizacija s Mi Cloudom je isključena</string>
+  <string name="cloud_state_disabled">Sinkronizirajte kontakte s Mi Cloudom</string>
   <string name="cloud_state_loading">Samo trenutak…</string>
   <string name="cloud_state_sync_finished">Sinkronizirano s Mi Cloud</string>
   <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
@@ -1277,8 +1277,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_voicemail">"Govorna pošta"</string>
   <string name="unable_get_device_id">"Ne mogu dobiti IMEI"</string>
   <string name="unfold_all">Prikaži sve</string>
-  <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
-  <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
+  <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznate brojeve"</string>
+  <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznate brojeve"</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_contact_name">Nepoznati kontakt</string>
   <string name="unknown_details_add_to_contact">Postojeći</string>

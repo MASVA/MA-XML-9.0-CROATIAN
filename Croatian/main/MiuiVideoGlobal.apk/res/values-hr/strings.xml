@@ -27,6 +27,8 @@
   <string name="audio_changed">Novi audio zapis</string>
   <string name="audio_title">Audio zapis</string>
   <string name="audio_track">Audio zapis</string>
+  <string name="com_permission_desc">"Mi Video ne može pristupiti videozapisima na vašem uređaju. Omogućite pristup u Postavkama."</string>
+  <string name="com_permission_title">Potrebno je dopuštenje</string>
   <string name="do_not_show_this_again">Ne prikazuj ponovno</string>
   <string name="lp_advance_sound">Poboljšanje zvuka</string>
   <string name="lp_brightness">Jačina svjetline</string>

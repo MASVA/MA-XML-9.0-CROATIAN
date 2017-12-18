@@ -44,7 +44,6 @@
   <string name="accessibility_desc_reconfirm_block">Sakriti sada?</string>
   <string name="accessibility_desc_select_block_notification">Odaberite obavijesti za sakrivanje</string>
   <string name="accessibility_desc_uncheck_block_notification">"Poništen odabir %1$s obavijesti"</string>
-  <string name="accessibility_desc_weather_temperature">Vrijeme stupnjeva %1s</string>
   <string name="accessibility_desc_work_lock">Radni Zaklj. zaslon</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>

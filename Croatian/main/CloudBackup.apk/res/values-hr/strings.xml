@@ -22,6 +22,7 @@
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
   <string name="btn_back">Natrag</string>
   <string name="btn_continue">Nastavi</string>
+  <string name="btn_retry">Provjeri ponovno</string>
   <string name="btn_skip">Preskoči ovaj korak</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
@@ -131,6 +132,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="open_wifi_description">Poveži se na WLAN mrežu za vraćanje aplikacije</string>
   <string name="open_wifi_setting">WLAN postavke</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
+  <string name="provision_error_connect_msg">Možete testirati mrežu i pokušati ponovo. Funkcija Sig. kopije neće biti dostupna bez važeće mreže.</string>
+  <string name="provision_error_connect_title">Ne mogu se povezati</string>
   <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
   <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
   <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>

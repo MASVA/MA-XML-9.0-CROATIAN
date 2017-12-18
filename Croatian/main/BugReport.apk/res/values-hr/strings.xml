@@ -265,7 +265,7 @@
   <string name="section_description">Opis</string>
   <string name="section_err_type">Vrsta pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>
-  <string name="select_system_app_tag">Odaberi oznake</string>
+  <string name="select_system_app_tag">Odaberite problem</string>
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>

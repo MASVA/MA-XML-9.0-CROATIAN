@@ -167,7 +167,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_battery_low_notification_message">Priključite punjač da sinkr.</string>
   <string name="micloud_battery_low_notification_title">Slaba baterija</string>
   <string name="micloud_buy_member">Kupite Mi Cloud članstvo</string>
-  <string name="micloud_buy_member_safe">Kupite Mi Cloud članstvo</string>
+  <string name="micloud_buy_member_safe">Proširi Mi Cloud pohranu</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
@@ -299,6 +299,11 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_error_activated_fail">Aktivirajte SIM karticu.</string>
   <string name="micloud_main_error_network_disallowed">Provjerite jeste li dopustili pristup internetu.</string>
   <string name="micloud_main_error_permission_limit">Omogućite Mi Cloudu pristup pohrani.</string>
+  <string name="micloud_main_head_menu_cloud_backup">Mi Cloud Sig. kopija</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Ponovno izradi Sig. kopiju kontakata, fotografija</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Koš za smeće</string>
+  <string name="micloud_main_head_menu_state_close">Zatvoreno</string>
+  <string name="micloud_main_head_menu_state_open">Otvoreno</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
   <string name="micloud_main_master_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u Cloudu."</string>
@@ -347,6 +352,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_wait_wlan_charge">Povežite se s WLAN mrežom i potpuno napunite uređaj da nastavite sinkronizaciju.</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Povežite se s WLAN mrežom, isključite zaslon i potpuno napunite uređaj da nastavite sinkronizaciju.</string>
   <string name="micloud_main_wlan_sync_data_count">Stavaka (%d) čeka na sinkr.</string>
+  <string name="micloud_manage_space_data">Upravljaj podacima Mi Clouda</string>
   <string name="micloud_member">Mi Cloud članstvo</string>
   <string name="micloud_member_advantage">Nabavite više prostora za pohranu.</string>
   <string name="micloud_member_buy_content" formatted="false">"Valjanost %s-%s-%s
@@ -585,10 +591,10 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="virtual_sim_desc">Uključite Mi SIM da locirate uređaj bez SIM kartice</string>
   <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Provjeri ako je sinkronizirano</string>
-  <string name="wipe_data_dialog_msg">"Neke stavke (%s) nisu sinkronizirane. Spremit će se na vaš uređaj i neće se izbrisati."</string>
+  <string name="wipe_data_dialog_msg">"%s nije sinkr. i ostati će na vašem telefonu."</string>
   <string name="wipe_data_dialog_msg_and_on">, i neke druge stavke</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Stavke nisu sinkronizirane"</string>
+  <string name="wipe_data_dialog_title">"Neke stavke nisu sinkronizirane"</string>
   <string name="wipe_secret_photo_dialog_title">"Skrivene fotografije nisu sinkronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
    <string name="xiaomi_cloud_service_subtitle">Sve važne stavke na jednom mjestu</string>
