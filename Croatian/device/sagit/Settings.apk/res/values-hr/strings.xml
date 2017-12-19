@@ -49,7 +49,6 @@ Tipkovnica i navigacijska traka ne mogu se povećati."</string>
 
 Tipkovnica i navigacijska traka ne mogu se povećati."</string>
     <string name="accessibility_screen_magnification_title">Povećavanje</string>
-     <string name="accessibility_screen_magnification_state_navbar_gesture">Povećavanje gumbom i trostrukim dodirom</string>
     <string name="accessibility_settings_summary">Čitači zaslona, zaslon, kontrole interakcije</string>
     <string name="accessibility_shortcut_description">Kad je taj prečac uključen, možete na tri sekunde pritisnuti oba gumba za glasnoću kako biste pokrenuli značajku prisupačnosti.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Dopusti sa zaključanog zaslona</string>

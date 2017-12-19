@@ -189,7 +189,7 @@
         <item>Pokaži područja slojnih iscrtavanja</item>
         <item>Prikaži područja za deuteranomaliju</item>
     </string-array>
-     <string-array name="proc_stats_process_states">
+    <string-array name="proc_stats_process_states">
         <item>Postojana</item>
         <item>Glavna aktivnost</item>
         <item>Važna (u prvom planu)</item>
@@ -297,7 +297,7 @@
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Posljednjih 30 dana</item>
-        <item>Postavi ciklus uporabe...</item>
+        <item>Postavi ciklus uporabe…</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Isključeno</item>
@@ -312,7 +312,6 @@
         <item>samo jezgra</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_v2">
-    <string-array name="wifi_calling_mode_choices_v2">
         <item>WLAN</item>
         <item>Mobilni uređaj</item>
         <item>Samo WLAN</item>
