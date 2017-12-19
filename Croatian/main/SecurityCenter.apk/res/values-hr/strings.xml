@@ -810,8 +810,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_import_whitelist">Dodavanje…</string>
   <string name="dlg_keyword_ok">Spremi</string>
   <string name="dlg_message_not_open_stranger_identify">Za uključivanje ove funkcije, idite u Postavke &gt; Telefon.</string>
-  <string name="dlg_no_block">Odblokirati taj broj i vratiti pozive s tog broja u povijest poziva?</string>
-  <string name="dlg_no_block_ok">Odblokiraj</string>
+  <string name="dlg_no_block">Deblokirati taj broj i vratiti pozive s tog broja u povijest poziva?\n(Broj će biti dodan na listu dopuštenih poziva)</string>
+  <string name="dlg_no_block_ok">Deblokiraj</string>
   <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Ukloniti ovaj broj s liste blokiranih?</string>
@@ -854,7 +854,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="enable_network">Uključite najprije mrežu</string>
   <string name="every_day">Svaki dan</string>
   <string name="examination_score_100">Sve izgleda uredno!</string>
-  <string name="examination_score_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
+  <string name="examination_score_100_with_recommend">Ovoliko stavki(%d) može biti optimizirano</string>
   <string name="examination_score_60_0">Skeniraj sada</string>
   <string name="examination_score_80_100">Nekoliko stavki može biti optimizirano</string>
   <string name="examination_score_80_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
@@ -2260,6 +2260,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_filter_keywords_setting_summary1">SMS od nepoznatih brojeva koje sadrže ključnu riječ bit će blokirane.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Upotrijebite \",\" za odvajanje više ključnih riječi)"</string>
+  <string name="st_filter_keywords_setting_summary3">Poruke sa nepoznatih brojeva koje sadrže riječi na ovom popisu bit će dopuštene.</string>
   <string name="st_filter_keywords_setting_title">Konfiguriraj filtar ključnih riječi</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>
   <string name="st_group_list_management">Upravljaj Listom blokiranih</string>
@@ -2270,7 +2271,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_message_phone_AntiSpam">Blokiraj pozive</string>
   <string name="st_message_phonepass">Dopusti pozive</string>
   <string name="st_msg_intercept_contacts">Blokiraj SMS od stranaca</string>
+  <string name="st_msg_keyword_black">Lista blokiranih ključnih riječi</string>
   <string name="st_msg_keyword_group">Lista blokiranih ključnih riječi</string>
+  <string name="st_msg_keyword_white">Izuzeci ključnih riječi</string>
   <string name="st_msg_other_group">Ostalo</string>
   <string name="st_msg_settings">Blokiraj poruke</string>
   <string name="st_msg_stranger_group">Poruke od stranaca</string>
@@ -2311,7 +2314,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_title_call_wait_setting">Poziv na čekanju</string>
   <string name="st_title_editblacklist">Uredi listu blokiranih</string>
   <string name="st_title_editwhitelist">Uredi iznimke</string>
-  <string name="st_title_keywords_blacklist">Filter ključnih riječi</string>
+  <string name="st_title_keywords_blacklist">Lista blokiranih ključnih riječi</string>
+  <string name="st_title_keywords_whitelist">Lista dopuštenih ključnih riječi</string>
   <string name="st_title_man_addblacklist">Dodaj broj na listu blokiranih</string>
   <string name="st_title_man_addwhitelist">Dodaj broj telefona u iznimke</string>
   <string name="st_title_man_editblacklist">Izaberite predbroj mjesta za dodavanje na listu blokiranih</string>
