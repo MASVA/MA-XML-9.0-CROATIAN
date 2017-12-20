@@ -460,6 +460,8 @@ Oslobodite najmanje %s."</string>
  Odaberite datoteke ponovno ili oslobodite %s prostora na novom uređaju"</string>
   <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
  Slične datoteke na novom uređaju će biti presnimljene"</string>
+ <string name="trans_select_data_too_large">"Odabrali ste previše stavki za prijenos.
+Odaberite samo važne stavke da brže obavite prijenos."</string>
   <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
   <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
   <string name="trans_sender">"Ja sam pošiljatelj"</string>

@@ -405,6 +405,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="average_used">Prosječna upotreba (%)</string>
   <string name="avoid_ui">Blokiraj dodir</string>
   <string name="awake">Vrijeme budnosti uređaja</string>
+  <string name="back_button">Natrag</string>
   <string name="back_key">Natrag</string>
   <string name="background_check_pref">Provjera u pozadini</string>
   <string name="background_check_title">Potpuni pristup u pozadini</string>
