@@ -572,6 +572,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="ok">U redu</string>
   <string name="older">Starije</string>
   <string name="open_app_confirm_message">Dopustiti ovoj stranici da otvori %s?</string>
+  <string name="open_cloud_sync">Otvori cloud sinkronizaciju</string>
+  <string name="open_cloud_sync_desc">Oznaka je dodana. Uključite cloud sinkronizaciju i dodane će oznake biti sinkronizirane s ovim uređajem. Prijaviti se i otvoriti?</string>
   <string name="open_file_explorer_failed">"Ne mogu otvoriti aplik. Datoteke"</string>
   <string name="open_voice_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
   <string name="opening_file_error">"Ne mogu otvoriti odabranu datoteku"</string>
@@ -817,6 +819,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="show_check_security_url_check_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Preglednik treba povezivanje s s internetom da radi normalno. Da biste primali relevantne preporuke, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>  
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
+  <string name="sign_and_open">Prijavi se i otvori</string>
   <string name="show_weather_location_getter_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
@@ -868,11 +871,14 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="switchText">DA</string>
   <string name="switch_proxy_dialog_msg">"Otkrivena krađa mreže. Koristite ugrađenu MIUI aplikaciju Sigurnost ili prijavite vašem mobilnim operateru."</string>
   <string name="switch_proxy_dialog_title">Krađa mreže</string>
+  <string name="sync_and_backup_bookmark">Sinkroniziraj i pohrani oznake</string>
+  <string name="sync_and_backup_history">Sinkroniziraj i pohrani povijest</string>
   <string name="sync_cloud_tabs">Sinkr.</string>
   <string name="tab_hotpage">Vijesti</string>
   <string name="tab_quicklinks">Početna stranica</string>
   <string name="tab_yellowpage">Poveznice</string>
   <string name="tabs_description">Kartice</string>
+  <string name="temp_refuse">Odbij</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>

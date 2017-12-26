@@ -25,6 +25,8 @@
   <string name="face_data_input_msg">Postavite lice unutar okvira</string>
   <string name="face_data_input_ok">Gotovo</string>
   <string name="face_data_input_ok_msg">Uključite zaslon da biste otključali uređaj pomoću lica.</string>
+  <string name="face_data_input_ok_msg_angle">"Otključajte uređaj licem dok je zaslon uključen.
+ (Zabilježite podatke o licu uključujući sve potrebne kutove.)​"</string>
   <string name="face_data_input_ok_title">Uspješno dodano</string>
   <string name="face_data_input_title">Dodajte svoje lice</string>
   <string name="face_data_introduction_msg">Lice se može upotrijebiti za otključavanje uređaja ili potvrdu vašeg identiteta. Dodajte zaporku Zaklj. zaslona prije dodavanja lica.</string>
@@ -36,7 +38,9 @@
   <string name="face_data_manage_delete_title">Lice</string>
   <string name="face_data_manage_unlock_msg">Otključajte svoj uređaj pomoću vašeg lica</string>
   <string name="face_data_manage_unlock_title">Otključajte koristeći lice</string>
-  <string name="face_data_suggesstion_first">Otključavanje uređaja pomoću lica manje je sigurno od upotrebe zaporke za Zaklj. zaslona. Vaš će uređaj možda otključati osobe koje izgledaju poput vas.</string>
+  <string name="face_data_siggesstion_next">Dalje</string>
+  <string name="face_data_siggesstion_next_time">Dalje (%ds)</string>
+  <string name="face_data_suggesstion_first">Sigurnosni problemi: Otključavanje licem nije sigurnije od PIN-a, zaporke ili uzorka. Vaš bi uređaj mogao biti otključan vašom fotografijom, kao i od strane osoba ili predmeta sa sličnim izgledom.</string>
   <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetljeno."</string>
   <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i zaslona optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
@@ -55,6 +59,8 @@
   <string name="face_unlock_passwork">Koristi zaporku</string>
   <string name="face_unlock_passwork_and_fingerprint">Koristi zaporku ili prepoznavanje lica</string>
   <string name="face_unlock_quality">"Ne mogu jasno vidjeti vaše lice"</string>
+  <string name="face_unlock_reenter_content">Algoritam otključavanja lica je ažuriran. Dodirnite za ponovno snimanje lica.</string>
+  <string name="face_unlock_reenter_title">Snimite vaše lice ponovno.</string>
   <string name="face_unlock_reveal_eye">Napravite svoje oči vidljivijima</string>
   <string name="face_unlock_reveal_mouth">Napravite svoje usne vidljivijima</string>
   <string name="face_unlock_rise">Spustite glavu</string>

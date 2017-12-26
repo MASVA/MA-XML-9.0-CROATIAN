@@ -162,7 +162,6 @@
   <string name="account_sync_settings_settings">Sinkr. kontakte i kalendar</string>
   <string name="account_sync_settingstip_description">Sinkr.</string>
   <string name="account_waiting_for_folders_msg">Učitavanje mapa…</string>
-  <string name="actionbar_large_unread_count">Nepročitano: više od %1$d</string>
   <string name="activity_folder_selection">Odabir mape</string>
   <string name="activity_mailbox_selection">Odabir računa</string>
   <string name="ad_merge">Oglasi &amp; Obavijesti</string>
@@ -218,6 +217,8 @@
   <string name="auto_advance_help_title">"Nakon brisanja poruke, prikaži…</string>
   <string name="auto_advance_label">Izbriši tijek poruke</string>
   <string name="auto_advance_summary">Odaberite što prikazati nakon brisanja poruke</string>
+  <string name="auto_login_fail">Automatska prijava nije uspjela</string>
+  <string name="auto_login_fail_to_retry">Automatska prijava nije uspjela, pokušajte ponovno.</string>
   <string name="auto_mail_describe">139 Email Usluga autom. konfiguracije može vam pomoći da ispunite podatke za prijavu u poštanski sandučić. Želite li omogućiti ovu značajku?</string>
   <string name="auto_mail_disable_txt">Onemogućeno</string>
   <string name="auto_mail_enable_txt">Početne postavke</string>
@@ -528,7 +529,6 @@
   <string name="header_label_general_preferences">Opće postavke</string>
   <string name="help_and_info">Pomoć</string>
   <string name="help_config">Ručna konfiguracija</string>
-  <string name="hide_atts_remaining">Sakrij %1$d privitaka</string>
   <string name="hide_elided">▼ Sakrij citirani tekst</string>
   <string name="hide_password">Sakrij zaporku</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -565,7 +565,6 @@
   <string name="loading_conversations">Učitavanje…</string>
   <string name="loading_from_remote">Učitavanje…</string>
   <string name="local_search">Lokalno pretraživanje</string>
-  <string name="local_search_result">Rezultati u sinkr. porukama %s</string>
   <string name="login">Prijavite se</string>
   <string name="login139">CMCC prijava jednom tipkom</string>
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
@@ -660,7 +659,6 @@
   <string name="mibill_privacy_policy_description">Dopustiti Mi Wallet analiziranje i upravljanje vašim računima automatski. Ova značajka je isključena po defaultu za rad s povezanim adresama e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Korištenjem ove značajke, slažete se s našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Upravljaj računima automatski</string>
-  <string name="more_atts_remaining">%1$d još preostalo</string>
   <string name="more_context">Više</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Premjesti u drugu mapu</string>
@@ -675,7 +673,6 @@
   <string name="network_try_again">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="network_unavailable">Mreža nije dostupna</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
-  <string name="new_messages">Nova poruka: %1$d</string>
   <string name="new_signature_has_saved">Uspješno spremljeno</string>
   <string name="next_action">Dalje</string>
   <string name="no">Ne</string>
@@ -834,6 +831,9 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="push_wps_confirm_message">Pokušajte koristiti WPS Office za otvaranje ovog privitka</string>
   <string name="push_wps_confirm_title">Isprobajte WPS Office</string>
   <string name="push_wps_no_response_app">Nema pronađene aplikacije za izvršenje ove radnje</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Uspješno kopirano; vratite se na stranicu za prijavu i zalijepite da biste ispunili polje za zaporku</string>
+  <string name="qq_auto_login_failed_dialog_message">Kopirajte kod za autorizaciju, vratite se na stranicu za prijavu i kliknite \"Unesite korisničko ime i zaporku za prijavu\"; zalijepite da biste ručno ispunili polje za zaporku</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Kopirajte kod za autorizaciju</string>
   <string name="qq_bar_open_imap">Omogući</string>
   <string name="qq_bar_send_message">Pošalji SMS</string>
   <string name="qq_login_basecode">Prijava na QQ Email putem web stranice. Unesite svoju samostalnu zaporku.</string>
@@ -859,7 +859,6 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="quick_3">Pročitat ću to kasnije i javiti vam se.</string>
   <string name="quick_4">Hajdemo dogovoriti sastanak na kojem ćemo raspraviti o tome.</string>
   <string name="quick_reply_dialog_title">Odaberite odgovor</string>
-  <string name="quick_reply_hint">Odgovori svim %1$d osobama</string>
   <string name="quick_reply_hint_bcc">"(U BCC)"</string>
   <string name="quick_reply_hint_cc">"(U CC)"</string>
   <string name="quick_reply_hint_reply_only_from">Brzi odgovor (samo pošiljatelj)</string>
@@ -900,7 +899,6 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="refreshing_done">Završeno</string>
   <string name="release_to_refresh">Pustite za osvježiti</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi trebao biti manji od %sMB</string>
-  <string name="remote_search_result">%s rezultata na poslužitelju</string>
   <string name="remove_account">Ukloni račun</string>
   <string name="remove_folder">Ukloni iz %1$s</string>
   <string name="remove_star">Odznači</string>
@@ -916,6 +914,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="request_permission_activity">Traženje dopuštenja</string>
   <string name="require_manual_sync_message">Sinkronizacija za ovaj račun je isključena u roamingu.</string>
   <string name="respond_inline">Odgovori u tekstu</string>
+  <string name="retry_login">Prijavite se ponovno</string>
   <string name="resume_draft">Uredi</string>
   <string name="retry">Pokušajte ponovo</string>
   <string name="save_action">Spremi</string>
@@ -1071,7 +1070,6 @@ Zaustaviti sada?"</string>
   <string name="unknow">Nepoznato</string>
   <string name="unread_string">Razgovor nije pročitan</string>
   <string name="unselected_lable">Više</string>
-  <string name="unsent_messages_in_outbox">Broj neposlanih poruka u mapi %2$s: %1$s</string>
   <string name="unzip_file_failed">"Ne mogu raspakirati!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Uživajte u dodatnim značajkama usluge WPS Mail</string>

@@ -260,6 +260,7 @@
   <string name="user_locked_prompt">Otključaj uređaj za pristup kontaktima.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
    <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
+   <string name="video_crbt_title">%s boja prstena</string>
   <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
    <string name="voicemail">GOVORNA POŠTA</string>
   <string name="voicemail_abbreviated">VM:</string>

@@ -165,7 +165,7 @@
          <item quantity="one">%d dan</item>
      </plurals>
      <plurals name="day_after">
-         <item quantity="other">Za ovoliko %d dana</item>
+         <item quantity="other">Za ovoliko dana: %d</item>
          <item quantity="one">Za %d dan</item>
      </plurals>
      <plurals name="day_before">
@@ -184,4 +184,36 @@
         <item quantity="other">+%1$d osoba</item>
         <item quantity="one">+%1$d osoba</item>
      </plurals>
+	 <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ nepročitanih</item>
+        <item quantity="one">%1$d+ nepročitana</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Sakrij privitke: %1$d</item>
+        <item quantity="one">Sakrij %1$d privitak</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s rezultata u sinkroniziranim porukama</item>
+        <item quantity="one">%s rezultat u sinkroniziranim porukama</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d još preostalo</item>
+        <item quantity="one">%1$d još preostala</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d novih poruka</item>
+        <item quantity="one">%1$d nova poruka</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Odgovori osobama: %1$d</item>
+        <item quantity="one">Odgovori %1$d osobi</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s rezultata na poslužitelju</item>
+        <item quantity="one">%s rezultat na poslužitelju</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s neposlano u %2$s</item>
+        <item quantity="one">%1$s neposlana u %2$s</item>
+    </plurals>
 </resources>

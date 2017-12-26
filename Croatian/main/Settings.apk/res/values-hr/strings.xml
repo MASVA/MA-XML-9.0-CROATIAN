@@ -961,6 +961,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="clear_uri_btn_text">Izbriši pristup</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
   <string name="close_app">Zatvori trenutnu aplikaciju</string>
+  <string name="close_demo_mode">Odustani</string>
   <string name="close_dialog">U redu</string>
   <string name="close_gesture">Zatvori koristeći gestu</string>
   <string name="close_install_and_connect">Ne hvala</string>
@@ -2990,6 +2991,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
+  <string name="open_demo_mode">Otvori</string>
+  <string name="open_demo_mode_warning_message">Kada je Demo način uključen, sat u traci stanja će se zaustaviti, baterija i ikone signala prikazat će se kao pune. Možete isključiti Demo način rada ili ponovo pokrenuti uređaj da biste to promijenili.</string>
   <string name="open_anr_debug">Uključi ANR otklanjanje grešaka</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene</string>
