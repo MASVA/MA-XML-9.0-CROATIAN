@@ -362,6 +362,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="apps_list_header_title_sms_access">Ograniči pristup na kodove za potvrdu</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kada je baterija napunjena do %s</string>
+  <string name="auto_back_booster">Zaustavi ubrzanje</string>
+  <string name="auto_booster_suc">Uspješno ubrzano</string>
   <string name="auto_clean_close">Automatska čišćenja su isključena</string>
   <string name="auto_handle_title">OPĆENITO</string>
   <string name="auto_import_games">Stavite sve vaše igre na jedno mjesto</string>
@@ -681,7 +683,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
-  <string name="daily_limit_and_lock_screen">Ograničenje podataka &amp; obavijesti</string>
+  <string name="daily_limit_and_lock_screen">Upozorenje uporabe podataka</string>
   <string name="daily_limit_network_available_body">Dodirnite za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="daily_limit_over_message">"Premašili ste svoje dnevno ograničenja uporabe podataka."</string>
@@ -955,6 +957,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_description_image_button_answer">Odgovori</string>
+  <string name="gb_description_image_button_reject">Odbij</string>
+  <string name="gb_description_image_button_video_answer">Videopoziv</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nastavi</string>
@@ -965,6 +970,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gs_app_back_self_start">Ušteda baterije</string>
   <string name="gs_auto_clean_memory">Očisti predmemoriju</string>
   <string name="gs_auto_clean_memory_detail">Očisti predmemoriju automatski radi optimiziranja igara</string>
+  <string name="gs_autobooster">Ubrzaj automatski</string>
+  <string name="gs_autobooster_detail">Povećajte brzinu za odabrane igre automatski</string>
+  <string name="gs_autobooster_dialog_message">"Ako upotrebljavate Xunyou povećanje brzine, otvorite igre na određenoj stranici."</string>
   <string name="gs_call_handsfree">Odgovori na poziv sa slušalicama</string>
   <string name="gs_call_handsfree_mute">Bešumno</string>
   <string name="gs_dialog_confirm_close_msg">Prečac će biti uklonjen s Početnog zaslona. Idite u Sigurnost &gt; Postavke da ga obnovite.</string>
@@ -1875,7 +1883,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pref_more_settings">Dodatne postavke</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
   <string name="pref_new_installed_preconfig_title">"Zadane postavke novih aplikacija"</string>
-  <string name="pref_normal_traffic_limit">Kada se potroši dnevni plan podataka</string>
+  <string name="pref_normal_traffic_limit">Kada se potroši plan podataka</string>
   <string name="pref_open_adjust_traffic">"Ažuriraj uporabu podataka svakodnevno koristeći statistiku svog mobilnog operatera"</string>
   <string name="pref_operator_not_set">"Operater nije postavljen"</string>
   <string name="pref_over_traffic_limit">Kada premašite plan podataka</string>
@@ -1883,7 +1891,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
 Isklj. maks.: %2$s</string>
   <string name="pref_package_traffic_normal">Maks.: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatno: %2$s</string>
-  <string name="pref_package_traffic_settings">Ograničenje mobilnih podataka</string>
+  <string name="pref_package_traffic_settings">Podatkovni plan</string>
   <string name="pref_pkg_begin_date">Datum resetiranja uporabe</string>
   <string name="pref_roaming_daily_limit_setting">Postavite dnevno ograničenje podataka za roaming</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dnevno ograničenje podataka</string>

@@ -202,6 +202,7 @@
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
+  <string name="click_expand">Dodirni za proširivanje</string>
   <string name="click_to_return_multi_window">Dodirni za povratak u Podijeljeni zaslon</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
@@ -314,6 +315,19 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="force_resizable_activities_summary">Omogući mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
+  <string name="fs_gesture_back_home_summary">Brzo povuci odozdo</string>
+  <string name="fs_gesture_back_ready_title">Kako se vratiti na zadnju stranicu?</string>
+  <string name="fs_gesture_final_over">Gotovo</string>
+  <string name="fs_gesture_final_restart">Nauči ponovno</string>
+  <string name="fs_gesture_final_summary">Možete postaviti u [Postavke-Cijeli zaslon]</string>
+  <string name="fs_gesture_final_title">Učenje dovršeno</string>
+  <string name="fs_gesture_finish">Lijepo!</string>
+  <string name="fs_gesture_left_back_ready_summary">Povuci lijevo od zaslona</string>
+  <string name="fs_gesture_right_back_ready_summary">Povuci desno od zaslona</string>
+  <string name="fs_gesture_skip">Natrag</string>
+  <string name="fs_gesture_switch_recents_summary">Povuci odozdo i pričekaj sekundu</string>
+  <string name="fsg_demo_back">Natrag</string>
+  <string name="fsg_demo_go_on">Idemo dalje</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="hdcp_checking_dialog_title">Postav. ponaš. HDCP prov.</string>
@@ -321,6 +335,9 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="headset_settings">Slušalice su priključene</string>
   <string name="help_feedback_label">Pomoć i povratne inf.</string>
   <string name="home">Početni zaslon postavki</string>
+  <string name="how_to_back_home">Kako se vratiti na Početnu?</string>
+  <string name="how_to_switch_recents">Kako promjeniti na Nedavno?</string>
+  <string name="how_to_use_fsg">Kako koristiti gestu na cijelom zaslonu?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
   <string name="important_desc">Sve važne obavijesti prikazat će se izravno u Panelu obavijesti.</string>
@@ -531,6 +548,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu ili to ne dopušta aplikacija."</string>
+  <string name="screenshot_feedback_txt">Povratna inf.</string>
   <string name="screenshot_insert_failed">Ne mogu učitati snimak zaslona. Napravite novu ili pregledajte sliku u Galeriji.</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
@@ -539,6 +557,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="screenshot_saving_ticker">Spremanje snimke zaslona…</string>
   <string name="screenshot_saving_title">Spremanje snimke zaslona…</string>
   <string name="screenshot_send">Pošalji</string>
+  <string name="screenshot_toalbum_txt">Pregled</string>
   <string name="search_hint">Traži web stranice, aplikacije, kontakte i videozapise</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
