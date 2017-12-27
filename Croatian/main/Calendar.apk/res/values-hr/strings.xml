@@ -44,7 +44,7 @@
   <string name="add_anniversary">Dodaj godišnjicu</string>
   <string name="add_countdown">Dodaj odbrojavanje</string>
   <string name="add_event">Dodaj događaj</string>
-  <string name="agenda_month_empty_hint">Danas nema događaja</string>
+  <string name="agenda_month_empty_hint">Nema događaja za danas</string>
   <string name="add_calendar">Dodaj kalendar</string>
   <string name="add_card">Dodaj kartice</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
@@ -130,7 +130,7 @@
   <string name="date_calculate_days">Unesite broj dana</string>
   <string name="date_calculate_description">Saznajte koji je datum prije ili poslije određenog dana</string>
   <string name="date_calculate_direction">Smjer</string>
-  <string name="date_calculate_direction_content_description">Smjer, trenutno je %1s</string>
+  <string name="date_calculate_direction_content_description">Trenutni smjer: %1s.</string>
   <string name="date_calculate_result">Rezultat</string>
   <string name="date_calculate_tab">Datum izračuna</string>
   <string name="date_calculate_today">0 dana</string>
@@ -288,7 +288,7 @@
   <string name="jump_date">Skoči na datum</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">近期事件</string>
-  <string name="load_more_hint">Osvježi događaje od %1$d</string>
+  <string name="load_more_hint">Učitaj događaje od %1$d</string>
   <string name="loading">Samo trenutak…</string>
   <string name="local_calendar_display_name">Lokalni kalendar</string>
   <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
@@ -301,7 +301,24 @@
   <string name="menu_preferences">Postavke</string>
   <string name="menu_reminder_preferences">Podsjetnici</string>
   <string name="missing_name">(Bez naziva)</string>
-  <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
+  <string name="missing_required_permission">Onemogućili ste potrebna dopuštenja.</string>
+  <string name="miuishare_account_activate_confirmation">Aktivirajte Mi Račun</string>
+  <string name="miuishare_account_activate_ok">Aktiviraj</string>
+  <string name="miuishare_account_login_cancel">Odustani</string>
+  <string name="miuishare_account_login_confirmation">Prijavite se u Mi Račun</string>
+  <string name="miuishare_account_login_ok">Prijavite se</string>
+  <string name="miuishare_account_need_activate">Dijeljenje na Weibo zahtijeva Weibo račun koji je povezan s Vašim Mi Računom. Aktivirajte svoj Mi Račun da biste nastavili.</string>
+  <string name="miuishare_account_need_login">Dijeljenje na Weibo zahtijeva Weibo račun koji je povezan s Vašim Mi Računom. Aktivirajte svoj Mi Račun da biste nastavili.</string>
+  <string name="miuishare_app_name">MIUI Share</string>
+  <string name="miuishare_no_network">"Ne mogu se povezai na mrežu."</string>
+  <string name="miuishare_publish">Pošalji</string>
+  <string name="miuishare_qzone_title">Qzone</string>
+  <string name="miuishare_share_done">Uspješno podijeljeno</string>
+  <string name="miuishare_share_editor_title">Podijeli</string>
+  <string name="miuishare_title_more">Više</string>
+  <string name="miuishare_title_share">Podijeli</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Momenti</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="menu_select_visible_calendars">Kalendari za prikaz</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
@@ -396,7 +413,7 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Tjedan počinje u</string>
   <string name="preferences_week_start_day_title">Tjedan počinje u</string>
-  <string name="pull_to_refresh_hint">Povuci za osvježiti događaje od %1$d</string>
+  <string name="pull_to_refresh_hint">Povuci za učitati događaje od %1$d</string>
   <string name="presence_label">Prikaži me kao</string>
   <string name="privacy_label">"Privatnost"</string>
   <string name="quick_response_custom_msg">Vlastiti odgovor…</string>
@@ -407,7 +424,7 @@
   <string name="quick_response_settings_summary">Uređivanje zad. odgovora pri slanju gostima</string>
   <string name="quick_response_settings_title">"Uređivanje brzih odgovora"</string>
   <string name="refresh">Osvježi</string>
-  <string name="refreshing_hint">Osvježavanje</string>
+  <string name="refreshing_hint">Samo trenutak…</string>
   <string name="reminders_label">Dodaj podsjetnik</string>
   <string name="repeat_activity_label">Ponovi</string>
   <string name="repeat_custom_activity_label">Prilagođeno</string>
@@ -470,6 +487,7 @@
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
   <string name="settings_calendar">Kalendar</string>
+  <string name="share_title">Podijeli</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
@@ -492,7 +510,7 @@
   <string name="taishen">Božje dijete</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index" formatted="false">Događaj %1$s od %2$s</string>
-  <string name="talk_back_read_date">Trenutni datum je %1$s,%2$s,</string>
+  <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s prema lunarnom kalendaru).</string>
   <string name="template_week_num">Tjedan %1$s</string>
   <string name="text_year">Godina</string>
   <string name="time_zone">Vremenska zona</string>

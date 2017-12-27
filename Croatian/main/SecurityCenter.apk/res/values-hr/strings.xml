@@ -156,6 +156,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Testiranje konfiguracije APN-a mobilnog operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
+  <string name="app_bg_restrict_dialog_message">Ograničavanje pozadinske mrežne veze može spriječiti normalno funkcioniranje aplikacije. Na primjer, možda više neće moći primati poruke niti ažurirati sadržaj. Svejedno ograničiti?</string>
   <string name="app_check_no_issue">Izgleda da nema problema s baterijom. Super!</string>
   <string name="app_check_optimize_title">Optimiziraj pozadinske aktivnosti</string>
   <string name="app_check_reason_background_cpu">Pozadinska aktivnost CPU-a</string>
@@ -251,6 +252,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_notify_bar">Značke</string>
   <string name="app_manager_notify_floating">Plutajuće obavijesti</string>
   <string name="app_manager_notify_keyguard">Zaklj. zaslon</string>
+  <string name="app_manager_open_show_all_apps_immediate">Prikaži sve rezultate</string>
   <string name="app_manager_perm">Dopuštenja</string>
   <string name="app_manager_perm_monitor_make_calls">Obavljanje telefonskih poziva</string>
   <string name="app_manager_perm_monitor_read_call_history">Čitanje povijesti poziva</string>
@@ -291,8 +293,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   "&lt;li&gt;Ograničenja podataka u pozadini za aplikacije&lt;/li&gt;"
  
    Nećete izgubiti podatke aplikacije."</string>
-  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
+  <string name="app_manager_reset_app_preferences_title">Resetirati preference aplikacije?</string>
+  <string name="app_manager_search_prompt">"Nije moguće pronaći rezultate? Pokušajte prikazati rezultate svih aplikacija."</string>
   <string name="app_manager_show_all_apps">Prikaži sve aplikacije</string>
+  <string name="app_manager_show_all_apps_opened">Prikaz rezultata svih aplikacija…</string>
   <string name="app_manager_show_detail_infos">Prikaži sve</string>
   <string name="app_manager_sort">Poredaj po</string>
   <string name="app_manager_start_by">Pokrenuto od %s</string>
@@ -435,6 +439,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
   <string name="back_description_securitycenter">Natrag</string>
   <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
+  <string name="back_sound_data">Potrebna je mobilna mreža, pokušajte ponovo!</string>
+  <string name="back_sound_fail">Nije uspjelo!</string>
+  <string name="back_sound_success">Uspješno!</string>
+  <string name="back_sound_support">"Trenutni mrežni operateri to ne podržavaju!"</string>
   <string name="back">Natrag</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
@@ -482,6 +490,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum resetiranja korištenja</string>
   <string name="best_booster_status">Dostupno je povećanje brzine.</string>
+  <string name="bg_network_exception_title">Ograničena pozadinska veza</string>
   <string name="bind_xiaomi_account_cancel">Odustani</string>
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite. Račun će biti uklonjen automatski ako se odjavite."</string>
@@ -793,6 +802,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s i %2$s drugih kontakata su već na popisu iznimaka.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Sukob iznimaka</string>
   <string name="dlg_add_keyword">Dodaj ključne riječi</string>
+  <string name="dlg_add_white">"Novi pozivi i poruke s brojeva dodanih u iznimke bit će prikazani u povijesti poziva i dolaznim porukama. Međutim, prethodno blokirane stavke neće se tamo prikazati. Želite li dodati odabrane brojeve u iznimke?"</string>
   <string name="dlg_antispam_mode_delete_message">"Ne možete vratiti pravila nakon što ih izbrišete."</string>
   <string name="dlg_antispam_mode_delete_title">Izbrisati pravila?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Izbrisati pravila koju trenutno koristite i vratiti natrag na zadana pravila liste blokiranih?"</string>
@@ -812,8 +822,11 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_import_whitelist">Dodavanje…</string>
   <string name="dlg_keyword_ok">Spremi</string>
   <string name="dlg_message_not_open_stranger_identify">Za uključivanje ove funkcije, idite u Postavke &gt; Telefon.</string>
-  <string name="dlg_no_block">Deblokirati taj broj i vratiti pozive s tog broja u povijest poziva?\n(Broj će biti dodan na listu dopuštenih poziva)</string>
+  <string name="dlg_move_to_white">Dodaj u iznimke</string>
+  <string name="dlg_no_block">"Deblokirati taj broj telefona?\nBit će dodan u iznimke, ali prethodno blokirane stavke neće se prikazivati u povijesti poziva."</string> 
   <string name="dlg_no_block_ok">Deblokiraj</string>
+  <string name="dlg_not_block_call">"Deblokirati odabrane brojeve?\nBiti će dodani u iznimke, ali prethodno blokirane stavke neće se prikazivati u povijesti poziva."</string>
+  <string name="dlg_not_block_sms">"Deblokirati odabrane brojeve?\nBiti će dodani u iznimke, ali prethodno blokirane stavke neće se prikazivati u dolaznim porukama."</string>
   <string name="dlg_remove_address_blacklist">Ukloniti ovu lokaciju s liste blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Ukloniti ovaj broj s liste blokiranih?</string>
@@ -962,6 +975,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
+  <string name="gmscore_support_service">Google Usluge</string>
   <string name="go_to">Nastavi</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
   <string name="google_base_app_install_choice">\"%s\" zahtijeva Google Service Framework aplikaciju da radi normalno, preuzeti i instalirati je?</string>
@@ -1623,8 +1638,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_action_reject">Odbij</string>
   <string name="permission_close_permission_control_dialog_msg">"Kada je Upravitelj dopuštenja isključen, aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja."</string>
   <string name="permission_close_permission_control_dialog_title">Isključiti?</string>
-  <string name="permission_exception_summary">"Neke aplikacije nemaju dopuštenje za povezivanje na internet"</string>
-  <string name="permission_exception_title">Prikaži mrežna dopuštenja</string>
+  <string name="permission_exception_title">Ograničena veza za aplikacije</string>
   <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj Dopuštenja</string>
@@ -1833,6 +1847,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pref_auto_adjust_traffic">Autom. sink. statistiku uporabe podataka</string>
   <string name="pref_automatic_adjust">Sink. up. pod. mobilnog operatera</string>
   <string name="pref_avaible_traffic">Mobilni podaci</string>
+  <string name="pref_bg_network_title">Pozadinska veza</string>
   <string name="pref_category_daily_package_tile">Dnevni plan podataka</string>
   <string name="pref_category_extra_package_tile">Paket nadoplate</string>
   <string name="pref_category_half_year_package_tile">Polugodišnji paket podataka</string>

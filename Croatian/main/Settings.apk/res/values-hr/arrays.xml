@@ -802,12 +802,16 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Svaki dan</item>
+		<item>Večeri u tjednu</item>
+        <item>Vikend</item>
         <item>Radnim danom</item>
         <item>Vlastito</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Svaki dan</item>
-        <item>Radnim danima</item>
+		<item>Večeri u tjednu</item>
+        <item>Vikend</item>
+        <item>Radnim danom</item>
         <item>Vlastito</item>
     </string-array>
 	<string-array name="screen_resolution_entries">
