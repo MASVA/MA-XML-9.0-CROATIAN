@@ -304,6 +304,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_head_menu_recycle_bin_title">Koš za smeće</string>
   <string name="micloud_main_head_menu_state_close">Zatvoreno</string>
   <string name="micloud_main_head_menu_state_open">Otvoreno</string>
+  <string name="micloud_main_head_menu_state_unavailable">Nedostupno</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
   <string name="micloud_main_master_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u Cloudu."</string>
@@ -493,6 +494,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="reading_status">Učitavanje statusa…</string>
+  <string name="reading_status_failure">"Ne mogu učitati status."</string>
   <string name="recommend_open_all_sync">Sinkr. sve stavke</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>

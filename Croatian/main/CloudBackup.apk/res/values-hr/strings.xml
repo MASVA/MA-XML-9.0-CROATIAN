@@ -16,7 +16,6 @@
   <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč.zaslona, postavke sustava, itd.</string>
   <string name="backup_now">Izradi Sig. kopiju sada</string>
   <string name="backup_size">Veličina: %s</string>
-  <string name="backup_size_summary">Veličina: %1$s</string>
   <string name="backup_success">Sig. kopija uspješno izrađena</string>
   <string name="backup_successfully">Sig. kopija uspješno izrađena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
@@ -55,8 +54,6 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
   <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
   <string name="cloud_back_up_frequence_short">Svaki dan</string>
-  <string name="cloud_back_up_interval_long">7 dana</string>
-  <string name="cloud_back_up_interval_short">dnevno</string>
   <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na WLAN"</string>
   <string name="cloud_back_up_ok_btn">U redu</string>
   <string name="cloud_back_up_opening">Samo trenutak…</string>
@@ -66,13 +63,11 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_backup">Mi Cloud Sig. kopije</string>
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
-  <string name="cloud_backup_detail_frequence_day">Izradi Sig. kopiju svakih %1$s</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
-  <string name="cloud_backup_detail_manage_summary">Sig. kopija: %1$s, Veličina:%2$s</string>
   <string name="cloud_backup_detail_state">Autom. Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu</string>
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
-  <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i  postavke.</string>
+  <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i postavke.</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_in_cancel">Odustani</string>
   <string name="cloud_backup_in_process">Izrada Sig. kopije…</string>
@@ -132,7 +127,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="open_wifi_description">Poveži se na WLAN mrežu za vraćanje aplikacije</string>
   <string name="open_wifi_setting">WLAN postavke</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
-  <string name="provision_error_connect_msg">Možete testirati mrežu i pokušati ponovo. Funkcija Sig. kopije neće biti dostupna bez važeće mreže.</string>
+  <string name="provision_error_connect_msg">Testirajte mrežu i pokušajte ponovno. Sigurnosne kopije nisu dostupne kada je uređaj izvan mreže.</string>
   <string name="provision_error_connect_title">Ne mogu se povezati</string>
   <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
   <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
@@ -161,7 +156,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
-  <string name="size_unknown">Veličina nepoznata</string>
+  <string name="size_unknown">Nepoznata veličina</string>
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
