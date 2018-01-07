@@ -15,6 +15,8 @@
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
   <string name="bugreport_dump_start_notification_title">Stvaranje izvješća grešaka…</string>
   <string name="bugreport_feedback_from">Šalje: %s</string>
+  <string name="bugreport_intent_chooser_title">Poijeli izvješće o pogrešci</string>
+  <string name="bugreport_notification_channel">Izvješće o pogrešci</string>
   <string name="bugreport_tool_log_dumping_desc">Potraje oko minutu</string>
   <string name="bugreport_tool_log_dumping_title">Izrada izvješća o pogrešci</string>
   <string name="cta_cancel">Odustani</string>

@@ -44,4 +44,8 @@
         <item quantity="one">"Ne mogu deinstalirati \"%s\"</item>
         <item quantity="two">"Ne mogu deinstalirati \"%s\" i još 1 aplikaciju"</item>
     </plurals>
+    <plurals name="announce_for_drag">
+        <item quantity="other">povlačenje stavki %1$d</item>
+        <item quantity="one">povlačenje</item>
+     </plurals>
 </resources> 

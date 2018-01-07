@@ -22,6 +22,14 @@
   <string name="all_resources">Sve</string>
   <string name="all_services">Sve</string>
   <string name="allow">Dopusti</string>
+  <string name="antispam_curr_version">Trenutna verzija: %d</string>
+  <string name="antispam_data_downloading">Preuzimanje podataka o pozivatelju. Ovo može potrajati 3-5 sekundi.</string>
+  <string name="antispam_data_downloading_error">"Ne mogu se povezati na mrežu"</string>
+  <string name="antispam_local_newest">Trenutna verzija je ažurna.</string>
+  <string name="antispam_network_remind_summary">Preuzeti ažuriranja putem mobilnih podataka?</string>
+  <string name="antispam_network_remind_title">Upozorenje uporabe podataka</string>
+  <string name="antispam_pull_newest">Uspješno ažurirano na %d verziju</string>
+  <string name="antispam_update_version">Provjeri za ažuriranja</string>
   <string name="app_label">Direktorij</string>
   <string name="app_recommendation_install">Instaliraj</string>
   <string name="average_price">Prosjek %d RMB</string>
@@ -56,6 +64,7 @@
   <string name="custom_mark_category">Prilagodi</string>
   <string name="data_error">Dogodila se pogreška</string>
   <string name="data_error_show">Dogodila se pogreška</string>
+  <string name="data_error_w">Dogodila se pogreška</string>
   <string name="delete">Izbrisati</string>
   <string name="deleting">Brisanje…</string>
   <string name="description_author">Autor</string>
@@ -292,6 +301,7 @@ Provjerite broj za praćenje."</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="miuishare_publish">Pošalji</string>
+  <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Uspješno podijeljeno</string>
   <string name="miuishare_share_editor_title">Podijeli</string>
   <string name="miuishare_title_more">Više</string>
@@ -302,6 +312,7 @@ Provjerite broj za praćenje."</string>
   <string name="more_express_numbers">Više ekspresnih brojeva</string>
   <string name="navigation_search_all_cities">Svi gradovi</string>
   <string name="navigation_search_automatically_positioned_city">Trenutan grad</string>
+  <string name="navigation_search_default_hint">Unesite riječi koje želite pretražiti</string>
   <string name="navigation_search_hot_cities">Popularno</string>
   <string name="navigation_search_no_city_list">"Ništa nije pronađeno"</string>
   <string name="navigation_search_positioning">Lociranje…</string>
@@ -544,8 +555,8 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
 "</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
   <string name="select_package_before_buy">Odaberite paket</string>
-  <string name="send_shortcut_already_exists">Početni zaslon već postoji</string>
   <string name="selected_category_format">Označeno od %2$d osoba kao %1$s. Dodirni za potvrdu.</string>
+  <string name="send_shortcut_already_exists">Početni zaslon već postoji</string>
   <string name="send_shortcut_failed">"Ne mogu poslati"</string>
   <string name="send_shortcut_success">Stavljeno na Početni zaslon</string>
   <string name="sending_shortcut">Šaljem…</string>
@@ -567,10 +578,14 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="turn_off_hint_title">"Ne identificirati nepoznate brojeve?"</string>
   <string name="turn_off_phone_event_hint">"Nećete biti u mogućnosti vidjeti detalje izvješća nepoznatih brojeva."</string>
   <string name="turn_off_smart_antispam_hint">"Isključiti zaštitu kod poziva nepoznatih brojeva?"</string>
+  <string name="turn_on_online_antispam_enable">Uključi</string>
+  <string name="turn_on_online_antispam_summary">Uključi ID Pozivatelja da prepozna nepoznate brojeve.</string>
+  <string name="turn_on_online_antispam_title">Uključi ID Pozivatelja</string>
   <string name="turn_on_phone_event_dialog_title">Ažuriraj bazu podataka identificiranih brojeva</string>
   <string name="turn_on_phone_event_summary">Dopustite Yellow pages da primaju i šalju informacije o uslugama ovlaštenih davatelja usluga.</string>
   <string name="turn_on_phone_event_title">Primanje informacije o usluzi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj pozive nepoznatih brojeva pomoću Xiaomi oznake imenika"</string>
+  <string name="turn_on_smart_antispam_summary">Pošalji i identificiraj nepoznate brojeve telefona iz povijesti poziva i SMS poruka</string>
   <string name="turn_on_smart_antispam_summary_off">Pretraži samo brojeve spremljene na ovom uređaju</string>
   <string name="turn_on_smart_antispam_summary_on">Pošalji i identificiraj nepoznate brojeve telefona u povijesti poziva i SMS porukama</string>
   <string name="turn_on_smart_antispam_title">Identificirajte nepoznate brojeve</string>

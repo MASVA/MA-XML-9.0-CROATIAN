@@ -28,7 +28,7 @@
   <string name="about_phone_enter_xiaomi_net">Saznajte više</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
-  <string name="about_summary">Android %1$s</string>
+  <string name="about_summary">Ažuriran na Android %1$s</string>
   <string name="ac_enable_summary">Postavite zaporku za pojedine aplikacije</string>
   <string name="ac_enable_title">Zaklj.  aplikacija</string>
   <string name="ac_privacy_mode_sum">Zatraži zaporku za onemogućavanje Gost načina</string>
@@ -39,7 +39,8 @@
   <string name="accelerometer_title">Autom. rotiraj zaslon</string>
   <string name="access_control_app_entry_multiple">Otvori %s</string>
   <string name="access_control_app_entry_single">Otvori aplikaciju</string>
-  <string name="access_control_need_password">"%s je zaštićeno    "</string>
+  <string name="access_control_need_password">"%s je zaštićeno
+"</string>
   <string name="access_control_need_to_unlock">Potrebna je zaporka:</string>
   <string name="access_control_no_back_footer">Dodirni [ikonu] za izlaz</string>
   <string name="access_control_password_title">Zaporka</string>
@@ -322,6 +323,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="app_restrictions_custom_label">Postavljanje ograničenja aplikacije</string>
   <string name="app_sees_restricted_accounts">Ta aplikacija može pristupiti vašim računima</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Aplikacija može pristupili vašim računima. Upravlja aplikacija %1$s.</string>
+   <string name="app_settings_link">Dodatne postavke u aplikaciji</string>
   <string name="app_special_disable_dlg_text">Ako onemogućite ovu aplikaciju, druge aplikacije možda više neće funkcionirati pravilno. Također će se izbrisati vaši podaci.</string>
   <string name="app_special_disable_dlg_title">Izbrisati podatke i onemogućiti aplikaciju?</string>
   <string name="app_switch_key">Nedavno</string>
@@ -785,6 +787,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_untether_blank">%1$s će biti oslobođen.</string>
   <string name="bluetooth_visibility_timeout">Vidljivost je istekla</string>
   <string name="bluetooth_wake">Probudi s Bluetooth audio</string>
+  <string name="boot_sounds_title">Uključi zvukove</string>
   <string name="bootloader">Fastboot način</string>
   <string name="bootloader_apply_step_1">Uključiti Fastboot način?</string>
   <string name="bootloader_apply_step_2">Kada je vaš uređaj u Fastboot načinu rada i spojen na računalo,</string>
@@ -839,6 +842,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
   <string name="button_disconnect_network">Isključi iz mreže</string>
   <string name="button_light_timeout">Trajanje osvjetljenja tipaka</string>
+  <string name="button_start_transfer">Kopiraj</string>
   <string name="button_text_accept">Prihvaćam</string>
   <string name="button_text_accept_timer">Prihvaćam (%d)</string>
   <string name="button_text_cancel">Odustani</string>

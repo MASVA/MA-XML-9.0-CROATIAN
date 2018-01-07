@@ -281,4 +281,16 @@
         <item>OpenGL (zadano)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
+	 <string-array name="select_logpersist_summaries">
+        <item>Isključeno</item>
+        <item>Svi međuspremnici zapisa</item>
+        <item>Sve osim međuspremnika zapisnika radija</item>
+        <item>samo međuspremnik zapisnika jezgre</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Isključeno</item>
+        <item>Sve</item>
+        <item>Sve osim radija</item>
+        <item>samo jezgra</item>
+     </string-array>
 </resources>

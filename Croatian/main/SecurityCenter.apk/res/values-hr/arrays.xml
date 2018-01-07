@@ -119,4 +119,20 @@
          <item>Isključi i obavijesti</item>
          <item>Samo obavijesti</item>
      </string-array>
+	    <string-array name="sort_title">
+        <item>Poredaj po statusu</item>
+        <item>Poredaj po nazivu aplikacije</item>
+        <item>Poredaj po učestalosti korištenja</item>
+        <item>Poredaj po iskor. pros. za pohranu</item>
+        <item>Poredaj po vremenu instalacije</item>
+        <item>Prvo prikaži aplikacije koje se mogu deinstalirati</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Status</item>
+        <item>Naziv aplikacije</item>
+        <item>Učestalost korištenja</item>
+        <item>Iskorišteni prostor za pohranu</item>
+        <item>Vrijeme instalacije</item>
+        <item>Možete deinstalirati ove aplikacije</item>
+     </string-array>
 </resources>

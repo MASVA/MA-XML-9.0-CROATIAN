@@ -117,6 +117,7 @@
   <string name="menu_view_details">Prikaz pojedinosti</string>
   <string name="message_options">Opcije poruka</string>
   <string name="no_cell_broadcasts">Nema aktivnih upozorenja u vašem području. Možete promijeniti postavke upozorenja pomoću opcije izbornika Postavke.</string>
+  <string name="notification_channel_broadcast_messages">Emitirane poruke</string>
   <string name="notification_multiple">Nepročitane obavijesti: %s.</string>
   <string name="notification_multiple_title">Nova upozorenja</string>
   <string name="pws_other_message_identifiers">Hitno upozorenje</string>
@@ -125,6 +126,9 @@
   <string name="show_cmas_opt_out_summary">Prikaži dijaloški okvir za isključivanje nakon prikazivanja prvog upozorenja CMAS-a (osim predsjedničkog).</string>
   <string name="show_cmas_opt_out_title">Prikaži dijaloški okvir za isključivanje</string>
   <string name="sms_cb_settings">Postavke emitiranja na mobitele</string>
+  <string name="tw_alert_message">Poruka upozorenja</string>
+  <string name="tw_emergency_alert">Poruka Hitno</string>
+  <string name="tw_required_monthly_test">Potreban je mjesečni test</string>
   <string name="updating_settings">Postavke ažuriranja</string>
   <string name="updating_title">Postavke poziva</string>
   <string name="view_details_title">Pojedinosti upozorenja</string>

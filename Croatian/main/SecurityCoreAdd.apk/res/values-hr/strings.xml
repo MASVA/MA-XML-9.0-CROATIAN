@@ -315,12 +315,16 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="weibo_send">Pošalji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
+  <string name="weixin_share_sign">Prijavite se i podijelite</string>
   <string name="xpsace_guide_button">Izradi</string>
   <string name="xspace_account">Računi dvojne aplikacije</string>
   <string name="xspace_chocie">Podrška za Dvojne aplikacije</string>
   <string name="xspace_creating">Izrada dvojne aplikacije…</string>
   <string name="xspace_default_app_summary">Postavite zadanu aplikaciju za plaćanja, dijeljenje, favorite i drugo.</string>
   <string name="xspace_default_app_title">Zadana aplik.</string>
+  <string name="xspace_default_guide_notification_content">Dodirnite za promjenu</string>
+  <string name="xspace_default_guide_notification_main_title">Upotreba zadane aplikacije</string>
+  <string name="xspace_default_guide_notification_xspace_title">Upotreba dvojne aplikacije</string>
   <string name="xspace_default_setting_dialog_title">Zadano</string>
   <string name="xspace_default_setting_label">Zadana aplik.</string>
   <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>

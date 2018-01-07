@@ -2,6 +2,7 @@
 <resources>
   <string name="app_info">Snimanje, dodirnite za zaustavljanje</string>
   <string name="app_name">Snimač zaslona</string>
+  <string name="app_notification_info">Snimač zaslona radi u pozadini</string>
   <string name="app_notification_title">Snimač zaslona</string>
   <string name="auto_stop_title">Videozapis je uspješno spremljen</string>
   <string name="battery_not_allowed" formatted="false">"Ne mogu snimati kad je baterija manja od 3%. Provjerite je li baterija najmanje 20%."</string>
@@ -47,6 +48,7 @@
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošalji</string>
   <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Pokrenite snimanje s mjesta na kojem ste prekinuli ako još niste završili.</string>
+  <string name="recording_without_mic">Mikrofon je zauzet i zvuk mikrofona nije moguće snimiti</string>
   <string name="quit_recording">Izlaz iz Snimača zaslona</string>
   <string name="recording_failure">Ne mogu snimiti, započnite ispočetka</string>
   <string name="resolution">Rezolucija</string>

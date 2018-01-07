@@ -27,6 +27,7 @@
   <string name="audio_focus_exit_button_text">Isključi</string>
   <string name="beauty_fragment_tab_name_beauty">Uljepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
+  <string name="bokeh_use_hint">Efekat dubine</string>
   <string name="burst_shoot_exit_button_text">Isključi</string>
   <string name="button_fisheye_camera_title">Riblje oko</string>
   <string name="button_front_camera_title">Napravi selfie</string>
@@ -203,6 +204,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nisko</string>
   <string name="pref_camera_beautify_entry_normal">Srednje</string>
+  <string name="pref_camera_bokeh_title">Portret</string>
   <string name="pref_camera_coloreffect_entry_big_face">Širenje</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Riblje oko</string>
@@ -269,6 +271,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_focusmode_entry_manual">Ručno</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
+  <string name="pref_camera_front_bokeh_entry_off">Isključeno</string>
+  <string name="pref_camera_front_bokeh_entry_on">Uključeno</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
   <string name="pref_camera_groupshot_mode_title">Grupni selfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -312,6 +316,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_multilevel_entry_middle">Srednje (Zadano)</string>
   <string name="pref_camera_multilevel_entry_normal">Normalan</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_parallel_process_enable_title">Omogući paralelni proces slike</string>
   <string name="pref_camera_peak_entry_off">Isključeno</string>
   <string name="pref_camera_peak_entry_on">Uključeno</string>
   <string name="pref_camera_peak_title">Peaking Focus</string>

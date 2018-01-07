@@ -799,6 +799,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="no_permissions">Nije potrebno dopuštenje</string>
   <string name="no_recent_tasks">Nema nedavnih aplikacija.</string>
   <string name="noon">podne</string>
+  <string name="notification_channel_hotspot">Obavijesti WLAN Hotspota</string>
   <string name="notification_header_divider_symbol">•</string>
   <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>

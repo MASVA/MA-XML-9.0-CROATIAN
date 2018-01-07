@@ -68,6 +68,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu</string>
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i postavke.</string>
+  <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_in_cancel">Odustani</string>
   <string name="cloud_backup_in_process">Izrada Sig. kopije…</string>
@@ -83,6 +84,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="confirm_restore_summary">Početni zaslon će se ponovno pokrenuti i aplikacije će se automatski preuzeti kada je povezano na WLAN mrežu</string>
   <string name="confirm_restore_title">Vrati</string>
   <string name="customization">&lt;u&gt;Prilagodi&lt;/u&gt;</string>
+  <string name="custom_progress">Stavke: %d</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm</string>
   <string name="desktop_downloading">Preuzimanje</string>
@@ -153,6 +155,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
+  <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
@@ -160,7 +163,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
+  <string name="total_num">%d stavki,</string>
   <string name="total_space">Ukupni prostor: %s</string>
+  <string name="trans_pausing">Pauzirano…</string>
   <string name="try_again">Klikni za novi pokušaj</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>
 </resources>

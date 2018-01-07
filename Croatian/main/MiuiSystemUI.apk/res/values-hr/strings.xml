@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="0">Koristite geste da se sakrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_action_divider_bottom_full">Dno cijeli zaslon</string>
   <string name="accessibility_action_divider_left_30">Lijevo 30%</string>
   <string name="accessibility_action_divider_left_50">Lijevo 50%</string>
@@ -90,11 +91,12 @@
   <string name="account_info">Niste prijavljeni</string>
   <string name="activate_usb_message">Da aktivirate ovu značajku, umetnite vašu SIM karticu</string>
   <string name="activate_usb_title">Aktiviraj USB</string>
+  <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
-  <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>  
+  <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
-  <string name="allow_mock_location_summary">Dopusti probne lokacije</string>  
+  <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
   <string name="always_use_accessory">"Koristi se kao zadana postavka za ovaj USB dodatak"</string>
   <string name="always_use_device">"Koristi se kao zadana postavka za ovaj USB uređaj"</string>
   <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
@@ -110,6 +112,7 @@
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
   <string name="battery_info_status_charging_ac_short">Punjenje</string>
+  <string name="battery_info_status_charging_lower">punjenje</string>
   <string name="battery_info_status_charging_usb">Punjenje putem USB-a</string>
   <string name="battery_info_status_charging_usb_short">Punjenje</string>
   <string name="battery_info_status_charging_wireless">Bežično punjenje</string>
@@ -117,7 +120,7 @@
   <string name="battery_info_status_discharging">Ne puni se</string>
   <string name="battery_info_status_full">Puna</string>
   <string name="battery_info_status_not_charging">Ne puni se</string>
-  <string name="battery_info_status_unknown">Nepoznato</string>  
+  <string name="battery_info_status_unknown">Nepoznato</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_profiles">Koristi profile baterije</string>
@@ -141,6 +144,8 @@
   <string name="bluetooth_disconnecting">Isključivanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN Poslužitelj</string>
   <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
+  <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
@@ -163,6 +168,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Upotrijebi za pristup internetu</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Povezano s uređajem za pristup internetu</string>
   <string name="bluetooth_profile_a2dp">Medijski zvuk</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Upotrebljavaj visokokvalitetan audio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Upotrebljavaj visokokvalitetan audio</string>
   <string name="bluetooth_profile_dun">Dial-up pristup mreži</string>
   <string name="bluetooth_profile_headset">Zvuk telefona</string>
   <string name="bluetooth_profile_hid">Ulazni uređaj</string>
@@ -175,6 +182,23 @@
   <string name="bluetooth_profile_sap">Pristup SIM-u</string>
   <string name="bluetooth_sap_profile_summary_connected">Povezano sa SAP-om</string>
   <string name="bluetooth_sap_profile_summary_use_for">Upotrijebi za pristup SIM-u</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitovi po uzorku za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Odaberi kodek za Bluetooth Audio:
+bitovi po uzorku"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Odaberi kodek za Bluetooth Audio:
+način kanala"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Audio LDAC: kvaliteta reprodukcije</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Odaberi kodek za Bluetooth Audio LDAC:
+kvaliteta reprodukcije"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Brzina uzorka za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Odaberi kodek za Bluetooth Audio:
+brzina uzorkovanja"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Strujanje: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Odaberi kodek za Bluetooth Audio</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Odaberite verziju AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
   <string name="bluetooth_tethered">"Dijeljenje veze Bluetoothom"</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Snimi sve Bluetooth HCI pakete u datoteci</string>
@@ -206,8 +230,11 @@
   <string name="click_to_return_multi_window">Dodirni za povratak u Podijeljeni zaslon</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
+  <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>
+  <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezano putem WLAN pomoćnika</string>
+  <string name="content_description_menu_button">Izbornik</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
  Upozorenje! Time će se izbrisati svi vaši podaci.
  Značajka je u alfa verziji i možda neće funkcionirati pravilno.
@@ -239,6 +266,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="debug_drawing_category">Crtež</string>
   <string name="debug_hw_drawing_category">Hardverski ubrzano renderiranje</string>
   <string name="debug_hw_overdraw">Rješavanje GPU preklapanja</string>
+  <string name="debug_hw_renderer">Postavi ispunjivač GPU-a</string>
   <string name="debug_input_category">Ulaz</string>
   <string name="debug_layout">Prikaži okvir prikaza</string>
   <string name="debug_layout_summary">Prikazuju se obrubi, margine itd. isječaka.</string>
@@ -251,16 +279,20 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_reject">Odbij</string>
   <string name="description_target_search">"Pretraži"</string>
+  <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
+  <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
   <string name="development_settings_enable">Omogući opcije za razvojne programere</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
+  <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
   <string name="disable_notification_summary">"Ne prikazuj obavijesti odabranih aplikacija."</string>
   <string name="disable_notification_title">Sakrij obavijesti</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
+  <string name="disabled">Onemogućeno</string>
   <string name="disabled_by_admin">Onemogućio administrator</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
   <string name="dismount_storage">"Ne"</string>
@@ -303,6 +335,9 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="ext_media_safe_unmount_notification_title">USB pohrana se može ukloniti na siguran način</string>
   <string name="ext_media_unmountable_notification_message">USB pohrana je oštećena. Možda ćete je morati iznova formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>
+  <string name="external_source_trusted">Dopušteno</string>
+  <string name="external_source_untrusted">Nije dopušteno</string>
+  <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
   <string name="float_incall_ignore">Ignoriraj</string>
   <string name="float_incall_message">Poruka</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
@@ -338,12 +373,14 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="how_to_back_home">Kako se vratiti na Početnu?</string>
   <string name="how_to_switch_recents">Kako promjeniti na Nedavno?</string>
   <string name="how_to_use_fsg">Kako koristiti gestu na cijelom zaslonu?</string>
+  <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
   <string name="important_desc">Sve važne obavijesti prikazat će se izravno u Panelu obavijesti.</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
+  <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
   <string name="invalid_charger">"USB punjenje nije podržano.
  Koristite isključivo originalni punjač."</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
@@ -456,11 +493,10 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="mount_storage">"Da"</string>
   <string name="nav_guide_cancel">Ignoriraj</string>
   <string name="nav_guide_message">Koristite geste da se sakrijete/prikažete tipke zaslona.</string>
-  <string name="0">Koristite geste da se sakrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_ok">Postavljanje</string>
   <string name="nav_guide_title">Sakrij tipke zaslona</string>
-  <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string> 
   <string name="no_application">Ništa</string>
+  <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava Podijeljeni zaslon"</string>
@@ -499,6 +535,17 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
+  <string name="pip_menu_title">Izbornik slike u slici</string>
+  <string name="pip_notification_message">Ako ne želite da %s upotrebljava ovu značajku, dodirnite da otvoriti postavke i isključite je.</string>
+  <string name="pip_notification_title">%s je u slici u slici</string>
+  <string name="pip_pause">Pauza</string>
+  <string name="pip_phone_close">Zatvori</string>
+  <string name="pip_phone_dismiss_hint">Povucite prema dolje za odbacivanje</string>
+  <string name="pip_phone_expand">Proširi</string>
+  <string name="pip_phone_minimize">Sažmi</string>
+  <string name="pip_play">Reproduciraj</string>
+  <string name="pip_skip_to_next">Preskoči na sljedeći</string>
+  <string name="pip_skip_to_prev">Preskoči na prethodni</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="power_charging_duration">%1$s – %2$s do napunjenosti</string>
@@ -507,6 +554,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
   <string name="power_discharging_duration">%1$s – još približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
+  <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
   <string name="process_kernel_label">Android OS</string>
@@ -531,6 +579,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="quick_settings_disclosure_vpns">Uređaj je povezan s VPN-om</string>
   <string name="quick_settings_done">Dovršeno</string>
   <string name="quick_settings_more_settings">Više postavki</string>
+  <string name="quick_settings_tiles">zadano</string>
   <string name="quick_settings_wifi_detail_empty_text">Nema dostupnih WLAN mreža</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Odaberite obližnju mrežu</string>
@@ -548,7 +597,6 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="recents_exit_multi_window_mode">Izlaz</string>
   <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
   <string name="recents_launch_disabled_message">%s se ne može pokrenuti u sigurnom načinu rada.</string>
-  <string name="reject_call">Poziv odbijen</string>
   <string name="recents_launch_error_message">"Ne mogu pokrenuti %s."</string>
   <string name="recents_lock_to_app_button_label">Prikvači zaslon</string>
   <string name="recents_multi_window_mode">Podijeljeni zaslon</string>
@@ -557,7 +605,11 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="recents_multistack_add_stack_dialog_split_vertical">Podijeli okomito</string>
   <string name="recents_search_bar_label">Traži</string>
   <string name="recents_stack_action_button_label">Ukloni sve</string>
+  <string name="reject_call">Poziv odbijen</string>
   <string name="remaining_length_format">Još %1$s</string>
+  <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
+  <string name="retail_demo_reset_next">Dalje</string>
+  <string name="retail_demo_reset_title">Potrebna je zaporka</string>
   <string name="return_to_incall_screen">Natrag na poziv</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
   <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute procese</string>
@@ -598,6 +650,8 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
   <string name="select_logd_size_title">Veličine međuspremnika zapisnika</string>
+  <string name="select_logpersist_dialog_title">Odaberite međuspremnike zapisnika koji će se trajno pohraniti na uređaju</string>
+  <string name="select_logpersist_title">Pohrani podatke zapisivača na uređaju</string>
   <string name="select_usb_configuration_dialog_title">Odabir USB konfiguracije</string>
   <string name="select_usb_configuration_title">Odabir USB konfiguracije</string>
   <string name="select_webview_provider_dialog_title">Postavi implementaciju WebViewa</string>
@@ -619,6 +673,8 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>
   <string name="show_hw_screen_updates_summary">Bljeskanje prikaza u prozorima pri crtanju GPU-om</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
+  <string name="show_notification_channel_warnings">Prikaži upozorenja kanala obavijesti</string>
+  <string name="show_notification_channel_warnings_summary">Prikazuje upozorenje na zaslonu kada aplikacija objavi obavijest bez važećeg kanala</string>
   <string name="show_screen_updates">Prikaži ažur. površine</string>
   <string name="show_screen_updates_summary">Površina prozora bljeska pri ažuriranju.</string>
   <string name="show_touches">Prikaži dodire</string>
@@ -662,11 +718,15 @@ Povucite dolje za zaključavanje"</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="task_access_locked_app_msg">Zaklj. aplikacija uključeno</string>
+  <string name="telephony_monitor_switch">TelephonyMonitor</string>
+  <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="tether_settings_title_all">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Dijeljenje Bluetoothom veze</string>
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
   <string name="tether_settings_title_wifi">Prijen. hotspot</string>
+  <string name="tethering_hardware_offload">Ubrzanje hardverskog dijeljenja</string>
+  <string name="tethering_hardware_offload_summary">Koristi ubrzanje hardverskog dijeljenja ako je dostupno</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
   <string name="title_usb_accessory">USB dodatak</string>
@@ -741,6 +801,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="usb_storage_stop_notification_title">"Isključi USB pohranu"</string>
   <string name="usb_storage_stop_title">"USB pohrana se koristi"</string>
   <string name="usb_storage_title">"USB povezan"</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
   <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Kliznite prema dolje jednim prstom radi prikaza panela obavijesti</string>
   <string name="user_guide_for_toggle">Popis prečaca je moguće pomicati vodoravno</string>
@@ -754,12 +815,32 @@ Povucite dolje za zaključavanje"</string>
   <string name="vpn_title_long">Povezivanje na VPN koristeći %s</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
+  <string name="wapi_all_sel_mode">Odaberi način</string>
+  <string name="wapi_auto_sel_cert_fail">Ne mogu automatski odabrati certifikat. Odaberite certifikat s popisa i pokušajte se povezati.</string>
+  <string name="wapi_cert_is_not_exist">Nema dostupnog certifikata, prvo instalirajte certifikat</string>
+  <string name="wapi_cert_is_not_selected">Najprije odaberite certifikat</string>
+  <string name="wapi_cert_manage_error">Nije uspjelo postavljanje WAPI certifikata.</string>
+  <string name="wapi_cert_manage_summary">Dodajte ili izbrišite WAPI certifikat</string>
+  <string name="wapi_cert_manage_title">Upravljanje WAPI certifikatom</string>
+  <string name="wapi_cert_roaming">Povezivanje…</string>
+  <string name="wapi_no">ne</string>
+  <string name="wapi_no_vaild_cert">Nema dostupnih certifikata, instalirajte ih sada?</string>
+  <string name="wapi_password_hex_format_add">Broj heksadecimalnih znakova ne može biti parni broj</string>
+  <string name="wapi_password_is_empty">Polje za zaporku ne smije ostati prazno</string>
+  <string name="wapi_password_is_not_hex_format">Nevažeći heksadecimalni znakovi</string>
+  <string name="wapi_password_length_is_max">Zaporka ne smije premašiti 64 znakova</string>
+  <string name="wapi_password_length_is_min">Zaporka ne može biti dulja od 8 znakova</string>
+  <string name="wapi_password_length_is_min_to_max">Zaporka mora biti: 8-64 znakova</string>
+  <string name="wapi_yes">da</string>
   <string name="weather_publish_time">Ažurirano %1$s</string>
   <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN na mob. mrežu</string>
   <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
   <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
+  <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
+  <string name="wifi_disabled_by_recommendation_provider">Niste povezani jer je mreža loše kvalitete</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
@@ -770,14 +851,27 @@ Povucite dolje za zaključavanje"</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">"Ne mogu skenirati mreže"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">"Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja."</string>
+  <string name="wifi_no_internet_no_reconnect">"Neće se automatski povezati"</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_none">Ništa</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_ssid_is_empty">SSID polje ne može biti prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne smije premašiti 32 znaka</string>
   <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
   <string name="wifi_verbose_logging_summary">Povećana razina prijave na WLAN, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
+  <string name="wifi_wapi_as_certificate">AS certifikat</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Ručno odaberi certifikat</string>
+  <string name="wifi_wapi_certification_dont_exist">WAPI certifikati ne postoje. Instalirajte ih.</string>
+  <string name="wifi_wapi_fail_to_auth">"WAPI Provjera autentičnosti nije uspjela
+Provjerite valjanost certifikata"</string>
+  <string name="wifi_wapi_fail_to_init">"Nije moguće otvoriti WAPI certifikate
+Pohrana vjerodajnica možda neće omogućena"</string>
+  <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
+  <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
 </resources>

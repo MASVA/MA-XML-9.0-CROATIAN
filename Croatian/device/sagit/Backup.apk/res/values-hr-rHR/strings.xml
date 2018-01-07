@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-     <string name="custom_progress">Stavke: %d</string>
-     <string name="total_num">%d stavki,</string>
-     <string name="trans_pausing">Pauzirano…</string>
-</resources>

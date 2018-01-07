@@ -1,14 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM korporativno otključavanje PIN-a</string>
+  <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Zahtjev za korporativno otključavanje neuspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Zahtjev za RUIM korporativno otključavanje…</string>
+  <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">RUIM korporativno otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">RUIM hrpd otključavanje PIN-a</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_ERROR">RUIM Hrpd zahtjevanje otključavanja nije uspjelo.</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">Zahtjev za RUIM hrpd otključavanje…</string>
+  <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_SUCCESS">RUIM Hrpd otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_NETWORK1_ENTRY">RUIM mreža1 otključavanje PIN-a</string>
@@ -22,49 +27,79 @@
   <string name="PERSOSUBSTATE_RUIM_NETWORK2_ENTRY">RUIM mreža2 otključavanje PIN-a</string>
   <string name="PERSOSUBSTATE_RUIM_NETWORK2_ERROR">Zahtjev za RUIM Mreža2 otključavanja nije uspjelo.</string>
   <string name="PERSOSUBSTATE_RUIM_NETWORK2_IN_PROGRESS">Zahtjev za RUIM mreža2 otključavanje…</string>
+  <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
+  <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM Network2 otključavanje uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM otključavanje PIN-a</string>
+  <string name="PERSOSUBSTATE_RUIM_RUIM_ERROR">RUIM zahtjev za otključavanje neuspješan.</string>
   <string name="PERSOSUBSTATE_RUIM_RUIM_IN_PROGRESS">Zahtjev za RUIM otključavanja…</string>
+  <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_RUIM_SUCCESS">RUIM otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ENTRY">Otključavanje PIN-a RUIM mob. operatera</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Zahtjev za otključavanja RUIM mob. operatera nije uspjelo.</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Zahtjev za otključavanje RUIM mob. operatera…</string>
+  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Otključavanje RUIM mob. operatera bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_ENTRY">SIM PIN korporativno otključavanje</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_ERROR">Zahtjev za otključavanja SIM PIN-a korporativno otključavanje nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">Zahtjev za SIM korporativno otključavanje…</string>
+  <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM korporativno otključavanje bilo je uspješno.</string>
+  <string name="PERSOSUBSTATE_SIM_ICCID_ENTRY">ICCID unlock PIN</string>
+  <string name="PERSOSUBSTATE_SIM_ICCID_ERROR">ICCID zahtjev za otključavanje neuspješan.</string>
+  <string name="PERSOSUBSTATE_SIM_ICCID_IN_PROGRESS">Zahtjev za ICCID otključavanje…</string>
+  <string name="PERSOSUBSTATE_SIM_ICCID_SUCCESS">ICCID otključavanje neuspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">Otključavanje PIN-a SIM mreže</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">Zahtjev za otključavanje SIM mreže nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Zahtjevanje otključavanja SIM-a mreže…</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">Otključavanje PIN SIM podskupa mreže</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Zahtjev za otključavanje podskupa mreže SIM otključavanje nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Zahtjev za otključavanje podskupa SIM-a mreže…</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_SUCCESS">Otključavanje podskupa SIM-a mreže bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUCCESS">Otključavanje SIM-a mreže bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ENTRY">Otključavanje SIM-a PIN  mob. operatera</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">Otključavanje SIM-a mob. operatera nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Zahtjev za otključavanje SIM-a mob. operatera…</string>
+  <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">Otključavanje SIM-a mob. operatera bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_SIM_ENTRY">Otključavanje SIM PIN-a</string>
   <string name="PERSOSUBSTATE_SIM_SIM_ERROR">Zahtjev za otključavanje SIM -a nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_SIM_IN_PROGRESS">Zahtjev za SIM otključavanje…</string>
+  <string name="PERSOSUBSTATE_SIM_SIM_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM otključavanje bilo je uspješno.</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">SPN unlock PIN</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_ERROR">SPN zahtjev za otključavanje neuspješan.</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Zahtjev za SPN otključavanje…</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">SPN otključavanje uspješno.</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">SP EHPLMN otključavanje PIN</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">SP EHPLMN zahtjev za otključavanje neuspješan.</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Zahtjev za SP EHPLMN otključavanje…</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN otključavanje uspješno.</string>
   <string name="Result_title">Kontakti SIM kartice</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
@@ -76,6 +111,7 @@
   <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
   <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
   <string name="account_changed_title">Račun je promijenjen</string>
+  <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="active_phone_fail_nochoice">"Ne mogu provjeriti SIM karticu"</string>
   <string name="active_phone_fail_toast">"Ne mogu provjeriti SIM karticu %1$s"</string>
   <string name="active_phone_sim_absent">Umetnite SIM karticu sada</string>
@@ -192,6 +228,7 @@
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
   <string name="battery_info_status_charging_ac_short">Punjenje</string>
+  <string name="battery_info_status_charging_lower">punjenje</string>
   <string name="battery_info_status_charging_usb">Punjenje putem USB-a</string>
   <string name="battery_info_status_charging_usb_short">Punjenje</string>
   <string name="battery_info_status_charging_wireless">Bežično punjenje</string>
@@ -215,6 +252,8 @@
   <string name="bluetooth_disconnecting">Isključivanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na Dun poslužitelj</string>
   <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
+  <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
@@ -237,6 +276,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Upotrijebi za pristup internetu</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Povezano s uređajem za pristup internetu</string>
   <string name="bluetooth_profile_a2dp">Medijski zvuk</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Upotrebljavaj visokokvalitetan audio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Upotrebljavaj visokokvalitetan audio</string>
   <string name="bluetooth_profile_dun">Dial-up pristup mreži</string>
   <string name="bluetooth_profile_headset">Zvuk telefona</string>
   <string name="bluetooth_profile_hid">Ulazni uređaj</string>
@@ -249,6 +290,23 @@
   <string name="bluetooth_profile_sap">Pristup SIM-u</string>
   <string name="bluetooth_sap_profile_summary_connected">Povezano sa SAP-om</string>
   <string name="bluetooth_sap_profile_summary_use_for">Upotrijebi za pristup SIM-u</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitovi po uzorku za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Odaberi kodek za Bluetooth Audio:
+bitovi po uzorku"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Odaberi kodek za Bluetooth Audio:
+način kanala"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Audio LDAC: kvaliteta reprodukcije</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Odaberi kodek za Bluetooth Audio LDAC:
+kvaliteta reprodukcije"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Brzina uzorka za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Odaberi kodek za Bluetooth Audio:
+brzina uzorkovanja"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Strujanje: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Odaberi kodek za Bluetooth Audio</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Odaberite verziju AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Snimi sve Bluetooth HCI pakete u datoteci</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
@@ -272,13 +330,19 @@
   <string name="callFailed_data_limit_reached_description">Poziv je završio jer je dostignuto ograničenje prijenosa mobilnih podataka.</string>
   <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_dialToDial">DIAL zahtjev izmijenjen je u DIAL zahtjev s različitim brojem.</string>
+  <string name="callFailed_dialToDialVideo">DIAL zahtjev izmijenjen je u Video DIAL.</string>
   <string name="callFailed_dialToSs">DIAL zahtjev izmijenjen je u SS zahtjev.</string>
   <string name="callFailed_dialToUssd">DIAL zahtjev izmijenjen je u USSD zahtjev.</string>
+  <string name="callFailed_dialVideoToDial">Video DIAL zahtjev izmijenjen je u DIAL.</string>
+  <string name="callFailed_dialVideoToDialVideo">Video DIAL zahtjev izmijenjen je u Video DIAL zahtjev s različitim brojem.</string>
+  <string name="callFailed_dialVideoToSs">Video DIAL zahtjev izmijenjen je u SS zahtjev.</string>
+  <string name="callFailed_dialVideoToUssd">Video DIAL zahtjev izmijenjen je u USSD zahtjev.</string>
   <string name="callFailed_dsac_restricted">Kontrola pristupa ograničava pozive.</string>
   <string name="callFailed_dsac_restricted_emergency">Kontrola pristupa ograničava hitne pozive.</string>
   <string name="callFailed_dsac_restricted_normal">Kontrola pristupa ograničava uobičajene pozive.</string>
   <string name="callFailed_facility_rejected">Objekt odbijen</string>
   <string name="callFailed_fdn_only">Odlazne pozive ograničava FDN.</string>
+  <string name="callFailed_imei_not_accepted">Povezivanje nije moguće, umetnite važeću SIM karticu.</string>
   <string name="callFailed_incoming_calls_barred_within_CUG">Dolazni pozivi zabranjeni su unutar CUG-a</string>
   <string name="callFailed_incoming_cb_enabled">Party je zabranio sve dolazne pozive.</string>
   <string name="callFailed_incompatible_destination">Neusklađena destinacija</string>
@@ -332,6 +396,7 @@
   <string name="callFailed_userBusy">Linija je zauzeta</string>
   <string name="callFailed_user_not_member_of_CUG">Korisnik nije član CUG-a</string>
   <string name="callFailed_video_call_tty_enabled">Videopozivi nisu mogući kada je TTY omogućen.</string>
+  <string name="callFailed_wifi_lost">WLAN veza je prekinuta. Poziv je završen.</string>
   <string name="callUnanswered_forwarded">Poziv neodgovoren i preusmjeren</string>
   <string name="call_advanced_setting_title">Napredne postavke</string>
   <string name="call_background_default">Zadano</string>
@@ -515,6 +580,8 @@
   <string name="connect_disconnect_vibrate_title">Zavibriraj kada se odgovori na vaš poziv</string>
   <string name="connect_disconnect_vibrate_weak">Slaba vibracija</string>
   <string name="connect_later">Povezivanje s tom mrežom trenutačno nije moguće. Pokušajte kasnije.</string>
+  <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>
+  <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
   <string name="connection_service_default_label">Ugrađena usluga povezivanja</string>
@@ -540,6 +607,7 @@
   <string name="creating_account">Izrada računa…</string>
   <string name="crescendo_ringer_summary">Glasnoća zvuka zvona postupno će rasti do razine koju ste postavili</string>
   <string name="crescendo_ringer_title">Povećavanje glasnoće zvona</string>
+  <string name="ct_ut_not_support_close_4glte">UT nije dostupan, isključie Napredni 4G LTE način u Postavkama</string>
   <string name="cursorError">Pokazivač ne daje odgovarajuće podatke</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
@@ -560,6 +628,7 @@
   <string name="debug_drawing_category">Crtež</string>
   <string name="debug_hw_drawing_category">Hardverski ubrzano renderiranje</string>
   <string name="debug_hw_overdraw">Rješavanje GPU preklapanja</string>
+  <string name="debug_hw_renderer">Postavi ispunjivač GPU-a</string>
   <string name="debug_input_category">Ulaz</string>
   <string name="debug_layout">Prikaži okvir prikaza</string>
   <string name="debug_layout_summary">Prikazuju se obrubi, margine itd. isječaka.</string>
@@ -610,13 +679,13 @@
   <string name="dialerKeyboardHintText">Birajte pomoću tipkovnice</string>
   <string name="dialog_activate_livetalk">Potvrdi broj</string>
   <string name="dialog_alert_title">Pažnja</string>
-  <string name="dialog_cancel">Odustani</string>
   <string name="dialog_call_ordinary_telephone">Redoviti poziv (%ds)</string>
+  <string name="dialog_cancel">Odustani</string>
   <string name="dialog_hang_up">Prekid poziva</string>
   <string name="dialog_network_priority_title">Prioritetna mreža</string>
-  <string name="dialog_report">Prijavi</string>
   <string name="dialog_no">Ne</string>
   <string name="dialog_purchase">Nadoplata</string>
+  <string name="dialog_report">Prijavi</string>
   <string name="dialog_yes">Da</string>
   <string name="dialpad_0_labels"/>
   <string name="dialpad_0_letters">+</string>
@@ -672,6 +741,7 @@
   <string name="dialpad_two">2</string>
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="dialpad_zero">0</string>
+  <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
   <string name="disable">Isključi</string>
   <string name="disable_all_cf">Isključi sve značajke preusmjeravanja poziva</string>
   <string name="disable_cfb_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon zauzet.</string>
@@ -683,6 +753,7 @@
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disable_pin_ok">PIN za SIM je isključen.</string>
   <string name="disable_sim_pin">Onemogući SIM PIN</string>
+  <string name="disabled">Onemogućeno</string>
   <string name="disabled_by_admin">Onemogućeno od strane administratora</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
   <string name="disconnect_data_confirm">Podatkovni podaci privremeno će biti isključeni. Jeste li sigurni?</string>
@@ -794,7 +865,10 @@
   <string name="exportAllcontatsSuccess">Svi kontakti izvezeni na SIM karticu</string>
   <string name="exportContactScreen">Izvoz telefonskih kontakata na SIM karticu</string>
   <string name="exportContacts">Izvozim…</string>
+  <string name="external_source_trusted">Dopušteno</string>
+  <string name="external_source_untrusted">Nije dopušteno</string>
   <string name="failedToImportSingleContactMsg">Uvoz kontakta nije uspio</string>
+  <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
   <string name="fake_phone_activity_infoText_text">Dolazni telefonski broj</string>
   <string name="fake_phone_activity_phoneNumber_text">(385) 123-4567</string>
   <string name="fake_phone_activity_placeCall_text">Lažni dolazni poziv</string>
@@ -860,6 +934,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="hintPhonenumber">Broj telefona</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="home_screen_shortcut">Prečac početnog zaslona</string>
+  <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
   <string name="importAllSimEntries">Uvezi sve</string>
@@ -912,6 +987,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incoming_video_show_pref_summary">Prikaži video profil koji je postavio pozivatelj. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
   <string name="incoming_video_show_pref_title">"Prikaži Video profil pozivatelja"</string>
   <string name="input_password">Unesite zaporku</string>
+  <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
   <string name="internation_remain_minutes">（ili %1$s %2$s međunarodno vrijeme razgovora）</string>
   <string name="international_calls">Samo međunarodni</string>
   <string name="international_dial_complete_intention">Uštedite novac na međunarodnim pozivima.</string>
@@ -1094,6 +1170,7 @@ to start using Top-up package"</string>
   <string name="menu_add">Dodaj kontakt</string>
   <string name="menu_add_numbers">Dodaj broj</string>
   <string name="menu_delete">Izbriši kontakt</string>
+  <string name="menu_dial">Pozivanje kontakta</string>
   <string name="menu_edit">Uredi kontakt</string>
   <string name="messageCFB">Broj u slučaju zauzeća</string>
   <string name="messageCFNRc">Broj u slučaju nedostupnosti</string>
@@ -1124,6 +1201,7 @@ to start using Top-up package"</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
   <string name="mo_call_type_title">MO Vrsta Poziva</string>
   <string name="mobile_data">"Mobilni podaci: "</string>
+  <string name="mobile_data_alert">Promet podataka može se generirati na sekundarnoj kartici</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
   <string name="mobile_data_off">Isklj.</string>
@@ -1341,9 +1419,9 @@ Možda biste trebali potražiti područje s boljom pokrivenošću (pored prozora
 
 Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="other">Ostalo</string>
+  <string name="other_available_phone_accounts">Ostali dostupni računi</string>
   <string name="other_countries_and_regions">Ostale zemlje</string>
   <string name="other_settings">Ostale postavke poziva</string>
-  <string name="other_available_phone_accounts">Ostali dostupni računi</string>
   <string name="other_settings_category">Ostalo</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overseas_roaming_setting">Međunarodni roaming</string>
@@ -1408,6 +1486,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="phone_accounts_settings_header">Postavke</string>
   <string name="phone_entered_ecm_text">Unijet je način hitnog povratnog poziva</string>
   <string name="phone_in_ecm_call_notification_text">Onemogućena je podatkovna mreža</string>
+  <string name="phone_in_ecm_notification_complete_time">Nema podatkovne veze do %s</string>
   <string name="phone_in_ecm_notification_title">Način hitnog povratnog poziva</string>
   <string name="phone_number_hint_text">Broj telefona.</string>
   <string name="phone_numbers">Unesite svoj broj telefona</string>
@@ -1453,6 +1532,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
   <string name="power_discharging_duration">%1$s – još približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
+  <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
@@ -1548,8 +1628,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_pref_entries_only_3g">Samo 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Poželjni tip mreže</string>
-  <string name="preferred_phone_account">Željeni račun poziva</string>
   <string name="preferred_networks"/>
+  <string name="preferred_phone_account">Željeni račun poziva</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
   <string name="proceed">Nastavi</string>
@@ -1663,6 +1743,9 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="response_error">Neočekivan mrežni odgovor.</string>
   <string name="restaurants_disable">Restorani onemogućeni</string>
   <string name="restaurants_enable">Restorani omogućeni</string>
+  <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
+  <string name="retail_demo_reset_next">Dalje</string>
+  <string name="retail_demo_reset_title">Potrebna je zaporka</string>
   <string name="retail_directory_disable">Onemogućen je maloprodajni imenik</string>
   <string name="retail_directory_enable">Omogućen je maloprodajni imenik</string>
   <string name="retry_btn">Pokušaj ponovo</string>
@@ -1745,6 +1828,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>
   <string name="show_hw_screen_updates_summary">Bljeskanje prikaza u prozorima pri crtanju GPU-om</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
+  <string name="show_notification_channel_warnings">Prikaži upozorenja kanala obavijesti</string>
+  <string name="show_notification_channel_warnings_summary">Prikazuje upozorenje na zaslonu kada aplikacija objavi obavijest bez važećeg kanala</string>
   <string name="show_screen_updates">Prikaži ažur. površine</string>
   <string name="show_screen_updates_summary">Površina prozora bljeska pri ažuriranju.</string>
   <string name="show_touches">Prikaži dodire</string>
@@ -1758,8 +1843,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
   <string name="simContacts_title">Odabir kontakata za uvoz</string>
   <string name="simFdnContacts_empty">Nema kontakata za fiksno biranje.</string>
-  <string name="sim_accounts">SIM računi</string>
   <string name="sim_absent">Nema</string>
+  <string name="sim_accounts">SIM računi</string>
   <string name="sim_activated">Provjereno</string>
   <string name="sim_card_activate">Provjera SIM kartice</string>
   <string name="sim_card_num">SIM %s</string>
@@ -1855,12 +1940,15 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_xdivert_disabled">X-Divert je isključen</string>
   <string name="sum_xdivert_enabled">X-Divert je uključen</string>
   <string name="summary_manage_subscriptions">Upravljanje mrežnih postavki svake pretplate</string>
+  <string name="switch_dds_to_sub_alert">Prebacite mobilne podatke na SIM</string>
   <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 pretraživanje unosa</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin fonetski zapis</string>
   <string name="t9_indexing_rebuilding_message">Samo trenutak…</string>
   <string name="technology_news_disable">Vijesti iz tehnologije su onemogućene</string>
   <string name="technology_news_enable">Omogućene su vijesti iz tehnologije</string>
+  <string name="telephony_monitor_switch">TelephonyMonitor</string>
+  <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="telephony_setting">Telefon</string>
   <string name="telocation_auto_country_code">Dodaj predbroj zemlje</string>
   <string name="telocation_auto_country_code_summary">Automatski dodaj predbroj prije biranja kontakata</string>
@@ -1895,6 +1983,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
   <string name="tether_settings_title_wifi">Prijen. pristupna točka</string>
+  <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
+  <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
   <string name="third_party_account_summary">Ovaj račun trenutačno upotrebljava aplikacija %s.</string>
   <string name="throttle_current_usage">Podaci korišteni za trenutačno razdoblje</string>
@@ -1992,10 +2082,12 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="use_history">Aktivnost</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Značajke</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
   <string name="user_guest">Gost</string>
   <string name="username_title">Korisničko ime</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="ut_not_support">UT nije dostupan</string>
   <string name="verified">Provjereno</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
@@ -2028,6 +2120,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
+  <string name="voicemail_notifications_preference_title">Obavijesti</string>
   <string name="voicemail_number_not_set">Nije postavljeno</string>
   <string name="voicemail_provider">Govorna pošta</string>
   <string name="voicemail_provider_summary">Odaberite uslugu govorne pošte</string>
@@ -2052,12 +2145,30 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
+  <string name="wapi_all_sel_mode">Odaberi način</string>
+  <string name="wapi_auto_sel_cert_fail">Ne mogu automatski odabrati certifikat. Odaberite certifikat s popisa i pokušajte se povezati.</string>
+  <string name="wapi_cert_is_not_exist">Nema dostupnog certifikata, prvo instalirajte certifikat</string>
+  <string name="wapi_cert_is_not_selected">Najprije odaberite certifikat</string>
+  <string name="wapi_cert_manage_error">Nije uspjelo postavljanje WAPI certifikata.</string>
+  <string name="wapi_cert_manage_summary">Dodajte ili izbrišite WAPI certifikat</string>
+  <string name="wapi_cert_manage_title">Upravljanje WAPI certifikatom</string>
+  <string name="wapi_cert_roaming">Povezivanje…</string>
+  <string name="wapi_no">ne</string>
+  <string name="wapi_no_vaild_cert">Nema dostupnih certifikata, instalirajte ih sada?</string>
+  <string name="wapi_password_hex_format_add">Broj heksadecimalnih znakova ne može biti parni broj</string>
+  <string name="wapi_password_is_empty">Polje za zaporku ne smije ostati prazno</string>
+  <string name="wapi_password_is_not_hex_format">Nevažeći heksadecimalni znakovi</string>
+  <string name="wapi_password_length_is_max">Zaporka ne smije premašiti 64 znakova</string>
+  <string name="wapi_password_length_is_min">Zaporka ne može biti dulja od 8 znakova</string>
+  <string name="wapi_password_length_is_min_to_max">Zaporka mora biti: 8-64 znakova</string>
+  <string name="wapi_yes">da</string>
   <string name="whole_calls">Svi pozivi</string>
   <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
   <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
   <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
+  <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_call_setting">Postavke WLAN poziva</string>
   <string name="wifi_calling">WLAN pozivi</string>
   <string name="wifi_calling_call_assistant">Asistent poziva</string>
@@ -2077,6 +2188,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_calling_use_call_assistant">Koristi Asistenta poziva</string>
   <string name="wifi_calling_use_call_assistant_summary">Neka aplikacije ili usluge upravljaju mrežama korištene za pozive</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
+  <string name="wifi_disabled_by_recommendation_provider">Niste povezani jer je mreža loše kvalitete</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentifikaciji</string>
@@ -2093,8 +2205,19 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Nema</string>
+  <string name="wifi_ssid_is_empty">SSID polje ne može biti prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne smije premašiti 32 znaka</string>
   <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
   <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
+  <string name="wifi_wapi_as_certificate">AS certifikat</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Ručno odaberi certifikat</string>
+  <string name="wifi_wapi_certification_dont_exist">WAPI certifikati ne postoje. Instalirajte ih.</string>
+  <string name="wifi_wapi_fail_to_auth">"WAPI Provjera autentičnosti nije uspjela
+Provjerite valjanost certifikata"</string>
+  <string name="wifi_wapi_fail_to_init">"Nije moguće otvoriti WAPI certifikate
+Pohrana vjerodajnica možda neće omogućena"</string>
+  <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
+  <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>

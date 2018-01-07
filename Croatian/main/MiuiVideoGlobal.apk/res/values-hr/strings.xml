@@ -97,6 +97,7 @@
   <string name="t_password_null">Polje zaporke ne može biti prazno</string>
   <string name="t_password_wrong">Zaporka je netočna. Pokušajte ponovo.</string>
   <string name="t_search_null">Unesite ključne riječi za pretraživanje</string>
+  <string name="v_agree">Slažem se</string>
   <string name="v_app_check_failed">Ne mogu provjeriti aplikaciju</string>
   <string name="v_app_click_to_install">Dodirni za instaliranje.</string>
   <string name="v_app_download_failed">Ne mogu preuzeti, dodirni za novi pokušaj.</string>
