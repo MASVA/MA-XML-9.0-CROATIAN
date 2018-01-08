@@ -39,6 +39,7 @@
   <string name="cancle">Odustani</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
   <string name="clear_data">Očisti</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Play. Pokušajte ponovno.</string>
   <string name="complete_time">Završeno:</string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete_downloads_message">%d preuzimanja će biti izbrisano.</string>
@@ -97,8 +98,8 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Plaćanje završeno.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Plaćanje završeno.</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Uživajte u većoj brzini preuzimanja koje vam pruža Xunlei</string>
-  <string name="download_list_intoAuth">Potvrda vašeg ​​Računa</string>
-  <string name="download_list_intoAuthAlert">Učitavanje…</string>
+  <string name="download_list_intoAuth">Potvrda vašeg računa</string>
+  <string name="download_list_intoAuthAlert">Samo trenutak…</string>
   <string name="download_list_open_xl_cancel">Odustani</string>
   <string name="download_list_open_xl_message">Xunlei ubrzanje preuzimanja će vam pomoći ubrzati preuzimanja</string>
   <string name="download_list_open_xl_ok">U redu</string>
