@@ -402,6 +402,7 @@ Kartice kontakata su isključene"</string>
   <string name="dialer_empty_text_loading">"Samo trenutak…"</string>
   <string name="dialer_empty_text_no_call_log">"Nema nedavnih kontakata"</string>
   <string name="dialer_empty_text_no_search_result">Nisu pronađeni kontakti</string>
+  <string name="dialer_firewall_entry_name">Blokirani zapisnici poziva</string>
   <string name="dialer_menu_description">Prikaži izbornike</string>
   <string name="dialer_menu_title">Opcije izbornika</string>
   <string name="dialer_returnToInCallScreen">"Natrag na poziv u tijeku"</string>

@@ -24,6 +24,14 @@
          <item quantity="other">%d mjeseci</item>
          <item quantity="one">%d mjesec</item>
      </plurals>
+	 <plurals name="add_to_album_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stavaka ne može biti dodano u album. %1$s."</item>
+         <item quantity="one">"%2$d stavka ne može biti dodana u album. %1$s."</item>
+     </plurals>
+     <plurals name="add_to_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stavaka ne može biti dodano u skriveni album. %1$s."</item>
+         <item quantity="one">"%2$d stavka ne može biti dodana u skriveni album. %1$s."</item>
+     </plurals>
      <plurals name="age_day">
          <item quantity="other">%d dana</item>
          <item quantity="one">%d dan</item>
@@ -204,6 +212,10 @@
         <item quantity="other">Odabrano stavki %d</item>
         <item quantity="one">Odabrana %d stavka</item>
     </plurals>
+	<plurals name="fail_reason_processing_file">
+         <item quantity="other">Obrada fotografija…</item>
+         <item quantity="one">Obrada fotografije…</item>
+     </plurals>
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Preskočeno %1$d fotografija koje nisu mogle biti podijeljene."</item>
         <item quantity="one">"Preskočena fotografija koja nije mogla biti podijeljena."</item>
@@ -260,8 +272,16 @@
          <item quantity="other">Dodano %1$d fotografija u \"%2$s\".</item>
          <item quantity="one">Dodana %1$d fotografija u \"%2$s\".</item>
      </plurals>
+	 <plurals name="remove_from_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stavaka ne može biti uklonjeno iz sakrivenog albuma. %1$s."</item>
+         <item quantity="one">"%2$d stavka ne može biti uklonjena iz sakrivenog albuma. %1$s."</item>
+		 </plurals>
      <plurals name="search_feedback_done_mark_and_contribute_false_negative">
          <item quantity="other">Dodano %1$d fotografija u \"%2$s\" i u bazu podataka.</item>
          <item quantity="one">Dodana %1$d fotografija u \"%2$s\" i u bazu podataka.</item>
+     </plurals>
+	 <plurals name="send_processing_files_error">
+         <item quantity="other">"Ne mogu podijeliti. Još se obrađuje %d fotografija…"</item>
+         <item quantity="one">"Ne mogu podijeliti. Još se obrađuje %d fotografija…"</item>
      </plurals>
 </resources>

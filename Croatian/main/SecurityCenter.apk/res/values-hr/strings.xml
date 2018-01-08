@@ -32,7 +32,7 @@
   <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
   <string name="ac_unmask_all_apps">Prikaži za sve aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se pokreće</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Iscrtajte uzorak otključavanja da upotrijebite novi otisak prsta</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Unesite zaporku prije otključavanja novim otiskom prsta</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta."</string>
   <string name="access_control_need_password">"%s uspješno dodano
  "</string>
@@ -46,7 +46,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="action_button_text_60_80">Popravi</string>
   <string name="action_button_text_80_100">Optimiziraj</string>
   <string name="action_source_call_title">Blokirani pozivi</string>
-  <string name="action_source_sms_title">Blokirani SMS</string>
+  <string name="action_source_sms_title">Blokirane poruke</string>
   <string name="activate_fingerprint_dialog_message">"Ovaj otisak prsta nije aktivan. Unesite zaporku da biste aktivirali ovaj otisak prsta."</string>
   <string name="activate_fingerprint_dialog_title">Unesite zaporku</string>
   <string name="activity_title_antispam">AntiSpam</string>
@@ -442,7 +442,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="back_description_securitycenter">Natrag</string>
   <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
   <string name="back_sound_data">Potrebna je mobilna mreža, pokušajte ponovo!</string>
-  <string name="back_sound_fail">Nije uspjelo!</string>
+  <string name="back_sound_fail">Nije uspjelo! Zbog promjene operacijskog sučelja, možete pokušati prebaciti trenutnu SIM karticu na mrežnu karticu i pokušati ponovno.</string>
   <string name="back_sound_success">Uspješno!</string>
   <string name="back_sound_support">"Trenutni mrežni operateri to ne podržavaju!"</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
@@ -981,6 +981,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
+  <string name="gb_new_feature">Nova značajka</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
