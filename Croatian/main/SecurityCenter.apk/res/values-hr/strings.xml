@@ -924,6 +924,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
   <string name="firewall_system_title">Uporaba podataka za aplikacije sustava</string>
+  <string name="firewall_temp_rule_reason">%2$s je ograničio internetsku vezu za %1$s​</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću WLAN-a kada je ova stavka isključena.​"</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
@@ -1226,7 +1227,7 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjusting_bill">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
-  <string name="main_indicator_title">Čekanje na aktivaciju</string>
+  <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
   <string name="main_month_total_used">Iskorišteno ovaj mjesec</string>
   <string name="main_month_used">Mob. podaci</string>

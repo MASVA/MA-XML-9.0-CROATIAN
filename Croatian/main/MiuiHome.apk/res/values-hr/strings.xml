@@ -7,6 +7,7 @@
   <string name="announce_for_close_default_preview">zatvori početnu stranicu za odabir</string>
   <string name="announce_for_close_folder">zatvori mapu</string>
   <string name="announce_for_close_launcher_menu">zatvori izbornik</string>
+  <string name="announce_for_delete_gadget_and_widget">Widget</string>
   <string name="announce_for_delete_item">%1$s je izbrisan</string>
   <string name="announce_for_drag_enter_delete_zone">povlačenjem stavki ulaz u zonu brisanja</string>
   <string name="announce_for_drag_enter_folder_grid">ispustite ikonu u mapu</string>

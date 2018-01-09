@@ -41,4 +41,12 @@
         <item quantity="zero">%d|koraka</item>
         <item quantity="one">%d|korak</item>
     </plurals>
+	<plurals name="express_history_dialog_delete_message">
+         <item quantity="other">Izbrisati stavke: %s ?</item>
+         <item quantity="one">Izbrisati %s stavku?</item>
+     </plurals>
+     <plurals name="express_history_menu_select_num">
+         <item quantity="other">Odabrano stavki: %s</item>
+         <item quantity="one">Odabrana %s stavka</item>
+     </plurals>
 </resources>

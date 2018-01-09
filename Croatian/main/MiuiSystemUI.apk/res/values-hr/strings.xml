@@ -354,7 +354,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="fs_gesture_back_ready_title">Idi natrag</string>
   <string name="fs_gesture_final_over">Gotovo</string>
   <string name="fs_gesture_final_restart">Još jednom</string>
-  <string name="fs_gesture_final_summary">Možete se vratiti korištenjem tipke u Postavke &gt; Cijeli zaslon]</string>
+  <string name="fs_gesture_final_summary">Možete promjeniti "Idi natrag" tipku u Postavke &gt; Cijeli zaslon</string>
   <string name="fs_gesture_final_title">"Sve je spremno!"</string>
   <string name="fs_gesture_finish">Lijepo!</string>
   <string name="fs_gesture_left_back_ready_summary">Prijeđite prstom udesno od ruba</string>
