@@ -243,10 +243,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_manage_space">Upravljaj prostorom</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
+  <string name="app_manager_mobile_slot1">Mobilni podaci (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">Mobilni podaci (SIM 2)</string>
   <string name="app_manager_more_times">Pristupano 100000+ puta</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_net_control_title">Ograniči uporabu podataka</string>
-  <string name="app_manager_net_mobile">Podaci</string>
+  <string name="app_manager_net_mobile">Mobilni podaci</string>
   <string name="app_manager_net_wifi">WLAN</string>
   <string name="app_manager_not_allow">Ne</string>
   <string name="app_manager_not_support_uninstall">"Ne mogu deinstalirati ove aplikacije"</string>
