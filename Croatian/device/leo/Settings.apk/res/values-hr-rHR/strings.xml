@@ -3716,7 +3716,6 @@ Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;anno
   <string name="settings_license_activity_unavailable">Došlo je do problema s učitavanjem licenci.</string>
   <string name="settings_manual_activity_title">Priručnik</string>
   <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
   <string name="settings_safetylegal_activity_unreachable">Nemate podatkovnu vezu. Da biste tu informaciju vidjeli sada, idite na stranicu %s s bilo kojeg računala povezanog s internetom.</string>
