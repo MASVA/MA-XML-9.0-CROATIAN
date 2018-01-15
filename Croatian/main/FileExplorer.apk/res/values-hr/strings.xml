@@ -502,7 +502,7 @@
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Unesite naziv.</string>
-  <string name="need_read_storage_permission">"Aplikaciji Datoteke treba dopuštenje za pristup pohrani uređaja da radi kao što je predviđeno."</string>
+  <string name="need_read_storage_permission">"Aplikacija Datoteke treba dopuštenje za pristup pohrani uređaja da radi normalno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>

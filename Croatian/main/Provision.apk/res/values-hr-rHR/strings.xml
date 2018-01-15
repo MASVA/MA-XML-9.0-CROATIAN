@@ -79,6 +79,8 @@ Morate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego 
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="voice_assist_desp">Recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
+  <string name="voice_assist_title">Probudi sa glasom</string>
   <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="welcome">Dobrodošli</string>
 </resources>

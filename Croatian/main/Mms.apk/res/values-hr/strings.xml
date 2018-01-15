@@ -92,7 +92,7 @@
   <string name="confirm_export_dialog_description">Ukloniti odabrani privatni kontakt, razgovor će biti pretvoren u normalan SMS. Želite li nastaviti?</string>
   <string name="confirm_export_dialog_title">Ukloni privatni kontakt</string>
   <string name="confirm_no_block_positive">"Ne blokiraj i vrati"</string>
-  <string name="confirm_no_block_title">"Deblokirati taj broj i vratiti sve poruke poslane s tog broja?\n(Broj će biti dodan na popis dopuštenih poruka)"</string>
+  <string name="confirm_no_block_title">"Deblokirati taj broj i vratiti sve poruke poslane s tog broja?\n(Broj će biti dodan u iznimke.)"</string>
   <string name="confirm_rate_limit">Šalje se veliki broj multimedijskih poruka. Je li to u redu?</string>
   <string name="confirm_restore_all_title">Vratiti sve poruke s ovog broja?</string>
   <string name="confirm_restore_checkbox">Vrati odabrane Poruke</string>
