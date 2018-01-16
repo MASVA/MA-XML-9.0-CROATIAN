@@ -230,7 +230,6 @@
   <string name="choose_people">"Odaberite album osobe"</string>
   <string name="choose_some_people">Odaberite album sa %s</string>
   <string name="clear_local_photo_direction">Ako izbrišete fotografije ili videozapise s uređaja, oni će i dalje biti dostupni u Mi Cloudu</string>
-  <string name="cleaner_empty_value_description">Sve izgleda dobro</string>
   <string name="cleaner_photo_pick_delete_selected">Izbriši odabrane fotografije</string>
   <string name="cleaner_scan_description">Optimiziranje stavki oslobađa prostor za pohranu na vašem uređaju</string>
   <string name="cleaner_scan_exit_dialog_message">"Morat ćete započeti ispočetka sljedeći put. Želite li sada zaustaviti skeniranje?"</string>
