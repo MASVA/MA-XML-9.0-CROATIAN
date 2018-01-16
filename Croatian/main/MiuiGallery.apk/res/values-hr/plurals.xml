@@ -244,6 +244,18 @@
          <item quantity="other">%d fotografija ili videozapisa | Pauzirano</item>
          <item quantity="one">%d fotografija ili videozapis | Pauzirano</item>
      </plurals>
+	 <plurals name="slim_complete_photo_count">
+         <item quantity="other">Optimizirano fotografija: %d</item>
+         <item quantity="one">Optimizirana je %d fotografija</item>
+     </plurals>
+     <plurals name="slim_exit_dialog_message">
+         <item quantity="other">"%d fotografija nije optimizirano. Zaustaviti sada?"</item>
+         <item quantity="one">"%d fotografija nije optimizirana. Zaustaviti sada?"</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count">
+         <item quantity="other">preostalo %d fotografija</item>
+         <item quantity="one">preostala %d fotografija</item>
+     </plurals>
      <plurals name="sync_error_title">
          <item quantity="other">Nije pohranjeno %d fotografija ili videozapisa</item>
          <item quantity="one">Nije pohranjeno %d fotografija ili videozapis</item>

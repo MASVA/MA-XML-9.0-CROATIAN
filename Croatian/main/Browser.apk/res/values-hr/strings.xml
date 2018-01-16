@@ -51,7 +51,7 @@
   <string name="action_menu_toolbox">Alati</string>
   <string name="action_menu_useful_page">Dodaj prečac</string>
   <string name="action_menu_useful_page_added">Dodano na početnu stranicu</string>
-  <string name="action_menu_user_center">Korisnički centar</string>
+  <string name="action_menu_user_center">Profil</string>
   <string name="action_modify_bookmark">Izmijeni oznaku</string>
   <string name="action_put_in_search_box">Stavi %s u okvir za pretraživanje</string>
   <string name="actionbar_share">Podijeli</string>
@@ -393,6 +393,7 @@ Napustiti ovu stranicu?"</string>
   <string name="keep_queued_download">Sačuvaj</string>
   <string name="last_month">Zadnji mjesec</string>
   <string name="license_activity_title">Sustav WebView dozvola</string>
+  <string name="loading_dialog_title">Premještanje…</string>
   <string name="loading_tips">Povucite dolje za osvježiti</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Ne mogu se prijaviti, osvježite i pokušajte ponovno.</string>
@@ -597,8 +598,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="ok">U redu</string>
   <string name="older">Starije</string>
   <string name="open_app_confirm_message">Dopustiti ovoj stranici da otvori %s?</string>
-  <string name="open_cloud_sync">Otvori cloud sinkronizaciju</string>
-  <string name="open_cloud_sync_desc">Oznaka je dodana. Uključite cloud sinkronizaciju i dodane će oznake biti sinkronizirane s ovim uređajem. Prijaviti se i otvoriti?</string>
+  <string name="open_cloud_sync">Uključi sinkr. sa Mi Cloud</string>
+  <string name="open_cloud_sync_desc">Oznaka uspješno dodana. Uključite sinkronizaciju s Mi Cloudom kako biste sinkronizirali oznake dodane na druge uređaje. Prijaviti se i uključiti?</string>
   <string name="open_file_explorer_failed">"Ne mogu otvoriti aplik. Datoteke"</string>
   <string name="open_voice_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
   <string name="opening_file_error">"Ne mogu otvoriti odabranu datoteku"</string>
@@ -845,7 +846,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Preglednik treba povezivanje s s internetom da radi normalno. Da biste primali relevantne preporuke, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
   <string name="show_weather_location_getter_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
-  <string name="sign_and_open">Prijavi se i otvori</string>
+  <string name="sign_and_open">Prijavi se i uključi</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>
@@ -853,6 +854,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="snapshot_failed">"Ne mogu spremiti stranicu"</string>
   <string name="snapshot_successed">Otvori Oznake &amp; Povijest -&gt; LOKALNO za prikaz stranice</string>
   <string name="soft_toast_see_view">Prikaži</string>
+  <string name="speech_engine_not_install">Alat za govor nije istaliran</string>
   <string name="ssl_bad_clock_date_settings">Postavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Nije moguće uspostaviti privatnu vezu s %s1 jer datum i vrijeme vašeg uređaja (%s2) nisu točni."</string>
   <string name="ssl_certificate">Sigurnosni certifikat</string>
@@ -903,7 +905,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="tab_quicklinks">Početna stranica</string>
   <string name="tab_yellowpage">Poveznice</string>
   <string name="tabs_description">Kartice</string>
-  <string name="temp_refuse">Odbij</string>
+  <string name="temp_refuse">Ne hvala</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>

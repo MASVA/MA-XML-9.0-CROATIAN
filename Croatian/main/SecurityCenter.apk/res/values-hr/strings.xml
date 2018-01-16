@@ -157,7 +157,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Testiranje konfiguracije APN-a mobilnog operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
-  <string name="app_bg_restrict_dialog_message">Ograničavanje pozadinske mrežne veze može spriječiti normalno funkcioniranje aplikacije. Na primjer, možda više neće moći primati poruke niti ažurirati sadržaj. Svejedno ograničiti?</string>
+  <string name="app_bg_restrict_dialog_message">Ograničavanje pozadinske mrežne veze može spriječiti normalno funkcioniranje aplikacije. Na primjer, možda više neće moći primati poruke niti ažurirati sadržaj.</string>
   <string name="app_check_no_issue">Izgleda da nema problema s baterijom. Super!</string>
   <string name="app_check_optimize_title">Optimiziraj pozadinske aktivnosti</string>
   <string name="app_check_reason_background_cpu">Pozadinska aktivnost CPU-a</string>
@@ -443,10 +443,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
   <string name="back_description_securitycenter">Natrag</string>
   <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
-  <string name="back_sound_data">Potrebna je mobilna mreža, pokušajte ponovo!</string>
-  <string name="back_sound_fail">Nije uspjelo! Zbog promjene operacijskog sučelja, možete pokušati prebaciti trenutnu SIM karticu na mrežnu karticu i pokušati ponovno.</string>
-  <string name="back_sound_success">Uspješno!</string>
-  <string name="back_sound_support">"Trenutni mrežni operateri to ne podržavaju!"</string>
+  <string name="back_sound_data">Uključite mobilne podatke i pokušajte ponovo.</string>
+  <string name="back_sound_fail">"Nije moguće postaviti. Promijenjene su postavke operatera. Postavite trenutnu SIM karticu kao podatkovnu karticu, povežite se s mrežom i pokušajte ponovo."</string>
+  <string name="back_sound_success">Uspješno postavljeno</string>
+  <string name="back_sound_support">"Mreža vašeg operatera ne podržava ovu postavku"</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
@@ -2145,7 +2145,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet za normalan rad.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može riješiti u Drugom prostoru. Pokušajte ponovo u Prvom prostoru.</string>
-  <string name="sc_warning_updater_not_found">Aplikacija Ažuriranje nije pronađena. Nije moguće ažurirati!</string>
+  <string name="sc_warning_updater_not_found">"Ne mogu pronaći aplikaciju Ažuriranje."</string>
   <string name="scan_installed_games">Provjera instaliranih igara…</string>
   <string name="scan_status_risk">Rizično</string>
   <string name="scan_status_safe">Sigurno</string>

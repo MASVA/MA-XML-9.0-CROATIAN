@@ -9,6 +9,7 @@
   <string name="cm_terms_content">"U cilju poboljšanja usluge koje vam pruža operater mobilne mreže po vašem izboru može učitati Vaše osobne podatke i informacije o ovom uređaju na svoje poslužitelje koji koriste WLAN mreže ili mobilnu podatkovnu vezu. Ove će se informacije koristiti isključivo u statističke svrhe, kako bi se poboljšala kvaliteta usluga i pruži vam se više personaliziranih sadržaja. Ti se podaci neće koristiti za vašu osobnu identifikaciju i neće biti dani na uvid trećim osobama."</string>
   <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>
   <string name="congratulation_label">"Spremni ste za MIUI!"</string>
+  <string name="congratulation_swipe">Povuci prema gore za ulaz u sustav</string>
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
@@ -40,6 +41,9 @@
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
+  <string name="navigation_picker_gesture_guide">Vodič za geste</string>
+  <string name="navigation_picker_radio_text_full_screen">Cijeli zaslon</string>
+  <string name="navigation_picker_radio_text_virtual_key">Virtualne tipke</string>
   <string name="network_access_warning">Morate se povezati s internetom kako biste aktivirali Mi Usluge i \"Pronađi uređaj\"</string>
   <string name="next">Dalje</string>
   <string name="next_fingerprint">Dalje</string>
@@ -64,6 +68,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="setting_locale">Postavljanje regije…</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
+  <string name="sim_card_detecting_check">"Ne mogu pronaći SIM karticu. Provjerite je li SIM kartica pravilno umetnuta i imate li dovoljno sredstava na svom računu."</string>
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
@@ -71,6 +76,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="sim_redetection">Provjeri ponovno</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="summary_not_set">Nije postavljeno</string>
+  <string name="system_navigation_mode">Način navigacije sustavom</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
   <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, moduli Početnog zaslona, Game center, web aplikacije, brze kartice, statistike, pametne kartice, Mi Link i komponente Mi Računa povezati će se na internet i pribaviti vašu lokaciju."</string>
   <string name="terms_of_use_label_gms">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.

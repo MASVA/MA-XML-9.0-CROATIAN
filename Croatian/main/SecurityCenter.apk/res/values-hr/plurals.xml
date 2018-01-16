@@ -134,7 +134,7 @@
          <item quantity="one">"%d aplik. ne radi ispravno i troši bateriju"</item>
      </plurals>
 	 <plurals name="network_restrict_count">
-         <item quantity="other">"Pristup mreži ograničen je za &lt;font color='#ff0000'>%d:&lt;/font> aplik."</item>
+         <item quantity="other">"Pristup mreži ograničen je za &lt;font color='#ff0000'>%d&lt;/font> aplik."</item>
          <item quantity="one">"Pristup mreži ograničen je za &lt;font color='#ff0000'>%d&lt;/font> aplikaciju"</item>
      </plurals>
     <plurals name="power_center_battery_day">
