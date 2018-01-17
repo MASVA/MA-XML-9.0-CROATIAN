@@ -202,7 +202,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_clear_failed_dlg_message">Ne mogu izbrisati podatke aplikacije.</string>
   <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
   <string name="app_manager_code_size">Veličina aplikacije</string>
-  <string name="app_manager_comuting_size">Izračun…</string>
+  <string name="app_manager_comuting_size">Izračunavanje…</string>
   <string name="app_manager_copy_pkg_to_clip">Kopirano u međuspremnik</string>
   <string name="app_manager_data_size">Korisnički podaci</string>
   <string name="app_manager_default_cleared">Očišćeno</string>
@@ -210,7 +210,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_default_open">Otvori prema zadanim postavkama</string>
   <string name="app_manager_default_open_summary">Odlučili ste pokrenuti ovu aplikaciju po zadanoj postavci za neke radnje.</string>
   <string name="app_manager_default_open_title">Izbriši zadano</string>
-  <string name="app_manager_defaults_setting">Zadano</string>
+  <string name="app_manager_defaults_setting">Zadane aplikacije</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za pohranu</string>
   <string name="app_manager_details_traffic_title">Uporaba podataka</string>
@@ -1010,7 +1010,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gs_game_net_priority">Prioritet veze</string>
   <string name="gs_game_net_priority_detail">Ograničite brzinu preuzimanja da imate dovoljno propusnosti za igranje</string>
   <string name="gs_game_performance">Performanse</string>
-  <string name="gs_game_shortcut">Uživajte u većem doživljaju igranja</string>
+  <string name="gs_game_shortcut">Poboljšajte svoje iskustvo igranja</string>
   <string name="gs_only_self_start_for_list">Ograničite pozadinske procese da uštedite bateriju za igranje</string>
   <string name="gs_open_game_booster">Ubrzavanje brzine</string>
   <string name="gs_performance_mode">Način za performanse</string>
@@ -1704,6 +1704,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_btn_analyze">Analiziraj potrošnju baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Planirano uklj./isklj.</string>
+  <string name="power_center_back">Natrag u Baterija</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>

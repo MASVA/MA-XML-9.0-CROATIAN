@@ -5,11 +5,11 @@
          <item quantity="one">Izradi Sig. kopiju svaki dan</item>
      </plurals>
      <plurals name="cloud_backup_detail_manage_summary">
-         <item quantity="other">Sig. kopije %1$s, veličina:%2$s</item>
-         <item quantity="one">Sig. kopija %1$s, veličina:%2$s</item>
+         <item quantity="other">Sig. kopije %1$s (%2$s)</item>
+         <item quantity="one">Sig. kopija %1$s (%2$s)</item>
      </plurals>
 	 <plurals name="restoring_file_tile">
-       <item quantity="other">Vraćanje datoteka %d</item>
+       <item quantity="other">Vraćanje datoteka: %d</item>
        <item quantity="one">Vraćanje %d datoteke</item>
    </plurals>
 </resources>

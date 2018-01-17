@@ -2996,7 +2996,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
-  <string name="open_demo_mode">Otvori</string>
+  <string name="open_demo_mode">Uključi</string>
   <string name="open_demo_mode_warning_message">Kada je Demo način uključen, sat u traci stanja će se zaustaviti, baterija i ikone signala prikazat će se kao pune. Možete isključiti Demo način rada ili ponovo pokrenuti uređaj da biste to promijenili.</string>
   <string name="open_anr_debug">Uključi ANR otklanjanje grešaka</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
@@ -4465,7 +4465,7 @@ Možda je PIN netočan."</string>
   <string name="spellchecker_security_warning">Ovaj alat za provjeru pravopisa može prikupljati sav tekst koji upisujete, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. Dolazi s aplikacije %1$s. Upotrebljavati taj alat za provjeru pravopisa?</string>
   <string name="spellchecker_switch_title">Uključi Provjeru pravopisa</string>
   <string name="spellcheckers_settings_title">Provjera pravopisa</string>
-  <string name="split_screen">Ulaz u podijeljeni zaslon</string>
+  <string name="split_screen">Otvori podijeljeni zaslon</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor mreže</string>
   <string name="ssl_ca_cert_info_message">"Tim uređajem upravlja:
@@ -5496,6 +5496,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_calling_suggestion_title">Uključite WLAN pozive</string>
   <string name="wifi_cancel">Odustani</string>
   <string name="wifi_certificate">Certifikat</string>
+  <string name="wifi_click_login_wlan">Zahtijeva prijavu/autorizaciju</string>
   <string name="wifi_click_share_wlan">Dodirnite za dijeljenje zaporke</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configure_titlebar">Konfiguriraj WLAN</string>
