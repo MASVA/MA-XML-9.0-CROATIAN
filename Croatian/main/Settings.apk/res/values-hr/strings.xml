@@ -2715,6 +2715,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, slušalice i ostale postavke zvuka</string>
   <string name="music_audio_effect_settings">Postavke efekata</string>
   <string name="music_dirac_control">Optimiziraj kvalitetu zvuka</string>
+  <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Općenite</string>
@@ -2733,7 +2734,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Smanjenje buke (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer možete koristiti samo u Dolby glazbenom načinu. Omogućiti ga sada?</string>
@@ -2786,6 +2787,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="my_device">Moj uređaj</string>
   <string name="my_device_disclaimer">Napomena: informacije o hardveru, uključujući CPU, kapacitet baterije, veličinu i rezoluciju ekrana te kameru, pruža Xiaomi laboratorij, dizajneri te dobavljači.</string>
   <string name="n_cacrts">%d CA certifikata</string>
+  <string name="navigation_guide_app_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona u gornjem području</string>
+  <string name="navigation_guide_app_title">"Pokreće radnju aplikacije"</string>
   <string name="navigation_guide_back_anim_summary">"Prikaži animaciju dok prelazite od ruba zaslona"</string>
   <string name="navigation_guide_back_anim_title">Animacija geste \"Idi natrag\"</string>
   <string name="navigation_guide_back_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona</string>
@@ -5496,7 +5499,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_calling_suggestion_title">Uključite WLAN pozive</string>
   <string name="wifi_cancel">Odustani</string>
   <string name="wifi_certificate">Certifikat</string>
-  <string name="wifi_click_login_wlan">Zahtijeva prijavu/autorizaciju</string>
+  <string name="wifi_click_login_wlan">Povezano. Potrebna je provjera.</string>
   <string name="wifi_click_share_wlan">Dodirnite za dijeljenje zaporke</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configure_titlebar">Konfiguriraj WLAN</string>

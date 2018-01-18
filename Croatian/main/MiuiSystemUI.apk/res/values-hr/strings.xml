@@ -49,6 +49,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
   <string name="accessibility_divider">Djelitelj podijeljenog zaslona</string>
+  <string name="accessibility_drag_hint_message">Povucite stavke na vrh zaslona</string>
   <string name="accessibility_home">"Početna"</string>
   <string name="accessibility_ime_switch_button">Promjeni tipku načina unosa</string>
   <string name="accessibility_managed_profile">Radni profil</string>
@@ -65,8 +66,10 @@
   <string name="accessibility_recent">Nedavne aplikacije</string>
   <string name="accessibility_recent_task_exit">Nedavno zatvoreno</string>
   <string name="accessibility_recent_task_locked">Zaključano, povuci dolje za otključavanje.</string>
+  <string name="accessibility_recent_task_locked_state">Zaključano</string>
   <string name="accessibility_recent_task_memory_info">Ukupan RAM: %2$s | Dostupan RAM: %1$s. Dvaput dodirnite za čišćenje.</string>
   <string name="accessibility_recent_task_unlocked">Otključano</string>
+  <string name="accessibility_recent_task_unlocked_state">Otključano</string>
   <string name="accessibility_recents_all_items_dismissed">Sve su nedavne aplikacije uklonjene.</string>
   <string name="accessibility_recents_item_dismissed">%s je uklonjena.</string>
   <string name="accessibility_recents_item_launched">Pokretanje %s…</string>

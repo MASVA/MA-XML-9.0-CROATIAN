@@ -601,7 +601,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancle">Odustani</string>
   <string name="card_main_applock_action">Uključi</string>
-  <string name="card_main_applock_summary">Zaštitite privatne stavke s Zaklj. aplikacije</string>
+  <string name="card_main_applock_summary">Zaštitite odabrane aplikacije pomoću zaporke. Sakrijte poruke, fotografije, bilješke i još mnogo toga.</string>
   <string name="card_main_applock_title">Zaklj. aplikacije</string>
   <string name="card_main_datasave_action">Uključi</string>
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>
@@ -1372,6 +1372,7 @@ podatkovnu vezu"</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
+  <string name="menu_white">Iznimke</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
