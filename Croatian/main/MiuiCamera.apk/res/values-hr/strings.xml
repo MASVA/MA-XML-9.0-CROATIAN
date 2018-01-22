@@ -131,7 +131,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hint_fast_motion">Videozapis koji snimate reproducirat će se brže.</string>
   <string name="hint_groupshot">"Kamera će snimati više fotografija
   a zatim izraditi snimku na kojoj svi izgledaju najbolje."</string>
-  <string name="hint_groupshot_beauty">Ne možete koristiti uljepšanje kod grupne selfie fotografije</string>
+  <string name="hint_groupshot_beauty">Ne mogu koristiti uljepšanje kod grupne fotografije</string>
   <string name="hint_slow_motion">Videozapis koji snimate reproducirat će se sporije.</string>
   <string name="hunt_dual_water_mark">Oznaka Dvostruke kamera biti će dodana automatski.</string>
   <string name="find_other_qrcode">Pronađite QR kod</string>
@@ -205,6 +205,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nisko</string>
   <string name="pref_camera_beautify_entry_normal">Srednje</string>
+  <string name="pref_camera_beauty_deep">Uljepšanje Pro</string>
   <string name="pref_camera_bokeh_title">Portret</string>
   <string name="pref_camera_coloreffect_entry_big_face">Širenje</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>

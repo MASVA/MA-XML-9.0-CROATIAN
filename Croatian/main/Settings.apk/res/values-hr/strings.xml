@@ -975,7 +975,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="close_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
   <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
-  <string name="cloud_restore_section_summary">Vrati aplikacije, izgled Poč. zaslona i postavke sustava</string>
+  <string name="cloud_restore_section_summary">Vrati postavke sustava, raspored Poč. zaslona i aplikacije</string>
   <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>

@@ -31,7 +31,7 @@
   <string name="accessibility_data_one_bar">Podaci jedan stupac.</string>
   <string name="accessibility_data_signal_full">Podaci puni signal.</string>
   <string name="accessibility_data_three_bars">Podaci tri stupca.</string>
-  <string name="accessibility_data_two_bars">Podaci dvije stupca.</string>
+  <string name="accessibility_data_two_bars">Podaci dva stupca.</string>
   <string name="accessibility_desc_app_allow_block">"Obavijesti %1$s mogu biti skrivene"</string>
   <string name="accessibility_desc_app_unallow_block">"Obavijesti %1$s ne mogu biti skrivene"</string>
   <string name="accessibility_desc_block_notification">Sakrij obavijesti</string>
@@ -538,6 +538,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
+  <string name="please_slide_agian">Povuci ponovno</string>
   <string name="pip_menu_title">Izbornik slike u slici</string>
   <string name="pip_notification_message">Ako ne želite da %s upotrebljava ovu značajku, dodirnite da otvoriti postavke i isključite je.</string>
   <string name="pip_notification_title">%s je u slici u slici</string>

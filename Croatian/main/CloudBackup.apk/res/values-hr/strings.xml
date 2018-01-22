@@ -96,10 +96,14 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_btn_next">Dalje</string>
+  <string name="dialog_btn_restore_skip">Vrati kasnije</string>
   <string name="dialog_cancel_backup_cancel">Odustani</string>
   <string name="dialog_cancel_backup_confirm">U redu</string>
   <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
   <string name="dialog_cancel_backup_title">Otkazati izradu u tijeku?</string>
+  <string name="dialog_msg_restore_require_wlan">Za vraćanje datoteka Sig. kopije potreban je WLAN.</string>
+  <string name="dialog_title_require_wlan">Potreban je WLAN</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>
   <string name="done_remove">Uspješno uklonjeno</string>
