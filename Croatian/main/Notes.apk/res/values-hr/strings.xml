@@ -142,6 +142,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
   <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>
   <string name="redo">Ponovi</string>
+  <string name="refuse_to_open_as_pic_because_of_loading">Pričekajte da se bilješka učita i pokušajte ponovno.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Ova je bilješka prevelika za dijeljenje.</string>
   <string name="refuse_to_share_as_pic_because_of_loading">Pričekajte da se bilješka učita i pokušajte ponovno.</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapu</string>
@@ -195,6 +196,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="theme_title_yellow">Žuta</string>
   <string name="theme_white_description">Bijela</string>
   <string name="theme_yellow_description">Žuta</string>
+  <string name="toast_cancel_to_insert_image">Ne mogu otkazati umetanje slika.</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
   <string name="toast_mark_privacy_notes">Uspješno skriveno</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspješno skriven</string>

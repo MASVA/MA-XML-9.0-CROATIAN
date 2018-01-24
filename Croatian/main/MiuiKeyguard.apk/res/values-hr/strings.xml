@@ -40,7 +40,7 @@
   <string name="face_data_manage_unlock_title">Otključajte koristeći lice</string>
   <string name="face_data_siggesstion_next">Dalje</string>
   <string name="face_data_siggesstion_next_time">Dalje (%ds)</string>
-  <string name="face_data_suggesstion_first">Sigurnosni problemi: Otključavanje licem nije sigurnije od PIN-a, zaporke ili uzorka. Vaš bi uređaj mogao biti otključan vašom fotografijom, kao i od strane osoba ili predmeta sa sličnim izgledom.</string>
+  <string name="face_data_suggesstion_first">Otključavanje uređaja pomoću lica manje je sigurno od upotrebe zaporke zaključavanja zaslona. Vaš će uređaj možda otključati osobe koje izgledaju poput vas.</string>
   <string name="face_data_suggesstion_second">"Provjerite da dijelovi vašeg lica nisu pokriveni predmetima i da su jasno vidljivi. Vaše lice bi također trebalo dobro osvijetljeno."</string>
   <string name="face_unlock_adjust_distance">Provjerite je li udaljenost između lica i zaslona optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
