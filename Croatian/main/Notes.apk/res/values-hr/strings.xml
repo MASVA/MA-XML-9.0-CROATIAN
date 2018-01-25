@@ -196,7 +196,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="theme_title_yellow">Žuta</string>
   <string name="theme_white_description">Bijela</string>
   <string name="theme_yellow_description">Žuta</string>
-  <string name="toast_cancel_to_insert_image">Ne mogu otkazati umetanje slika.</string>
+  <string name="toast_cancel_to_insert_image">"Ne mogu dodati sliku."</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
   <string name="toast_mark_privacy_notes">Uspješno skriveno</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspješno skriven</string>

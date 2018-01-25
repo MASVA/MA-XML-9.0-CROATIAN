@@ -94,4 +94,49 @@
          <item>Izbriši</item>
          <item>Ne hvala</item>
      </string-array>
+	   <string-array name="suggestion_weather_condition_message">
+    <item>Vedro</item>
+    <item>Djelomična naoblaka</item>
+    <item>Oblačno</item>
+    <item>Pljusak</item>
+    <item>Oluja</item>
+    <item>Tuča</item>
+    <item>Kiša s snijegom</item>
+    <item>Lagana kiša</item>
+    <item>Umjerena kiša</item>
+    <item>Pljusak</item>
+    <item>Kišna oluja</item>
+    <item>Prolom oblaka</item>
+    <item>Iznenadna oluja</item>
+    <item>Gust snijeg</item>
+    <item>Snijeg</item>
+    <item>Umjeren snijeg</item>
+    <item>Gust snijeg</item>
+    <item>Mećava</item>
+    <item>Magla</item>
+    <item>Ledena kiša</item>
+    <item>Pješčana oluja</item>
+    <item>Mala do umjerena kiša</item>
+    <item>Umjerena do jaka kiša</item>
+    <item>Umjerena do iznenadna kiša</item>
+    <item>Iznenadna kiša do pljusak</item>
+    <item>Pjusak do ekstremna kiša</item>
+    <item>Lagan do umjeren snijeg</item>
+    <item>Umjeren do jak snijeg</item>
+    <item>Jak snijeg do mećava</item>
+    <item>Prašina</item>
+    <item>Pijesak</item>
+    <item>Pješčana oluja</item>
+    <item>Gusta magla</item>
+    <item>Gusta magla</item>
+    <item>Sumaglica</item>
+    <item>Umjerena sumaglica</item>
+    <item>Gusta sumaglica</item>
+    <item>Umjerena sumaglica</item>
+    <item>Gusta magla</item>
+    <item>Gusta magla</item>
+    <item>Ništa</item>
+    <item>Kiša</item>
+    <item>Snijeg</item>
+  </string-array>
 </resources>

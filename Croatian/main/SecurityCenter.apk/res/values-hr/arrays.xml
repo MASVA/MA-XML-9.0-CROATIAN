@@ -133,6 +133,6 @@
         <item>Učestalost korištenja</item>
         <item>Iskorišteni prostor za pohranu</item>
         <item>Vrijeme instalacije</item>
-        <item>Možete deinstalirati ove aplikacije</item>
+        <item>Aplikacije koje se mogu deinstalirati</item>
      </string-array>
 </resources>
