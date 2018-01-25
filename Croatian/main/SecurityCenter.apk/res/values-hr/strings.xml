@@ -601,7 +601,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancle">Odustani</string>
   <string name="card_main_applock_action">Uključi</string>
-  <string name="card_main_applock_summary">Zaštitite odabrane aplikacije pomoću zaporke. Sakrijte poruke, fotografije, bilješke i još mnogo toga.</string>
+  <string name="card_main_applock_summary">Zaštitite poruke, fotografije i ostale stavke zaporkom.</string>
   <string name="card_main_applock_title">Zaklj. aplikacije</string>
   <string name="card_main_datasave_action">Uključi</string>
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>
@@ -1193,8 +1193,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
-  <string name="lockpattern_tutorial_continue_label_confirm">Klikni U redu</string>
-  <string name="lockpattern_tutorial_continue_label_next">Klikni Dalje</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Dodirni "U redu"</string>
+  <string name="lockpattern_tutorial_continue_label_next">Dodirni "Dalje"</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
