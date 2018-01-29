@@ -329,7 +329,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_default_setting_label">Zadana aplik.</string>
   <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Koristi 2 računa bez mijenjanja</string>
-  <string name="xspace_guide_title">Izradi Dvojnu aplikaciju za %s</string>
+  <string name="xspace_guide_title">Izradi dvojnu aplikaciju</string>
   <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na Početni zaslon</string>
   <string name="xspace_install_failed">"Ne mogu napraviti"</string>

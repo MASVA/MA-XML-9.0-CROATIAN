@@ -2,7 +2,7 @@
 <resources>
   <string name="Call_ADRESS">Lokalna lista blokiranih</string>
   <string name="Call_BLACKLIST">Lista blokiranih poziva</string>
-  <string name="Call_PREFIX">Lista blokiranih predbrojeva</string>
+  <string name="Calnetwork_blocked_switch_wifiEFIX">Lista blokiranih predbrojeva</string>
   <string name="Call_PRIVATE_CALL">Privatni pozivi</string>
   <string name="MALICIOUS_URL">Zlonamjeran URL</string>
   <string name="PAST_BLOCK">Ranije blokirano</string>
@@ -1414,6 +1414,8 @@ podatkovnu vezu"</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
   <string name="network_blocked_notification_summary">Testiranje mreže</string>
   <string name="network_blocked_switch_wifi">Promijeni mrežu</string>
+  <string name="network_changed_noti_summary">Upotreba mobilnih podataka</string>
+  <string name="network_changed_noti_title">Prekinuta je veza s WLAN-om</string>
   <string name="network_connected_exception_title">Testiranje mreže</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="network_diagnostics">Testiranje mreže</string>

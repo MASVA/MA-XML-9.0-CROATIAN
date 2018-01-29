@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Promjena vremenskih upozorenja</string>
+  <string name="abrupt_weather_settings_summary_type_b">Promjena vremenskih upozorenja</string>
+  <string name="abrupt_weather_settings_title">Neobična vremenska upozorenja</string>
   <string name="act_find_city_hint">Unesite grad</string>
   <string name="act_find_city_hot_attractions_title">Popularni gradovi</string>
   <string name="act_find_city_hot_city_title">Popularni gradovi</string>
@@ -52,6 +55,9 @@
   <string name="content_desc_activity_main_add_city">Dodaj grad</string>
   <string name="content_desc_activity_main_add_city_manage">Upravljaj gradom</string>
   <string name="content_desc_activity_main_more_settings">Više postavki</string>
+  <string name="content_desc_back_button">Natrag</string>
+  <string name="content_desc_close_button">Zatvori</string>
+  <string name="content_desc_edit_city_manage">Upravljaj gradovima</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Povjetarac</string>
@@ -124,16 +130,18 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="menu_minute_rain">Dvosatna prognoza oborina</string>
   <string name="menu_speeker">Emitiranje glasom</string>
   <string name="minute_rain_after_an_hour">Sat vremena kasnije</string>
+  <string name="minute_rain">Detaljna prognoza</string>
   <string name="minute_rain_after_two_hour">Dva sata kasnije</string>
   <string name="minute_rain_feedback_subtitle">Samo mi reci kakvo je vrijeme</string>
   <string name="minute_rain_feedback_text">Povratna inf.</string>
-  <string name="minute_rain_feedback_title">"Vrijeme ne izgleda dobro..."</string>
+  <string name="minute_rain_feedback_title">"Vrijeme ne izgleda dobro…"</string>
   <string name="minute_rain_let_go_refresh">Neka se osvježi</string>
   <string name="minute_rain_no_data">Nema podataka</string>
   <string name="minute_rain_now">Sada</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
-  <string name="minute_rain_pull_down_refresh">Pull down to refresh</string>
-  <string name="minute_rain_refreshing_now">Refreshing</string>
+  <string name="minute_rain_pull_down_refresh">Povuci dolje za osvježiti</string>
+  <string name="minute_rain_refreshing_now">Osvježavanje</string>
+  <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="more_details">Više detalja</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
