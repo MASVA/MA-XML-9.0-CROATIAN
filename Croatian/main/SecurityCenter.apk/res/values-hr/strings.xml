@@ -601,7 +601,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancle">Odustani</string>
   <string name="card_main_applock_action">Uključi</string>
-  <string name="card_main_applock_summary">Zaštitite poruke, fotografije i ostale stavke zaporkom.</string>
+  <string name="card_main_applock_summary">Zaštitite odabrane aplikacije zaporkom.</string>
   <string name="card_main_applock_title">Zaklj. aplikacije</string>
   <string name="card_main_datasave_action">Uključi</string>
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>

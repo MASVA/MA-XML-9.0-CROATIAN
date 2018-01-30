@@ -271,6 +271,7 @@
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
+  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke. Možete odabrati da ne šaljete zapise uklanjanjem potvrde u odgovarajućeu okviru."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
