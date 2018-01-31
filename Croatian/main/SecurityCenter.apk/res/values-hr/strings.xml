@@ -1374,7 +1374,7 @@ podatkovnu vezu"</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
-  <string name="menu_white">Iznimke</string>
+  <string name="menu_white">Dodaj u iznimke</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>

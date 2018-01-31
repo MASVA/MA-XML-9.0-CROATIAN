@@ -14,10 +14,10 @@
     </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">Preuzimanje datoteka: %d</item>
-        <item quantity="one">Preuzimanje 1 datoteke</item>
+        <item quantity="one">Preuzimanje %d datoteke</item>
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">Datoteka na čekanju: %d</item>
-        <item quantity="one">1 datoteka na čekanju</item>
+        <item quantity="one">%d datoteka na čekanju</item>
     </plurals>
 </resources> 
