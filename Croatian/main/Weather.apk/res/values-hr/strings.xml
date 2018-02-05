@@ -113,6 +113,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
   <string name="information_set">Ostale postavke</string>
+  <string name="information_settings_title">Informacije o vremenu</string>
   <string name="install">Instaliraj</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>
@@ -153,6 +154,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="open_browser">Otvori u Pregledniku</string>
   <string name="open_now">Otvori</string>
   <string name="other">Ostalo</string>
+  <string name="other_settings">Ostale postavke</string>
   <string name="other_warning_settings">Ostala upozorenja</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>

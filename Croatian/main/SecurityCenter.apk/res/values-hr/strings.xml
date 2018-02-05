@@ -28,6 +28,12 @@
   <string name="ac_firstUseApplock_subTitle">Koristite bolje sigurnosne alate na razini sustava</string>
   <string name="ac_firstUseApplock_title">Postavite zaporku da zaštitite vaše aplikacije</string>
   <string name="ac_mask_all_apps">Sakrij za sve aplikacije</string>
+  <string name="ac_notification_contentText">Dodirnite za uključiti</string>
+  <string name="ac_notification_contentTitle">Zaštitite aplikacije s Zaklj. aplikacija</string>
+  <string name="ac_post_notification_contentText">Nabavite zaštitu na razini sustava</string>
+  <string name="ac_post_notification_contentTitle">Uključite Zaklj. aplikacija</string>
+  <string name="ac_pre_notification_contentText">Zaštitite svoje osobne podatke</string>
+  <string name="ac_pre_notification_contentTitle">Isprobajte Zaklj. aplikacija</string>
   <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
   <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
   <string name="ac_unmask_all_apps">Prikaži za sve aplikacije</string>

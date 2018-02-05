@@ -694,7 +694,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_pairing_pin_error_message">"Uparivanje s uređajem %1$s nije bilo moguće zbog netočnog PIN-a ili zaporke."</string>
   <string name="bluetooth_pairing_rejected_error_message">Uparivanje odbio uređaj %1$s.</string>
   <string name="bluetooth_pairing_request">Zahtjev za Bluetooth uparivanje</string>
-  <string name="bluetooth_pairing_shares_phonebook">Dopusti uređaju %1$s pristup kontaktima i povijesti poziva</string>
+  <string name="bluetooth_pairing_shares_phonebook">Dopusti pristup kontaktima i povijesti poziva</string>
   <string name="bluetooth_pairing_will_share_phonebook">Uparivanje omogućuje pristup vašim kontaktima i povijesti poziva dok ste povezani.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Dijeljenje lokalne internetske veze s uređajem</string>
   <string name="bluetooth_pan_profile_summary_use_for">Upotrijebi za pristup internetu</string>
@@ -1844,6 +1844,8 @@ Gradom je šetalo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni
   <string name="free_xiaomi_wifi_connect_summary">Dodirnite za povezivanje s %1$s.</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
+  <string name="fsg_mistake_touch_summary">U nekim prizorima, kao što su igre i videozapisi na cijelom zaslonu, geste moraju biti dvostrukim povlačenjem da imaju efekat</string>
+  <string name="fsg_mistake_touch_title">Dvaput provjeri za geste</string>
   <string name="full_transparent_smarrcover_title">Prozirni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinski pokrenite automatsku izradu sigurnosne kopije podataka uređaja (kao što su zaporke WLAN-a i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
 

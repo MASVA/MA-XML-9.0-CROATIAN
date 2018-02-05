@@ -231,6 +231,7 @@
   <string name="notif_icloud_need_wifi_summary">Čekanje na WLAN</string>
   <string name="notif_icloud_saved_summary">Uspješno uvezeno</string>
   <string name="notif_icloud_saving_summary">Vraćanje podataka…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite se pokušava povezati s vašim uređajem</string>
   <string name="notif_parse_select_descript_error">"Ne mogu sinkronizirati popis pohranjenih stavki."</string>
   <string name="notif_receiving_transingsd">Primanje %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Uspješno vraćeno</string>
