@@ -2095,6 +2095,9 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="verifying">Provjera…</string>
   <string name="vibrate_after_connected_summary">Vibracija nakon javljanja</string>
   <string name="vibrate_after_connected_title">Vibracija nakon povezivanja</string>
+  <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
+  <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
+  <string name="vice_slot_volte_data_switch_title">Koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici</string>
   <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>

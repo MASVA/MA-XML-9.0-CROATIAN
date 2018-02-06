@@ -200,6 +200,7 @@
   <string name="scenario_policies_summary">Primijenite različite strategije štednje energije za različite scenarije.</string>
   <string name="scenario_policies_title">Pametne scene</string>
   <string name="scenario_policies_warmcontrol">Kontrola temperature</string>
+  <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
   <string name="screen_off">Zaslon je isključen</string>
   <string name="screen_off_10_min">Zaslon je isključen preko 10 min.</string>
   <string name="screen_on">Zaslon je uključen</string>

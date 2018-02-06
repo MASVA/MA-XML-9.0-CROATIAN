@@ -375,6 +375,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="how_to_back_home">Idi na početni zaslon</string>
   <string name="how_to_switch_recents">Otvori Nedavno</string>
+  <string name="how_to_use_drawer">Kako koristiti funkciju povlačenja aplikacije</string>
+  <string name="how_to_use_drawer_summary">Prijeđite od gornje lijeve strane</string>
   <string name="how_to_use_fsg">Možete obavljati ove radnje pomoću gesti:</string>
   <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
