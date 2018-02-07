@@ -494,6 +494,7 @@ Odaberite samo važne stavke da brže obavite prijenos."</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
   <string name="trans_start_failed_message">"Ne mogu pokrenuti, pokušajte ponovo ili ponovno pokrenite uređaj."</string>
   <string name="trans_start_failed_title">"Ne mogu pokrenuti"</string>
+  <string name="trans_switching_5g">Promjena na 5GHz WLAN…</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"
  Potrošeno vrijeme %s"</string>

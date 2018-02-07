@@ -820,7 +820,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="breathing_light_freq_title">Frekvencija treperenja LED-a</string>
   <string name="brightness">Jačina svjetline</string>
   <string name="brightness_auto_adjust_off">Svjetlina zaslona će ostati stalna.</string>
-  <string name="brightness_auto_adjust_on">Optimiziranje razine osvjetljenja za dostupno svjetlo.</string>
+  <string name="brightness_auto_adjust_on">Svjetlina zaslona će biti optimizirana prema ambijentalnom svjetlu.</string>
   <string name="brightness_summary">Podesite svjetlinu zaslona</string>
   <string name="brightness_title">Svjetlina</string>
   <string name="bssid_label">BSSID:</string>
@@ -1396,6 +1396,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_continue">Onemogući</string>
   <string name="disable_data_string">Onemogući podatkovnu vezu</string>
+  <string name="disabled_low_ram_device">Ova značajka nije dostupna na ovom uređaju</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke za uključivanje</string>
@@ -1405,6 +1406,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disable_wifi_master_key_service">Isključi</string>
   <string name="disable_wifi_master_key_service_first">Uključi</string>
   <string name="disabled">Onemogućeno</string>
+  <string name="disabled_authorised_apps_title">Opozvana autorizacija</string>
   <string name="disabled_because_no_backup_security">Za upotrebu, prvo postavite zaključavanje zaslona</string>
   <string name="disabled_by_admin">Onemogućio administrator</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
@@ -1604,7 +1606,9 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_text">"Omogući"</string>
   <string name="enable_webview_multiprocess">Omogući višeprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Pokreni ispunjivače WebViewa u izoliranim procesima.</string>
-  <string name="enable_wifi_display">Bežični prikaz</string>
+  <string name="enable_wifi_display">Bežični zaslon</string>
+  <string name="enabled_authorised_apps_summary">Vaša autorizacija bit će opozvana nakon što promjenite prečace pojedinih aplikacija.</string>
+  <string name="enabled_authorised_apps_title">Autirizacija je odobrena</string>
   <string name="enable_wifi_master_key_service">Uključi WLAN Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Uključi</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
@@ -1715,7 +1719,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="filter_with_domain_urls_apps">S URL-ovima domena</string>
   <string name="filter_work_apps">Posao</string>
   <string name="filter_write_settings_apps">S dopuštenjem za izmjenu postavki sustava</string>
-  <string name="find_my_device">Pronađi Moj uređaj</string>
+  <string name="find_my_device">Pronađi uređaj</string>
   <string name="find_my_device_disable">Isključi</string>
   <string name="find_my_device_enable">Uključi</string>
   <string name="fingerprint_add_max">Maksimalni broj otisaka prstiju koji se može dodati iznosi %d</string>
@@ -2881,7 +2885,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="night_display_temperature_title">Intenzitet</string>
   <string name="night_display_text">Noćno svjetlo čini vaš zaslon jantarno.To olakšava gledanje vašeg zaslona ili čitanje na slabom svjetlu i može vam olakšati zaspati.</string>
   <string name="night_display_title">Noćno svjetlo</string>
-  <string name="night_light">Noćno svjetlo</string>
+  <string name="night_light">Noćni način</string>
   <string name="night_light_brightness">Jačina osvjetljenja</string>
   <string name="night_light_color">Boja</string>
   <string name="night_light_summary">Minimiziraj pozadinsko osvjetljenje u uvjetima slabog osvjetljenja za ulaz u noćni rad</string>
@@ -3465,6 +3469,21 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
+  <string name="privacy_authorize_dialog_agree">Slažem se</string>
+  <string name="privacy_authorize_dialog_exit">Izlaz</string>
+  <string name="privacy_authorize_dialog_message">%1$s zahtijeva da pročitate i slažete se sa %2$s. Aplikacija se mora povezati s mrežom da radi normalno. Slažete li se?</string>
+  <string name="privacy_authorize_network_error">Povežite se s mrežom i pokušajte ponovo.</string>
+  <string name="privacy_authorize_privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_authorize_revoke">Opozovi</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Svejedno opozvati autorizaciju?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Opozivanje autorizacije</string>
+  <string name="privacy_authorize_revoke_failed">"Ne mogu opozvati autorizaciju"</string>
+  <string name="privacy_authorize_revoke_success">Uspješno opozvano</string>
+  <string name="privacy_authorize_revoke_time">Opoziv (%1$ds)</string>
+  <string name="privacy_authorize_revoke_title">Autorizacija &amp; opoziv</string>
+  <string name="privacy_authorize_revoking">Opozivanje autorizacije…</string>
+  <string name="privacy_authorize_success">Autorizacija uspješno odobrena</string>
+  <string name="privacy_authorize_title">Odobravanje autorizacije</string>
   <string name="privacy_applock">Zaklj.  aplik.</string>
   <string name="privacy_childmode">Dječji način</string>
   <string name="privacy_close_dlg_button_ok">Isključi</string>
