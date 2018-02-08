@@ -542,7 +542,6 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="system_warning">Ako ne odobrite ovo dopuštenje, osnovne značajke vašeg uređaja možda više neće funkcionirati pravilno.</string>

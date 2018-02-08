@@ -53,7 +53,6 @@
   <string name="screenrecord_slience">Snimljeni videozapis je bez zvuka, jer trenutna verzija MIUI ne podržava snimanje audio zapisa.</string>
   <string name="screenrecord_success">Uspješno snimljeno. Sada možete dijeliti videozapis.</string>
   <string name="share_tips">Snimka zaslona uspješno napravljena. Dodirni za dijeljenje.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">Vanjska pohrana</string>
   <string name="storage_internal_sdcard">Unutarnja pohrana</string>
   <string name="storage_root_dir">Već ste u root mapi</string>

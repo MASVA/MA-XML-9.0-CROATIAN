@@ -3907,7 +3907,6 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_app_enable_keyguard">Zaklj. zaslon</string>
   <string name="status_bar_app_enable_message">Značke</string>
   <string name="status_bar_key_position_custom">Promjenite položaj tipki</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Kliznite dolje da biste sakrili tipke zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona mogu se sakriti</string>

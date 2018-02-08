@@ -121,7 +121,6 @@
   <string name="sort_direction_descending">Silazno</string>
   <string name="sort_name">Po nazivu</string>
   <string name="sort_size">Po veličini</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_open">Otvori iz</string>
   <string name="title_save">Spremi u</string>
   <string name="toast_failed_delete">Nije moguće izbrisati neke dokumente</string>

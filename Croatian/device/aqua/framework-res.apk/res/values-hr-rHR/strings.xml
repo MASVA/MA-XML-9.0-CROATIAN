@@ -1250,7 +1250,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="ssl_ca_cert_noti_managed">Od strane domene %s</string>
   <string name="ssl_certificate">Sigurnosni certifikat</string>
   <string name="ssl_certificate_is_valid">Ovaj je certifikat valjan.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SS zahtjev izmijenjen je u DIAL zahtjev.</string>
   <string name="stk_cc_ss_to_ss">SS zahtjev izmijenjen je u novi SS zahtjev.</string>
   <string name="stk_cc_ss_to_ussd">SS zahtjev izmijenjen je u USSD zahtjev.</string>
