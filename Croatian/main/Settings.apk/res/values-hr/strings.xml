@@ -1608,7 +1608,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_webview_multiprocess_desc">Pokreni ispunjivače WebViewa u izoliranim procesima.</string>
   <string name="enable_wifi_display">Bežični zaslon</string>
   <string name="enabled_authorised_apps_summary">Vaša autorizacija bit će opozvana nakon što promjenite prečace pojedinih aplikacija.</string>
-  <string name="enabled_authorised_apps_title">Autirizacija je odobrena</string>
+  <string name="enabled_authorised_apps_title">Autorizacija je odobrena</string>
   <string name="enable_wifi_master_key_service">Uključi WLAN Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Uključi</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
