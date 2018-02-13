@@ -5212,7 +5212,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="use_location_title">Lokacija &amp; Google pretraživanje</string>
   <string name="use_nuplayer">Koristi NuPlayer (eksp.)</string>
   <string name="use_nuplayer_summary">Koristi NuPlayer umjesto AwesomePlayera</string>
-  <string name="use_personalized_ad_service">Koristi identifikator oglašavanja</string>
+  <string name="use_personalized_ad_service">Personalizirana Preporuka oglasa</string>
+  <string name="use_personalized_ad_service_summary">Kada je značajka preporuke isključena, i dalje ćete vidjeti istu količinu oglasa kao kada je uključena, ali ne i na temelju vaših podataka o ponašanju ili vaših osobnih podataka.</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>
