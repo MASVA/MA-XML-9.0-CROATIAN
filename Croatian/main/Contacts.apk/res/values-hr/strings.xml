@@ -219,6 +219,8 @@
   <string name="contact_detail_calllog_call_note_tips">Bilješke</string>
   <string name="contact_detail_calllog_call_record_tips">Snimljeni pozivi</string>
   <string name="contact_detail_calllog_empty">Nema povijesti</string>
+  <string name="contact_detail_entry_pay">Plati</string>
+  <string name="contact_detail_entry_pay_dialog_title">Odaberi broj telefona</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši karticu</string>
   <string name="contact_detail_miprofile_accept">Razmjena Kartice kontakata</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Ne mogu razmjenjivati Kartice kontakata"</string>
@@ -1001,6 +1003,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_dial_pad_touch_tone_title">Tonovi biranja</string>
   <string name="preference_display">Prikaz</string>
   <string name="preference_displayOptions">Opcije prikaza</string>
+  <string name="preference_display_contact">Opcije prikaza</string>
   <string name="preference_export">"Izvoz"</string>
   <string name="preference_import">"Uvoz"</string>
   <string name="preference_import_export">"Uvoz/izvoz"</string>
