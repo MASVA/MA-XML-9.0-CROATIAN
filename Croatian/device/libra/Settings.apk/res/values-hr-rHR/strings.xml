@@ -3613,7 +3613,6 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_attention_3">"Morati ćete postaviti novu zaporku za zaključavanje zaslona."</string>
   <string name="security_encryption_attention_4">"Pobrinite se da zapamtite svoju zaporku zaključavanja zaslona, inače ćete morati napraviti kompletno resetiranje i izbrisati sve podatke na uređaju."</string>
   <string name="security_encryption_attention_info">Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatke, medije i ostale datoteke.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Važno</string>
   <string name="security_encryption_close_dialog_info">Odabirom ne šifrirati uređaj pomoću zaporke zaključavanja zaslona može rezultirati da neke Googleove usluge budu nedostupne.</string>
   <string name="security_encryption_close_dialog_title">Idi natrag na zadanu zaštitu zaporkom</string>
