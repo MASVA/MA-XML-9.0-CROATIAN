@@ -9,7 +9,7 @@
   <string name="app_search">Traži aplikacije</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dialog_not_show_again">"Ne prikazuj ponovno"</string>
-  <string name="bugreport_dialog_submit_content">Vaše povratne informacije mogu sadržavati osobne podatke.</string>
+  <string name="bugreport_dialog_submit_content">"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi."</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
@@ -279,7 +279,7 @@
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
-  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke. Možete odabrati da ne šaljete zapise uklanjanjem potvrde u odgovarajućem okviru."</string>
+  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima (ako postoji) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
