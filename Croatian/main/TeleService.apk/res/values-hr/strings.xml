@@ -1642,6 +1642,9 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osvježi…</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
+  <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge nisu dostupne. Isključite VoLTE za upućivanje poziva."</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">"Usluga nije dostupna. Isključite VoLTE u Postavkama."</string>
+  <string name="prompt_when_turnon_volte_without_lte">"LTE mreže sada nisu dostupne. Uključivanje VoLTE-a može vam spriječiti redovite pozive."</string>
   <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
   <string name="propmpt_dialog_network_failed_title">Isteklo vrijeme poziva</string>
   <string name="propmpt_dialog_no_call_back_content">Predugo traje pokušaj povezivanja. Mijenjam na redoviti poziv, koji može biti naplaćen od strane vašeg davatelja usluga.</string>
@@ -2148,7 +2151,9 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="volte_switch_not_support_summary">"VoLTE pozivi nisu podržani za mobilne podatke SIM kartice."</string>
   <string name="volte_switch_not_support_summary2">"VoLTE pozivi nisu podržani od strane operatera."</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
+  <string name="volte_switch_summary2">Potvrdite da vaš mobilni operater podržava tu značajku prije uključivanja. Inače može utjecati na redovne pozive.</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
+  <string name="volte_tips_when_turn_on">Usluge tvrtke China Telecom VoLTE pružaju se samo u područjima s pokrivenošću LTE mreže.</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
   <string name="vvm_unsupported_message_format">Vrsta poruke nije podržana, nazovite %s da biste je poslušali.</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
