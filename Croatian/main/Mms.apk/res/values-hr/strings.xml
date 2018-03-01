@@ -39,6 +39,7 @@
   <string name="attach_sound">Zvuk</string>
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Snimi sliku</string>
+  <string name="attach_transaction">Pošalji novac</string>
   <string name="attach_video">Videozapisi</string>
   <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
   <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
@@ -577,6 +578,7 @@
   <string name="select_local_audio">Odaberi lokalni zvuk</string>
   <string name="select_local_video">Odaberi lokalni videozapis</string>
   <string name="select_message_send_sim">Odaberi SIM karticu</string>
+  <string name="select_phone_number">Odaberi broj telefona</string>
   <string name="select_recipient">Odaberi primatelje</string>
   <string name="select_sim">Odaberi SIM karticu</string>
   <string name="select_top_text">Tekst pri vrhu</string>

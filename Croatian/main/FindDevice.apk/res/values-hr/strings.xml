@@ -55,6 +55,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Pronađi uređaj</string>
   <string name="time_correction_failure">"Ne mogu ispraviti vrijeme. %s"</string>
   <string name="time_correction_success">Vrijeme je ispravljeno</string>
+  <string name="open_wifi_settings">Otvori postavke WLAN-a</string>
   <string name="unlock">Aktiviraj</string>
   <string name="unlock_access_denied">Pristup odbijen</string>
   <string name="unlock_bad_authentication">Pogrešno korisničko ime ili zaporka</string>

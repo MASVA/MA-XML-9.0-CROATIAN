@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d od %2$d</item>
-        <item quantity="one">1 podudarnost</item>
+        <item quantity="one">1 podudaranje</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Posljednjih %d dana</item>
@@ -18,7 +18,7 @@
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d podudaranja</item>
-        <item quantity="one">%d podudarnost</item>
+        <item quantity="one">%d podudaranje</item>
     </plurals>
 	<plurals name="adblock_rules_number_text">
        <item quantity="other">Blokirano stavki: %d</item>
@@ -47,5 +47,12 @@
 	<plurals name="nav_screen_incognito_time">
          <item quantity="other">Nakon %d sek. automatski će stvoriti nova stranica</item>
          <item quantity="one">Nakon %d sek. automatski će stvoriti nova stranica</item>
+     </plurals>
+	      <plurals name="mw_last_num_days">
+        <item quantity="other">Zadnjih ovoliko dana: %d</item>
+     </plurals>
+     <plurals name="mw_matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 podudaranje</item>
      </plurals>
 </resources> 

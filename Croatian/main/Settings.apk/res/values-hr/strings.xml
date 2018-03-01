@@ -2888,7 +2888,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="night_light">Noćni način</string>
   <string name="night_light_brightness">Jačina osvjetljenja</string>
   <string name="night_light_color">Boja</string>
-  <string name="night_light_summary">Minimiziraj pozadinsko osvjetljenje u uvjetima slabog osvjetljenja za ulaz u noćni rad</string>
+  <string name="night_light_color_tip">Promjene će stupiti na snagu kada je Način čitanja isključen</string>
+  <string name="night_light_summary">Da biste uključili Noćni način, smanjite svjetlinu zaslona u uvjetima slabog osvjetljenja</string>
+  <string name="night_light_tip">Promjene će stupiti na snagu kada je Noćni način uključen</string>
   <string name="night_mode_auto">Automatska</string>
   <string name="night_mode_no">Svijetla</string>
   <string name="night_mode_title">Tema</string>

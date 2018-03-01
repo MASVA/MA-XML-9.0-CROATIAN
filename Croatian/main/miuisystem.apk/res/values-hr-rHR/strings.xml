@@ -50,6 +50,7 @@
   <string name="heavy_snow"/>
   <string name="hksar_establishment_day"/>
   <string name="hoar_frost_falls"/>
+  <string name="incomingmessage">Dolazna poruka</string>
   <string name="insects_awaken"/>
   <string name="international_womens_day">Međunarodni dan žena</string>
   <string name="labour_day"/>
@@ -83,10 +84,12 @@
   <string name="menu_edit">Uredi</string>
   <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
+  <string name="messagesent">Poruka je poslana</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
   <string name="no_notification_tips">Bez obavijesti</string>
+  <string name="notificationxylophone">Obavijest (Xylophone)</string>
   <string name="partys_day"/>
   <string name="peace_day"/>
   <string name="presentation_payphone">Telefonska govornica</string>
