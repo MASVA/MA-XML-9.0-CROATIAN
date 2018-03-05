@@ -130,6 +130,7 @@
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
   <string name="err_filesystem_mount">"Ne mogu pristupiti prostoru za pohranu routera"</string>
   <string name="err_low_storage">Nedovoljno prostora</string>
+  <string name="err_not_allow">Nije podržano</string>
   <string name="err_router_disconnected">"Provjerite priključak vašeg routera i pokušajte ponovo."</string>
   <string name="err_router_files_delete">"Ne mogu obrisati Sig. kopije na routeru"</string>
   <string name="err_unknown">Nepoznata greška</string>

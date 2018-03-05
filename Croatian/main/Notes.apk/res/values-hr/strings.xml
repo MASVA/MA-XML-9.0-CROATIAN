@@ -35,6 +35,7 @@
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
+  <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
   <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
   <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
   <string name="dialog_share_title">Podijeli bilješku</string>

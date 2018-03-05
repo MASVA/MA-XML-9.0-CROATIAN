@@ -276,10 +276,10 @@
   <string name="section_err_type">Vrsta pogreške</string>
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="select_system_app_tag">Odaberite problem</string>
-  <string name="submit_dialog_cancel">Odustani</string>
-  <string name="submit_dialog_confirm">Pošalji</string>
+  <string name="submit_dialog_cancel">"Ne slažem se"</string>
+  <string name="submit_dialog_confirm">Slažem se</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
-  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima (ako postoji) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji."</string>
+  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima (ako postoji) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>

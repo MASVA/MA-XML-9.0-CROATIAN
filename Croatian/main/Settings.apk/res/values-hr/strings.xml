@@ -3471,9 +3471,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
+  <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Mi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
   <string name="privacy_authorize_dialog_agree">Slažem se</string>
   <string name="privacy_authorize_dialog_exit">Izlaz</string>
-  <string name="privacy_authorize_dialog_message">%1$s zahtijeva da pročitate i slažete se sa %2$s. Aplikacija se mora povezati s mrežom da radi normalno. Slažete li se?</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke usluga Mi Cloud, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Slažem se\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privila o Privatnosti&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>  
   <string name="privacy_authorize_network_error">Povežite se s mrežom i pokušajte ponovo.</string>
   <string name="privacy_authorize_privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_authorize_revoke">Opozovi</string>
@@ -5494,6 +5495,9 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wfd_menu_teardown">"Zaustavi"</string>
   <string name="wfd_settings_description">Poveži se na zaslon koristeći WLAN</string>
   <string name="wfd_settings_title">Bežični zaslon</string>
+  <string name="wfd_status_dialog_disconnect">Prekini vezu</string>  
+  <string name="wfd_status_dialog_message">Sadržaj zaslona prikazuje se na drugom zaslonu preko bežične veze</string>
+  <string name="wfd_status_dialog_title">Bežični zaslon</string>
   <string name="wfd_wps_keypad">Koristite tipkovnicu</string>
   <string name="wfd_wps_pbc">Unesite PIN</string>
   <string name="whetstone_level_reboot">Ova postavka će stupiti na snagu nakon što ponovno pokrenete vaš uređaj</string>

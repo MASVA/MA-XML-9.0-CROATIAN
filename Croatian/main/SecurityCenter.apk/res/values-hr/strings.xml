@@ -721,12 +721,18 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="data_usage_leisure_warning_body">Dodirnite za pregled detalja uporabe podataka.</string>
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
+  <string name="data_usage_mobile_dialog_title">"Već ste iskoristili 5GB mobilnih podataka. MIUI će isključiti mobilne podatke."</string>
   <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
   <string name="data_usage_mobile_limit_title">Postignuto ograničenje podataka</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Ograničenje uporabe podataka za %s nije postavljeno</string>
   <string name="data_usage_no_total_package_title">Postavi ograničenje Uporabe podataka</string>
+  <string name="data_usage_protected_dialog_message">"MIUI će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.
+
+Vaš mobilni operater može vam naplatiti dodatne naknade ako ponovo uključite mobilne podatke."</string>
+  <string name="data_usage_protected_notify_message">MIUI će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.</string>
+  <string name="data_usage_protected_notify_title">"Već ste iskoristili 5GB mobilnih podataka"</string>
   <string name="data_usage_restricted_body">Dodirnite da uključite podatke u pozadini</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
   <string name="data_usage_warning_body">Dodirni za prikaz detalja uporabe podataka.</string>
@@ -802,6 +808,12 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
   <string name="dialog_no_longer_alert">"Ne prikazuj ponovno”</string>
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Mobilna podatkovna veza će nakon toga biti ograničena za sve aplikacije.</string>
+  <string name="dialog_restrict_all_mobile_title">Ograniči %s mobilnu podatkovnu vezu</string>
+  <string name="dialog_restrict_all_wlan_summary">WLAN veza će nakon toga biti ograničena za sve aplikacije.</string>
+  <string name="dialog_restrict_all_wlan_title">Ograniči korištenje WLAN veze</string>
+  <string name="dialog_restrict_negative">Ograniči</string>
+  <string name="dialog_restrict_positive">Odustani</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
   <string name="dialog_text">Izradi prečac Početnog zaslona za Ubrzavanje brzine igranja</string>
@@ -991,6 +1003,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
   <string name="gb_new_feature">Nova značajka</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući informacije o načinu na koji upotrebljavate značajke aplikacije Sigurnost (npr. statističke podatke uporabe mobilnih podataka, podatke o zlonamjernom softveru, kao i osnovne informacije o vašem uređaju) i druge vrste informacija navedenih u našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
