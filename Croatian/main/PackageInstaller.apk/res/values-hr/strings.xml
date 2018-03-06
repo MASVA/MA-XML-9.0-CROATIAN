@@ -340,7 +340,6 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="lb_search_bar_hint_speech">Izgovorite upit za pretraživanje</string>
   <string name="lb_search_bar_hint_with_title">Tražite %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Izgovorite upit za pretraživanje %1$s</string>
-  <string name="lb_time_separator">:</string>
   <string name="legacy_dhcp_client_summary">Koristite DHCP klijent iz Lollipop-a umjesto novog Android DHCP klijenta.</string>
   <string name="lift_ban">Dopusti</string>
   <string name="lift_ban_once">Dopusti jednom</string>

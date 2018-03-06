@@ -2016,7 +2016,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="time_end_minute">Vrijeme i minuta</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day">" sljedeći dan "</string>
   <string name="time_start">Od</string>
   <string name="time_start_hour">Početak sati</string>
