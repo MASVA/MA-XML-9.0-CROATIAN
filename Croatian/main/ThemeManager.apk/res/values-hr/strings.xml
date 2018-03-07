@@ -221,6 +221,7 @@
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Komentar će se objaviti nakon što bude pregledan</string>
   <string name="resource_continue">Dalje</string>
+  <string name="resource_current_using_title">Trenutni izvori</string>
   <string name="resource_data_empty">Ovdje nema stavki.</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
@@ -268,6 +269,8 @@
   <string name="resource_exchange_wrong_format_by_server">Kod nije bilo moguće provjeriti. Provjerite da li ste ga ispravno unijeli.</string>
   <string name="resource_expand_full_text">Proširi</string>
   <string name="resource_failed_to_load_list">"Ne mogu učitati teme."</string>
+  <string name="resource_free_trial_15_days">Isprobajte 15 dana besplatno</string>
+  <string name="resource_free_use_last_one_day">Vašprobni peroid istječe sutra.</string>
   <string name="resource_get_auth_checking">Provjera…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 uređaja je već odobreno na ovom računu</string>
   <string name="resource_get_auth_exceed_max_limit_title">Broj odobrenih uređaja je prekoračen</string>
@@ -279,7 +282,9 @@
   <string name="resource_import_failed">"Ne mogu uvesti"</string>
   <string name="resource_import_successful">Dovršeno</string>
   <string name="resource_importing">Uvoz teme…</string>
+  <string name="resource_is_off_shelf">Nije dostupno</string>
   <string name="resource_list_title">Nedavno odabrano</string>
+  <string name="resource_local_picker">Odaberi melodiju zvona</string>
   <string name="resource_menu_refresh">Osvježi</string>
   <string name="resource_mute">Ništa</string>
   <string name="resource_my">Izvanmrežno</string>
@@ -289,6 +294,8 @@
   <string name="resource_no_result">"Ništa nije pronađeno"</string>
   <string name="resource_notification_default">Obavijesti</string>
   <string name="resource_on_trial">Isprobavam: %1$s</string>
+  <string name="resource_on_use">Koristi se: %1$s</string>
+  <string name="resource_online_picker">Odaberi online melodiju</string>
   <string name="resource_online">Mrežno</string>
   <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
   <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
@@ -326,6 +333,7 @@
   <string name="resource_select_boot_audio_confirm">Odabrati ovaj boot zvuk?</string>
   <string name="resource_select_notification_audio_confirm">Odabrati ovaj zvuk alarma?</string>
   <string name="resource_select_ringtone_audio_confirm">Odabrati ovaj zvuk zvona?</string>
+  <string name="resource_select_ringtone_confirm">Odabrati ovaj zvuk zvona?</string>
   <string name="resource_selected">Istaknuto</string>
   <string name="resource_send">Pošalji</string>
   <string name="resource_server_alert_dialog_title">"Vraćamo se odmah…"</string>
@@ -343,12 +351,15 @@
   <string name="resource_title_rank">Najljepše</string>
   <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
   <string name="resource_title_subject">Istaknuto</string>
+  <string name="resource_trial_15_days_end_title">Probni period od 15 dana je istekao</string>
+  <string name="resource_trial_15_days_immediately">Isporobajte 15 dana odmah</string>
   <string name="resource_trial_days">(Probni period : %1$dd)</string>
   <string name="resource_trial_days_hours">Probni period :%1$dd %2$dh</string>
-  <string name="resource_trial_end_message">Probni period za %1$s je istekao. Ako vam se tema sviđa, kupite je.</string>
+  <string name="resource_trial_end_message">Probni period za %1$s je istekao. Dovršite kupnju ako vam se tema sviđa.</string>
   <string name="resource_trial_end_purchase">Plaćanje</string>
   <string name="resource_trial_end_restore">Kraj probnog perioda</string>
   <string name="resource_trial_end_time">(Probni period do %1$s)</string>
+  <string name="resource_trial_end_change">Promjeni</string>
   <string name="resource_trial_end_time_format">hh:mma MMM d</string>
   <string name="resource_trial_end_title">Probni period istekao</string>
   <string name="resource_trial_fail_cancel">U redu</string>
@@ -453,12 +464,14 @@
   <string name="title_my_audio_resource">Moje melodije zvona</string>
   <string name="title_my_miwallpaper_resource">Moje animirane pozadine</string>
   <string name="title_my_wallpaper_resource">Moje slike pozadine</string>
+  <string name="title_system_audio_notification_resource">Obavijesti sustava</string>
   <string name="title_system_audio_resource">Melodije zvona sustava</string>
   <string name="title_system_wallpaper_resource">Slike pozadine sustava</string>
   <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
   <string name="uid_change_dialog_message">"Izbrisali ste ažuriranja. Ponovno pokrenite uređaj da bi mogli koristiti teme."</string>
   <string name="uid_change_dialog_ok">Shvaćam</string>
   <string name="uid_change_dialog_title">Ponovni pokreni</string>
+  <string name="up_to_the_end">"To je sve za sada. Vratite se kasnije."</string>
   <string name="wallpaper_apply">Postavi</string>
   <string name="wallpaper_settings_loading_text">Samo trenutak…</string>
   <string name="wallpaper_settings_no_history">Nema povijesti</string>
@@ -466,6 +479,7 @@
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
+  <string name="wallpaper_detail_load_page_no_network">Povežite se s mrežom i pokušajte ponovo.</string>
   <string name="wallpaper_loading_text">Samo trenutak…</string>
   <string name="wallpaper_scroll_type_tips">Pomicanje slika pozadine </string>
   <string name="wallpaper_set_as_both">Postavi oboje</string>

@@ -23,6 +23,7 @@
   <string name="action_menu_account_not_login_hint">Prijavite se za sinkr. s Mi Cloud</string>
   <string name="action_menu_bookshelf">Polica za knjige</string>
   <string name="action_menu_current_version">Trenutna verzija</string>
+  <string name="action_menu_download">Preuzmi</string>
   <string name="action_menu_request_desktop_site">Pristup Web stranici</string>
   <string name="action_menu_request_desktop_site_off">Pristup Web stranici je isklj.</string>
   <string name="action_menu_request_desktop_site_on">Pristup Web stranici je uklj.</string>
@@ -43,6 +44,7 @@
   <string name="action_menu_text_nightmode">Noćni način</string>
   <string name="action_menu_text_nightmode_off">Noćni način isklj.</string>
   <string name="action_menu_text_nightmode_on">Noćni način uklj.</string>
+  <string name="action_menu_text_readmode">Način čitanja</string>
   <string name="action_menu_text_refresh">Osvježi</string>
   <string name="action_menu_text_setting">Postavke</string>
   <string name="action_menu_text_share">Dijeli</string>
@@ -155,6 +157,7 @@
   <string name="clear_search_history">Očisti povijest</string>
   <string name="clear_video_download">Očisti Videozapise</string>
   <string name="clip_dialog_title">Otvoriti kopiranu poveznicu?</string>
+  <string name="close">Zatvori</string>
   <string name="close_ads_choice_no">Dopusti</string>
   <string name="close_ads_choice_yes">Blokiraj</string>
   <string name="close_ads_message">"Blokirati sadržaj s ove web stranice? Možete vidjeti koje ste stranice blokirali u Postavke &gt; Napredno &gt; Blokirane stranice."</string>
@@ -312,6 +315,9 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="enable_geolocation_confirm_message">Isključivanje usluga lokacije utječe na preporuke koje primate.</string>
   <string name="enter_developer_mode">Ulaz u Developer mod</string>
   <string name="enter_incongnito_mode">Ulaz u Anoniman mod</string>
+  <string name="enter_the_group_name">Unesi naziv grupe</string>
+  <string name="enter_the_password">Unesi zaporku</string>
+  <string name="enter_the_user_name">Unesi korisničko ime</string>
   <string name="error_console_eval_button_text">Ocijeni</string>
   <string name="error_console_eval_text_hint">Ocijeni JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript konzola</string>
@@ -795,6 +801,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="save_image_success">Slika spremljena</string>
   <string name="save_page_capture_tip">Otvori panel obavijesti za prikaz snimke zaslona.</string>
   <string name="save_page_capture_to_camera">Snimka zaslona spremljena</string>
+  <string name="save_to_bookmark">Spremi u oznake</string>
   <string name="save_password_message">Zapamtiti ovu zaporku?</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
@@ -871,7 +878,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="ssl_untrusted">"Certifikat nije iz provjerenog autorizacijskog središta."</string>
   <string name="ssl_warnings_header">Ova stranica ima problem sa sigurnosnim certifikatom.</string>
   <string name="start_save_page_capture">Spremanje snimke zaslona…</string>
+  <string name="storage_close">Zatvori</string>
   <string name="storage_internal">Unutarnja pohrana</string>
+  <string name="storage_open">Otvori</string>
   <string name="storage_permission_request_toast">"Preuzimanja zahtijevaju pristup pohrani vašeg uređaja"</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>

@@ -42,9 +42,13 @@
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
-  <string name="button_confirm">Dopusti</string>
-  <string name="button_exit">Izlaz</string>
+  <string name="button_confirm">Slažem se</string>
+  <string name="button_exit">"Ne slažem se"</string>
   <string name="button_not_allow">Odustani</string>
+  <string name="button_settings_cancel">Odustani</string>
+  <string name="button_settings_confirm">Opozovi</string>
+  <string name="button_settings_confirm_to_revoke_msg">"Nakon opozivanja autorizacije nećete moći koristiti aplikaciju Vrijeme."</string>
+  <string name="button_settings_confirm_to_revoke_title">Opozvati autorizaciju?</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="city_exceeded_warning">Možete dodati do 10 gradova</string>
@@ -73,6 +77,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>
+  <string name="eu_region_version_first_start_network_msg">"Korištenjem ovaj proizvoda prihvaćate da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući koordinate gradova koje pretražujete i druge vrste podataka navedenih u našim pravilima o privatnosti. Pogledajte naša pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo podatke. Dodirom "Slažem se", pristajete na Xiaomi %1$s i %2$s."</string>
   <string name="feedback_heavy_rain">Pljusak</string>
   <string name="feedback_heavy_snow">Snijeg</string>
   <string name="feedback_light_rain">Lagana kiša</string>
@@ -167,6 +172,12 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="pull_fresh_updated">Uspješno ažurirano</string>
   <string name="pull_fresh_updating">Ažuriranje…</string>
+  <string name="privacy_grant_failed">"Ne mogu odobriti autorizaciju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="privacy_grant_or_revoke_settings">Odobravanje &amp; opoziv autorizacije</string>
+  <string name="privacy_grant_success">Autorizacija uspješno odobrena</string>
+  <string name="privacy_revoke_failed">"Ne mogu opozvati autorizaciju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="privacy_revoke_success">Autorizacija uspješno opozvana</string>
+  <string name="privacy_settings">Pravila o Privatnosti</string>
   <string name="radar_cloud_image_title">Mapa Radara</string>
   <string name="rainfall_settings_summary">Postavke padalina</string>
   <string name="rainfall_settings_title">Upozorenje padalina</string>

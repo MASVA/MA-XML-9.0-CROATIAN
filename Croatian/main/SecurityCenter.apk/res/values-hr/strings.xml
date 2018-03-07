@@ -861,7 +861,13 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje…</string>
   <string name="dlg_remove_whitelist_title">Ukloni</string>
+  <string name="dlg_sec_network_unavailable">"Security app can't update because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
   <string name="dlg_retore">Vratiti SMS poruke u aplikaciju?</string>
+  <string name="dlg_update_btn_contiue">Nastavi</string>
+  <string name="dlg_update_btn_open">Dopusti</string>
+  <string name="dlg_update_data_content">"Niste povezani na WLAN. Korištenje mobilnih podataka može generirati dodatne naknade. Nastaviti svejedno?"</string>
+  <string name="dlg_update_date_title">Upozorenje</string>
+  <string name="dlg_update_updating">Ažuriranje…</string>
   <string name="dlg_retore_ok">Vrati</string>
   <string name="dlg_title_not_open_stranger_identify">ID pozivatelja</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
@@ -2253,6 +2259,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sms_prefix">Lista blokiranih predbrojeva</string>
   <string name="sms_service">Blokiraj SMS usluge</string>
   <string name="sms_smart_engine_update">Automatski ažuriraj SMS filter</string>
+  <string name="sms_smart_engine_update_now">Ažuriraj</string>
   <string name="sms_stranger_block">Blokiraj SMS od stranaca</string>
   <string name="songs_number">18 pjesama</string>
   <string name="songs_unit">" pjesama"</string>
@@ -2708,6 +2715,10 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
   <string name="toast_show_notification">Prikvačeno u panel obavijesti</string>
+  <string name="toast_update_fail">"Ne mogu ažurirati"</string>
+  <string name="toast_update_nonetwork">"Ne mogu se povezati na mrežu"</string>
+  <string name="toast_update_notneed">Sve je ažurno</string>
+  <string name="toast_update_success">Uspješno ažurirano</string>
   <string name="toast_virus_cloudscan">Skeniranje virusa će koristiti online definicije</string>
   <string name="toast_virus_in_cloud_scanning">"Ne mogu zaustaviti cloud skeniranje"</string>
   <string name="top_game">Najbolje igre</string>

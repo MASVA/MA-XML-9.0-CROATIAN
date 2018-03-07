@@ -375,8 +375,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="how_to_back_home">Idi na početni zaslon</string>
   <string name="how_to_switch_recents">Otvori Nedavno</string>
-  <string name="how_to_use_drawer">Kako koristiti funkciju povlačenja aplikacije</string>
-  <string name="how_to_use_drawer_summary">Prijeđite od gornje lijeve strane</string>
+  <string name="how_to_use_drawer">Kako koristiti izbornik</string>
+  <string name="how_to_use_drawer_summary">Prijeđite prstom udesno u gornjem dijelu zaslona</string>
   <string name="how_to_use_fsg">Možete obavljati ove radnje pomoću gesti:</string>
   <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
@@ -577,7 +577,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="quick_settings_disclosure_monitoring">Mreža se može pratiti</string>
   <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s može pratiti mrežni promet u vašem radnom profilu</string>
   <string name="quick_settings_disclosure_named_management">Ovim uređajem upravlja %1$s</string>
-  <string name="quick_settings_disclosure_named_management_monitoring">%1$s manages this device and may monitor network traffic</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s upravlja ovim uređajem i može nadzirati mrežni promet</string>
   <string name="quick_settings_disclosure_named_management_named_vpn">Ovim uređajem upravlja %1$s i povezan je s %2$s</string>
   <string name="quick_settings_disclosure_named_management_vpns">Ovim uređajem upravlja %1$s i povezan je s VPN-om</string>
   <string name="quick_settings_disclosure_named_vpn">Uređaj je povezan na %1$s</string>
@@ -589,6 +589,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="quick_settings_wifi_detail_empty_text">Nema dostupnih WLAN mreža</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Odaberite obližnju mrežu</string>
+  <string name="recent_cannot_dock">"Ne mogu ući u način više prozora u Drugom prostoru"</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_cleaning">Čišćenje aplikacija…</string>

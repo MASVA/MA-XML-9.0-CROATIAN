@@ -173,8 +173,8 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; resetiraj\"&lt;/font&gt; i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
-  <string name="reset_device_detail_tip">Bežično punjenje, poravnajte telefon s bazom kako biste osigurali brzinu punjenja.</string>
-  <string name="reset_device_tip">Punjenje je sporo, premjestite telefon</string>
+  <string name="reset_device_detail_tip">Pravilno postavite uređaj na bežični punjač kako biste osigurali visoku brzinu punjenja.</string>
+  <string name="reset_device_tip">Punjenje je sporo. Promjenite položaj telefona</string>
   <string name="set_lock_wallpaper_failed">Nema novih slika pozadine</string>
   <string name="unlock_camera_steady">Budite mirni</string>
   <string name="unlock_failed">Interna pogreška</string>
@@ -188,7 +188,8 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Otpusti za prikaz pojedinosti</string>
   <string name="wireless_charge_dialog_cancel">Odustani</string>
-  <string name="wireless_charge_dialog_title">Pogrešan položaj, premjestite telefon</string>
+  <string name="wireless_charge_dialog_title">Promjenite položaj telefona na bežičnom punjaču</string>
   <string name="wireless_charge_stop">Bežično punjenje je zaustavljeno</string>
+  <string name="wireless_current_charge">Trenutno punjenje</string>
   <string name="wrong_password">Netočna zaporka</string>
 </resources>
