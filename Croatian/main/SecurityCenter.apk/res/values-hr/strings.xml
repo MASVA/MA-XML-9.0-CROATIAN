@@ -861,7 +861,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje…</string>
   <string name="dlg_remove_whitelist_title">Ukloni</string>
-  <string name="dlg_sec_network_unavailable">"Security app can't update because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="dlg_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji Sigurnost da se poveže s internetom?"</string>
   <string name="dlg_retore">Vratiti SMS poruke u aplikaciju?</string>
   <string name="dlg_update_btn_contiue">Nastavi</string>
   <string name="dlg_update_btn_open">Dopusti</string>
