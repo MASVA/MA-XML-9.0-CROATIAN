@@ -239,7 +239,6 @@
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="pull_to_call_back">Dodirnite za povuči</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="respond_via_sms_canned_response_1">"Ne mogu trenutno razgovarati. Nazvat ću te poslije."</string>

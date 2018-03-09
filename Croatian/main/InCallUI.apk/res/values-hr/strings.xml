@@ -241,7 +241,6 @@
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Javni telefon</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="picking_participant">Dobivanje informacije o kontaktu…</string>
   <string name="private_num">Privatan broj</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>

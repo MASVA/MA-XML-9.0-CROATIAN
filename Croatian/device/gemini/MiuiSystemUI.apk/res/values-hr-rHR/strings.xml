@@ -389,7 +389,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="power_discharging_duration_short">%1$s – još %2$s</string>
    <string name="power_remaining_duration_only">Još približno %1$s</string>
    <string name="power_remaining_duration_only_short">Još %1$s</string>
-   <string name="process_kernel_label">Android OS</string>
    <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
    <string name="quick_settings_bluetooth_label">Bluetooth</string>
    <string name="quick_settings_connect_success">Povezano</string>

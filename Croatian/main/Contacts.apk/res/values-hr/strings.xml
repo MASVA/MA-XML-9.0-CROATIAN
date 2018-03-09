@@ -630,7 +630,6 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="keep_local">"Nemoj sinkr."</string>
   <string name="keep_local_btn">Upotrijebi lokalnu pohranu telefona.</string>
   <string name="label_custom_type">"Prilagođeno"</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Nisu pronađeni duplikati</string>
   <string name="label_notes">Bilješke</string>
   <string name="label_sip_address">"Internetski poziv"</string>
@@ -944,7 +943,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="phoneLabelsGroup">"Telefon"</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Broj je predugačak</string>
   <string name="phone_primary">"Primarni"</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija na telefonu.</string>

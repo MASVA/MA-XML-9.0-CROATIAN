@@ -22,7 +22,6 @@
   <string name="dont_bore">"Ne dopustite da vas tipke i obavijesti ometaju"</string>
   <string name="dont_bore_text">Utišaj obavijesti i isključi tipke za uklanjanje smetnji</string>
   <string name="dont_bore_title">DND način</string>
-  <string name="empty">" "</string>
   <string name="fastboot_locked_answer_1">Fastboot je tradicionalna metoda flešanja Mi uređaja. Kada je uređaj u Fastboot načinu, svim podacima pohranjenima na njemu može se izravno pristupiti te ih izbrisati. Zaključavamo Fastboot kako bismo bili sigurni da vaši podaci ostaju sigurni u slučaju da izgubite uređaj, te garantiramo pouzdanost značajke Pronađi uređaj.</string>
   <string name="fastboot_locked_answer_2">"Ako izgubite uređaj, Fastboot jamči sigurnost stavki pohranjenih na njemu. Ako otključate Fastboot, više nećete moći zaključati uređaj na daljinu ili izbrisati podatke pomoću značajke Pronađi uređaj. Zato ne preporučujemo da otključate Fastboot na uređaju."</string>
   <string name="fastboot_locked_answer_3">"Koristite alat za otključavanje s MIUI web stranice. Da biste otključali uređaj, moramo se pobrinuti da uređaj pripada vama. Zato se trebate prijaviti sa svojim Mi Računom i uključiti Pronađi uređaj."</string>

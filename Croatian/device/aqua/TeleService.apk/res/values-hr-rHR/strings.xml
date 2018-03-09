@@ -1492,7 +1492,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
   <string name="proceed">Nastavi</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osvježi…</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
   <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>

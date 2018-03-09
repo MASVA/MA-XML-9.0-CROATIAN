@@ -3032,7 +3032,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacija</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
   <string name="process_service_in_use_description">Usluga %1$s je u upotrebi.</string>

@@ -76,7 +76,6 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="dislike_alert_dialog_title">Zašto ne želite vidjeti ovaj sadržaj?</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi grad</string>
-  <string name="empty">" "</string>
   <string name="eu_region_version_first_start_network_msg">"Korištenjem ovaj proizvoda prihvaćate da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući koordinate gradova koje pretražujete i druge vrste podataka navedenih u našim pravilima o privatnosti. Pogledajte naša pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo podatke. Dodirom "Slažem se", pristajete na Xiaomi %1$s i %2$s."</string>
   <string name="feedback_heavy_rain">Pljusak</string>
   <string name="feedback_heavy_snow">Snijeg</string>

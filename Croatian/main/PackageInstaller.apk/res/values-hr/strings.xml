@@ -488,7 +488,6 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="power_remaining_duration_only_short">Još %1$s</string>
   <string name="privacyPerms">Privatnost</string>
   <string name="privacy_relative">Privatnost</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="remove">Ukloni</string>

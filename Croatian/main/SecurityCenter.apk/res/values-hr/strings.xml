@@ -2043,7 +2043,6 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_prompt_traffic_adjust_message">"Ova značajka treba poslati IMEI vašeg uređaja, broj telefona i podatke vašeg mobilnog operatera na Mi poslužitelje kako bi dobili statistiku o uporabi podataka vašeg mobilnog operatera.</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš broj telefona i detalji mobilnog operatera će biti šifrirani i učitani na Mi poslužitelje kako bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="privacy_prompt_upload">Pošalji</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="promotion">Oglas</string>
   <string name="prompt_all">Pitaj za sve</string>
