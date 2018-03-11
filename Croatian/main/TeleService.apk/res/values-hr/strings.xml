@@ -560,6 +560,7 @@ brzina uzorkovanja"</string>
   <string name="close">Zatvori</string>
   <string name="close_dialog">U redu</string>
   <string name="close_profile">Zatvori</string>
+  <string name="close_volte">Isključi VoLTE</string>
   <string name="cloud_antispam_title">Identificiraj nepoznate brojeve</string>
   <string name="cmcc_ut_data_enable_prompt">"Nije moguće povezati se pomoću VoLTE mreže. Uključite mobilnu podatkovnu vezu sada."</string>
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
@@ -1541,6 +1542,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
+  <string name="prefered_network_type_3g_promp">Prije nego što odaberete 3G kao svoju preferiranu vrstu mreže, trebali biste isključiti VoLTE. Isključiti sada?</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; vibracija</string>
   <string name="preference_data_usage_summary">Postavite vaš podatkovni plan za kontrolu uporabe mobilnih podataka</string>
@@ -1643,6 +1645,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge nisu dostupne. Isključite VoLTE za upućivanje poziva."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Usluga nije dostupna. Isključite VoLTE u Postavkama."</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Prije nego što uključite VoLTE, odaberite LTE kao željenu vrstu mreže.</string>
   <string name="prompt_when_turnon_volte_without_lte">"LTE mreže sada nisu dostupne. Uključivanje VoLTE-a može vam spriječiti redovite pozive."</string>
   <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
   <string name="propmpt_dialog_network_failed_title">Isteklo vrijeme poziva</string>

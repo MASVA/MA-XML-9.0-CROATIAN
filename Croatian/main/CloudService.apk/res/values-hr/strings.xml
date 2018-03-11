@@ -268,7 +268,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat preporučuje da uključite Pronađi uređaj</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay preporučuje da uključite Pronađi uređaj</string>
   <string name="micloud_find_device_guide_progress">Isključivanje Pronađi uređaj…</string>
-  <string name="micloud_find_device_guide_title">"Prijavite se u %s da pronađete, zaključate ili izbrišete svoj uređaj."</string>
+  <string name="micloud_find_device_guide_title">"Prijavite se u &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da pronađete, zaključate ili izbrišete svoj uređaj. To vam može pomoći da pronađete uređaj ako ga izgubite. &lt;br /&gt;Ako izgubite uređaj, možete se obratiti sigurnosnoj službi aplikacija koje često upotrebljavate (npr. Alipay, WeChat, QQ) kako biste zaštitili svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
   <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
   <string name="micloud_find_device_opened">Pronađi uređaj uključen</string>
   <string name="micloud_find_device_opened_content">Prijavite se u %s da pronađete svoj uređaj</string>
@@ -455,10 +455,9 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_warn_full_title">Prostor za pohranu je pun!</string>
   <string name="micloud_warn_low_sum">"Vaš je Mi Cloud iskorišten 90%."</string>
   <string name="micloud_warn_low_title">Još ima malo prostora</string>
-  <string name="micloud_web_discription">Posjetite i.mi.com</string>
   <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
   <string name="micloud_web_discription_02">da pohranite i pristupite vašim datotekama s bilo kojeg mjesta</string>
-  <string name="micloud_web_discription_international">Posjetite www.mi.com/micloud</string>
+  <string name="micloud_web_discription_place_holder">Posjetite %1$s</string>
   <string name="micloud_website">Stavke u Mi Cloudu</string>
   <string name="micloud_wipe_data_confirm_label">Ukloni podatke iz Mi Clouda</string>
   <string name="micloud_wipe_data_confirm_title">Ukloniti sinkronizirane stavke iz Mi Clouda i iz telefona nakon što se odjavite?</string>

@@ -912,6 +912,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="carrier_enabled">Omogući/onemogući APN</string>
   <string name="carrier_enabled_summaryOff">APN onemogućen</string>
   <string name="carrier_enabled_summaryOn">APN omogućen</string>
+  <string name="carrier_show_in_lock_screen">Prikaži samo na Zaklj. zaslonu</string>
+  <string name="carrier_show_none">Nikad ne prikazuj ime operatera</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
   <string name="cdma_security_settings_summary">Postavi Moju lokaciju, otključavanje zaslona, zaključavanje pohranjivanja vjerodajnica</string>
@@ -2570,6 +2572,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_settings_title">Memorija</string>
   <string name="memory_size">Ukupan prostor</string>
   <string name="memory_summary">Iskorišteno je prosječno %1$s od %2$s memorije</string>
+  <string name="memory_system_rom">Pohrana sustava</string>
+  <string name="memory_system_space">Pohrana sustava</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Uporaba memorije</string>
   <string name="memory_usage_apps">Memorija korištena od strane aplikacija</string>
@@ -5118,7 +5122,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="untitled_apn">Bez naslova</string>
   <string name="update_new_version">Dostupno je ažuriranje</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
-  <string name="upload_debug_log_summary">Podaci koje prikupljamo mogu sadržavati osobne podatke. Oni će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada se neće koristiti za vašu osobnu identifikaciju.</string>
+  <string name="upload_debug_log_summary">Statistika korištenja koja nam pomaže u pronalaženju i rješavanju problema može sadržavati vaše osobne podatke</string>
   <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="usage">Potrošnja</string>
   <string name="usage_access">Pristup upotrebi</string>
@@ -5278,7 +5282,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="user_exit_guest_dialog_remove">Ukloni</string>
   <string name="user_exit_guest_title">Uklanjanje gosta</string>
   <string name="user_experience_program">Program Iskustva korisnika</string>
-  <string name="user_experience_program_summary">Pomozite poboljšati MIUI slanjem anonimnih podataka o korištenju</string>
+  <string name="user_experience_program_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
   <string name="user_experience_program_title">Program Iskustva korisnika</string>
   <string name="user_guest">Gost</string>
   <string name="user_image_choose_photo">Odaberite fotografiju iz Galerije</string>

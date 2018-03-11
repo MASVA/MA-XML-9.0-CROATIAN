@@ -56,10 +56,11 @@
   <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">Dopustite Wallpaper Carousel povezivanje na internet kako bi preuzeo nove slike pozadine.</string>
-  <string name="other_settings_upload_debug_log_summary">Informacije koje prikupljamo će se koristiti za pronalaženje i analiziranje problema u sustavu, a mogu sadržavati osobne podatke. Podaci neće biti korišteni za vašu osobnu identifikaciju.</string>
+  <string name="other_settings_upload_debug_log_summary">Statistika korištenja koja nam pomaže u pronalaženju i rješavanju problema može sadržavati vaše osobne podatke.</string>
   <string name="other_settings_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
-  <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>
+  <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
+  <string name="other_settings_user_experience_summary_index">Detalji</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o Privatnosti</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>

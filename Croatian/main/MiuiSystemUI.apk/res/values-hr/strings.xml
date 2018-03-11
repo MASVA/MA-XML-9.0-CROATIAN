@@ -455,6 +455,9 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="long_screenshot_stop">Gotovo</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
   <string name="long_screenshot_top_msg_manual">Obrežite snimku zaslona i dodirnite tipku da biste završili</string>
+  <string name="low_temperature_button_ok">Shvaćam</string>
+  <string name="low_temperature_warning_message">Temperatura je preniska, telefon se može isključiti u bilo kojem trenutku, spremite podatke.</string>
+  <string name="low_temperature_warning_title">Upozorenje o isključivanju</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="mdb_entering">Pokretanje…</string>
