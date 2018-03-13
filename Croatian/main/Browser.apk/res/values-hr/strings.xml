@@ -364,6 +364,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="go_supermarket_title">Više aplikacija, veća brzina i manja potrošnja podataka u App Store</string>
   <string name="gold_medals">Zlatne medalje</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">Web mjesto je zabranjeno od posjeta roditelja.</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="hint">Savjet</string>
   <string name="history">Povijest</string>
@@ -1021,6 +1022,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="voice_connect_network">"Ne mogu se povezati na mrežu."</string>
   <string name="voice_description">Glasovno pretraživanje</string>
   <string name="voice_network_connection">Glasovno pretraživanje treba povezivanje s internetom da radi normalno.</string>
+  <string name="voice_open_permission_baidu">Idite u Postavke da uključite glasovna dopuštenja za Postavke prepoznavanja govora</string>
+  <string name="voice_open_permission_xiaoai">Idite u Postavke da uključite glasovna dopuštenja za Xiaoai Voice Engine</string>
+  <string name="voice_open_permission_xunfei">Idite u Postavke da uključite glasovna dopuštenja za postavke glasa</string>
   <string name="voice_search_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
   <string name="voice_semantic_analysis">Preglednik će moći analizirati semantiku nakon što mu omogućite povezivanje.</string>
   <string name="voice_start_description">Start</string>

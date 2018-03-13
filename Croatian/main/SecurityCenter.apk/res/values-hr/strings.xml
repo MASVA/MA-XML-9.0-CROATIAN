@@ -320,6 +320,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_system_mobile_disable">Isključi podatke</string>
   <string name="app_manager_title">Aplikacije</string>
   <string name="app_manager_total_size">Ukupno</string>
+  <string name="app_manager_uninstall">Deinstaliraj</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
