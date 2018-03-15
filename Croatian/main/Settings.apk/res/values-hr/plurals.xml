@@ -254,4 +254,12 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
          <item quantity="other">Pričekajte %d sek. i pokušajte ponovno.</item>
          <item quantity="one">Pričekajte %d sek. i pokušajte ponovno.</item>
      </plurals>
+	 <plurals name="print_jobs_summary">
+        <item quantity="other">Broj zadataka ispisa: %1$d</item>
+        <item quantity="one">1 zadatak ispisa</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item quantity="other">Broj usluga ispisa: %1$d</item>
+        <item quantity="one">1 usluga ispisa</item>
+    </plurals>
 </resources> 

@@ -2071,6 +2071,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="key_gesture_function_preview">Pregled gesti i tipki</string>
   <string name="key_gesture_function_shortcut">Funkcija prečaca</string>
   <string name="key_none">Ništa</string>
+  <string name="key_operation_diagram">Operacijski dijagram</string>
   <string name="key_position_cat">Položaj tipki</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
@@ -2853,9 +2854,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_more_title">Više…</string>
   <string name="nfc_payment_default">Zadano plaćanje</string>
   <string name="nfc_payment_default_not_set">Nije postavljeno</string>
-  <string name="nfc_payment_favor_default">Uvijek</string>
+  <string name="nfc_payment_favor_default">Uvijek koristi zadanu aplikaciju</string>
   <string name="nfc_payment_favor_foreground">Daj prednost aplikaciji u prednjem planu</string>
-  <string name="nfc_payment_favor_open">Osim kada je otvorena neka druga aplikacija za plaćanje</string>
+  <string name="nfc_payment_favor_open">Zamijeni zadanu aplikaciju kada je otvorena neka druga aplikacija za plaćanje</string>
   <string name="nfc_payment_how_it_works">Način rada</string>
   <string name="nfc_payment_learn_more">Saznajte više</string>
   <string name="nfc_payment_menu_item_add_service">Traženje aplikacija</string>
