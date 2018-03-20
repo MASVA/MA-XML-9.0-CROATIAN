@@ -212,7 +212,7 @@ brzina uzorkovanja"</string>
   <string name="call_status_holding">Na čekanju</string>
   <string name="call_status_ringing">Zvonjava</string>
   <string name="camera_key_action_app_title">"Otvori aplikaciju"</string>
-  <string name="camera_key_action_category_title">Upotrijebi ako aplikacija Kamera nije otvorena</string>
+  <string name="camera_key_action_category_title">"Upotrijebi ako aplikacija Kamera nije otvorena"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Poziv</string>
@@ -456,8 +456,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
   <string name="long_screenshot_top_msg_manual">Obrežite snimku zaslona i dodirnite tipku da biste završili</string>
   <string name="low_temperature_button_ok">Shvaćam</string>
-  <string name="low_temperature_warning_message">Temperatura je preniska, telefon se može isključiti u bilo kojem trenutku, spremite podatke.</string>
-  <string name="low_temperature_warning_title">Upozorenje o isključivanju</string>
+  <string name="low_temperature_warning_message">Temperatura je preniska. Vaš telefon se može isključiti u bilo kojem trenutku. Pazite da spremite sve važne izmjene.</string>
+  <string name="low_temperature_warning_title">Upozorenje niske temperature</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="mdb_entering">Pokretanje…</string>
@@ -568,10 +568,10 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
-  <string name="prompt_danger">Opasno</string>
+  <string name="prompt_danger">Rizik</string>
   <string name="prompt_detecting">Otkrivanje</string>
-  <string name="prompt_failure">Neuspjeh</string>
-  <string name="prompt_return_to_split">Podjeli</string>
+  <string name="prompt_failure">Pogreška</string>
+  <string name="prompt_return_to_split">Podijeljeni zaslon</string>
   <string name="prompt_safe">Sigurno</string>
   <string name="prompt_unknown">Nepoznato</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
@@ -599,7 +599,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="quick_settings_wifi_detail_empty_text">Nema dostupnih WLAN mreža</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Odaberite obližnju mrežu</string>
-  <string name="recent_cannot_dock">"Ne mogu ući u način više prozora u Drugom prostoru"</string>
+  <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_cleaning">Čišćenje aplikacija…</string>

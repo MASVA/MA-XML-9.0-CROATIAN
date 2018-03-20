@@ -17,12 +17,12 @@
          <item quantity="many">" i mape: %1$d"</item>
     </plurals>
     <plurals name="directory_item_count">
-         <item quantity="other">Stavki: %d</item>
-         <item quantity="zero">Stavki: %d</item>
-         <item quantity="one">Stavki: %d</item>
-         <item quantity="two">Stavki: %d</item>
-         <item quantity="few">Stavki: %d</item>
-         <item quantity="many">Stavki: %d</item>
+         <item quantity="other">Stavke: %d</item>
+         <item quantity="zero">Stavke: %d</item>
+         <item quantity="one">Stavka: %d</item>
+         <item quantity="two">Stavke: %d</item>
+         <item quantity="few">Stavke: %d</item>
+         <item quantity="many">Stavke: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
          <item quantity="other">Preostalo (%1$d) datoteka za preuzimanje</item>
@@ -73,12 +73,12 @@
         <item quantity="many">" (%1$d)"</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">Stavki: %1$d</item>
-        <item quantity="zero">Stavki: %1$d</item>
-        <item quantity="one">Stavki: %1$d</item>
-        <item quantity="two">Stavki: %1$d</item>
-        <item quantity="few">Stavki: %1$d</item>
-        <item quantity="many">Stavki: %1$d</item>
+        <item quantity="other">Stavke: %1$d</item>
+        <item quantity="zero">Stavke: %1$d</item>
+        <item quantity="one">Stavka: %1$d</item>
+        <item quantity="two">Stavke: %1$d</item>
+        <item quantity="few">Stavke: %1$d</item>
+        <item quantity="many">Stavke: %1$d</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Datoteka (%2$d) apl. %1$s</item>
@@ -161,12 +161,12 @@
          <item quantity="many">%1$d dana</item>
      </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Pronađeno novih datoteka: %1$d</item>
-        <item quantity="zero">Pronađeno novih datoteka: %1$d</item>
+        <item quantity="other">Pronađene nove datoteke: %1$d</item>
+        <item quantity="zero">Pronađene nove datoteke: %1$d</item>
         <item quantity="one">Pronađena %1$d nova datoteka</item>
-        <item quantity="two">Pronađeno novih datoteka: %1$d</item>
-        <item quantity="few">Pronađeno novih datoteka: %1$d</item>
-        <item quantity="many">Pronađeno novih datoteka: %1$d</item>
+        <item quantity="two">Pronađene nove datoteke: %1$d</item>
+        <item quantity="few">Pronađene nove datoteke: %1$d</item>
+        <item quantity="many">Pronađene nove datoteke: %1$d</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Primljeno datoteka (%1$d) od %2$s</item>
@@ -219,7 +219,7 @@
 	<plurals name="remote_video_update">
          <item quantity="other">Pronađeni novi videozapisi: %1$s</item>
          <item quantity="zero">Pronađeno %1$s novih videozapisa</item>
-         <item quantity="one">Pronađeni novi videozapisi: %1$s</item>
+         <item quantity="one">Pronađen nov videozapis: %1$s</item>
          <item quantity="two">Pronađeni novi videozapisi: %1$s</item>
          <item quantity="few">Pronađeni novi videozapisi: %1$s</item>
          <item quantity="many">Pronađeni novi videozapisi: %1$s</item>
@@ -295,7 +295,7 @@
      <plurals name="video_items">
         <item quantity="other"> stavki: %1$d</item>
         <item quantity="zero"> stavki: %1$d</item>
-        <item quantity="one"> stavki:%1$d</item>
+        <item quantity="one"> stavka:%1$d</item>
         <item quantity="two"> stavki: %1$d</item>
         <item quantity="few"> stavki: %1$d</item>
         <item quantity="many"> stavki: %1$d</item>

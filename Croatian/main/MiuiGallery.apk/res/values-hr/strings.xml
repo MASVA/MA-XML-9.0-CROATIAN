@@ -1137,6 +1137,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="start_debug">Debug Galerije</string>
   <string name="start_to_use_face_albumset">Poredaj po osobama</string>
   <string name="sticker">Naljepnica</string>
+  <string name="storage_description_primary">Unutarnja pohrana</string>
+  <string name="storage_description_sdcard">SD kartica</string>
+  <string name="storage_description_xspace">Podaci dvojnih aplikacija</string>
   <string name="storage_no_space">Nema dovoljno prostora za pohranu</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
