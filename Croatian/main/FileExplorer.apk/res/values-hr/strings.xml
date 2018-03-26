@@ -11,7 +11,6 @@
   <string name="ad_download">Preuzmi</string>
   <string name="ad_downloading">Samo trenutak…</string>
   <string name="add_follow">Prati</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Sakrij datoteke sada</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
@@ -1121,9 +1120,7 @@ oslobodili prostor.</string>
   <string name="video_replay">Reproduciraj ponovno</string>
   <string name="video_status_reject">Odbijeno</string>
   <string name="video_status_review">Pregled u tijeku</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Prilagodite temu</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Odaberite temu</string>
   <string name="video_topic_hint">Traži teme ili osobe</string>
   <string name="video_upload_btn">Dalje</string>
