@@ -1145,7 +1145,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_simple_mode">Prikaz;info;Fotografije;Kontakti</string>
   <string name="search_smart_group_title">Kontakti;Prikaz</string>
   <string name="search_wipe_data">Organiziraj;Kontakti</string>
-  <string name="searching_vcard_message">"Pretraživanje vCard podataka u pohrani…"</string>
+  <string name="searching_vcard_message">"Pretraživanje vCard podataka na uređaju…"</string>
   <string name="select_all">"Odaberi sve"</string>
   <string name="select_all_exceed">"Odaberite ne više od %1$d, ne možete odabrati sve"</string>
   <string name="select_exceed">Odaberite ne više od %1$d</string>

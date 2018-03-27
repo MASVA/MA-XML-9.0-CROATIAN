@@ -231,6 +231,7 @@ brzina uzorkovanja"</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="click_expand">Dodirni za proširivanje</string>
   <string name="click_to_return_multi_window">Dodirni za povratak u Podijeljeni zaslon</string>
+  <string name="click_to_return_multi_window_of_notch">Povratak u Podijeljeni zaslon</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>

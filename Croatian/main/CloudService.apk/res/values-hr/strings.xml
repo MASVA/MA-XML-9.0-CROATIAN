@@ -595,6 +595,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="upgrade_space_successful_total">Dostupno: %sGB</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Korisnički Sporazum</string>
+  <string name="user_agreement_content">"Korištenjem ove usluge, slažete se sa %s."</string>
+  <string name="user_agreement_link">"Mi Cloud Uvjeti pružanja usluge"</string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_p6">"

@@ -78,6 +78,14 @@
         <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
         <item quantity="few">Netočan PIN kôd SIM kartice; imate još %d pokušaja.</item>
 	</plurals>
+	<plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplikacije se mogu povezati s mrežom</item>
+        <item quantity="one">%d aplikacija se može povezati s mrežom</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d aplikacije se ne mogu povezati s mrežom"</item>
+        <item quantity="one">"%d aplikacija se ne može povezati s mrežom"</item>
+    </plurals>
 	<plurals name="connected_devices_number">
          <item quantity="other">%d uređaja</item>
          <item quantity="one">%d uređaj</item>
@@ -261,5 +269,9 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
     <plurals name="print_settings_summary">
         <item quantity="other">Broj usluga ispisa: %1$d</item>
         <item quantity="one">1 usluga ispisa</item>
+    </plurals>
+	<plurals name="firewall_item_summary">
+        <item quantity="other">Ograničena veza za ovoliko aplikacija: %s</item>
+        <item quantity="one">Ograničena veza za %s aplikaciju</item>
     </plurals>
 </resources> 

@@ -77,6 +77,13 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="dont_import">Ne sada</string>
   <string name="downloading_space">Preuzimanje…</string>
   <string name="enable">Uključi</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Ako ne morate premjestiti podatke, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">sada izbrišite i izradite Drugi prostor.</string>
+  <string name="encrypt_space_delete_dialog_message">"Upravo ćete ažurirati Android. Nakon ažuriranja, podaci Drugog prostora bit će nekompatibilni. Da biste to izbjegli, premjestite sve podatke na Prvi prostor, izbrišite Drugi prostor i ponovno ga izradite."</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Premjesti podatke</string>
+  <string name="encrypt_space_delete_dialog_title">Pažnja</string>
+  <string name="encrypt_space_delete_notification_message">Izbrišite Drugi prostor i izradite novi za uspješno ažuriranje uređaja.</string>
+  <string name="encrypt_space_delete_notification_title">Drugi prostor</string>
   <string name="enter_air_space">Idi u Radni prostor</string>
   <string name="err_copy_contacts">"Ne mogu kopirati kontakte"</string>
   <string name="err_copy_files">"Ne mogu kopirati datoteke"</string>

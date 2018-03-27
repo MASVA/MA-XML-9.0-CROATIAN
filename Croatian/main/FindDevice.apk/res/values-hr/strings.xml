@@ -13,6 +13,7 @@
   <string name="disable_find_device_error">"Ne mogu isključiti Pronađi uređaj. %1$s"</string>
   <string name="disable_find_device_success">Pronađi Uređaj je isključen.</string>
   <string name="doing_extra_login_steps">Provjera prijave…</string>
+  <string name="emergency_call">Hitan poziv</string>
   <string name="enable_find_device_error">"Ne mogu uključiti Pronađi uređaj. %1$s"</string>
   <string name="enable_find_device_success">Pronađi uređaj je uključen.</string>
   <string name="find_device">Pronađi uređaj</string>
@@ -47,6 +48,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="phone_locked">Ovaj je uređaj možda povezan s postojećim Mi Računom (%s). Prijavite se da aktivirate ovaj uređaj.</string>
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
+  <string name="return_to_call">Natrag na poziv</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne može biti prazno"</string>
   <string name="stop_on_empty_password">"Polje zaporke ne može biti prazno"</string>
   <string name="sys_notification_async_open_failed_content">Dodirni za novi pokušaj ili odustati.</string>

@@ -123,9 +123,9 @@
   <string name="bookmark_move_to">Premjesti u</string>
   <string name="bookmark_needs_title">Oznaka mora imati ime.</string>
   <string name="bookmark_needs_url">Oznaka mora sadržavati poveznicu.</string>
-  <string name="bookmark_not_saved">"Ne mogu spremiti oznaku."</string>
+  <string name="bookmark_not_saved">"Ne mogu dodati u oznake."</string>
   <string name="bookmark_rename_group">Preimenuj grupu</string>
-  <string name="bookmark_saved">Spremljeno u oznake</string>
+  <string name="bookmark_saved">Dodano u oznake</string>
   <string name="bookmark_title">Naziv oznake</string>
   <string name="bookmark_title_lable">Naslov</string>
   <string name="bookmark_url">Poveznica http://</string>
@@ -190,7 +190,9 @@
   <string name="comment_app_menu">Komentar</string>
   <string name="comment_description">Komentar</string>
   <string name="comment_hint">Komentar</string>
+  <string name="comment_max_length">Ulazna pošta je puna.</string>
   <string name="comment_menu">Komentar</string>
+  <string name="comment_num_description">Broj komentara</string>
   <string name="common_use_phrase_bottom_bar_text_next">Dalje</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Preth.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -328,6 +330,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="error_unauthorized">Sinkronizacija s vašim Mi Računom je isključena zbog previše pokušaje prijave.</string>
   <string name="exit">Izađi</string>
   <string name="exit_browser_warning">Izaći iz Preglednika?</string>
+  <string name="favorite">Favorit</string>
   <string name="file_dir">Promjeni mapu</string>
   <string name="file_name">"Naziv: "</string>
   <string name="file_picker">Odaberi putanju</string>
@@ -364,7 +367,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="go_supermarket_title">Više aplikacija, veća brzina i manja potrošnja podataka u App Store</string>
   <string name="gold_medals">Zlatne medalje</string>
   <string name="google_bookmarks">Google</string>
-  <string name="green_kid_block_request">Web mjesto je zabranjeno od posjeta roditelja.</string>
+  <string name="green_kid_block_request">Pristup ovoj web stranici je ograničen.</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="hint">Savjet</string>
   <string name="history">Povijest</string>
@@ -905,6 +908,15 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="suggest_access_music">Mi Glazba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
+  <string name="suggestion_express_button_query_more">VIŠE</string>
+  <string name="suggestion_express_button_text_query">UPIT</string>
+  <string name="suggestion_express_exception_net">Pogreška mreže. Provjerite mrežnu vezu</string>
+  <string name="suggestion_express_exception_number">Broj nije točan, provjerite povezani broj</string>
+  <string name="suggestion_express_exception_server">Pogreška poslužitelja, provjerite kasnije</string>
+  <string name="suggestion_express_input_empty">Broj praćenja ne smije biti prazan</string>
+  <string name="suggestion_express_input_hint_inside">Unesite broj za praćenje</string>
+  <string name="suggestion_express_input_hint_out">Broj za praćenje:</string>
+  <string name="suggestion_express_title">Upit s jednim brojem</string>
   <string name="switchText">DA</string>
   <string name="switch_proxy_dialog_msg">"Otkrivena krađa mreže. Koristite ugrađenu MIUI aplikaciju Sigurnost ili prijavite vašem mobilnim operateru."</string>
   <string name="switch_proxy_dialog_title">Krađa mreže</string>
@@ -1022,9 +1034,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="voice_connect_network">"Ne mogu se povezati na mrežu."</string>
   <string name="voice_description">Glasovno pretraživanje</string>
   <string name="voice_network_connection">Glasovno pretraživanje treba povezivanje s internetom da radi normalno.</string>
-  <string name="voice_open_permission_baidu">Idite u Postavke da uključite glasovna dopuštenja za Postavke prepoznavanja govora</string>
-  <string name="voice_open_permission_xiaoai">Idite u Postavke da uključite glasovna dopuštenja za Xiaoai Voice Engine</string>
-  <string name="voice_open_permission_xunfei">Idite u Postavke da uključite glasovna dopuštenja za postavke glasa</string>
+  <string name="voice_open_permission_baidu">Idite u Postavke i omogućite alatu za govor pristup mikrofonu.</string>
+  <string name="voice_open_permission_xiaoai">Idite u Postavke i omogućite Mi AI alatu za govor pristup mikrofonu.</string>
+  <string name="voice_open_permission_xunfei">Idite u Postavke i dajte Mi Pregledniku sva potrebna dopuštenja.</string>
   <string name="voice_search_permission">Glasovno pretraživanje treba pristup mikrofonu da radi normalno.</string>
   <string name="voice_semantic_analysis">Preglednik će moći analizirati semantiku nakon što mu omogućite povezivanje.</string>
   <string name="voice_start_description">Start</string>

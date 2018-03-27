@@ -94,6 +94,9 @@
   <string name="conference_callers_exceeded">"Ne mogu dodati još osoba"</string>
   <string name="contactPhoto">Slika kontakta</string>
   <string name="contacts_icon_label">Kontakti</string>
+  <string name="crbt_second_hold_prompt">%s je na čekanju…</string>
+  <string name="crbt_second_hold_prompt_conference">Konferencijski poziv je na čekanju…</string>
+  <string name="crbt_second_hold_prompt_no_name">Prethodni poziv je na čekanju…</string>
   <string name="default_area_code_setting">Zadani kod područja</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za biranje</string>

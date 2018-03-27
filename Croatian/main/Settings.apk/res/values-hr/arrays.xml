@@ -421,6 +421,10 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
+	<string-array name="traffic_type">
+        <item>"Uporaba podataka "</item>
+        <item>"WLAN uporaba "</item>
+    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija isključena</item>
         <item>Brzina animacije 0,5x</item>
@@ -468,6 +472,24 @@
         <item>Isključeno</item>
         <item>Na zaslonu u obliku traka</item>
         <item>U naredbi adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="date_of_app_all">
+        <item>Danas (podaci)</item>
+        <item>Ovaj mjesec (podaci)</item>
+        <item>Prošli mjesec (podaci)</item>
+        <item>Danas WLAN</item>
+        <item>Ovaj mjesec WLAN</item>
+        <item>Prošli mjesec WLAN</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Danas "</item>
+        <item>"Ovaj mjesec "</item>
+        <item>"Prošli mjesec "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Danas: "</item>
+        <item>"Ovaj mjesec: "</item>
+        <item>"Prošli mjesec: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Isključeno</item>
@@ -1123,4 +1145,8 @@
          <item>Obavijesti će se prikazati u Panelu obavijesti</item>
          <item>Obavijesti će se prikazati u zasebnoj mapi</item>
      </string-array>
+	 <string-array name="ap_identify">
+         <item>Zadano</item>	         
+        <item>Mobilni hotspot</item>
+	</string-array>
 </resources>

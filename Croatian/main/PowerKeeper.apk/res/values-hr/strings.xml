@@ -46,6 +46,7 @@
   <string name="disabled">Isklj.</string>
   <string name="empty_title_apps_container_list">Nema aplikacija</string>
   <string name="enable_hide_mode">Uključi Štednju baterije</string>
+  <string name="enable_sleep_mode">Omogućivanje načina mirovanja za optimiziranje noćnog mirovanja</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Promjena na ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
@@ -166,6 +167,7 @@
   <string name="power_config_ultimate_title">Ultimativan način</string>
   <string name="power_config_ultimate_unlock_already">Sve su stavke otključane</string>
   <string name="power_configure_screen_brightness_enable">Postavite osvjetljenje zaslona</string>
+  <string name="power_consume_abnormal_night">Povećana potrošnja energije noću</string>
   <string name="power_customize_giveup_change">Odbaciti promjene?</string>
   <string name="power_dialog_cancel">Odustani</string>
   <string name="power_dialog_cpu_max_freq_title">Maks. CPU frekvencija</string>
@@ -214,6 +216,11 @@
   <string name="sleep_config_enhance_description">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, mobilne podatke i WLAN, i neće upaliti ekran kod obavijesti."</string>
   <string name="sleep_config_enhance_description_non_nfc">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, Bluetooth, GPS, mobilne podatke i WLAN, i neće upaliti ekran kod obavijesti."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
+  <string name="sleepmode_disclaimer_agree">Slažem se</string>
+  <string name="sleepmode_disclaimer_cancel">Odustani</string>
+  <string name="sleepmode_privacy_content">Ova značajka upotrebljavat će sustav telefona i podatke o uređaju koji neće biti učitani na poslužitelj</string>
+  <string name="sleepmode_privacy_link">Detaljna sigurnost i privatnost</string>
+  <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>
   <string name="sucess">Gotovo</string>
   <string name="ui">Standardno</string>
