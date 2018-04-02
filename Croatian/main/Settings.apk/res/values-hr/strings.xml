@@ -1295,6 +1295,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="decline_remote_bugreport_action">Odbij</string>
+  <string name="defalut_launcher_title">Zadani Početni zaslon</string>
   <string name="defalut_launcher_title">Zadani pokretač</string>
   <string name="default_admin_support_msg">Ta radnja nije omogućena. Za više informacija obratite se administratoru organizacije.</string>
   <string name="default_app">(Zadano)</string>
@@ -1307,6 +1308,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_for_work">Zadano za posao</string>
   <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_keyboard_layout">Zadano</string>
+  <string name="default_launcher_title">Zadani Pokretač</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
   <string name="default_rule_name">Timer 1</string>
   <string name="default_sound">Zadani zvuk</string>
@@ -1402,6 +1404,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_login">Prijavite se u vaš Mi Račun</string>
   <string name="dialog_yes">Da</string>
+  <string name="direct_boot_unaware_dialog_message">"Napomena: nakon ponovnog pokretanja možete koristiti ovu tipkovnicu samo ako otključate uređaj."</string>
   <string name="dirac_control">Optimiziranje kvalitete zvuka</string>
   <string name="dirac_mode_earbuds">Mi slušalice</string>
   <string name="dirac_mode_general">Opće</string>
@@ -2712,6 +2715,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_updater">Ažuriranje</string>
+  <string name="miui_userguide">Korisnički vodič</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
   <string name="miui_screensaver_state_off">Isključeno</string>
@@ -3084,6 +3088,13 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
   <string name="ok_rules">Dovršeno</string>
   <string name="okay">U redu</string>
+  <string name="oldman_app_label">Lite način</string>
+  <string name="oldman_installed_current_btn">Vrati izvorni Početni zaslona</string>
+  <string name="oldman_installed_current_des">"Postavili ste Lite način kao zadani Početni zaslon. Dodirnite tipku u nastavku da biste se vratili na izvorni Početni zaslon."</string>
+  <string name="oldman_installed_not_current_btn">Postavi kao zadani Početni zaslon</string>
+  <string name="oldman_installed_not_current_des">Lite način je instaliran na vašem uređaju. Možete ga koristiti kao zadani Početni zaslon.</string>
+  <string name="oldman_uninstalled_btn">Instaliraj</string>
+  <string name="oldman_uninstalled_des">Lite način vas oslobađa od vizualnog nereda i zadržava vaš Početni zaslon jednostavim i minimalističkim.</string>
   <string name="oldman_mode_confirm_title">Sada ponovno pokrenuti?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Vaš uređaj će se ponovno pokrenuti za izlaz iz Lite načina</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">Vaš uređaj će se ponovno pokrenuti i ući u Lite način.</string>
@@ -4362,7 +4373,7 @@ Za prikvačivanje zaslona:
   <string name="set_password_title">Postavi zaporku</string>
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
   <string name="settings_ad_loading">Samo trenutak…</string>
-  <string name="settings_ad_loading_unavailable">"Ne mogu učitati."</string>
+  <string name="settings_ad_loading_unavailable">"Ne mogu učitati informacije."</string>
   <string name="settings_backup">Postavke sigurnosne kopije</string>
   <string name="settings_backup_summary">Stvori sigurnosnu kopiju postavki</string>
   <string name="settings_button">Postavke</string>
@@ -4942,6 +4953,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="testing_usage_stats">Korisnička statistika</string>
   <string name="testing_wifi_info">WLAN informacije</string>
   <string name="tether_and_hotspot_title">Dijeljenje veze &amp; prijenosni hotspot</string>
+  <string name="tether_auto_disable_summary">Isključite hotspot automatski kada nema spojenih uređaja</string>
+  <string name="tether_auto_disable_title">Isključi hotspot automatski</string>
   <string name="tether_custom_dialog_title">Ograničenje mob. podataka</string>
   <string name="tether_data_usage_limit">Jednokratno ograničenje podataka</string>
   <string name="tether_data_usage_limit_summary">Ograničenje podataka primijenit će se sljedeći put kada hotspot bude uključen</string>
@@ -5304,7 +5317,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="use_nuplayer">Koristi NuPlayer (eksp.)</string>
   <string name="use_nuplayer_summary">Koristi NuPlayer umjesto AwesomePlayera</string>
   <string name="use_personalized_ad_service">Personalizirana Preporuka oglasa</string>
-  <string name="use_personalized_ad_service_summary">Kada je značajka preporuke isključena, i dalje ćete vidjeti istu količinu oglasa kao kada je uključena, ali ne i na temelju vaših podataka o ponašanju ili vaših osobnih podataka.</string>
+  <string name="use_personalized_ad_service_summary">Kada se preporuke isključe, i dalje ćete vidjeti istu količinu oglasa kao kada je uključena, no neće se temeljiti na vašim podacima o ponašanju ili vašim osobnim podacima.</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>

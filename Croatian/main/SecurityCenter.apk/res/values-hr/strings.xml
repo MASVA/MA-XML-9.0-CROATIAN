@@ -804,6 +804,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno."</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis iznimaka mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
+  <string name="dialog_button_ignore">Ignoriraj</string>
+  <string name="dialog_button_yes">Da</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustaviti sigurnosnu provjeru plaćanja?</string>
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
@@ -2454,6 +2456,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="suggest_scan_again">Predlaže se potpuno skeniranje kako bi se osigurala sigurnost.</string>
   <string name="summary_app_lock_disable">Zaštitite svoje podatke sa Zaklj. aplikacije</string>
   <string name="summary_auto_update">MIUI će odabrati najprikladnije vrijeme za preuzimanje i instaliranje ažuriranja.</string>
+  <string name="summary_background_connection">Ograničili ste pozadinsku vezu za ovu aplikaciju. Dodirnite za popravak.</string>
+  <string name="summary_block_calls_from_cantacts">"Koristitite listu blokiranih. Dodirnite za popravak."</string>
+  <string name="summary_block_calls_from_strangers">Dopuštate samo pozive od kontakata. Dodirnite za popravak.</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
   <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
@@ -2464,6 +2469,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="summary_data_flow">"Kontrolirajte uporabu mobilnih podataka kako bi izbjegli dodatne naknade"</string>
   <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_dev">Izbjegnite zlonamjeran softver i zaštitite osobne podatke</string>
+  <string name="summary_do_not_disturb">"Koristitite DND način. Dodirnite za popravak."</string>
+  <string name="summary_eye_shield">"Koristitite način čitanja. Dodirnite za popravak."</string>
   <string name="summary_find_device">Pronađite i zaključajte svoj uređaj s bilo kojeg mjesta</string>
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
   <string name="summary_flow_purchase">"Izgleda da nemate još puno preostalih podataka. Kupita podatke da ostanete povezani."</string>
@@ -2485,6 +2492,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="summary_permission_root">Izgleda da ovaj uređaj ima ROOT pristup. To može oštetiti sigurnost vašeg uređaja.</string>
   <string name="summary_power_optimizer">"Smanjite performanse vašeg uređaja kada je baterija slaba"</string>
   <string name="summary_realname_verify">Potvrdite svoj identitet kako bi vaša plaćanja bila što sigurnija.</string>
+  <string name="summary_restrict_data_usage">Ograničili ste uporabu podataka za ovu aplikaciju. Dodirnite za popravak.</string>
   <string name="summary_saving_switch">Ograničite aplikacije od korištenja vaše mobilne podatkovne veze za prijenos podataka.</string>
   <string name="summary_show_notification">"Izbriši predmemoriju, prikaži status baterije i blokirane stavke u panelu obavijesti."</string>
   <string name="summary_telecom_operator">Nabavite statistiku vaše mjesečne uporabe podataka od vašeg operatera.</string>
@@ -2634,6 +2642,9 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_app_lock_disable">Zaklj. aplikacija</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_auto_update">Ažuriraj automatski</string>
+  <string name="title_background_connection">"Ne možete koristiti %s u pozadini?"</string>
+  <string name="title_block_calls_from_cantacts">Propustili ste pozive vaših kontakata?</string>
+  <string name="title_block_calls_from_strangers">Propustili ste važne pozive?</string>
   <string name="title_chain_start">Ograniči lančano pokretanje</string>
   <string name="title_cleaner_cloudscan">Skeniraj cloud smeće</string>
   <string name="title_cloud_account">Mi Račun</string>
@@ -2650,6 +2661,8 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
   <string name="title_dev_yes">Opcije Raz. programera isključene</string>
   <string name="title_device_not_root">"ROOT pristup nije odobren"</string>
+  <string name="title_do_not_disturb">"Ne čujete zvuk zvona?"</string>
+  <string name="title_eye_shield">"Boja zaslona ne izgleda dobro?"</string>
   <string name="title_find_device">Pronađi uređaj</string>
   <string name="title_flow_notification">Obavijest mobilnih podataka</string>
   <string name="title_flow_purchase">Kupi mobilne podatke</string>
@@ -2680,6 +2693,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_permission_yes">Upravitelj dopuštenja uključen</string>
   <string name="title_power_optimizer">Štednja baterije</string>
   <string name="title_realname_verify">ID provjera</string>
+  <string name="title_restrict_data_usage">"%s se ne može povezati s internetom?"</string>
   <string name="title_saving_switch">Štednja podataka</string>
   <string name="title_share_link">Podijeli URL</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
