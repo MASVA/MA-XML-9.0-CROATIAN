@@ -1295,7 +1295,6 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="decline_remote_bugreport_action">Odbij</string>
-  <string name="defalut_launcher_title">Zadani Početni zaslon</string>
   <string name="defalut_launcher_title">Zadani pokretač</string>
   <string name="default_admin_support_msg">Ta radnja nije omogućena. Za više informacija obratite se administratoru organizacije.</string>
   <string name="default_app">(Zadano)</string>
