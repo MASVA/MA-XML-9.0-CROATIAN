@@ -623,12 +623,12 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="keyboard">KEY</string>
   <string name="last_time_test_result">REZULTAT TESTA ZADNJEG PUTA</string>
   <string name="lcminfo">LCM informacija</string>
-  <string name="magnetic_info_hint">Okrećite uređaju u obliku broja 8</string>
+  <string name="magnetic_info_hint">Okrećite uređaj u obliku broja 8</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC i SPK</string>
   <string name="navigation_drawer_close">Zatvori ladicu za navigaciju</string>
-  <string name="navigation_drawer_open">Otvori ladicu za navigacijur</string>
+  <string name="navigation_drawer_open">Otvori ladicu za navigaciju</string>
   <string name="next">Dalje</string>
   <string name="noise">Buka:</string>
   <string name="none">N/A</string>

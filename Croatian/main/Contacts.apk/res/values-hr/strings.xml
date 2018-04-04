@@ -5,6 +5,8 @@
   <string name="account_container_title">Uvezeno iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">"Samo telefon, bez sinkronizacije"</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kartica</string>
   <string name="account_sim2">SIM kartica %d</string>
   <string name="account_type_format">%1$s kontakt</string>
@@ -303,7 +305,7 @@ Kartice kontakata su isključene"</string>
   <string name="deleteConfirmation_title">"Izbrisati ovaj kontakt?"</string>
   <string name="delete_call_log_message">Izbrisati povijest poziva?</string>
   <string name="delete_call_log_selected_title">Izbrisati odabranu povijest poziva?</string>
-  <string name="delete_call_log_title">Brisanje povijesti poziva</string>
+  <string name="delete_call_log_title">Izbriši povijest poziva</string>
   <string name="delete_contact_calllog_title">Izbrisati povijest poziva?</string>
   <string name="delete_dial_input">"Izbriši"</string>
   <string name="delete_duplicate">Združi</string>
@@ -979,6 +981,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_photo_word_title">Fotografije za sve</string>
   <string name="pref_key_rebuild_t9_index_message">Ponovno izgradi indeks da se uklone problemi pretrage</string>
   <string name="pref_key_rebuild_t9_index_title">Ponovno izgradi podatke indeksa</string>
+  <string name="pref_key_sdn_manage">Prikaži SDN</string>
+  <string name="pref_key_sdn_manage1">Prikaži SDN kartice 1</string>
+  <string name="pref_key_sdn_manage2">Prikaži SDN kartice 2</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
   <string name="pref_key_sim_manage1">Postavljanje SIM kartice 1</string>
   <string name="pref_key_sim_manage2">Postavljanje SIM kartice 2</string>
@@ -1117,8 +1122,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pohrana se ne može skenirati.</string>
+  <string name="sdnContacts_empty">Nema SDN-a</string>
+  <string name="sdnContacts_emptyLoading">Učitavanje SDN-a…</string>
   <string name="searchHint">"Pretraži kontakte"</string>
-  <string name="search_batch_delete">Organizraj;Kontakti</string>
+  <string name="search_batch_delete">Organiziraj;Kontakti</string>
   <string name="search_contacts_display">Kontakti;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Kontakti</string>
   <string name="search_contacts_recovery">Kontakti</string>
@@ -1241,6 +1248,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="social_widget_label">Kontakt</string>
   <string name="social_widget_loading">"Učitavanje…"</string>
   <string name="solar_calendar">Sunčev kalendar</string>
+  <string name="special_code_security_exception">Operacija odbijena: nije zadani biratelj</string>
   <string name="splitConfirmation">Ovaj će se kontakt razdvojiti na više kontakata.</string>
   <string name="splitConfirmation_title">Odvojiti kontakt?</string>
   <string name="starredList">"Sa zvjezdicom"</string>
@@ -1251,6 +1259,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="strequentList">Favoriti</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Novi kontakt</string>
   <string name="t9_search_empty_edit_contact">Dodaj kontaktu</string>
   <string name="t9_search_empty_send_sms">Pošalji poruku</string>

@@ -19,6 +19,8 @@
   <string name="app_list_title">Odaberite aplikacije</string>
   <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Baterija i Performanse</string>
+  <string name="app_preload_policies_summary">Upotrijebite ML model za predviđanje aplikacija koje ćete upotrebljavati i učitavanje resursa unaprijed, očito poboljšavati izvedbu pokretanja aplikacije</string>
+  <string name="app_preload_policies_title">AI PreLoad</string>
   <string name="background">Aplikacija se izvodi u pozadini</string>
   <string name="base_info">Osnovne informacije</string>
   <string name="cloud_addr_info">Cloud informacije</string>
@@ -197,6 +199,7 @@
   <string name="power_mode_view_user_define_title">Novi događaj</string>
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
   <string name="power_usage">Korištenje energije</string>
+  <string name="pref_config_title">Optimiziranje performansi</string>
   <string name="ragment_sys_listempty">Nema aplikacija sustava</string>
   <string name="reading">Način čitanja</string>
   <string name="scenario_policies_summary">Primijenite različite strategije štednje energije za različite scenarije.</string>

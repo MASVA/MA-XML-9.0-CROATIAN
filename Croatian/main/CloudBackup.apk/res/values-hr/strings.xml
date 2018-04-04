@@ -113,6 +113,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="download_settings">Preuzimanje postavki Poč. zaslona %s%%</string>
   <string name="download_settings_fail">"Ne mogu preuzeti postavke Poč. zaslona"</string>
   <string name="error_unknown">Nešto je pošlo po krivu</string>
+  <string name="get_device_id_error">"Ne mogu dobiti ID uređaja"</string>
+  <string name="home_hint_global_launcher">Poco Poč. zaslon</string>
+  <string name="home_restore_error">"Ne mogu vratiti Poč. zaslon"</string>
   <string name="lack_of_storage">Nedostaje prostora za pohranu</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
   <string name="managespace_delete_backup">Izbriši</string>
@@ -162,6 +165,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
+  <string name="self_phone_home">Ovaj telefon: %s</string>
   <string name="settings_backup">Postavke sustava</string>
   <string name="size_unknown">Nepoznata veličina</string>
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
