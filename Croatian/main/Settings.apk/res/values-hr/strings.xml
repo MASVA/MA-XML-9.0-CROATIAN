@@ -1681,7 +1681,6 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enter_password">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
   <string name="enter_pattern">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
   <string name="enter_pin">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
-  <string name="equalizer">EQ</string>
   <string name="eq_auto">Vlastito</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Odustani</string>
