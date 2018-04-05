@@ -914,6 +914,15 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="exception_notify_message">"Ne mogu izračunati statističke podatke zbog pogreške. Ponovno pokrenite uređaj radi vraćanja."</string>
   <string name="exception_titile">Dogodila se pogreška</string>
   <string name="exit">Izlaz</string>
+  <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
+  <string name="exit_dialog_garbage_clean_title">Očisti smeće</string>
+  <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeta. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
+  <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
+  <string name="exit_dialog_release_storage_title">Oslobodi prostor</string>
+  <string name="exit_dialog_scan_message">"Rezultat performansi vašeg uređaja niži je od 75 bodova. Optimizirati sada?"</string>
+  <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
+  <string name="exit_dialog_scan_title">Optimiziraj performanse</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
