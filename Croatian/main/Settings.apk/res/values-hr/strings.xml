@@ -4983,7 +4983,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tether_devices_management_title">Upravljaj uređajima</string>
   <string name="tether_devices_max_number">Ograničenje povezanih uređaja</string>
   <string name="tether_limit_dialog_title">Ograničenje mob. podataka</string>
-  <string name="tether_limit_value_custom">Vlastito</string>
   <string name="tether_over_limit_dialog_cancle_btn">Resetiraj hotspot</string>
   <string name="tether_over_limit_dialog_message">Dosegnuli ste ograničenje podataka za hotspot.</string>
   <string name="tether_over_limit_dialog_title">Upozorenje uporabe podataka</string>
