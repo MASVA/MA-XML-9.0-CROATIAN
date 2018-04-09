@@ -2735,6 +2735,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
   <string name="miui_lab_taplus_desc">Pritisnite i držite stavke da biste aktivirali radnje</string>
   <string name="miui_lab_taplus_title">Taplus</string>
+  <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>
@@ -6051,6 +6052,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifiap_turn_on_hint">Za korištenje WLAN wifiap, uključite ga.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
+  <string name="wireless_connected">Povezano</string>
   <string name="wireless_networks_settings_title">Bežično &amp; mreže</string>
   <string name="wireless_off">Isključeno</string>
   <string name="wireless_on">Uključeno</string>
