@@ -569,7 +569,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
-  <string name="prompt_danger">Rizik</string>
+  <string name="prompt_danger">Opasnost</string>
   <string name="prompt_detecting">Otkrivanje</string>
   <string name="prompt_failure">Pogreška</string>
   <string name="prompt_return_to_split">Podijeljeni zaslon</string>

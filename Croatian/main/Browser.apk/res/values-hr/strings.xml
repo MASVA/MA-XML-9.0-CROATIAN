@@ -147,6 +147,7 @@
   <string name="cancel">Odustani</string>
   <string name="cancle_sync_cloud_tabs">Otkaži sinkronizaciju</string>
   <string name="cannot_download">Mogu se preuzeti samo \"http\" ili \"https\" poveznice.</string>
+  <string name="cast_video">Emitiraj video</string>
   <string name="check_permission_of_current_location">Trenutni podaci o lokaciji</string>
   <string name="check_permission_of_current_url">Poveznice web stranica koje posjećujete</string>
   <string name="check_security_tip_privacy_policy">Pravila o Privatnosti</string>
@@ -173,6 +174,7 @@
   <string name="cloud_tabs_sync_off">Sinkr. je isključena</string>
   <string name="cloud_time_tips">Zadnja sinkronizacija</string>
   <string name="cloud_up_to_loading_tips">Otpustite za sinkr.</string>
+  <string name="collect_video">Sakupi video</string>
   <string name="color_picker_button_black">Crna</string>
   <string name="color_picker_button_blue">Plava</string>
   <string name="color_picker_button_cancel">Odustani</string>
@@ -304,6 +306,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="download_status_pending">Na čekanju</string>
   <string name="download_success">Gotovo</string>
   <string name="download_title">Preuzimanja</string>
+  <string name="download_video">Preuzmi video</string>
   <string name="download_wait_connect">Čeka se povezivanje</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi oznaku</string>
@@ -330,7 +333,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="error_unauthorized">Sinkronizacija s vašim Mi Računom je isključena zbog previše pokušaje prijave.</string>
   <string name="exit">Izađi</string>
   <string name="exit_browser_warning">Izaći iz Preglednika?</string>
-  <string name="favorite">Favorit</string>
+  <string name="exit_fullscreen">Izlaz iz cijelog zaslona</string>
+  <string name="favorite">Dodaj u favorite</string>
   <string name="file_dir">Promjeni mapu</string>
   <string name="file_name">"Naziv: "</string>
   <string name="file_picker">Odaberi putanju</string>
@@ -629,6 +633,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="permission_notification">poslati obavijesti.</string>
   <string name="permission_unknown">Nepoznata radnja</string>
   <string name="permissions_prompt_message">%s želi da</string>
+  <string name="play_pause_video">Reproduciraj ili pauziraj videozapis</string>
+  <string name="play_video">Reproduciraj videozapis</string>
+  <string name="popup_video">Skočni videozapis</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih obavijesti?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accept_quicklink_push">Vijesti</string>
@@ -853,6 +860,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="sequence_bookmark_description">Promijeni slijed oznake</string>
   <string name="share_image_text">"Uživam u predivnoj slici"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
+  <string name="share_video">Podijeli videozapis</string>
   <string name="show_check_security_url_check_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Preglednik treba povezivanje s s internetom da radi normalno. Da biste primali relevantne preporuke, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
