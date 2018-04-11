@@ -917,7 +917,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Očisti smeće</string>
-  <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeta. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
+  <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
+  <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
   <string name="exit_dialog_release_storage_title">Oslobodi prostor</string>
   <string name="exit_dialog_scan_message">"Rezultat performansi vašeg uređaja niži je od 75 bodova. Optimizirati sada?"</string>
@@ -1021,6 +1022,12 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
   <string name="gb_new_feature">Nova značajka</string>
+  <string name="gb_msg_completely_shielded">Sakrij poruke</string>
+  <string name="gb_msg_completely_shielded_summary">Sakrij</string>
+  <string name="gb_msg_quickly_answer">Dopusti brze odgovore</string>
+  <string name="gb_msg_quickly_answer_summary">Brzi odgovori</string>
+  <string name="gb_msg_transparent_dispaly">Obavijesti s transparentnom pozadinom</string>
+  <string name="gb_msg_transparent_dispaly_summary">Transparentna</string>
   <string name="gdpr_msg">&lt;Data&gt;"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući informacije o načinu na koji upotrebljavate značajke aplikacije Sigurnost (npr. statističke podatke uporabe mobilnih podataka, podatke o zlonamjernom softveru, kao i osnovne informacije o vašem uređaju) i druge vrste informacija navedenih u našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>

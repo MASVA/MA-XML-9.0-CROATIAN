@@ -1647,7 +1647,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge nisu dostupne. Isključite VoLTE za upućivanje poziva."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Usluga nije dostupna. Isključite VoLTE u Postavkama."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Prije nego što uključite VoLTE, odaberite LTE kao željenu vrstu mreže.</string>
-  <string name="prompt_when_turnon_volte_without_lte">"LTE mreže sada nisu dostupne. Uključivanje VoLTE-a može vam spriječiti redovite pozive."</string>
+  <string name="prompt_when_turnon_volte_without_lte">"VoLTE mreže sada nisu dostupne. Uključivanje VoLTE-a može vam spriječiti redovite pozive."</string>
   <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
   <string name="propmpt_dialog_network_failed_title">Isteklo vrijeme poziva</string>
   <string name="propmpt_dialog_no_call_back_content">Predugo traje pokušaj povezivanja. Mijenjam na redoviti poziv, koji može biti naplaćen od strane vašeg davatelja usluga.</string>
@@ -1953,7 +1953,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_xdivert_disabled">X-Divert je isključen</string>
   <string name="sum_xdivert_enabled">X-Divert je uključen</string>
   <string name="summary_manage_subscriptions">Upravljanje mrežnih postavki svake pretplate</string>
-  <string name="switch_dds_to_sub_alert">Prebacite mobilne podatke na SIM</string>
+  <string name="switch_dds_to_sub_alert">Postavi ovu karticu kao zadanu podatkovnu karticu.</string>
   <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 pretraživanje unosa</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin fonetski zapis</string>
@@ -2107,6 +2107,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="verifying">Provjera…</string>
   <string name="vibrate_after_connected_summary">Vibracija nakon javljanja</string>
   <string name="vibrate_after_connected_title">Vibracija nakon povezivanja</string>
+  <string name="vice_card_data_in_use_alert">Mogu se generirati dodatne naknade.</string>
   <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
   <string name="vice_slot_volte_data_switch_title">Koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici</string>
@@ -2155,7 +2156,8 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_summary2">Potvrdite da vaš mobilni operater podržava tu značajku prije uključivanja. Inače može utjecati na redovne pozive.</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
-  <string name="volte_tips_when_turn_on">Usluge tvrtke China Telecom VoLTE pružaju se samo u područjima s pokrivenošću LTE mreže.</string>
+  <string name="volte_switch_title_ct">VoLTE omogućen</string>
+  <string name="volte_tips_when_turn_on">Usluge tvrtke China Telecom VoLTE pružaju se samo u područjima s pokrivenošću LTE mreže. VoLTE usluge pruža mobilni operater.</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
   <string name="vvm_unsupported_message_format">Vrsta poruke nije podržana, nazovite %s da biste je poslušali.</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>

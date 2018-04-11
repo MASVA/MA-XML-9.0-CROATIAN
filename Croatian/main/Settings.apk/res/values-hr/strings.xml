@@ -104,6 +104,8 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="accessibility_wifi_off">WLAN isklj.</string>
   <string name="accessibility_wifi_one_bar">WLAN jedna linija.</string>
+  <string name="accessibility_wifi_security_type_none">Otvori mrežu</string>
+  <string name="accessibility_wifi_security_type_secured">Sigurna mreža</string>
   <string name="accessibility_wifi_signal_full">WLAN puni signal.</string>
   <string name="accessibility_wifi_three_bars">WLAN tri linije.</string>
   <string name="accessibility_wifi_two_bars">WLAN dvije linije.</string>
@@ -1054,6 +1056,9 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_erase">U redu</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
+  <string name="confirm_frp_credential_message">Uređaj je vraćen na tvorničke postavke, možete ga otključati s prethodnim načinom.</string>
+  <string name="confirm_frp_credential_skip_txt">UPOTRIJEBI MOJ GOOGLE RAČUN</string>
+  <string name="confirm_frp_credential_title">Zaštita tvorničkih postavki</string>
   <string name="confirm_install_and_connect">Instaliraj &amp; poveži</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovno unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
@@ -5990,7 +5995,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni</string>
-  <string name="wifi_tether_enabled_subtext">Aktivan je prijenosni hotspot %1$s</string>
+  <string name="wifi_tether_enabled_subtext">Aktivan je %1$s</string>
+  <string name="wifi_tether_enabled_summary">Aktivan je %1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>
   <string name="wifi_tether_first_use_message">Postavi Prijenosni hotSpot kod prve uporabe</string>
   <string name="wifi_tether_setting_title">Postavke</string>
