@@ -82,6 +82,9 @@
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
+  <string name="gxzw_press_harder">Pritisnite malo jače</string>
+  <string name="gxzw_try_more_again">Pokušajte ponovo</string>
+  <string name="gxzw_use_password">Upotrijebite zaporku</string>
   <string name="incorrect_pincode">Netočan PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>
   <string name="incorrect_pukcode">Netočan PUK</string>

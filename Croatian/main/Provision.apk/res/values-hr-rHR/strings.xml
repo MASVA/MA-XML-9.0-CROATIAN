@@ -72,6 +72,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
   <string name="sim_card_detecting_check">"Ne mogu pronaći SIM karticu. Provjerite je li SIM kartica pravilno umetnuta i imate li dovoljno sredstava na svom računu."</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Dopustiti povezivanje s mobilnim podatkovnim mrežama? Ako to učinite, SIM kartica koju umetnete koristit će se za povezivanje s mobilnim podatkovnim mrežama.</string>
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
