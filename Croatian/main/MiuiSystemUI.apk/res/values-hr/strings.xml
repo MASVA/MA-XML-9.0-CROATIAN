@@ -666,6 +666,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="screenshot_toalbum_txt">Pregled</string>
   <string name="search_hint">Traži web stranice, aplikacije, kontakte i videozapise</string>
   <string name="select_application">Odaberite aplikaciju</string>
+  <string name="select_logd_level">Odaberite veličinu međuspremnika</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
   <string name="select_logd_size_title">Veličine međuspremnika zapisnika</string>
   <string name="select_logpersist_dialog_title">Odaberite međuspremnike zapisnika koji će se trajno pohraniti na uređaju</string>

@@ -271,7 +271,8 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_find_device_guide_title">"Prijavite se u &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da pronađete, zaključate ili izbrišete svoj uređaj. To vam može pomoći da pronađete uređaj ako ga izgubite. &lt;br /&gt;Ako izgubite uređaj, možete se obratiti sigurnosnoj službi aplikacija koje često upotrebljavate (npr. Alipay, WeChat, QQ) kako biste zaštitili svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
   <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
   <string name="micloud_find_device_opened">Pronađi uređaj uključen</string>
-  <string name="micloud_find_device_opened_content">Prijavite se u %s da pronađete svoj uređaj</string>
+  <string name="micloud_find_device_opened_content">Pronađite svoj uređaj na %s</string>
+  <string name="micloud_find_device_sms_alert">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš će vam davatelj usluge naplatiti za ovu poruku. Kada promjenite SIM karticu, automatski će se poslati poruka za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_verify_button">Ponovno aktiviraj Pronađi uređaj</string>
   <string name="micloud_find_device_verify_close">Isključi Pronađi uređaj</string>
   <string name="micloud_find_device_verify_fail">"Ne mogu ponovno aktivirati Pronađi uređaj"</string>
