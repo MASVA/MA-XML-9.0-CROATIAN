@@ -155,6 +155,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="lock_screen_open_second_space">Uđite u Drugi prostor sa Zaklj. zaslona</string>
   <string name="messageData">Poruke</string>
   <string name="msg_switch_file">Izbrisati ove datoteke u Prvom prostoru nakon što ste ih premjestili?</string>
+  <string name="msg_switch_file_second">Izbrisati ove datoteke u Drugom prostoru nakon što ste ih premjestili?</string>
   <string name="msg_switch_photo">Izbrisati ove fotografije u Prvom prostoru nakon što ste ih premjestili?</string>
   <string name="needSetKeyguardFirst">Postavite zaporku Prvog prostora</string>
   <string name="needSetKeyguardFirstDes">Postavite zaporku Prvog prostora prije nego što postavite zaporku Drugog prostora</string>

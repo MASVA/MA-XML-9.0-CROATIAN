@@ -1308,6 +1308,7 @@ podatkovnu vezu"</string>
   <string name="main_traffic_used_text">iskorišteno</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Dodajte ručno autom. pokret. aplikacije</string>
+  <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>

@@ -954,6 +954,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="checking_decryption">Provjeravanje…</string>
   <string name="checking_find_device_status">Provjera statusa Pronađi uređaj…</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
+  <string name="choose_a_card_to_reset">Odaberite SIM karticu za resetiranje</string>
   <string name="childmod_privacy_password_role_instruction">Uključite Dječji način da spriječite neželjene radnje dok uređaj koristi dijete</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
@@ -3862,9 +3863,12 @@ Odaberite operativni sustav vašeg računala:"</string>
  Podatke aplikacija nećete izgubiti."</string>
   <string name="reset_app_preferences_title">Poništiti postavke?</string>
   <string name="reset_legacy_password_settings_preface_text">Morate resetirati vašu lozinku za zaključavanje zaslona.</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Poništi postavke</string>
+  <string name="reset_network_category">To će resetirati sve postavke mreže, uključujući:</string>
   <string name="reset_network_complete_toast">Postavke mreže vraćene su na zadano.</string>
   <string name="reset_network_confirm_title">Poništiti?</string>
+  <string name="reset_network_data">Mobilni podaci</string>
   <string name="reset_network_desc">"Sve postavke mreže vratit će se na zadano, uključujući:
 
 "&lt;li&gt;WLAN&lt;/li&gt;"
@@ -3873,6 +3877,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="reset_network_final_button_text">Poništi postavke</string>
   <string name="reset_network_final_desc">Želite li vratiti sve postavke mreže na zadano? Tu radnju nije moguće poništiti!</string>
   <string name="reset_network_title">Poništ. post. mreže</string>
+  <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Resetiraj zaporku Drugog prostora</string>
   <string name="reset_second_space_passwd_cancel">Odustani</string>
   <string name="reset_second_space_passwd_confirm">Nastavi</string>
