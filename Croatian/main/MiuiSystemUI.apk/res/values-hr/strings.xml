@@ -240,11 +240,11 @@ brzina uzorkovanja"</string>
   <string name="connected_via_wfa">Povezano putem WLAN pomoćnika</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
- Upozorenje! Time će se izbrisati svi vaši podaci.
- Značajka je u alfa verziji i možda neće funkcionirati pravilno.
+ Upozorenje: Time ćete izbrisati sve podatke.
+ Ova se značajka razvija i možda neće ispravno raditi.
  Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
-  <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
+  <string name="convert_to_file_encryption_done">Datoteke su šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
@@ -291,7 +291,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
-  <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
+  <string name="direct_boot_unaware_dialog_message">Napomena: Moći ćete koristiti ovu tipkovnicu nakon ponovnog pokretanja sustava samo ako otključate uređaj.</string>
   <string name="disable_notification_summary">"Ne prikazuj obavijesti odabranih aplikacija."</string>
   <string name="disable_notification_title">Sakrij obavijesti</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
@@ -341,7 +341,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="ext_media_unmountable_notification_title">Oštećena USB pohrana</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
-  <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
+  <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="float_incall_ignore">Ignoriraj</string>
   <string name="float_incall_message">Poruka</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
@@ -373,13 +373,13 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
   <string name="headset_settings">Slušalice su priključene</string>
   <string name="help_feedback_label">Pomoć i povratne inf.</string>
-  <string name="home">Početni zaslon postavki</string>
+  <string name="home">Postavke početnog zaslona</string>
   <string name="how_to_back_home">Idi na početni zaslon</string>
   <string name="how_to_switch_recents">Otvori Nedavno</string>
   <string name="how_to_use_drawer">Kako koristiti izbornik</string>
   <string name="how_to_use_drawer_summary">Prijeđite prstom udesno u gornjem dijelu zaslona</string>
   <string name="how_to_use_fsg">Možete obavljati ove radnje pomoću gesti:</string>
-  <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
+  <string name="ime_security_warning">%1$s može bilježiti sve što upisujete, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
   <string name="important_desc">Sve važne obavijesti prikazat će se izravno u Panelu obavijesti.</string>
@@ -443,12 +443,12 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Samo trenutak…</string>
-  <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za potpune Sig. kopije na računalu</string>
-  <string name="local_backup_password_summary_none">Potpune Sig. kopije na stolnom računalu trenutačno nisu zaštićene</string>
-  <string name="local_backup_password_title">Zaporka Sig. kopije</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda ne odgovaraju</string>
-  <string name="local_backup_password_toast_success">Nova zaporka za Sig. kopiju postavljena</string>
-  <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke za Sig. kopiju</string>
+  <string name="local_backup_password_summary_change">Dodirnite za promjenu ili uklanjanje zaporke za potpune Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_summary_none">Potpune Sig. kopije Poč. zaslona trenutno nisu zaštićene</string>
+  <string name="local_backup_password_title">Zaporka Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Zaporke se ne podudaraju</string>
+  <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
+  <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
   <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podržava pomicanje snimke zaslona."</string>
   <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
@@ -683,12 +683,12 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="settings_toggle_position_reset">Poništi prečace</string>
   <string name="share">Podijeli</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
-  <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
+  <string name="show_all_anrs_summary">Prikaži dijaloški okvir \"Aplikacija ne odgovara\" za pozadinske aplikacije</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
   <string name="show_demo_mode">Prikaži demo način</string>
-  <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
-  <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
+  <string name="show_hw_layers_updates">Prikaži ažuriranja na razini hardvera</string>
+  <string name="show_hw_layers_updates_summary">Stavke hardvera koje se ažuriraju bljeskaju zelenom bojom.</string>
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>
   <string name="show_hw_screen_updates_summary">Bljeskanje prikaza u prozorima pri crtanju GPU-om</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
@@ -820,7 +820,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="usb_storage_stop_notification_title">"Isključi USB pohranu"</string>
   <string name="usb_storage_stop_title">"USB pohrana se koristi"</string>
   <string name="usb_storage_title">"USB povezan"</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezik sustav</string>
   <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Kliznite prema dolje jednim prstom radi prikaza panela obavijesti</string>
   <string name="user_guide_for_toggle">Popis prečaca je moguće pomicati vodoravno</string>
@@ -853,9 +853,9 @@ Povucite dolje za zaključavanje"</string>
   <string name="wapi_yes">da</string>
   <string name="weather_publish_time">Ažurirano %1$s</string>
   <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN na mob. mrežu</string>
-  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
+  <string name="wifi_aggressive_handover_summary">Kada je omogućeno, veza će se aktivnije prebaciti na mobilne podatke kada je WLAN signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili ograničite slobodno traženje WLAN mreža na temelju količine podatkovnog prometa u sučelju.</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
@@ -863,7 +863,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
-  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
+  <string name="wifi_disabled_wifi_failure">"Ne mogu se povezati s WLAN-om"</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
@@ -873,8 +873,8 @@ Povucite dolje za zaključavanje"</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja."</string>
-  <string name="wifi_no_internet_no_reconnect">"Neće se automatski povezati"</string>
+  <string name="wifi_no_internet">"Ne mogu se povezati s internetom"</string>
+  <string name="wifi_no_internet_no_reconnect">"Ne mogu se povezati automatski”</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_none">Ništa</string>
@@ -882,7 +882,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="wifi_ssid_is_empty">SSID polje ne može biti prazno</string>
   <string name="wifi_ssid_length_is_max">SSID ne smije premašiti 32 znaka</string>
   <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
-  <string name="wifi_verbose_logging_summary">Povećana razina prijave na WLAN, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
+  <string name="wifi_verbose_logging_summary">Povećaj razinu WLAN zapisivanja, prikaži RSSI za svaki SSID na popisu WLAN mreža.</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_mode_hand_text">Ručno odaberi certifikat</string>
   <string name="wifi_wapi_certification_dont_exist">WAPI certifikati ne postoje. Instalirajte ih.</string>

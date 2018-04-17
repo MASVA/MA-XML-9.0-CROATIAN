@@ -52,6 +52,7 @@
   <string name="accessibility_captioning_title">Titlovi</string>
   <string name="accessibility_category_personal">Računi osobnih profila</string>
   <string name="accessibility_category_work">Računi radnih profila – %s</string>
+  <string name="accessibility_close_tab">Zatvori trenutnu karticu</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimentalno) Može utjecati na performanse</string>
@@ -74,8 +75,9 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_lock_screen_progress">Upotrijebljeno znakova: %1$d od %2$d</string>
   <string name="accessibility_long_press_timeout_preference_title">Trajanje dugog pritiska</string>
   <string name="accessibility_menu_item_settings">Postavke</string>
+  <string name="accessibility_more_settings">Dodatne postavke</string>
   <string name="accessibility_no_services_installed">Nema instaliranih usluga</string>
-  <string name="accessibility_no_wifi">WLAN isključen.</string>
+  <string name="accessibility_no_wifi">Prekinuta veza s WLAN-om.</string>
   <string name="accessibility_personal_account_title">Osobni račun – %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tipka za uključivanje prekida poziv</string>
   <string name="accessibility_screen_magnification_enable">Pokreti povećavanja</string>
@@ -102,6 +104,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Autom. ažuriranje uvećanja zaslona</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
+  <string name="accessibility_vpn_settings_info">VPN konfiguracija</string>
   <string name="accessibility_wifi_off">WLAN isklj.</string>
   <string name="accessibility_wifi_one_bar">WLAN jedna linija.</string>
   <string name="accessibility_wifi_security_type_none">Otvori mrežu</string>
@@ -503,6 +506,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
   <string name="battery_info_status_charging_ac_short">Punjenje</string>
+  <string name="battery_info_status_charging_lower">Punjenje</string>
   <string name="battery_info_status_charging_usb">Punjenje putem USB-a</string>
   <string name="battery_info_status_charging_usb_short">Punjenje</string>
   <string name="battery_info_status_charging_wireless">Bežično punjenje</string>
@@ -1081,11 +1085,11 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="controls_subtitle">Podesi potrošnju energije</string>
   <string name="convenience_key_category_title">Prečaci</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
- Upozorenje! Time će se izbrisati svi vaši podaci.
- Značajka je u alfa verziji i možda neće funkcionirati pravilno.
+ Upozorenje: Time ćete izbrisati sve podatke.
+ Ova se značajka razvija i možda neće ispravno raditi.
  Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
-  <string name="convert_to_file_encryption_done">Enkripcija datoteka već je izvršena</string>
+  <string name="convert_to_file_encryption_done">Datoteke su šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>
   <string name="copyright_title">Autorska prava</string>
   <string name="country_name">%s (sustav)</string>
@@ -1745,7 +1749,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
   <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne mogu provjeriti status"</string>
-  <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
+  <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne mogu isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne mogu isključiti"</string>
   <string name="fcc_equipment_id">ID opreme</string>
@@ -2061,7 +2065,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="high_power_prompt_title">Želite li zanemariti optimizacije baterije?</string>
   <string name="high_power_system">Optimizacija baterije nije dostupna</string>
   <string name="history_details_title">Detalji povijesti</string>
-  <string name="home">Početni zaslon</string>
+  <string name="home">Postavke početnog zaslona</string>
   <string name="home_app">Početna aplikacija</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
   <string name="home_key">Početna</string>
@@ -2293,12 +2297,12 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="local_auto_backup_off">Isključi</string>
   <string name="local_auto_backup_on">Uključi</string>
   <string name="local_auto_backup_section_title">Napravi autom. Sig. kopiju</string>
-  <string name="local_backup_password_summary_change">Odaberite za promjenu ili uklanjanje zaporke u potpunim sigurnosnim kopijama na stolnom računalu</string>
-  <string name="local_backup_password_summary_none">Potpune sigurnosne kopije na stolnom računalu trenutačno nisu zaštićene</string>
-  <string name="local_backup_password_title">Zaporka sigurnosne kopije na stolnom računalu</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda se ne podudaraju</string>
-  <string name="local_backup_password_toast_success">Nova zaporka sigurnosne kopije je postavljena</string>
-  <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke sigurnosne kopije</string>
+  <string name="local_backup_password_summary_change">Dodirnite za promjenu ili uklanjanje zaporke za potpune Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_summary_none">Potpune Sig. kopije Poč. zaslona trenutno nisu zaštićene</string>
+  <string name="local_backup_password_title">Zaporka Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Zaporke se ne podudaraju</string>
+  <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
+  <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
@@ -4471,7 +4475,7 @@ Za prikvačivanje zaslona:
   <string name="sharing_remote_bugreport_dialog_message">Ovo izvješće o programskoj pogrešci dijeli se s vašim IT administratorom. Više pojedinosti možete saznati od te osobe.</string>
   <string name="short_summary_font_size">Smanjuje ili povećava tekst</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
-  <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
+  <string name="show_all_anrs_summary">Prikaži dijaloški okvir \"Aplikacija ne odgovara\" za pozadinske aplikacije</string>
   <string name="show_background_processes">Prikaži procese iz predmemorije</string>
   <string name="show_connected_devices_summary">Prikaži povezane uređaje</string>
   <string name="show_connected_devices_title">Povezani uređaji</string>
@@ -4481,8 +4485,8 @@ Za prikvačivanje zaslona:
   <string name="show_dev_on">Sada ste razvojni programer!</string>
   <string name="show_fc">Prisilno zatvorene aplikacije</string>
   <string name="show_fc_summary">Prikaži prisilno zatvorene aplikacije</string>
-  <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
-  <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
+  <string name="show_hw_layers_updates">Prikaži ažuriranja na razini hardvera</string>
+  <string name="show_hw_layers_updates_summary">Stavke hardvera koje se ažuriraju bljeskaju zelenom bojom.</string>
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>
   <string name="show_hw_screen_updates_summary">Bljeskanje prikaza u prozorima pri crtanju GPU-om</string>
   <string name="show_ime">Prikaži virtualnu tipkovnicu</string>
@@ -5364,7 +5368,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="use_personalized_ad_service">Personalizirana Preporuka oglasa</string>
   <string name="use_personalized_ad_service_summary">Kada se preporuke isključe, i dalje ćete vidjeti istu količinu oglasa kao kada je uključena, no neće se temeljiti na vašim podacima o ponašanju ili vašim osobnim podacima.</string>
   <string name="use_privacy_password_immediate">Koristi</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezik sustav</string>
   <string name="use_this_wlan">Ostani povezan</string>
   <string name="use_wifi_master_key_summary">Poveži koristeći WLAN Master ključ</string>
   <string name="user_account_title">Račun za sadržaj</string>
@@ -5660,10 +5664,10 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_advanced_settings_label">IP postavke</string>
   <string name="wifi_advanced_titlebar">Napredni WLAN</string>
   <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
-  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
+  <string name="wifi_aggressive_handover_summary">Kada je omogućeno, veza će se aktivnije prebaciti na mobilne podatke kada je WLAN signal slab.</string>
   <string name="wifi_alert_lockdown_by_device_owner">Aplikacija %1$s upravlja vašim uređajem i ne dopušta izmjenu ni brisanje te WLAN mreže. Više informacija zatražite od administratora.</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopuštanje/blokiranje slobodnog traženja WLAN mreža na temelju količine podatkovnog prometa u sučelju</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili ograničite slobodno traženje WLAN mreža na temelju količine podatkovnog prometa u sučelju.</string>
   <string name="wifi_and_mobile_skipped_message">UPOZORENJE: ako preskočite WLAN, telefon neće imati internetsku vezu za početna preuzimanja ili ažuriranja.</string>
   <string name="wifi_ap_band_config">Odaberite frekvenciju pristupne točke</string>
   <string name="wifi_ap_choose_2G">Frekvencija od 2,4 GHz</string>
@@ -5726,7 +5730,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_disabled_help">WLAN veza je prekinuta zbog slabog signala</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
-  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
+  <string name="wifi_disabled_wifi_failure">"Ne mogu se povezati s WLAN-om"</string>
   <string name="wifi_disconnected_notification_summary">"Niste više povezani na WLAN."</string>
   <string name="wifi_disconnected_notification_title">WLAN nepovezan</string>
   <string name="wifi_display_autonomous_go">Omogući autonomni GO</string>
@@ -5784,6 +5788,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_frequency">Učestalost</string>
   <string name="wifi_gateway">Pristupnik</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hide_password">Sakrij zaporku</string>
   <string name="wifi_hotspot_checkbox_text">WLAN žarišna točka</string>
   <string name="wifi_hotspot_checkbox_text_summary">Koristi mob. vezu za pružanje WLAN mreže</string>
   <string name="wifi_hotspot_configure_ap_text">Postavljanje WLAN žar. točke</string>
@@ -5827,7 +5832,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_multiple_cert_added">(dodano više certifikata)</string>
   <string name="wifi_network_prefix_length">Duljina mrežnog prefiksa</string>
   <string name="wifi_no_domain_warning">Morate navesti domenu.</string>
-  <string name="wifi_no_internet">Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja.</string>
+  <string name="wifi_no_internet">"Ne mogu se povezati s internetom"</string>
+  <string name="wifi_no_internet_no_reconnect">"Ne mogu se povezati automatski”</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_notify_cmcc_connected_summary">Prikaži obavijest kada je povezano na CMCC mrežu</string>
   <string name="wifi_notify_cmcc_connected_title">Obavijesti CMCC mreže</string>
@@ -6029,7 +6035,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_update">Osvježi statistike</string>
   <string name="wifi_use_system_certs">Koristi certifikate sustava</string>
   <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
-  <string name="wifi_verbose_logging_summary">Povećana razina prijave na WLAN, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
+  <string name="wifi_verbose_logging_summary">Povećaj razinu WLAN zapisivanja, prikaži RSSI za svaki SSID na popisu WLAN mreža.</string>
   <string name="wifi_wapi_as_cert">AS Certifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Odustani</string>
   <string name="wifi_wapi_cert_create_subdir">Kreiraj mapu</string>

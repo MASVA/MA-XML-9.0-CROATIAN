@@ -1028,7 +1028,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_msg_quickly_answer_summary">Brzi odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obavijesti s transparentnom pozadinom</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentna</string>
-  <string name="gdpr_msg">&lt;Data&gt;"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući informacije o načinu na koji upotrebljavate značajke aplikacije Sigurnost (npr. statističke podatke uporabe mobilnih podataka, podatke o zlonamjernom softveru, kao i osnovne informacije o vašem uređaju) i druge vrste informacija navedenih u našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke."</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
