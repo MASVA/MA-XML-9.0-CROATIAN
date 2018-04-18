@@ -60,11 +60,14 @@
   <string name="btn_got_it">Shvaćam</string>
   <string name="button_backup">Sig. kopija</string>
   <string name="button_cancel">Odustani</string>
+  <string name="button_clean_garbage">Oslobodite prostor</string>
   <string name="button_continue">Nastavi</string>
   <string name="button_finish">Završeno</string>
+  <string name="button_got_it">U redu</string>
   <string name="button_import">Uvezi</string>
   <string name="button_next">Dalje</string>
   <string name="button_ok">U redu</string>
+  <string name="button_quit">Izlaz</string>
   <string name="button_return">Natrag</string>
   <string name="button_send">Pošalji</string>
   <string name="call_title">Povijest poziva</string>
@@ -128,12 +131,16 @@
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
   <string name="err_authentication_failed">Provjera nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
+  <string name="err_bakfile_not_exist">"Sigurnosna kopija ne postoji."</string>
+  <string name="err_binder_died">Aplikacija se neočekivano zaustavila.</string>
   <string name="err_filesystem_mount">"Ne mogu pristupiti prostoru za pohranu routera"</string>
   <string name="err_low_storage">Nedovoljno prostora</string>
   <string name="err_not_allow">Nije podržano</string>
+  <string name="err_pkg_not_exist">"Ne mogu pronaći aplikaciju."</string>
   <string name="err_router_disconnected">"Provjerite priključak vašeg routera i pokušajte ponovo."</string>
   <string name="err_router_files_delete">"Ne mogu obrisati Sig. kopije na routeru"</string>
   <string name="err_unknown">Nepoznata greška</string>
+  <string name="err_user_abort">Otkazano od strane korisnika.</string>
   <string name="err_version_too_old">Sig. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
   <string name="error_permissions">"Ova aplikacija nema dopuštenje za pristup Kalendaru. Idite u Postavke i provjerite dopuštenje za nastavak."</string>
@@ -401,7 +408,10 @@
   <string name="trans_device_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo za nastavak.</string>
   <string name="trans_disconnected_tips_message">Daljinski uređaj nije povezan. Ponovo se povežite ručno ili poništite prijenos.</string>
   <string name="trans_disconnected_tips_title">Daljinski uređaj nije povezan</string>
+  <string name="trans_failed_details_page_title">Neuspješni prijenosi</string>
   <string name="trans_generate_qr_code_failed">"Ne mogu izraditi QR kod"</string>
+  <string name="trans_generate_qrcode_failed">"Ne mogu izraditi QR kod. Pokušajte ponovo."</string>
+  <string name="trans_generating_qrcode">Izrada QR koda…</string>
   <string name="trans_intro_desc_1">"Na Mi telefonu, spojite se na WLAN i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
   <string name="trans_intro_desc_3">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
   <string name="trans_intro_desc_4">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Mi 6) i dalje će se moći povezati s internetom putem WLAN veze tijekom prijenosa."</string>
@@ -433,8 +443,10 @@
   <string name="trans_intro_title_private">Skriveni album:</string>
   <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
-  <string name="trans_native_no_space">"Nema dovoljno prostora na ovom uređaju.
-Oslobodite najmanje %s."</string>
+  <string name="trans_native_no_space">"Na starom uređaju nema dovoljno prostora za pohranu (%s dostupno).
+ Oslobodite prostor za pohranu ili prenesite samo važne stavke."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Moveru je potreban prostor za pohranu za pakiranje prenesenih podataka, ali izgleda da nema dovoljno prostora na starom uređaju. Oslobodite prostor za pohranu u \"Sigurnost\" ili prenesite samo važne stavke."</string>
+  <string name="trans_old_phone_low_space_title">Nema dovoljno prostora za pohranu</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
@@ -474,8 +486,8 @@ Oslobodite najmanje %s."</string>
   <string name="trans_security_tips_message">"Neke aplikacije ne podržavaju Mi Mover."</string>
   <string name="trans_security_tips_title">Mi Mover kompatibilnost</string>
   <string name="trans_select_data">Odaberite podatke</string>
-  <string name="trans_select_data_no_space">"Nema dovoljno prostora na novom uređaju.
- Odaberite datoteke ponovno ili oslobodite %s prostora na novom uređaju"</string>
+  <string name="trans_select_data_no_space">Na novom uređaju nema dovoljno prostora za pohranu (%s dostupno).
+ Oslobodite prostor za pohranu ili prenesite samo važne stavke."</string>
   <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
  Slične datoteke na novom uređaju će biti presnimljene"</string>
   <string name="trans_select_data_too_large">"Odabrali ste previše stavki za prijenos.
@@ -497,8 +509,7 @@ Odaberite samo važne stavke da brže obavite prijenos."</string>
   <string name="trans_start_failed_title">"Ne mogu pokrenuti"</string>
   <string name="trans_switching_5g">Promjena na 5GHz WLAN…</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
-  <string name="trans_time_spent">"
- Potrošeno vrijeme %s"</string>
+  <string name="trans_time_spent">"Potrošeno vrijeme: %s"</string>
   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
 Čeka se prijenos…"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen

@@ -3,8 +3,8 @@
   <string name="accessibility_calllog_detail">Pojedinosti povijesti poziva</string>
   <string name="accessibility_contact_detail">Pojedinosti o kontaktu</string>
   <string name="account_container_title">Uvezeno iz</string>
-  <string name="account_default">Telefon</string>
-  <string name="account_phone">"Samo telefon, bez sinkronizacije"</string>
+  <string name="account_default">Lokalno</string>
+  <string name="account_phone">"Samo uređaj, bez sinkronizacije"</string>
   <string name="account_sdn">SDN</string>
   <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kartica</string>
@@ -57,7 +57,7 @@
   <string name="button_join_service_number">Dodaj broj usluge</string>
   <string name="button_my_center">Profil</string>
   <string name="button_scan">Ponovno skeniraj</string>
-  <string name="caching_vcard_message">Spremanje vCard datoteka u predmemoriju za lokalnu privremenu pohranu. Stvarni uvoz uskoro će početi.</string>
+  <string name="caching_vcard_message">Spremanje vCard datoteke u predmemoriju uređaja…</string>
   <string name="caching_vcard_title">Spremanje u predmemoriju</string>
   <string name="callAgain">Zovi ponovno</string>
   <string name="callBack">"Povratni poziv"</string>
@@ -168,7 +168,7 @@
   <string name="chat_qq">Chatajte koristeći QQ</string>
   <string name="chat_skype">Chatajte koristeći Skype</string>
   <string name="chat_yahoo">Chatanje koristeći Yahoo</string>
-  <string name="checkhint">Provjeri drugi uređaj</string>
+  <string name="checkhint">Provjeri ciljani uređaj</string>
   <string name="clearCallLogConfirmation">"Svi vaši zapisi poziva bit će izbrisani."</string>
   <string name="clearCallLogConfirmation_title">Izbrisati dnevnik poziva?</string>
   <string name="clearCallLogProgress_title">Brisanje dnevnika poziva…</string>
@@ -193,7 +193,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">"Dohvaćanje podataka iz baze podataka nije uspjelo."</string>
-  <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem telefonuu imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog telefona."</string>
+  <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem uređaju imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog uređaja."</string>
   <string name="composer_not_initialized">"Sastavljač za vCard nije se ispravno pokrenuo."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -379,8 +379,8 @@ Kartice kontakata su isključene"</string>
   <string name="device_import_progress_toast">Uvezeno kontakata: %1$d</string>
   <string name="device_import_title">"Uvoz"</string>
   <string name="device_list_title">"Odaberite uređaj"</string>
-  <string name="device_other_guide">"Drugi telefon podržava Bluetooth?"</string>
-  <string name="device_other_title">Uvezi putem drugog telefona</string>
+  <string name="device_other_guide">"Drugi uređaj podržava Bluetooth?"</string>
+  <string name="device_other_title">Uvezi putem drugog uređaja</string>
   <string name="device_paired_dialog_message">Dohvaćanje kontakata…</string>
   <string name="device_paired_dialog_title">Dohvaćanje kontakata…</string>
   <string name="device_pairing_dialog_message">Uparivanje…</string>
@@ -559,12 +559,12 @@ Razlog: \"%s\""</string>
   <string name="import_contact_card_button">Uvezi kontakt</string>
   <string name="import_failure_no_vcard_file">"U pohrani nema pronađenih vCard datoteka."</string>
   <string name="import_from_onekey_migrate">Uvezi sa  Mi Mover</string>
-  <string name="import_from_other_phone">Uvezi s drugog uređaja</string>
-  <string name="import_from_sdcard">Uvoz iz pohrane</string>
+  <string name="import_from_other_device">Uvezi s drugog uređaja</string>
+  <string name="import_from_sdcard">Uvezi iz pohrane</string>
   <string name="import_from_sim">Uvezi sa SIM kartice</string>
   <string name="import_from_sim1">Uvezi sa SIM kartice 1</string>
   <string name="import_from_sim2">Uvezi sa SIM kartice 2</string>
-  <string name="import_multiple_vcard_string">Uvoz više vCard datoteka</string>
+  <string name="import_multiple_vcard_string">Uvezi više vCard datoteka</string>
   <string name="import_name">Ime</string>
   <string name="import_one_vcard_string">Uvezi 1 vCard datoteku</string>
   <string name="import_percent">0%</string>
@@ -577,12 +577,12 @@ Razlog: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_message">"Uvoz…"</string>
   <string name="import_to_xiaomi_account_progress_title">Uvezi kontakte u Mi Račun</string>
   <string name="import_to_xiaomi_account_title">Uvezi u Mi Račun</string>
-  <string name="import_vcard_description">Uvezi kontakte iz unutarnje pohrane vašeg uređaja</string>
+  <string name="import_vcard_description">Uvezi kontakte iz unutarnje pohrane uređaja</string>
   <string name="import_vcard_dialog_message">Uvesti vCard?</string>
   <string name="import_weibo_dialog_title">Uvezi Weibo kontakte</string>
   <string name="import_weibo_error_no_matched_contacts">Nema odgovarajućih kontakata.</string>
   <string name="import_weibo_error_no_network">Pogreška mreže.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Na vašem Mi Računu nema pohranjenih telefonskih brojeva.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Na vašem Mi Računu nema pohranjenih brojeva telefona.</string>
   <string name="import_weibo_error_unknown">"Nepoznata pogreška."</string>
   <string name="import_weibo_error_user_cancel">Otkazao korisnik.</string>
   <string name="import_weibo_fetch_followers">Dohvaćanje kontakata…</string>
@@ -630,7 +630,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s kontaktima će biti spremljeni u grupu</string>
   <string name="invalid_contacts_to_save_to_group">"Ne mogu spremiti nepoznate brojeve"</string>
   <string name="keep_local">"Nemoj sinkr."</string>
-  <string name="keep_local_btn">Upotrijebi lokalnu pohranu telefona.</string>
+  <string name="keep_local_btn">Upotrijebi lokalnu pohranu uređaja.</string>
   <string name="label_custom_type">"Prilagođeno"</string>
   <string name="label_no_duplicate_contacts">Nisu pronađeni duplikati</string>
   <string name="label_notes">Bilješke</string>
@@ -947,7 +947,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_number_too_long_toast">Broj je predugačak</string>
   <string name="phone_primary">"Primarni"</string>
-  <string name="photoPickerNotFoundText">Nema dostupnih fotografija na telefonu.</string>
+  <string name="photoPickerNotFoundText">Nema dostupnih fotografija na uređaju.</string>
   <string name="photo_fragment">Fotografija</string>
   <string name="photo_labels_group">Fotografija profila</string>
   <string name="photo_load_failed">"Ne mogu učitati fotografiju"</string>
@@ -1015,7 +1015,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_key_trash_bin_title">Obnovite kontakte</string>
   <string name="preference_others">Ostalo</string>
   <string name="preference_other">Ostalo</string>
-  <string name="preference_phone">"Telefon"</string>
+  <string name="preference_phone">"Uređaj"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
   <string name="preference_show_yellowpage_tab_description">Yellow pages  možda neće ispravno raditi kada je ova značajka isključena.</string>
@@ -1158,7 +1158,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="select_exceed">Odaberite ne više od %1$d</string>
   <string name="select_done">Sve je odabrano</string>
   <string name="select_groups">Odaberi grupe</string>
-  <string name="select_none">Ništa nije odabrano</string>
+  <string name="select_none">Nema odabranih stavki</string>
   <string name="select_show_contacts">Popis kontakata</string>
   <string name="select_vcard_title">"Odaberi vCard datoteku"</string>
   <string name="send_contact_shortcut_todesktop_success">Dodano na Početnu stranicu</string>
@@ -1248,7 +1248,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="social_widget_label">Kontakt</string>
   <string name="social_widget_loading">"Učitavanje…"</string>
   <string name="solar_calendar">Sunčev kalendar</string>
-  <string name="special_code_security_exception">Operacija odbijena: nije zadani biratelj</string>
+  <string name="special_code_security_exception">"Ne mogu dovršiti radnju. To nije vaš zadani biratelj."</string>
   <string name="splitConfirmation">Ovaj će se kontakt razdvojiti na više kontakata.</string>
   <string name="splitConfirmation_title">Odvojiti kontakt?</string>
   <string name="starredList">"Sa zvjezdicom"</string>
@@ -1279,8 +1279,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_copy_done">"Gotovo"</string>
   <string name="toast_copying">Kopiranje…</string>
   <string name="toast_displaying_all_contacts">Prikaz svih kontakata</string>
-  <string name="toast_finish_delete_call_log">"Povijest poziva je izbrisana"</string>
-  <string name="toast_finish_delete_selected_call_log">Povijest poziva je izbrisana</string>
+  <string name="toast_finish_delete_call_log">"Uspješno izbrisano"</string>
+  <string name="toast_finish_delete_selected_call_log">Uspješno izbrisano</string>
   <string name="toast_for_failed_saving_nickname">Spremanje nadimka nije uspjelo</string>
   <string name="toast_for_saving_nickname">Nadimak spremljen</string>
   <string name="toast_join_with_empty_contact">Upišite ime kontakta prije nego što ga pridružite drugom kontaktu.</string>

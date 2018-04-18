@@ -8,6 +8,14 @@
          <item quantity="other">Podatkovne datoteke aplikacija: %d</item>
          <item quantity="one">%d podatkovna datoteka aplikacije</item>
      </plurals>
+	 <plurals name="trans_failed_summary">
+        <item quantity="other">"Ne mogu poslati stavke: %d. Dodirni za prikaz pojedinosti."</item>
+        <item quantity="one">"Ne mogu poslati %d stavku. Dodirni za prikaz pojedinosti."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Ne mogu poslati stavke: %d."</item>
+        <item quantity="one">"Ne mogu poslati %d stavku."</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>

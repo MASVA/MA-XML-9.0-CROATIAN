@@ -115,6 +115,8 @@
         <item>Držite prst malo duže na skeneru</item>
         <item></item>
         <item></item>
+		<item>Pomaknite prst lagano</item>
+        <item>Ovaj otisak prsta je dodan, koristite drugi prst</item>
     </string-array>	
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Da biste telefonirali i slali pozive putem Wi-Fi-ja, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite Wi-Fi pozive u Postavkama.</item>

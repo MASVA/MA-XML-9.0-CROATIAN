@@ -779,6 +779,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="mmiFdnError">Operacija je ograničena samo na brojeve s fiksnim biranjem.</string>
   <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
   <string name="more_item_label">Više</string>
+  <string name="move_button_text">Promjeni</string>
   <string name="muted_by">&gt;Zvuk je isklj. treća strana %1$s</string>
   <string name="needPuk">Vaša je SIM kartica zaključana PUK-om. Unesite PUK kôd da biste je otključali.</string>
   <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
