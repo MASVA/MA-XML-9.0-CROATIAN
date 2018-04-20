@@ -1872,7 +1872,7 @@ Gradom je šetalo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni
   <string name="font_size_summary1">"Ako je tekst vašeg sustava je još uvijek premalen, pokušajte "</string>
   <string name="font_size_summary2"/>
   <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
-  <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
+  <string name="force_allow_on_external">Prisilno dopusti aplikacijma zapisivanje na vanjsku pohranu</string>
   <string name="force_allow_on_external_summary">Aplikacije se mogu zapisivati u vanjsku pohranu neovisno o vrijednostima manifesta</string>
   <string name="force_hw_ui">Nametni GPU renderiranje</string>
   <string name="force_hw_ui_summary">Nametni upotrebu GPU-a za 2D crteže</string>
@@ -5730,7 +5730,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_dialog_remind_type_title">Mobilni podaci</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_help">WLAN veza je prekinuta zbog slabog signala</string>
-  <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
+  <string name="wifi_disabled_network_failure">"Ne mogu konfigurirati IP"</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
   <string name="wifi_disabled_wifi_failure">"Ne mogu se povezati s WLAN-om"</string>
   <string name="wifi_disconnected_notification_summary">"Niste više povezani na WLAN."</string>
