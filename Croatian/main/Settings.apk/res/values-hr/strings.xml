@@ -1954,6 +1954,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_wifi">WLAN</string>
   <string name="gallery_privacy_password_role_instruction">Vaše privatne fotografije će biti pohranjene ovdje.</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
+  <string name="game_mode_settings">Način za igre</string>
+  <string name="game_storage_settings">Igre</string>
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>

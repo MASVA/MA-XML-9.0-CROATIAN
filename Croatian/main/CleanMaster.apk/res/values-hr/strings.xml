@@ -359,7 +359,7 @@
   <string name="msg_update_error_code_network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="msg_update_error_code_no_newer_db">Čistač je u toku s ažuriranjima</string>
   <string name="msg_update_error_code_success">Gotovo</string>
-  <string name="msg_update_error_code_unknown_error">Nepoznata greška</string>
+  <string name="msg_update_error_code_unknown_error">Poslužitelji su previše zauzeti, pokušajte ponovo kasnije</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Pravila o Privatnosti</string>
   <string name="nb_clear_set">Očisti predmemoriju, prikaži bateriju i listu blokiranih u panelu obavijesti</string>

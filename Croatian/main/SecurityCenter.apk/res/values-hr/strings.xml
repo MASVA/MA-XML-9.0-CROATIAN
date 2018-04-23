@@ -106,6 +106,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="add_whitelist">Dodaj u iznimke</string>
   <string name="address">Adresa</string>
   <string name="address_choose_hint">%1$s, %2$s, i %3$d drugih lokacija</string>
+  <string name="adjust_sms_cmd">"Prilagodi kalibraciju SMS predloška"</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Ažurirano prije više od mjesec dana</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Ažurirano prije više od tjedan dana</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Ažurirano prije tjedan dana</string>
@@ -819,6 +820,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_restrict_positive">Odustani</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
+  <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
+  <string name="dialog_roaming_warning_message">Nakon uključivanja međunarodnog roaminga podataka, operater će vam naplatiti naknadu. Uključiti svejedno?</string>
+  <string name="dialog_roaming_warning_ok">Uključi</string>
   <string name="dialog_text">Izradi prečac Početnog zaslona za Ubrzavanje brzine igranja</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
@@ -2270,6 +2274,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sms_contact_block">Blokiraj SMS od kontakata</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s tog broja?</string>
   <string name="sms_delete_title">Izbriši poruke</string>
+  <string name="sms_detail_correct_success_text">"Ovo su statistički podaci prethodne kalibracije (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">Stanje računa</string>
   <string name="sms_detail_fragment_title_traffic">Preostali podaci</string>
   <string name="sms_filter">Smart Filter</string>
@@ -2545,6 +2550,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tab_guide">Vodič</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Lista blokiranih</string>
+  <string name="tc_cmd_invalid">Predložak nije važeći</string>
   <string name="tc_diagnostic_all_error_notification_summary">Dodirnite da prijavite problem</string>
   <string name="tc_diagnostic_all_error_notification_title">"Ne mogu dovršiti dijagnostiku"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Dodirnite za podešavanje vrste mreže</string>
@@ -2584,8 +2590,12 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Mreža operatora i i marka ispravno postavljeni&lt;br/&gt;&lt;br/&gt;Ne mogu dovršiti podešavanje:&lt;br/&gt;1. Statistika operatera možda nije pouzdana na početku ili na kraju mjeseca.&lt;br/&gt;2. Značajke aplikacije Sigurnost nisu ažurirane.&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Dijagnostika mreže</string>
   <string name="tc_diagnostic_upload_button">Prijavi</string>
-  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratnu informaciju! Your report will be submitted when you connect to network.</string>
+  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratnu informaciju! Vaše će izvješće biti poslano kada se povežete s mrežom.</string>
   <string name="tc_diagnostic_upload_success">Hvala vam za povratnu informaciju!</string>
+  <string name="tc_get_cmd_error">"Ne mogu dobiti predložak"</string>
+  <string name="tc_parse_error">"Ne mogu analizirati SMS"</string>
+  <string name="tc_receive_timeout">Kalibracija je istekla</string>
+  <string name="tc_send_sms_error">"Ne mogu poslati SMS"</string>
   <string name="tc_sms_report_direction">SMS Upit za kod</string>
   <string name="tc_sms_report_do_report">Pošalji</string>
   <string name="tc_sms_report_get_default">"Nećete snositi troškove korištenja SMS poruka za dobivanje stanja uporabe podataka vašeg mobilnog operatera."</string>
@@ -2623,6 +2633,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_type">Vrsta izvješća</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>
+  <string name="tc_web_correct_error">"Ne mogu kalibrirati"</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
   <string name="tether_custom_dialog_title">Ograničenje mobilnih podataka</string>
