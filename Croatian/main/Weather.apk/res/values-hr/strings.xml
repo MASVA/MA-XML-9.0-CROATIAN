@@ -85,7 +85,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="feedback_result_interval_time_too_short">%1$s sek. nakon povratne informacije</string>
   <string name="feedback_result_success">Poslano uspješno, hvala vam na povratnim informacijama</string>
   <string name="feedback_sand">Pijesak</string>
-  <string name="feedback_sunny">Sunčano</string>
+  <string name="feedback_sunny">Vedro</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
   <string name="forecast_vedio_visible_setting_string">Videozapis vremena</string>

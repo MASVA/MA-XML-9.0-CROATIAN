@@ -58,6 +58,16 @@
   <string name="bookmark_confirm_delete_message">Odabrana poruka će biti uklonjena iz favorita</string>
   <string name="bookmark_empty">Nema Oznaka</string>
   <string name="bookmark_list_title">Favoriti</string>
+  <string name="button_emoji_creature">Animal emojis</string>
+  <string name="button_emoji_lifestyle">Život</string>
+  <string name="button_emoji_smiley">Lica</string>
+  <string name="button_emoji_symbol">Simbol</string>
+  <string name="button_emoji_text">Text</string>
+  <string name="button_fold">Fold</string>
+  <string name="button_next_slide">Dalje</string>
+  <string name="button_pre_slide">Prethodno</string>
+  <string name="button_resend_message">Pošalji ponovno</string>
+  <string name="button_unfold">Razmotaj</string>
   <string name="call_sender">Nazovi pošiljatelja</string>
   <string name="cannot_add_picture_and_video">Na jedan slajd nije moguće dodati videozapis i sliku.</string>
   <string name="cannot_add_slide_anymore">Nije moguće dodati više slajdova.</string>
@@ -508,7 +518,7 @@
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="private_message">Privatna poruka</string>
   <string name="private_new_notification">Obavijest nove privatne poruke</string>
-  <string name="private_protect">Zaporke</string>
+  <string name="private_protect">Zaštita privatnosti</string>
   <string name="private_settings">Postavke privatnih poruka</string>
   <string name="processing">Obrađujem…</string>
   <string name="prvate_contact">Privatan kontakt</string>

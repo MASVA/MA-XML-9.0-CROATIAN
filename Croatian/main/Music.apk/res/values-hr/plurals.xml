@@ -13,7 +13,7 @@
         <item quantity="one">%d pjesma</item>
     </plurals>
 	<plurals name="dialog_confirm_delete_downloads_message">
-         <item quantity="other">Izbrisati stavke %d?</item>
+         <item quantity="other">Izbrisati stavke: %d?</item>
          <item quantity="one">Izbrisati %d stavku?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
@@ -47,7 +47,7 @@
         <item quantity="one">%d pjesma</item>
     </plurals>
 	<plurals name="Ntracks_similar_count">
-        <item quantity="other">Sličnih pjesama: %d</item>
+        <item quantity="other">Slične pjesme: %d</item>
         <item quantity="one">%d slična pjesma</item>
     </plurals>
     <plurals name="Nartists_count">
@@ -61,6 +61,12 @@
     <plurals name="dialog_delete_descript">
         <item quantity="other">Izbrisati pjesme: %d?</item>
         <item quantity="one">Izbrisati %d pjesmu?</item>
+    </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Izbrisati stavke: %d?
+Napomena: Datoteke će također biti izbrisane iz ovog uređaja."</item>
+        <item quantity="one">"Izbrisati %d stavku?
+Napomena: Datoteka će također biti izbrisana iz ovog uređaja."</item>
     </plurals>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Ukloniti pjesme: %d?</item>

@@ -2801,6 +2801,11 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="move_app_to_sdcard">Premjesti na USB memoriju</string>
   <string name="move_error_device_admin">Administrator uređaja ne može se instalirati na vanjski medij.</string>
   <string name="moving">Premještanje</string>
+  <string name="mqs_privacy_automatically_upload">Automatski učitaj Sljedeći put</string>
+  <string name="mqs_privacy_dialog_cancel">Odustani</string>
+  <string name="mqs_privacy_dialog_confirm">Učitaj</string>
+  <string name="mqs_privacy_dialog_content">Učitati dnevnike koji će nam pomoći da pronađemo i riješimo taj problem? Dnevnici mogu sadržavati vaše osobne podatke, uključujući informacije o vašoj lokaciji.</string>
+  <string name="mqs_privacy_dialog_title">Dogodila se pogreška</string>
   <string name="msd_driver_download">Preuzmi upravljački program</string>
   <string name="msd_driver_download_mac">"Za Mac, preuzmite upravljački program i kliknite AndroidFileTransfer.dmg za instalaciju"</string>
   <string name="msd_driver_download_mac_url">Preuzimanje datoteke na http://www.android.com/filetransfer/</string>

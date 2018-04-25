@@ -322,6 +322,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="enable_webview_multiprocess">Višeprocesni web-prikaz</string>
   <string name="enable_webview_multiprocess_desc">Ispunjivače web-prikaza pokreni zasebno</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
+  <string name="enter_special_mode_message">Nakon ponovnog pokretanja aplikacije, sadržaj aplikacije bit će proširen na gornju granicu statusne trake. Ako postoje iznimke kao što je začepljenje sadržaja i kliknite pogrešno postavljanje, ponovno kliknite gumb da biste vratili zadani način rada.</string>
+  <string name="enter_special_mode_title">Ponovo pokrenite aplikaciju i proširite prostor za prikaz</string>
+  <string name="exit_special_mode_message">Nakon ponovnog pokretanja aplikacije prostor za prikaz aplikacije bit će vraćen u zadani način rada.</string>
+  <string name="exit_special_mode_title">Restart the application and restore the display space</string>
   <string name="expanded_confirm_disable_notification">Sakrij</string>
   <string name="expanded_notification_manager">Upravljaj obavijestima</string>
   <string name="ext_media_badremoval_notification_message">"USB pohranu isključite na siguran način prije uklanjanja kako biste izbjegli gubitak podataka."</string>
@@ -699,6 +703,8 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
+  <string name="special_mode_cancel">Odustani</string>
+  <string name="special_mode_ok">Ponovo pokreni</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Odbaci nedavne aplikacije</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>

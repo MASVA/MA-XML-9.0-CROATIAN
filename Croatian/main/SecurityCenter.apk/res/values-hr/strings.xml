@@ -1403,6 +1403,7 @@ podatkovnu vezu"</string>
   <string name="menu_mark">Prijavi broj</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report">Prijavi pogrešku</string>
+  <string name="menu_setting_traffic">Postavi ručno</string>
   <string name="menu_restore">Vrati u inbox</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>

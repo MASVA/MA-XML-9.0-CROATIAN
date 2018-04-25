@@ -12,6 +12,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="air_space_exit">Izlaz iz prostora</string>
   <string name="air_space_setting">Postavke prostora</string>
   <string name="airspace_users_full">"Ne mogu izraditi još radih prostora"</string>
+  <string name="agree">Slažem se</string>
   <string name="appData">Instalirane aplikacije</string>
   <string name="app_name">Komponenta Sigurnosti jezgre</string>
   <string name="back">Natrag</string>
@@ -73,6 +74,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="dialog_title">Pažnja</string>
   <string name="dir_switch_out_all_photos">Galerija Drugog prostora</string>
   <string name="disable">Isključi</string>
+  <string name="disagree">"Ne slažem se"</string>
   <string name="do_not_ask">"Ne pitaj ponovno"</string>
   <string name="dont_import">Ne sada</string>
   <string name="downloading_space">Preuzimanje…</string>
@@ -164,6 +166,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="need_reset_passwd">Resetiraj zaporku Radnog prostora prije ulaska u Radni prostor</string>
   <string name="need_set_second_space_desc">Dodajte zaporku Drugog prostora prije dodavanja otiska prsta Drugog prostora</string>
   <string name="need_set_second_space_pwd_first">Postavite prvo zaporku Drugog prostora</string>
+  <string name="net_work_notice">Roditeljski nadzor treba se povezati s internetom i pristupiti vašoj lokaciji radi normalnog rada. Ta su dopuštenja potrebna za slanje podataka o razinama napunjenosti baterije, broju koraka i vašoj lokaciji na kontrolirane uređaje. Dopustiti?</string>
   <string name="newSecondSpace">Uključi Drugi prostor</string>
   <string name="next_setp">Dalje</string>
   <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>

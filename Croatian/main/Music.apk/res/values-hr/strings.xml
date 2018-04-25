@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
- <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
   <string name="abc_action_mode_done">Gotovo</string>
   <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
@@ -20,10 +20,10 @@
   <string name="about">O Mi Glazbi</string>
   <string name="account">Račun</string>
   <string name="account_and_cloud">Račun</string>
-  <string name="action_item_add">Dodaj</string>
+  <string name="action_item_add">Dodaj u</string>
   <string name="action_item_add_song">Dodaj</string>
-  <string name="action_item_add_to_current_playlist">Trenutan popis pjesama</string>
-  <string name="action_item_add_to_favorite_playlist">Popis pjesama favorita</string>
+  <string name="action_item_add_to_current_playlist">Red čekanja</string>
+  <string name="action_item_add_to_favorite_playlist">Favoriti</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
   <string name="action_item_as_ring">Postavi za zvuk zvona</string>
   <string name="action_item_cancel">Odustani</string>
@@ -50,7 +50,7 @@
   <string name="ad_extension">Promocija</string>
   <string name="ad_mark">Oglas</string>
   <string name="ad_recommend">Preporuke</string>
-  <string name="ad_setting">Postavke oglasa</string>
+  <string name="ad_setting">Dodatne postavke</string>
   <string name="add_music">Dodaj pjesme</string>
   <string name="add_to_last_of_playlist">Dodaj na kraj popisa pjesama</string>
   <string name="add_to_playlist_successful">Uspješno dodano</string>
@@ -58,6 +58,8 @@
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
   <string name="album_label">Omoti Albuma</string>
   <string name="album_name">Album</string>
+  <string name="all_album_count">Svi albumi (%d)</string>
+  <string name="all_playlist_count">Svi popisi pjesama (%d)</string>
   <string name="album_search_title">Album</string>
   <string name="alert_msg_vip_song_for_download">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
   <string name="alert_msg_vip_song_for_download_upgrade">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec. Ažurirajte Premium pretplatu da biste preuzeli više."</string>
@@ -77,6 +79,7 @@
   <string name="already_download">Preuzimanje…</string>
   <string name="already_download_btn">Preuzimanje…</string>
   <string name="already_favorited">Već označeno</string>
+  <string name="always_use_metered">Uvijek koristi mobilne podatke</string>
   <string name="android_sdk_too_low">"Ažurirajte Android da bi mogli ažurirati Glazbu"</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s preuzimanja</string>
@@ -131,6 +134,11 @@
   <string name="bill_list_fragment_title">Grafikon</string>
   <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Bluetooth uređaj</string>
+  <string name="browser_error">Trenutačno nije dostupan, pokušajte ponovo kasnije</string>
+  <string name="btn_earlier_items">Učitaj nedavne poruke</string>
+  <string name="btn_earlier_items_progress">Učitavanje nedavnih poruka…</string>
+  <string name="btn_more_items">Učitaj više poruka</string>
+  <string name="btn_more_items_progress">Učitavanje više poruka…</string>
   <string name="buffering">Buffering…</string>
   <string name="button_add">Dodaj</string>
   <string name="button_cancel_download">Odustani</string>
@@ -174,6 +182,7 @@
   <string name="cloud_welcome_message">Izradite Sig. kopiju pjesama</string>
   <string name="cloud_welcome_summary">Izradite Sig. kopiju pjesama na Mi Cloud i slušajte ih na drugim uređajima</string>
   <string name="confirm">U redu</string>
+  <string name="confirm_exit">Vaše promjene nisu spremljene. Želite li spremiti promjene?</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="connecting_apk">Povezivanje…</string>
@@ -283,7 +292,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="dialog_song_view_type_folder">Po mapi</string>
   <string name="dialog_song_view_type_song">Po pjesmi</string>
   <string name="dialog_title_add_playlist">Dodaj popis pjesama</string>
-  <string name="dialog_title_clearlist_tracks">Izbriši popis pjesama</string>
+  <string name="dialog_title_clearlist_tracks">Ukloni iz reda čekanja</string>
   <string name="dialog_title_delete_playlist">Izbriši popis pjesama</string>
   <string name="dialog_title_delete_tracks">Izbriši</string>
   <string name="dialog_title_name_playlist">Naziv popisa pjesama</string>
@@ -297,6 +306,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="disable_auto_payment_success_message">"Autom. obnova isključena. Nakon što vaša trenutna pretplata istekne, morat ćete se ponovo pretplatiti za preuzimanje pjesama."</string>
   <string name="disallow_add_to_fm">"Ne mogu dodati pjesme na FM radio"</string>
   <string name="disallow_add_to_personal_radio">"Ne mogu dodati pjesme na Osobni Radio"</string>
+  <string name="do_not_remind_this_version">Nemoj podsjećati na ovu verziju</string>
   <string name="do_not_remind_again">"Ne prikazuj ponovo"</string>
   <string name="doc_filter">Dokumenti</string>
   <string name="done">Gotovo</string>
@@ -385,6 +395,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="downloads_operating">Obrada…</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Podijeli</string>
+  <string name="edit_playlist_info">Uredi informacije o popisu za reprodukciju</string>
   <string name="empty_page_no_album">Nema albuma.</string>
   <string name="empty_page_no_artist">Nema izvođača.</string>
   <string name="empty_page_no_document">Nema datoteka sa zvukom.</string>
@@ -418,12 +429,15 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="eq_preset_select">Odaberi podešenje</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
+  <string name="err_media_handle">Nažalost, nismo uspjeli dohvatiti medij. Pokušajte ponovno.</string>
+  <string name="err_offline_on_playback">Nažalost, morate biti na mreži kako biste reproducirali ovaj medij.</string>
   <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Mi Računom.</string>
   <string name="error_not_acceptable">Sinkronizacija je isključena</string>
   <string name="error_title">"Ne mogu sinkronizirati s Mi Računom"</string>
   <string name="error_unauthorized">Sinkronizacija je isključena zbog previše pokušaja prijave</string>
-  <string name="expired">Istekao</string>
+  <string name="expired">Isteklo</string>
   <string name="expires">Ističe ovaj mjesec:</string>
+  <string name="facebook_not_installed">Instalirajte prvo Facebook.</string>
   <string name="fail_to_fetch_payment_page_url">"Ne mogu dobiti podatke o plaćanju"</string>
   <string name="fail_to_play">"Ne mogu reproducirati pjesmu"</string>
   <string name="fav_login_msg">Prijavite se na svoj Mi Račun za preuzimanje pjesama</string>
@@ -538,6 +552,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="local_page_song_all">Sve pjesme</string>
   <string name="local_page_song_download">Lokalne pjesme</string>
   <string name="local_page_song_download_history">Preuzimanja</string>
+  <string name="long_press_to_select_lyric">Pritisni &amp; drži za odabir lokalne datoteke teksta</string>
   <string name="local_page_song_favorite">Omiljene pjesme</string>
   <string name="local_tracks_short">Lokalne pjesme</string>
   <string name="log_out">Izlaz</string>
@@ -562,12 +577,16 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="menu_title_resume_all">Pokreni sve</string>
   <string name="menu_title_settings">Postavke</string>
   <string name="message_delete_playlist">Izbrisati %s?</string>
+  <string name="message_timestamp">dd.MM</string>
+  <string name="message_ws_response_error">Došlo je do problema prilikom obrade zahtjeva i/ili odgovora poslužitelja</string>
   <string name="metered_alert">Upozorenje uporabe podataka</string>
   <string name="metered_alert_msg">"Koristite mobilne podatke za slušanje glazbe. Nastaviti tako?"</string>
   <string name="metered_alert_msg_with_data">Preostalo vam je %s mobilnih podataka. Koristiti mobilne podatke za reprodukciju pjesama?</string>
   <string name="metered_allow">Reproduciraj</string>
   <string name="metered_beyond_alert">Premašeno ograničenje podataka</string>
   <string name="metered_disallow">Ne sada</string>
+  <string name="metered_play_and_download_summary">Ako je otvoreno, neće podsjetiti kada slušate i preuzimate putem mob. podataka</string>
+  <string name="metered_play_and_download_title">Uvijek koristi mobilne podatke</string>
   <string name="metered_play_toast">Korištenje mob. podataka za reprodukciju pjesama</string>
   <string name="metered_play_toast_with_beyond_data">Korištenje mob. podataka za reprodukciju pjesama. Ograničenje premašeno za %s</string>
   <string name="metered_play_toast_with_data">Korištenje mob. podataka za reprodukciju pjesama, %s preostalo</string>
@@ -598,6 +617,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="mobile_recommended_title">Uporaba mobilnih podataka</string>
   <string name="modify_info_disable_note">Ako želite ručno urediti informacije, najprije isključite opciju "Pronađi omote albuma i tekst".</string>
   <string name="modify_lyric">Uredi tekst</string>
+  <string name="modify_pic">Promjeni omot</string>
   <string name="modify_progress">Promjena brzine pomicanja teksta</string>
   <string name="modify_progress_helper">Prijeđite prstom prema gore ili dolje za podešavanje teksta</string>
   <string name="modify_song_info">Uredi</string>
@@ -605,7 +625,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="monthly_price">Mi Kredita</string>
   <string name="more">Više</string>
   <string name="more_about_artist">Više o %s</string>
-  <string name="more_add_song_list">Dodaj na trenutni popis pjesama</string>
+  <string name="more_add_song_list">Dodaj pjesme na red čekanja</string>
   <string name="more_online_artist">Više</string>
   <string name="more_online_billboard">Više</string>
   <string name="more_online_fm">Više</string>
@@ -650,6 +670,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="no_album_info">Nema detalja o albumu</string>
   <string name="no_artist_info">Nema detalja o izvođaču</string>
   <string name="no_downloads">Nema preuzimanja</string>
+  <string name="no_duration">--:--</string>
   <string name="no_enough_info">Premalo detalja o pjesmi</string>
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_file_picker_find">"Aplikacija Datoteke nije instalirana na ovom uređaju"</string>
@@ -662,11 +683,14 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="no_scanned_songs">Prazno</string>
   <string name="no_song">Nema pjesama</string>
   <string name="no_song_downloaded">"Ne mogu se povezati na poslužitelj"</string>
+  <string name="no_song_subtitle">Uronite u zvuk</string>
+  <string name="no_song_title">Mi Glazba</string>
   <string name="no_system_cropper_find">"Sustav nema alat za obrezivanje slike"</string>
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
+  <string name="nothing_changed_toast">"Još ništa niste promijenili."</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…</string>
   <string name="notif_title_file_size">%1$d ukupno</string>
@@ -693,8 +717,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="nowplaying_circle_style">Stil kruga "Reproducira se"</string>
   <string name="nowplaying_circle_style_rainbow">Duga</string>
   <string name="nowplaying_circle_style_wave">Val</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Izbrisati trenutni popis pjesama?</string>
-  <string name="nowplaying_menu_item_delete">Izbriši</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Želite li ukloniti ovu pjesmu iz reda čekanja?</string>
+  <string name="nowplaying_menu_item_delete">Ukloni iz reda čekanja</string>
   <string name="ok">"U redu"</string>
   <string name="one_month">1 mmjesec</string>
   <string name="online_bill">Račun</string>
@@ -746,6 +770,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="pick_local_song">Lokalne pjesme</string>
   <string name="pick_recent_song">Nedavno reproducirano</string>
   <string name="play_all_song">Reproduciraj sve</string>
+  <string name="play_empty_playlist">"Ne mogu reproducirati pjesme. Popis pjesama je prazan."</string>
   <string name="play_mode_all_loop">Ponovi sve</string>
   <string name="play_mode_one_loop">Petlja</string>
   <string name="play_mode_play_all">Reproduciraj sve</string>
@@ -754,6 +779,9 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="playback_failed_no_title_by_bad_file">"Format ove pjesme nije podržan ili datoteka ne postoji."</string>
   <string name="playlist_deleted_message">Popis pjesama izbrisan.</string>
   <string name="playlist_empty">Nema pronađenih popisa pjesama.</string>
+  <string name="playlist_title">Playlist name</string>  
+  <string name="playlist_title_is_empty">"Popis pjesama ne može biti prazan"</string>
+  <string name="playlist_title_is_invalid">Popis pjesam već postoji</string>
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
   <string name="playlist_type_album">Album</string>
   <string name="playlist_type_artist">Izvođač</string>
@@ -791,6 +819,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="pulluprefreshrecyclerview_loading_error">"Ne mogu učitati"</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Učitavanje dovršeno</string>
   <string name="pulluprefreshrecyclerview_loading_running">Učitavanje…</string>
+  <string name="queue_is_empty">Red čekanja za reprodukciju je prazan.</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Dodirnite za ponovni pokušaj</string>
   <string name="radar_fail">Nema rezultata</string>
@@ -848,6 +877,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="s6">Dopustiti Ad da izradi događaj kalendara?</string>
   <string name="s7">Testiraj Ad</string>
   <string name="save">Spremi</string>
+  <string name="save_changes">Spremi promjene</string>
   <string name="save_to_playlist">Spremi kao popis pjesama</string>
   <string name="search_album_and_lyric">Traži omote albuma i tekst</string>
   <string name="search_empty">"Nema rezultata"</string>
@@ -857,6 +887,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="search_hint_not_support_online">Traži izvođače, pjesme i albume</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>
+  <string name="search_songs_count">Pjesme: %d</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_lyric">Traži tekst na internetu</string>
   <string name="search_title">Traži</string>
@@ -869,16 +900,18 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_device">Odaberi uređaj</string>
   <string name="select_displayed_folders">Odaberi mape za prikaz</string>
-  <string name="select_local_album">Odaberi album</string>
-  <string name="select_local_lyric">Odaberi tekst</string>
+  <string name="select_local_cover">Odaberi lokalni omot</string>
+  <string name="select_local_lyric_file">Odaberi lokalnu datoteku teksta</string>
   <string name="select_lyric">Odaberi tekst</string>
   <string name="select_none">Poništi odabir</string>
   <string name="select_operation_items">Odaberi stavke</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
   <string name="send_to">Dijeli</string>
   <string name="send_to_title">Pošalji (%1$s)</string>
+  <string name="server_connection_failed">Nažalost, morate biti na mreži kako biste koristili ovu funkciju</string>
   <string name="server_error">Došlo je do pogreške, pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="service_and_settings">Usluga i postavke</string>
+  <string name="session_create_error">Poslužitelj je vratio SESSION CREATE ERROR kôd, kontaktirajte SDK razvojne programere!</string>
   <string name="service_stop">Usluga je obustavljena</string>
   <string name="set_album_successful">Albuma je spremljen</string>
   <string name="set_as_ring">Zvuk zvona</string>
@@ -917,7 +950,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
   <string name="sleep_mode_summary">Zaustavi reprodukciju nakon određenog vremena</string>
   <string name="sleep_mode_title">Sleep timer</string>
-  <string name="song_exist_in_playlist">Ova pjesma je već na popisu pjesama</string>
+  <string name="song_exist_in_playlist">Ova pjesma je već na redu čekanja</string>
   <string name="song_info">Detalji pjesme</string>
   <string name="song_is_empty">Naziv pjesme ne može biti prazan.</string>
   <string name="song_name">Pjesma</string>
@@ -993,7 +1026,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="terms_of_service">Uvjeti pružanja Usluge</string>
   <string name="ticket_summary">Kupite ulaznice za predstave, koncerte, predstave i druge manifestacije</string>
   <string name="ticket_title">Prikaži ulaznice</string>
-  <string name="time_to_upgrade">Ažurirajte Mi Glazbu</string>
+  <string name="time_to_upgrade">Dostupna su ažuriranja</string>
   <string name="title_online_artist">Izvođači u trendu</string>
   <string name="title_online_billboard">Ljestvice</string>
   <string name="title_online_fm">Radio</string>
