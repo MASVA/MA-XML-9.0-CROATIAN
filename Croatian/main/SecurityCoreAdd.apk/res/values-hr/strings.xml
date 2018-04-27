@@ -166,7 +166,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="need_reset_passwd">Resetiraj zaporku Radnog prostora prije ulaska u Radni prostor</string>
   <string name="need_set_second_space_desc">Dodajte zaporku Drugog prostora prije dodavanja otiska prsta Drugog prostora</string>
   <string name="need_set_second_space_pwd_first">Postavite prvo zaporku Drugog prostora</string>
-  <string name="net_work_notice">Roditeljski nadzor treba se povezati s internetom i pristupiti vašoj lokaciji radi normalnog rada. Ta su dopuštenja potrebna za slanje podataka o razinama napunjenosti baterije, broju koraka i vašoj lokaciji na kontrolirane uređaje. Dopustiti?</string>
+  <string name="net_work_notice">Roditeljski nadzor treba se povezati s internetom i pristupiti vašoj lokaciji radi normalnog rada. Ta su dopuštenja potrebna za slanje podataka o razinama napunjenosti baterije, broju koraka i vašoj lokaciji na kontroliranim uređajima. Dopustiti?</string>
   <string name="newSecondSpace">Uključi Drugi prostor</string>
   <string name="next_setp">Dalje</string>
   <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>
@@ -204,6 +204,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="private_sms_show_title">Privatne poruke su prikazane u Drugom prostoru</string>
   <string name="private_space_setting">Upravljaj</string>
   <string name="public_app">Oba prostora</string>
+  <string name="qq_login">Prijavite se u QQ</string>
   <string name="qq_send">Pošalji QQ prijateljima/uređajima</string>
   <string name="radio_button_icon_switch_title">Korištenje prečaca</string>
   <string name="radio_button_password_switch_title">Korištenje zaporke</string>
