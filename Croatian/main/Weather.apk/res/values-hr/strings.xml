@@ -39,6 +39,8 @@
   <string name="aqi_publish_time">Ažurirano %1$s</string>
   <string name="aqi_quality_detail_15_days">15-dnevna prognoza</string>
   <string name="aqi_quality_detail_48_hours">48-satna prognoza</string>
+  <string name="aqi_station_best_quality_station">Najbolja uokolo</string>
+  <string name="aqi_station_min_distance_station">Najbliža stanica</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
@@ -51,6 +53,7 @@
   <string name="button_settings_confirm_to_revoke_title">Opozvati autorizaciju?</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
+  <string name="china_version_first_start_network_msg">"Koristeći ovaj proizvod prihvaćate Xiaomi %1$s i %2$s. Ova se aplikacija mora povezati s internetom i pristupiti vašoj lokaciji radi normalnog rada."</string>
   <string name="city_exceeded_warning">Možete dodati do 10 gradova</string>
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
@@ -134,6 +137,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="menu_location">Lokacije</string>
   <string name="menu_minute_rain">Dvosatna prognoza oborina</string>
   <string name="menu_speeker">Emitiranje glasom</string>
+  <string name="menu_speaker">Emitiranje glasom</string>
   <string name="minute_rain_after_an_hour">Sat vremena kasnije</string>
   <string name="minute_rain">Detaljna prognoza</string>
   <string name="minute_rain_after_two_hour">Dva sata kasnije</string>
@@ -163,6 +167,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
   <string name="particulate_matter_serious_exceeded">Previsoko</string>
+  <string name="policy_settings">Uvjeti i odredbe</string>
   <string name="precipitation_degree_five">oluja</string>
   <string name="precipitation_degree_four">pljusak</string>
   <string name="precipitation_degree_one">bez kiše</string>

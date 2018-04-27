@@ -96,6 +96,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="config_name_magic">Magija</string>
   <string name="config_name_scene">Scena</string>
   <string name="config_name_setting">Postavke</string>
+  <string name="config_name_super_resolution">Super rezolucija</string>
   <string name="config_name_sound">Audio</string>
   <string name="config_name_straighten">Straighten</string>
   <string name="config_name_tilt">Tilt-shift</string>
@@ -200,10 +201,13 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="portait_effect_entry_fairytale">Djetinjstvo</string>
   <string name="portait_effect_entry_japanese">Plavo nebo</string>
   <string name="portait_effect_entry_maze">Maze</string>
+  <string name="portait_effect_entry_movie">Film</string>
   <string name="portait_effect_entry_mood">Emocije</string>
   <string name="portait_effect_entry_nature">Priroda</string>
   <string name="portait_effect_entry_pink">Blush</string>
+  <string name="portait_effect_entry_riddle">Zagonetka</string>
   <string name="portait_effect_entry_romance">Romantika</string>
+  <string name="portait_effect_entry_story">Priča</string>
   <string name="pano_review_saving_indication_str">Spremanje…</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekat dubine</string>
   <string name="portrait_mode_lowlight_hint">"Sada je previše mračno"</string>
@@ -216,9 +220,11 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>
   <string name="pref_audio_focus_entry_rear">Stražnji</string>
   <string name="pref_audio_focus_title">Izoštravanje zvuka</string>
+  <string name="pref_ai_detect">AI detekcija</string>
   <string name="pref_burst_shoot_title">Brzo snimanje</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Postavke</string>
+  <string name="pref_camera_ai_scene_title">AI kamera</string>
   <string name="pref_camera_antibanding_entry_0">Isključeno</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -234,6 +240,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Prosječan okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
   <string name="pref_camera_autoexposure_title">Postavke autom. ekspozicije</string>
+  <string name="pref_camera_beauty">Uljepšanje</string>
   <string name="pref_camera_beautify_entry_close">Isklj.</string> 
   <string name="pref_camera_beautify_entry_auto">Isklj.</string>
   <string name="pref_camera_beautify_entry_high">Visoko</string>
@@ -273,6 +280,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_delay_capture_entry_off">Isklj.</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_device_watermark_title">Oznaka fotografije</string>
+  <string name="pref_camera_dual_enable_title">Uključi dvojnu kameru</string>
+  <string name="pref_camera_dual_sat_enable_title">Uključi dvojnu SAT kameru</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -307,6 +316,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_focusmode_entry_manual">Ručno</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
+  <string name="pref_camera_front_ai_scene_entry_off">AI kamera je isključena</string>
+  <string name="pref_camera_front_ai_scene_entry_on">AI kamera</string>
   <string name="pref_camera_front_bokeh_entry_off">Isključeno</string>
   <string name="pref_camera_front_bokeh_entry_on">Uključeno</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
@@ -322,7 +333,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Isključeno</string>
   <string name="pref_camera_histogram_entry_disable">Isključi</string>
-  <string name="pref_camera_histogram_entry_enable">Uključi</string>
+  <string name="pref_camera_histogram_entry_enable">Uključi</string>     <string name="pref_camera_mfnr_sat_enable_title">Turn on MFNR</string>
+  <string name="pref_camera_mfnr_sat_enable_title">Uključi MFNR</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">100</string>
   <string name="pref_camera_iso_entry_iso1600">1600</string>
@@ -351,6 +363,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_multilevel_entry_lowest">Najniže</string>
   <string name="pref_camera_multilevel_entry_middle">Srednje (Zadano)</string>
   <string name="pref_camera_multilevel_entry_normal">Normalan</string>
+  <string name="pref_camera_optimized_flash_enable_title">Optimizirana bljeskalica</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_parallel_process_enable_title">Uključi paralelnu obradu</string>
   <string name="pref_camera_peak_entry_off">Isključeno</string>
