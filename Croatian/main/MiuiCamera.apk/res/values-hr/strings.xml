@@ -333,7 +333,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Isključeno</string>
   <string name="pref_camera_histogram_entry_disable">Isključi</string>
-  <string name="pref_camera_histogram_entry_enable">Uključi</string>     <string name="pref_camera_mfnr_sat_enable_title">Turn on MFNR</string>
+  <string name="pref_camera_histogram_entry_enable">Uključi</string>     
   <string name="pref_camera_mfnr_sat_enable_title">Uključi MFNR</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">100</string>
