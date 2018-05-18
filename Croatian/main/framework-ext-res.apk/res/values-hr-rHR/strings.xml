@@ -79,6 +79,7 @@
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB | Dostupno: %2$sB"</string>
   <string name="miui">miui</string>
+  <string name="miui_forbid_poweroff_when_device_locked">"Ne mogu isključiti, uređaj je zaključan."</string>
   <string name="miui_screen_ratio_hint">Problem s omjerom zaslona</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"Ne prikazuj ponovno"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Idi u Postavke</string>

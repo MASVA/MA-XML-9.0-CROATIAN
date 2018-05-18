@@ -3054,6 +3054,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
+  <string name="notch_force_black_desc">Kada je uključeno, područje zuba zaslona je crno</string>
+  <string name="notch_force_black_title">Sakrij zuba zaslona</string>
   <string name="notes_privacy_password_role_instruction">Vaše privatne bilješke će biti pohranjene ovdje.</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>

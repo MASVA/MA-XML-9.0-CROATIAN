@@ -2,6 +2,8 @@
 <resources>
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
+  <string name="accessibility_ai_scene_off">AI kamera je isključena</string>
+  <string name="accessibility_ai_scene_on">AI kamera</string>
   <string name="accessibility_audio_shutter_bg">Pozadina zvuka okidača</string>
   <string name="accessibility_back_preview_status">Pregled stražnje kamere</string>
   <string name="accessibility_beauty_panel_closed">Izbornik Beautify je skriven</string>

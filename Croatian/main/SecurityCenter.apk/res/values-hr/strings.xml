@@ -1028,6 +1028,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
+  <string name="gb_msg_not_shielded_summary">Prikaži</string>
   <string name="gb_msg_quickly_answer">Dopusti brze odgovore</string>
   <string name="gb_msg_quickly_answer_summary">Brzi odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obavijesti s transparentnom pozadinom</string>
